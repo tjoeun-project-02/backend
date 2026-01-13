@@ -8,6 +8,4 @@ import java.util.Optional;
 public interface SocialRepository extends JpaRepository<Social, Long> {
 
     Optional<Social> findByProviderAndProviderUserId(String provider, String providerUserId);
-
-    boolean existsByProviderAndProviderUserId(String provider, String providerUserId);
 }

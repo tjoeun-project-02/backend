@@ -1,32 +1,34 @@
-# Getting Started
+/*
+[User 패키지 설명]
 
-### Reference Documentation
-For further reference, please consider the following sections:
+- user 패키지는 사용자 관련 기능을 담당한다.
+- 현재 단계에서는 JWT 없이, 카카오 소셜 로그인 + 자체 회원가입 구조만 구현되어 있다.
 
-* [Official Gradle documentation](https://docs.gradle.org)
-* [Spring Boot Gradle Plugin Reference Guide](https://docs.spring.io/spring-boot/4.0.1/gradle-plugin)
-* [Create an OCI image](https://docs.spring.io/spring-boot/4.0.1/gradle-plugin/packaging-oci-image.html)
-* [Spring Data JPA](https://docs.spring.io/spring-boot/4.0.1/reference/data/sql.html#data.sql.jpa-and-spring-data)
-* [Spring Boot DevTools](https://docs.spring.io/spring-boot/4.0.1/reference/using/devtools.html)
-* [OAuth2 Client](https://docs.spring.io/spring-boot/4.0.1/reference/web/spring-security.html#web.security.oauth2.client)
-* [Spring Security](https://docs.spring.io/spring-boot/4.0.1/reference/web/spring-security.html)
-* [Validation](https://docs.spring.io/spring-boot/4.0.1/reference/io/validation.html)
-* [Spring Web](https://docs.spring.io/spring-boot/4.0.1/reference/web/servlet.html)
+구성 요약:
+- controller
+  - UserController: 자체 회원가입, 사용자 관련 API
+  - AuthController: 소셜 로그인 성공/실패 확인용 API
 
-### Guides
-The following guides illustrate how to use some features concretely:
+- service
+  - UserService: 사용자 저장/수정 등 비즈니스 로직
+  - CustomOAuth2UserService: 카카오 OAuth2 로그인 사용자 정보 처리
 
-* [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
-* [Securing a Web Application](https://spring.io/guides/gs/securing-web/)
-* [Spring Boot and OAuth2](https://spring.io/guides/tutorials/spring-boot-oauth2/)
-* [Authenticating a User with LDAP](https://spring.io/guides/gs/authenticating-ldap/)
-* [Validation](https://spring.io/guides/gs/validating-form-input/)
-* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
-* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
-* [Building REST services with Spring](https://spring.io/guides/tutorials/rest/)
+- dto
+  - UserSignupRequest: 자체 회원가입 요청 DTO
+  - SocialProfileRequest: 소셜 로그인 후 추가 정보 입력용 DTO
 
-### Additional Links
-These additional references should also help you:
+- domain
+  - User: 자체/소셜 로그인 공통 사용자 엔티티
+  - Social: 소셜 로그인 계정 정보 엔티티 (현재 KAKAO만 사용)
 
-* [Gradle Build Scans – insights for your project's build](https://scans.gradle.com#gradle)
+- repository
+  - UserRepository: User JPA Repository
+  - SocialRepository: Social JPA Repository
 
+보안 관련:
+- SecurityConfig에서 OAuth2 로그인만 활성화되어 있음
+- JWT 발급/검증, API 권한 보호는 아직 구현되지 않음
+
+목적:
+- 소셜 로그인 인증 구조 전달 및 이후 JWT 확장을 위한 기반 구조
+*/

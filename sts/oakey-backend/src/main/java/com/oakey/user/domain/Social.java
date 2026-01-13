@@ -3,8 +3,6 @@ package com.oakey.user.domain;
 import jakarta.persistence.*;
 import lombok.*;
 
-import java.time.LocalDateTime;
-
 @Entity
 @Table(
         name = "tb_social",
@@ -23,21 +21,13 @@ public class Social {
     @Column(name = "social_id", nullable = false)
     private Long socialId;
 
-    @ManyToOne(fetch = FetchType.LAZY)
+    @ManyToOne(fetch = FetchType.LAZY, optional = false)
     @JoinColumn(name = "user_id", nullable = false)
     private User user;
 
-    @Column(name = "provider", nullable = false, length = 20)
-    private String provider; // "KAKAO"
+    @Column(name = "provider", nullable = false, length = 30)
+    private String provider;
 
-    @Column(name = "provider_user_id", nullable = false, length = 100)
-    private String providerUserId; // 카카오에서 받은 id
-
-    @Column(name = "created_at", nullable = false)
-    private LocalDateTime createdAt;
-
-    @PrePersist
-    protected void onCreate() {
-        this.createdAt = LocalDateTime.now();
-    }
+    @Column(name = "provider_user_id", nullable = false, length = 200)
+    private String providerUserId;
 }
