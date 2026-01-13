@@ -3,6 +3,7 @@
 
 - user 패키지는 사용자 관련 기능을 담당한다.
 - 현재 단계에서는 JWT 없이, 카카오 소셜 로그인 + 자체 회원가입 구조만 구현되어 있다.
+- application.properties에 카카오 api 키 넣어서 사용 !!
 
 구성 요약:
 - controller
