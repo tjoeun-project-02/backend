@@ -83,11 +83,8 @@ public class AuthService {
         String access = jwtProvider.createAccessToken(user.getUserId());
         String refresh = jwtProvider.createRefreshToken(user.getUserId());
 
-        refreshTokenRepository.deleteByUserId(user.getUserId());
-        refreshTokenRepository.save(RefreshToken.builder()
-                .userId(user.getUserId())
-                .refreshToken(refresh)
-                .build());
+        saveOrUpdateRefreshToken(user.getUserId(), refresh);
+
 
         return new TokenResponse(access, refresh, user.getUserId());
     }
@@ -130,5 +127,21 @@ public class AuthService {
         }
 
         throw new IllegalArgumentException("Unsupported provider");
+    }
+    
+    @Transactional
+    public void saveOrUpdateRefreshToken(Long userId, String refreshToken) {
+
+        refreshTokenRepository.findByUserId(userId)
+            .ifPresentOrElse(
+                existing -> {
+                    existing.update(refreshToken); // UPDATE
+                },
+                () -> {
+                    refreshTokenRepository.save(
+                        new RefreshToken(userId, refreshToken) // INSERT
+                    );
+                }
+            );
     }
 }

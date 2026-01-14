@@ -11,14 +11,22 @@ import lombok.*;
 @Builder
 public class RefreshToken {
 
-    @Id
+	@Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    @Column(name = "refresh_token_id", nullable = false)
     private Long refreshTokenId;
 
-    @Column(name = "user_id", nullable = false, unique = true)
+    @Column(unique = true, nullable = false)
     private Long userId;
 
-    @Column(name = "refresh_token", nullable = false, length = 500)
+    @Column(nullable = false)
     private String refreshToken;
+
+    public RefreshToken(Long userId, String refreshToken) {
+        this.userId = userId;
+        this.refreshToken = refreshToken;
+    }
+
+    public void update(String refreshToken) {
+        this.refreshToken = refreshToken;
+    }
 }

@@ -18,9 +18,17 @@ public class AuthController {
     private final AuthService authService;
 
     @PostMapping("/kakao")
-    public ResponseEntity<TokenResponse> kakaoLogin(@RequestHeader(HttpHeaders.AUTHORIZATION) String authorization) {
-        return ResponseEntity.ok(authService.loginWithProvider(OAuthProvider.KAKAO, authorization));
+    public ResponseEntity<TokenResponse> kakaoLogin(
+            @RequestHeader(HttpHeaders.AUTHORIZATION) String authorization) {
+
+        System.out.println("🔥 Kakao login called");
+        System.out.println("🔥 Authorization: " + authorization);
+
+        return ResponseEntity.ok(
+            authService.loginWithProvider(OAuthProvider.KAKAO, authorization)
+        );
     }
+
 
     @PostMapping("/google")
     public ResponseEntity<TokenResponse> googleLogin(@RequestHeader(HttpHeaders.AUTHORIZATION) String authorization) {
