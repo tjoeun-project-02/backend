@@ -22,13 +22,5 @@ public class UserSignupRequest {
     private String password;
 
     @NotBlank
-    private String userName;
-
-    @NotBlank
     private String nickname;
-
-    private String gender;
-
-    @NotNull
-    private LocalDate birthDate;
 }

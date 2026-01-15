@@ -12,6 +12,4 @@ import java.time.LocalDate;
 public class UserProfileUpdateRequest {
 
     private String nickname;
-    private String gender;
-    private LocalDate birthDate;
 }

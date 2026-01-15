@@ -1,8 +1,17 @@
 package com.oakey.security.service;
 
+import java.time.LocalDate;
+import java.util.Map;
+
+import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
+
 import com.oakey.security.dto.TokenResponse;
 import com.oakey.security.jwt.JwtProvider;
-import com.oakey.security.service.oauth.*;
+import com.oakey.security.service.oauth.GoogleUserInfo;
+import com.oakey.security.service.oauth.KakaoUserInfo;
+import com.oakey.security.service.oauth.OAuthProvider;
+import com.oakey.security.service.oauth.OAuthUserInfo;
 import com.oakey.security.service.provider.GoogleApiClient;
 import com.oakey.security.service.provider.KakaoApiClient;
 import com.oakey.user.domain.RefreshToken;
@@ -11,12 +20,8 @@ import com.oakey.user.domain.User;
 import com.oakey.user.repository.RefreshTokenRepository;
 import com.oakey.user.repository.SocialRepository;
 import com.oakey.user.repository.UserRepository;
-import lombok.RequiredArgsConstructor;
-import org.springframework.stereotype.Service;
-import org.springframework.transaction.annotation.Transactional;
 
-import java.time.LocalDate;
-import java.util.Map;
+import lombok.RequiredArgsConstructor;
 
 @Service
 @RequiredArgsConstructor
@@ -64,10 +69,7 @@ public class AuthService {
                 User newUser = User.builder()
                         .email(safeEmail)
                         .password(null)
-                        .userName(providerName + "_USER")
                         .nickname(safeNickname)
-                        .gender(null)
-                        .birthDate(LocalDate.of(2000, 1, 1))
                         .build();
                 return userRepository.save(newUser);
             });

@@ -30,26 +30,15 @@ public class User {
     @Column(name = "password", length = 200)
     private String password;
 
-    @Column(name = "user_name", nullable = false, length = 100)
-    private String userName;
-
     @Column(name = "nickname", nullable = false, length = 100)
     private String nickname;
-
-    @Column(name = "gender", length = 20)
-    private String gender;
-
-    @Column(name = "birth_date", nullable = false)
-    private LocalDate birthDate;
 
     public boolean isLocalUser() {
         return password != null && !password.isBlank();
     }
 
-    public User updateProfile(String nickname, String gender, LocalDate birthDate) {
+    public User updateProfile(String nickname) {
         if (nickname != null && !nickname.isBlank()) this.nickname = nickname;
-        if (gender != null) this.gender = gender;
-        if (birthDate != null) this.birthDate = birthDate;
         return this;
     }
 }
