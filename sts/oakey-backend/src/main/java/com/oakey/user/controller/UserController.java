@@ -2,7 +2,6 @@ package com.oakey.user.controller;
 
 import com.oakey.security.dto.TokenResponse;
 import com.oakey.security.jwt.JwtAuthentication;
-import com.oakey.security.service.oauth.OAuthProvider;
 import com.oakey.user.dto.LoginRequest;
 import com.oakey.user.dto.UserProfileResponse;
 import com.oakey.user.dto.UserProfileUpdateRequest;
@@ -11,7 +10,6 @@ import com.oakey.user.service.UserService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 
-import org.springframework.http.HttpHeaders;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.core.Authentication;
 import org.springframework.web.bind.annotation.*;
