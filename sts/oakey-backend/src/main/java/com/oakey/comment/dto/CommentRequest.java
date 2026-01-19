@@ -1,6 +1,5 @@
 package com.oakey.comment.dto;
 
-import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 
@@ -8,8 +7,8 @@ import lombok.NoArgsConstructor;
 @Getter
 @NoArgsConstructor
 public class CommentRequest {
- private Long userId;
- private Integer wsId;
- private String content;
+	private Long userId;
+	private Integer wsId;
+	private String content;
 }
 

@@ -43,11 +43,12 @@ public class CommentService {
 
     // 위스키별 댓글 조회
     @Transactional
-    public List<CommentResponse> getCommentsByWhisky(Integer wsId) {
-        Whisky whisky = whiskyRepository.findById(wsId)
+    public List<CommentResponse> getCommentsByWhisky(Long userId, Integer wsId) {
+        User user = userRepository.findById(userId).orElseThrow();
+    	Whisky whisky = whiskyRepository.findById(wsId)
                 .orElseThrow(() -> new IllegalArgumentException("위스키를 찾을 수 없습니다."));
 
-        return commentRepository.findAllByWhiskyOrderByUpdateDateDesc(whisky).stream()
+        return commentRepository.findByUserAndWhisky(user, whisky).stream()
                 .map(c -> new CommentResponse(
                         c.getCommentId(),
                         c.getUser().getNickname(),

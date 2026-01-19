@@ -1,13 +1,13 @@
 package com.oakey.comment.repository;
 
-import java.util.List;
+import java.util.Optional;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import com.oakey.comment.domain.Comment;
+import com.oakey.user.domain.User;
 import com.oakey.whisky.domain.Whisky;
 
 public interface CommentRepository extends JpaRepository<Comment, Integer> {
-    // 특정 위스키의 댓글 목록을 최신순으로 조회
-    List<Comment> findAllByWhiskyOrderByUpdateDateDesc(Whisky whisky);
+	Optional<Comment> findByUserAndWhisky(User user, Whisky whisky);
 }

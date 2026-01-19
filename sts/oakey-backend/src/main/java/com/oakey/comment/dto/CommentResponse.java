@@ -7,8 +7,8 @@ import lombok.Getter;
 @Getter
 @AllArgsConstructor
 public class CommentResponse {
-private Integer commentId;
-private String nickname;
-private String content;
-private String updateDate;
+	private Integer commentId;
+	private String nickname;
+	private String content;
+	private String updateDate;
 }
