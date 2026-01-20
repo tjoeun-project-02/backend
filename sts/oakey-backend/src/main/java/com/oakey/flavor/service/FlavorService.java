@@ -84,7 +84,7 @@ public class FlavorService {
     public List<FlavorResponse> getFlavorsByWhisky(Integer wsId) {
         return flavorRepository.findByWsId(wsId)
                 .stream()
-                .map(f -> new FlavorResponse(f.getFlavorId(), f.getWsId(), f.getWsName(), f.getKeywordId(), f.getWeight()))
+                .map(f -> new FlavorResponse(f.getFlavorId(), f.getWsId(), f.getWsName(), f.getWsNameKo(), f.getKeywordId(), f.getWeight()))
                 .toList();
     }
 }
