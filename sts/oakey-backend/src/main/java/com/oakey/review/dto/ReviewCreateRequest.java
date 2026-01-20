@@ -2,14 +2,22 @@ package com.oakey.review.dto;
 
 import java.math.BigDecimal;
 
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+
 /*
  * 리뷰 생성 요청 DTO (크롤링 결과 저장용)
  */
+
+@Getter
+@Setter
+@NoArgsConstructor
+@AllArgsConstructor
 public class ReviewCreateRequest {
 
     private Integer wsId;
-    private String wsName;
-    private String wsNameKo;
     private String rwWriter;
     private String rawReview;
     private String nose;
@@ -17,47 +25,4 @@ public class ReviewCreateRequest {
     private String finish;
     private BigDecimal rating;
     private String reviewDate;
-
-    public ReviewCreateRequest() {
-    }
-
-    public Integer getWsId() {
-        return wsId;
-    }
-
-    public String getWsName() {
-        return wsName;
-    }
-
-    public String getWsNameKo() {
-        return wsNameKo;
-    }
-
-    public String getRwWriter() {
-        return rwWriter;
-    }
-
-    public String getRawReview() {
-        return rawReview;
-    }
-
-    public String getNose() {
-        return nose;
-    }
-
-    public String getTaste() {
-        return taste;
-    }
-
-    public String getFinish() {
-        return finish;
-    }
-
-    public BigDecimal getRating() {
-        return rating;
-    }
-
-    public String getReviewDate() {
-        return reviewDate;
-    }
 }

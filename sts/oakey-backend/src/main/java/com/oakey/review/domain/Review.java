@@ -2,6 +2,10 @@ package com.oakey.review.domain;
 
 import jakarta.persistence.*;
 import java.math.BigDecimal;
+import java.time.LocalDate;
+
+import com.oakey.whisky.domain.Whisky;
+
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -57,9 +61,6 @@ public class Review {
     @Column(name = "REVIEW_DATE")
     private LocalDate reviewDate;
 
-    protected Review() {
-        // JPA 기본 생성자
-    }
 
     public Review(Whisky whisky, String rwWriter, String rawReview,
                   String nose, String taste, String finish,
