@@ -1,6 +1,7 @@
 package com.oakey.whisky.dto;
 
 import java.math.BigDecimal;
+import java.util.List;
 
 import com.oakey.whisky.domain.TasteProfile;
 
@@ -23,6 +24,7 @@ public class WhiskyCreateRequest {
     private BigDecimal wsRating;
     private Integer wsVoteCnt;
     private TasteProfile tasteProfile;
+    private List<String> tags;
 
     public WhiskyCreateRequest() {
     }

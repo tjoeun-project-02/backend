@@ -42,9 +42,14 @@ public class WhiskyService {
                 request.getWsVol(),
                 request.getWsRating(),
                 request.getWsVoteCnt(),
-                request.getTasteProfile()
+                request.getTasteProfile(),
+                request.getTags()
         );
-
+        
+        if (request.getTags() != null) {
+            whisky.getTags().addAll(request.getTags());
+        }
+        
         Whisky saved = whiskyRepository.save(whisky);
 
         return toResponse(saved);
@@ -94,7 +99,8 @@ public class WhiskyService {
                 request.getWsVol(),
                 request.getWsRating(),
                 request.getWsVoteCnt(),
-                request.getTasteProfile()
+                request.getTasteProfile(),
+                request.getTags()
         );
 
         return toResponse(whisky);
@@ -124,7 +130,8 @@ public class WhiskyService {
                 whisky.getWsVol(),
                 whisky.getWsRating(),
                 whisky.getWsVoteCnt(),
-                whisky.getTasteProfile()
+                whisky.getTasteProfile(),
+                whisky.getTags()
         );
     }
 }

@@ -48,12 +48,14 @@ public class CommentService {
     	Whisky whisky = whiskyRepository.findById(wsId)
     			.orElseThrow(() -> new IllegalArgumentException("위스키를 찾을 수 없습니다."));
 
-        return commentRepository.findByUserAndWhisky(user, whisky).stream()
+        return commentRepository.findByUserAndWhiskyWithJoins(user, whisky).stream()
                 .map(c -> new CommentResponse(
                         c.getCommentId(),
                         c.getUser().getNickname(),
                         c.getCommentBody(),
-                        c.getUpdateDate().toString()
+                        c.getUpdateDate().toString(),
+                        c.getWhisky().getWsName(),
+                        c.getWhisky().getWsNameKo()
                 ))
                 .collect(Collectors.toList());
     }

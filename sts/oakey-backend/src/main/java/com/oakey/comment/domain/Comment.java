@@ -38,12 +38,6 @@ public class Comment {
     @JoinColumn(name = "ws_id", nullable = false)
     private Whisky whisky;
 
-    @Column(name = "ws_name", length = 100)
-    private String wsName;
-
-    @Column(name = "WS_NAME_KO", length = 100)
-    private String wsNameKo;
-
     @Column(name = "comment_body", nullable = false, length = 300)
     private String commentBody;
 
@@ -54,8 +48,6 @@ public class Comment {
     public Comment(User user, Whisky whisky, String commentBody) {
         this.user = user;
         this.whisky = whisky;
-        this.wsName = whisky.getWsName(); // 위스키 엔티티에서 이름을 가져와 저장
-        this.wsNameKo = whisky.getWsNameKo(); // 위스키 엔티티에서 한국어 이름을 가져와 저장
         this.commentBody = commentBody;
         this.updateDate = LocalDate.now();
     }

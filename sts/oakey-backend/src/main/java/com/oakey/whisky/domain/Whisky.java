@@ -1,13 +1,20 @@
 package com.oakey.whisky.domain;
 
 import java.math.BigDecimal;
+import java.util.ArrayList;
+import java.util.List;
 
+import jakarta.persistence.CollectionTable;
 import jakarta.persistence.Column;
+import jakarta.persistence.ElementCollection;
 import jakarta.persistence.Embedded;
 import jakarta.persistence.Entity;
+import jakarta.persistence.FetchType;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
+import jakarta.persistence.JoinColumn;
+import jakarta.persistence.OrderColumn;
 import jakarta.persistence.SequenceGenerator;
 import jakarta.persistence.Table;
 import lombok.AllArgsConstructor;
@@ -65,10 +72,21 @@ public class Whisky {
     @Embedded
     @Column(name = "TASTE_PROFILE")
     private TasteProfile tasteProfile;
-
+    
+    
+    @ElementCollection(fetch = FetchType.LAZY)
+    @CollectionTable(
+        name = "TB_WHISKY_TAG",
+        joinColumns = @JoinColumn(name = "WS_ID")
+    )
+    @Column(name = "TAG_NAME")
+    @OrderColumn(name = "TAG_ORDER")
+    private List<String> tags = new ArrayList<>();
+    
+    
     public Whisky(String wsName, String wsNameKo, String wsDistillery, String wsCategory, Integer wsAge,
                   BigDecimal wsAbv, BigDecimal wsPrice, String wsImage, Integer wsVol,
-                  BigDecimal wsRating, Integer wsVoteCnt, TasteProfile tasteProfile) {
+                  BigDecimal wsRating, Integer wsVoteCnt, TasteProfile tasteProfile, List<String> tags) {
         this.wsName = wsName;
         this.wsNameKo = wsNameKo;
         this.wsDistillery = wsDistillery;
@@ -81,6 +99,7 @@ public class Whisky {
         this.wsRating = wsRating;
         this.wsVoteCnt = wsVoteCnt;
         this.tasteProfile = tasteProfile;
+        this.tags = tags;
     }
 
     /**
@@ -88,7 +107,7 @@ public class Whisky {
      */
     public void update(String wsName, String wsNameKo, String wsDistillery, String wsCategory, Integer wsAge,
                        BigDecimal wsAbv, BigDecimal wsPrice, String wsImage, Integer wsVol,
-                       BigDecimal wsRating, Integer wsVoteCnt, TasteProfile tasteProfile) {
+                       BigDecimal wsRating, Integer wsVoteCnt, TasteProfile tasteProfile, List<String> tags) {
         this.wsName = wsName;
         this.wsNameKo = wsNameKo;
         this.wsDistillery = wsDistillery;
@@ -101,5 +120,6 @@ public class Whisky {
         this.wsRating = wsRating;
         this.wsVoteCnt = wsVoteCnt;
         this.tasteProfile = tasteProfile;
+        this.tags = tags;
     }
 }

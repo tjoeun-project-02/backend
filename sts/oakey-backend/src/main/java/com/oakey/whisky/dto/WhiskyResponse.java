@@ -1,6 +1,7 @@
 package com.oakey.whisky.dto;
 
 import java.math.BigDecimal;
+import java.util.List;
 
 import com.oakey.whisky.domain.TasteProfile;
 
@@ -24,10 +25,11 @@ public class WhiskyResponse {
     private BigDecimal wsRating;
     private Integer wsVoteCnt;
     private TasteProfile tasteProfile;
+    private List<String> tags;
 
     public WhiskyResponse(Integer wsId, String wsName, String wsNameKo, String wsDistillery, String wsCategory, Integer wsAge,
                           BigDecimal wsAbv, BigDecimal wsPrice, String wsImage, Integer wsVol,
-                          BigDecimal wsRating, Integer wsVoteCnt, TasteProfile tasteProfile) {
+                          BigDecimal wsRating, Integer wsVoteCnt, TasteProfile tasteProfile, List<String> tags) {
         this.wsId = wsId;
         this.wsName = wsName;
         this.wsNameKo = wsNameKo;
@@ -41,5 +43,6 @@ public class WhiskyResponse {
         this.wsRating = wsRating;
         this.wsVoteCnt = wsVoteCnt;
         this.tasteProfile = tasteProfile;
+        this.tags = tags;
     }
 }
