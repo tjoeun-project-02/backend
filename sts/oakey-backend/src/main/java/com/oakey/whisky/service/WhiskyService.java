@@ -5,6 +5,11 @@ import com.oakey.whisky.dto.WhiskyCreateRequest;
 import com.oakey.whisky.dto.WhiskyResponse;
 import com.oakey.whisky.dto.WhiskyUpdateRequest;
 import com.oakey.whisky.repository.WhiskyRepository;
+
+import jakarta.persistence.EntityNotFoundException;
+import java.util.ArrayList;
+import java.util.List;
+
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
@@ -46,10 +51,6 @@ public class WhiskyService {
                 request.getTags()
         );
         
-        if (request.getTags() != null) {
-            whisky.getTags().addAll(request.getTags());
-        }
-        
         Whisky saved = whiskyRepository.save(whisky);
 
         return toResponse(saved);
@@ -61,8 +62,27 @@ public class WhiskyService {
     @Transactional(readOnly = true)
     public WhiskyResponse findById(Integer wsId) {
         Whisky whisky = whiskyRepository.findById(wsId)
-                .orElseThrow(() -> new IllegalArgumentException("위스키를 찾을 수 없습니다. wsId=" + wsId));
-        return toResponse(whisky);
+                .orElseThrow(() -> new EntityNotFoundException("Whisky not found"));
+
+        // 트랜잭션 안에서 tags에 접근하여 데이터를 강제로 로딩(Lazy Loading 해결)
+        List<String> tagList = new ArrayList<>(whisky.getTags()); 
+
+        return new WhiskyResponse(
+                whisky.getWsId(),
+                whisky.getWsName(),
+                whisky.getWsNameKo(),
+                whisky.getWsDistillery(),
+                whisky.getWsCategory(),
+                whisky.getWsAge(),
+                whisky.getWsAbv(),
+                whisky.getWsPrice(),
+                whisky.getWsImage(),
+                whisky.getWsVol(),
+                whisky.getWsRating(),
+                whisky.getWsVoteCnt(),
+                whisky.getTasteProfile(),
+                tagList
+        );
     }
 
     /**

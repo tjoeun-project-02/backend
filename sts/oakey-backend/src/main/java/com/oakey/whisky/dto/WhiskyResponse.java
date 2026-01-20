@@ -5,11 +5,13 @@ import java.util.List;
 
 import com.oakey.whisky.domain.TasteProfile;
 
+import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
 
 @Getter
 @Setter
+@AllArgsConstructor
 public class WhiskyResponse {
 
     private Integer wsId;
@@ -26,23 +28,4 @@ public class WhiskyResponse {
     private Integer wsVoteCnt;
     private TasteProfile tasteProfile;
     private List<String> tags;
-
-    public WhiskyResponse(Integer wsId, String wsName, String wsNameKo, String wsDistillery, String wsCategory, Integer wsAge,
-                          BigDecimal wsAbv, BigDecimal wsPrice, String wsImage, Integer wsVol,
-                          BigDecimal wsRating, Integer wsVoteCnt, TasteProfile tasteProfile, List<String> tags) {
-        this.wsId = wsId;
-        this.wsName = wsName;
-        this.wsNameKo = wsNameKo;
-        this.wsDistillery = wsDistillery;
-        this.wsCategory = wsCategory;
-        this.wsAge = wsAge;
-        this.wsAbv = wsAbv;
-        this.wsPrice = wsPrice;
-        this.wsImage = wsImage;
-        this.wsVol = wsVol;
-        this.wsRating = wsRating;
-        this.wsVoteCnt = wsVoteCnt;
-        this.tasteProfile = tasteProfile;
-        this.tags = tags;
-    }
 }

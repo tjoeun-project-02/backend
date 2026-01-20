@@ -74,7 +74,7 @@ public class Whisky {
     private TasteProfile tasteProfile;
     
     
-    @ElementCollection(fetch = FetchType.LAZY)
+    @ElementCollection(fetch = FetchType.EAGER)
     @CollectionTable(
         name = "TB_WHISKY_TAG",
         joinColumns = @JoinColumn(name = "WS_ID")
