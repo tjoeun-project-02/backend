@@ -2,21 +2,24 @@ package com.oakey.whisky.domain;
 
 import java.math.BigDecimal;
 
-import com.oakey.whisky.dto.TasteProfile;
-
 import jakarta.persistence.Column;
+import jakarta.persistence.Embedded;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.SequenceGenerator;
 import jakarta.persistence.Table;
+import lombok.AllArgsConstructor;
 import lombok.Getter;
+import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 @Entity
 @Getter
 @Setter
+@NoArgsConstructor
+@AllArgsConstructor
 @Table(name = "TB_WHISKY")
 public class Whisky {
 
@@ -59,10 +62,9 @@ public class Whisky {
     @Column(name = "WS_VOTE_CNT")
     private Integer wsVoteCnt;
     
+    @Embedded
     @Column(name = "TASTE_PROFILE")
     private TasteProfile tasteProfile;
-
-    protected Whisky() {}
 
     public Whisky(String wsName, String wsNameKo, String wsDistillery, String wsCategory, Integer wsAge,
                   BigDecimal wsAbv, BigDecimal wsPrice, String wsImage, Integer wsVol,

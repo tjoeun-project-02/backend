@@ -2,6 +2,8 @@ package com.oakey.whisky.dto;
 
 import java.math.BigDecimal;
 
+import com.oakey.whisky.domain.TasteProfile;
+
 import lombok.Getter;
 import lombok.Setter;
 
