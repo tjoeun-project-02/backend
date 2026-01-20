@@ -26,6 +26,10 @@ public class Flavor {
     @Column(name = "WS_NAME", nullable = false, length = 100)
     private String wsName;
 
+    @Column(name = "WS_NAME_KO", length = 100)
+    private String wsNameKo;
+
+
     @Column(name = "KEYWORD_ID", nullable = false)
     private Integer keywordId;
 
@@ -36,9 +40,10 @@ public class Flavor {
         // JPA 기본 생성자
     }
 
-    public Flavor(Integer wsId, String wsName, Integer keywordId, BigDecimal weight) {
+    public Flavor(Integer wsId, String wsName, String wsNameKo, Integer keywordId, BigDecimal weight) {
         this.wsId = wsId;
         this.wsName = wsName;
+        this.wsNameKo = wsName;
         this.keywordId = keywordId;
         this.weight = weight;
     }
@@ -53,6 +58,10 @@ public class Flavor {
 
     public String getWsName() {
         return wsName;
+    }
+
+    public String getWsNameKo() {
+        return wsNameKo;
     }
 
     public Integer getKeywordId() {

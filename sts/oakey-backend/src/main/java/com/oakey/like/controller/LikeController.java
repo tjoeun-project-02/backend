@@ -29,7 +29,7 @@ public class LikeController {
     
     // 특정 유저가 좋아요한 목록 조회
     @GetMapping("/{userId}")
-    public ResponseEntity<List<LikedWhiskyResponse>> getLikedWhiskies(@PathVariable Long userId) {
+    public ResponseEntity<List<LikedWhiskyResponse>> getLikedWhiskies(@PathVariable("userId") Long userId) {
         return ResponseEntity.ok(likeService.getLikedWhiskies(userId));
     }
 }

@@ -6,6 +6,7 @@ public class WhiskyResponse {
 
     private Integer wsId;
     private String wsName;
+    private String wsNameKo;
     private String wsDistillery;
     private String wsCategory;
     private Integer wsAge;
@@ -16,11 +17,12 @@ public class WhiskyResponse {
     private BigDecimal wsRating;
     private Integer wsVoteCnt;
 
-    public WhiskyResponse(Integer wsId, String wsName, String wsDistillery, String wsCategory, Integer wsAge,
+    public WhiskyResponse(Integer wsId, String wsName, String wsNameKo, String wsDistillery, String wsCategory, Integer wsAge,
                           BigDecimal wsAbv, BigDecimal wsPrice, String wsImage, Integer wsVol,
                           BigDecimal wsRating, Integer wsVoteCnt) {
         this.wsId = wsId;
         this.wsName = wsName;
+        this.wsNameKo = wsNameKo;
         this.wsDistillery = wsDistillery;
         this.wsCategory = wsCategory;
         this.wsAge = wsAge;
@@ -38,6 +40,9 @@ public class WhiskyResponse {
 
     public String getWsName() {
         return wsName;
+    }
+    public String getWsNameKo() {
+        return wsNameKo;
     }
 
     public String getWsDistillery() {

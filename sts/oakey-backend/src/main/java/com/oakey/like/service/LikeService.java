@@ -57,6 +57,7 @@ public class LikeService {
                 	return new LikedWhiskyResponse(
                 			whisky.getWsId(),
                 			whisky.getWsName(),
+                            whisky.getWsNameKo(),
                 			whisky.getWsImage());
                 })
                 .collect(Collectors.toList());

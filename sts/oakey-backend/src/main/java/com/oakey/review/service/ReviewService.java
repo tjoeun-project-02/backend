@@ -27,6 +27,7 @@ public class ReviewService {
         Review review = new Review(
                 request.getWsId(),
                 request.getWsName(),
+                request.getWsNameKo(),
                 request.getRwWriter(),
                 request.getRawReview(),
                 request.getNose(),
@@ -56,6 +57,7 @@ public class ReviewService {
                 review.getRwId(),
                 review.getWsId(),
                 review.getWsName(),
+                review.getWsNameKo(),
                 review.getRwWriter(),
                 review.getRawReview(),
                 review.getNose(),

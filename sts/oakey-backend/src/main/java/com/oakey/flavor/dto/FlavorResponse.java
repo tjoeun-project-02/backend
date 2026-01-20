@@ -10,13 +10,15 @@ public class FlavorResponse {
     private Integer flavorId;
     private Integer wsId;
     private String wsName;
+    private String wsNameKo;
     private Integer keywordId;
     private BigDecimal weight;
 
-    public FlavorResponse(Integer flavorId, Integer wsId, String wsName, Integer keywordId, BigDecimal weight) {
+    public FlavorResponse(Integer flavorId, Integer wsId, String wsName, String wsNameKo, Integer keywordId, BigDecimal weight) {
         this.flavorId = flavorId;
         this.wsId = wsId;
         this.wsName = wsName;
+        this.wsNameKo = wsNameKo;
         this.keywordId = keywordId;
         this.weight = weight;
     }
@@ -31,6 +33,10 @@ public class FlavorResponse {
 
     public String getWsName() {
         return wsName;
+    }
+    
+    public String getWsNameKo() {
+        return wsNameKo;
     }
 
     public Integer getKeywordId() {

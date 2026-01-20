@@ -5,6 +5,7 @@ import java.math.BigDecimal;
 public class WhiskyUpdateRequest {
 
     private String wsName;
+    private String wsNameKo;
     private String wsDistillery;
     private String wsCategory;
     private Integer wsAge;
@@ -20,6 +21,10 @@ public class WhiskyUpdateRequest {
 
     public String getWsName() {
         return wsName;
+    }
+
+    public String getWsNameKo() {
+        return wsNameKo;
     }
 
     public String getWsDistillery() {

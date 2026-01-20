@@ -9,6 +9,7 @@ public class FlavorCreateRequest {
 
     private Integer wsId;
     private String wsName;
+    private String wsNameKo;
     private Integer keywordId;
     private BigDecimal weight;
 
@@ -21,6 +22,10 @@ public class FlavorCreateRequest {
 
     public String getWsName() {
         return wsName;
+    }
+
+    public String getWsNameKo() {
+        return wsNameKo;
     }
 
     public Integer getKeywordId() {

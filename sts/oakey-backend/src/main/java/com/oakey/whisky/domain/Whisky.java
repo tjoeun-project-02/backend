@@ -24,6 +24,9 @@ public class Whisky {
 
     @Column(name = "WS_NAME", nullable = false, length = 100)
     private String wsName;
+    
+    @Column(name = "WS_NAME_KO", length = 100)
+    private String wsNameKo;
 
     @Column(name = "WS_DISTILLERY", length = 100)
     private String wsDistillery;
@@ -54,10 +57,11 @@ public class Whisky {
 
     protected Whisky() {}
 
-    public Whisky(String wsName, String wsDistillery, String wsCategory, Integer wsAge,
+    public Whisky(String wsName, String wsNameKo, String wsDistillery, String wsCategory, Integer wsAge,
                   BigDecimal wsAbv, BigDecimal wsPrice, String wsImage, Integer wsVol,
                   BigDecimal wsRating, Integer wsVoteCnt) {
         this.wsName = wsName;
+        this.wsNameKo = wsNameKo;
         this.wsDistillery = wsDistillery;
         this.wsCategory = wsCategory;
         this.wsAge = wsAge;
@@ -75,6 +79,10 @@ public class Whisky {
 
     public String getWsName() {
         return wsName;
+    }
+
+    public String getWsNameKo() {
+        return wsNameKo;
     }
 
     public String getWsDistillery() {
@@ -116,10 +124,11 @@ public class Whisky {
     /**
      * 수정용 메서드: 컨트롤러에서 엔티티를 직접 set 하지 않도록 update 메서드를 제공
      */
-    public void update(String wsName, String wsDistillery, String wsCategory, Integer wsAge,
+    public void update(String wsName, String wsNameKo, String wsDistillery, String wsCategory, Integer wsAge,
                        BigDecimal wsAbv, BigDecimal wsPrice, String wsImage, Integer wsVol,
                        BigDecimal wsRating, Integer wsVoteCnt) {
         this.wsName = wsName;
+        this.wsNameKo = wsNameKo;
         this.wsDistillery = wsDistillery;
         this.wsCategory = wsCategory;
         this.wsAge = wsAge;

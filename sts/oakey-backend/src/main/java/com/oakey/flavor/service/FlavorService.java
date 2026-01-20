@@ -64,13 +64,14 @@ public class FlavorService {
         }
 
         Flavor saved = flavorRepository.save(
-                new Flavor(request.getWsId(), request.getWsName(), request.getKeywordId(), request.getWeight())
+                new Flavor(request.getWsId(), request.getWsName(), request.getWsNameKo(), request.getKeywordId(), request.getWeight())
         );
 
         return new FlavorResponse(
                 saved.getFlavorId(),
                 saved.getWsId(),
                 saved.getWsName(),
+                saved.getWsNameKo(),
                 saved.getKeywordId(),
                 saved.getWeight()
         );

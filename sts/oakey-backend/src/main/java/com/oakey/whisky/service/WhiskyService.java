@@ -32,6 +32,7 @@ public class WhiskyService {
 
         Whisky whisky = new Whisky(
                 request.getWsName(),
+                request.getWsNameKo(),
                 request.getWsDistillery(),
                 request.getWsCategory(),
                 request.getWsAge(),
@@ -82,6 +83,7 @@ public class WhiskyService {
 
         whisky.update(
                 request.getWsName(),
+                request.getWsNameKo(),
                 request.getWsDistillery(),
                 request.getWsCategory(),
                 request.getWsAge(),
@@ -110,6 +112,7 @@ public class WhiskyService {
         return new WhiskyResponse(
                 whisky.getWsId(),
                 whisky.getWsName(),
+                whisky.getWsNameKo(),
                 whisky.getWsDistillery(),
                 whisky.getWsCategory(),
                 whisky.getWsAge(),

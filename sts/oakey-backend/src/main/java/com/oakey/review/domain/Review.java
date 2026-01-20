@@ -27,6 +27,9 @@ public class Review {
     @Column(name = "WS_NAME", nullable = false, length = 100)
     private String wsName;
 
+    @Column(name = "WS_NAME_KO", length = 100)
+    private String wsNameKo;
+
     @Column(name = "RW_WRITER", nullable = false, length = 30)
     private String rwWriter;
 
@@ -55,11 +58,12 @@ public class Review {
         // JPA 기본 생성자
     }
 
-    public Review(Integer wsId, String wsName, String rwWriter, String rawReview,
+    public Review(Integer wsId, String wsName, String wsNameKo, String rwWriter, String rawReview,
                   String nose, String taste, String finish,
                   BigDecimal rating, String reviewDate) {
         this.wsId = wsId;
         this.wsName = wsName;
+        this.wsNameKo = wsNameKo;
         this.rwWriter = rwWriter;
         this.rawReview = rawReview;
         this.nose = nose;
@@ -79,6 +83,10 @@ public class Review {
 
     public String getWsName() {
         return wsName;
+    }
+
+    public String getWsNameKo() {
+        return wsNameKo;
     }
 
     public String getRwWriter() {

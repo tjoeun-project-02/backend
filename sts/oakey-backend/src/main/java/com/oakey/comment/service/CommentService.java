@@ -46,7 +46,7 @@ public class CommentService {
     public List<CommentResponse> getCommentsByWhisky(Long userId, Integer wsId) {
         User user = userRepository.findById(userId).orElseThrow();
     	Whisky whisky = whiskyRepository.findById(wsId)
-                .orElseThrow(() -> new IllegalArgumentException("위스키를 찾을 수 없습니다."));
+    			.orElseThrow(() -> new IllegalArgumentException("위스키를 찾을 수 없습니다."));
 
         return commentRepository.findByUserAndWhisky(user, whisky).stream()
                 .map(c -> new CommentResponse(

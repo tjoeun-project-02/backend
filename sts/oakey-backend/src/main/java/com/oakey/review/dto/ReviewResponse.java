@@ -10,6 +10,7 @@ public class ReviewResponse {
     private Integer rwId;
     private Integer wsId;
     private String wsName;
+    private String wsNameKo;
     private String rwWriter;
     private String rawReview;
     private String nose;
@@ -18,12 +19,13 @@ public class ReviewResponse {
     private BigDecimal rating;
     private String reviewDate;
 
-    public ReviewResponse(Integer rwId, Integer wsId, String wsName, String rwWriter,
+    public ReviewResponse(Integer rwId, Integer wsId, String wsName, String wsNameKo, String rwWriter,
                           String rawReview, String nose, String taste, String finish,
                           BigDecimal rating, String reviewDate) {
         this.rwId = rwId;
         this.wsId = wsId;
         this.wsName = wsName;
+        this.wsNameKo = wsNameKo;
         this.rwWriter = rwWriter;
         this.rawReview = rawReview;
         this.nose = nose;
@@ -43,6 +45,10 @@ public class ReviewResponse {
 
     public String getWsName() {
         return wsName;
+    }
+
+    public String getWsNameKo() {
+        return wsNameKo;
     }
 
     public String getRwWriter() {

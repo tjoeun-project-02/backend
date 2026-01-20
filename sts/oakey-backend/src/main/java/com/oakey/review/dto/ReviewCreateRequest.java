@@ -9,6 +9,7 @@ public class ReviewCreateRequest {
 
     private Integer wsId;
     private String wsName;
+    private String wsNameKo;
     private String rwWriter;
     private String rawReview;
     private String nose;
@@ -26,6 +27,10 @@ public class ReviewCreateRequest {
 
     public String getWsName() {
         return wsName;
+    }
+
+    public String getWsNameKo() {
+        return wsNameKo;
     }
 
     public String getRwWriter() {
