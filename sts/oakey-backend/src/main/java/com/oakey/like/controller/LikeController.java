@@ -3,6 +3,7 @@ package com.oakey.like.controller;
 import java.util.List;
 
 import org.springframework.http.ResponseEntity;
+import org.springframework.security.core.annotation.AuthenticationPrincipal;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -23,13 +24,13 @@ public class LikeController {
     private final LikeService likeService;
 
     @PostMapping
-    public ResponseEntity<String> toggleLike(@RequestBody LikeRequest requestDto) {
-        return ResponseEntity.ok(likeService.toggleLike(requestDto));
+    public ResponseEntity<String> toggleLike(@AuthenticationPrincipal Long userId, @RequestBody LikeRequest requestDto) {
+        return ResponseEntity.ok(likeService.toggleLike(userId, requestDto));
     }
     
     // 특정 유저가 좋아요한 목록 조회
     @GetMapping("/{userId}")
-    public ResponseEntity<List<LikedWhiskyResponse>> getLikedWhiskies(@PathVariable("userId") Long userId) {
+    public ResponseEntity<List<LikedWhiskyResponse>> getLikedWhiskies(@AuthenticationPrincipal Long userId) {
         return ResponseEntity.ok(likeService.getLikedWhiskies(userId));
     }
 }

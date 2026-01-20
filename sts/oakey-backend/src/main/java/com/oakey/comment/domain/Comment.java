@@ -51,4 +51,9 @@ public class Comment {
         this.commentBody = commentBody;
         this.updateDate = LocalDate.now();
     }
+    
+    public void update(String commentBody) {
+        this.commentBody = commentBody;
+        this.updateDate = LocalDate.now(); // 수정된 날짜로 갱신
+    }
 }
