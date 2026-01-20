@@ -2,6 +2,8 @@ package com.oakey.whisky.domain;
 
 import java.math.BigDecimal;
 
+import com.oakey.whisky.dto.TasteProfile;
+
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -10,9 +12,11 @@ import jakarta.persistence.Id;
 import jakarta.persistence.SequenceGenerator;
 import jakarta.persistence.Table;
 import lombok.Getter;
+import lombok.Setter;
 
 @Entity
 @Getter
+@Setter
 @Table(name = "TB_WHISKY")
 public class Whisky {
 
@@ -54,12 +58,15 @@ public class Whisky {
 
     @Column(name = "WS_VOTE_CNT")
     private Integer wsVoteCnt;
+    
+    @Column(name = "TASTE_PROFILE")
+    private TasteProfile tasteProfile;
 
     protected Whisky() {}
 
     public Whisky(String wsName, String wsNameKo, String wsDistillery, String wsCategory, Integer wsAge,
                   BigDecimal wsAbv, BigDecimal wsPrice, String wsImage, Integer wsVol,
-                  BigDecimal wsRating, Integer wsVoteCnt) {
+                  BigDecimal wsRating, Integer wsVoteCnt, TasteProfile tasteProfile) {
         this.wsName = wsName;
         this.wsNameKo = wsNameKo;
         this.wsDistillery = wsDistillery;
@@ -71,54 +78,7 @@ public class Whisky {
         this.wsVol = wsVol;
         this.wsRating = wsRating;
         this.wsVoteCnt = wsVoteCnt;
-    }
-
-    public Integer getWsId() {
-        return wsId;
-    }
-
-    public String getWsName() {
-        return wsName;
-    }
-
-    public String getWsNameKo() {
-        return wsNameKo;
-    }
-
-    public String getWsDistillery() {
-        return wsDistillery;
-    }
-
-    public String getWsCategory() {
-        return wsCategory;
-    }
-
-    public Integer getWsAge() {
-        return wsAge;
-    }
-
-    public BigDecimal getWsAbv() {
-        return wsAbv;
-    }
-
-    public BigDecimal getWsPrice() {
-        return wsPrice;
-    }
-
-    public String getWsImage() {
-        return wsImage;
-    }
-
-    public Integer getWsVol() {
-        return wsVol;
-    }
-
-    public BigDecimal getWsRating() {
-        return wsRating;
-    }
-
-    public Integer getWsVoteCnt() {
-        return wsVoteCnt;
+        this.tasteProfile = tasteProfile;
     }
 
     /**
@@ -126,7 +86,7 @@ public class Whisky {
      */
     public void update(String wsName, String wsNameKo, String wsDistillery, String wsCategory, Integer wsAge,
                        BigDecimal wsAbv, BigDecimal wsPrice, String wsImage, Integer wsVol,
-                       BigDecimal wsRating, Integer wsVoteCnt) {
+                       BigDecimal wsRating, Integer wsVoteCnt, TasteProfile tasteProfile) {
         this.wsName = wsName;
         this.wsNameKo = wsNameKo;
         this.wsDistillery = wsDistillery;
@@ -138,5 +98,6 @@ public class Whisky {
         this.wsVol = wsVol;
         this.wsRating = wsRating;
         this.wsVoteCnt = wsVoteCnt;
+        this.tasteProfile = tasteProfile;
     }
 }

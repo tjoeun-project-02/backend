@@ -2,6 +2,11 @@ package com.oakey.whisky.dto;
 
 import java.math.BigDecimal;
 
+import lombok.Getter;
+import lombok.Setter;
+
+@Getter
+@Setter
 public class WhiskyUpdateRequest {
 
     private String wsName;
@@ -15,51 +20,8 @@ public class WhiskyUpdateRequest {
     private Integer wsVol;
     private BigDecimal wsRating;
     private Integer wsVoteCnt;
+    private TasteProfile tasteProfile;
 
     public WhiskyUpdateRequest() {
-    }
-
-    public String getWsName() {
-        return wsName;
-    }
-
-    public String getWsNameKo() {
-        return wsNameKo;
-    }
-
-    public String getWsDistillery() {
-        return wsDistillery;
-    }
-
-    public String getWsCategory() {
-        return wsCategory;
-    }
-
-    public Integer getWsAge() {
-        return wsAge;
-    }
-
-    public BigDecimal getWsAbv() {
-        return wsAbv;
-    }
-
-    public BigDecimal getWsPrice() {
-        return wsPrice;
-    }
-
-    public String getWsImage() {
-        return wsImage;
-    }
-
-    public Integer getWsVol() {
-        return wsVol;
-    }
-
-    public BigDecimal getWsRating() {
-        return wsRating;
-    }
-
-    public Integer getWsVoteCnt() {
-        return wsVoteCnt;
     }
 }

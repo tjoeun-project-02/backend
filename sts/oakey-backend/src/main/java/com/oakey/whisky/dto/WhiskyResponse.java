@@ -2,6 +2,11 @@ package com.oakey.whisky.dto;
 
 import java.math.BigDecimal;
 
+import lombok.Getter;
+import lombok.Setter;
+
+@Getter
+@Setter
 public class WhiskyResponse {
 
     private Integer wsId;
@@ -16,10 +21,11 @@ public class WhiskyResponse {
     private Integer wsVol;
     private BigDecimal wsRating;
     private Integer wsVoteCnt;
+    private TasteProfile tasteProfile;
 
     public WhiskyResponse(Integer wsId, String wsName, String wsNameKo, String wsDistillery, String wsCategory, Integer wsAge,
                           BigDecimal wsAbv, BigDecimal wsPrice, String wsImage, Integer wsVol,
-                          BigDecimal wsRating, Integer wsVoteCnt) {
+                          BigDecimal wsRating, Integer wsVoteCnt, TasteProfile tasteProfile) {
         this.wsId = wsId;
         this.wsName = wsName;
         this.wsNameKo = wsNameKo;
@@ -32,52 +38,6 @@ public class WhiskyResponse {
         this.wsVol = wsVol;
         this.wsRating = wsRating;
         this.wsVoteCnt = wsVoteCnt;
-    }
-
-    public Integer getWsId() {
-        return wsId;
-    }
-
-    public String getWsName() {
-        return wsName;
-    }
-    public String getWsNameKo() {
-        return wsNameKo;
-    }
-
-    public String getWsDistillery() {
-        return wsDistillery;
-    }
-
-    public String getWsCategory() {
-        return wsCategory;
-    }
-
-    public Integer getWsAge() {
-        return wsAge;
-    }
-
-    public BigDecimal getWsAbv() {
-        return wsAbv;
-    }
-
-    public BigDecimal getWsPrice() {
-        return wsPrice;
-    }
-
-    public String getWsImage() {
-        return wsImage;
-    }
-
-    public Integer getWsVol() {
-        return wsVol;
-    }
-
-    public BigDecimal getWsRating() {
-        return wsRating;
-    }
-
-    public Integer getWsVoteCnt() {
-        return wsVoteCnt;
+        this.tasteProfile = tasteProfile;
     }
 }
