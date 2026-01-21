@@ -1,15 +1,27 @@
 package com.oakey.whisky.domain;
 
 import java.math.BigDecimal;
+import java.util.ArrayList;
+import java.util.List;
 
+import jakarta.persistence.CollectionTable;
 import jakarta.persistence.Column;
+import jakarta.persistence.ElementCollection;
+import jakarta.persistence.Embedded;
 import jakarta.persistence.Entity;
+import jakarta.persistence.FetchType;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
+import jakarta.persistence.JoinColumn;
+import jakarta.persistence.OrderColumn;
 import jakarta.persistence.SequenceGenerator;
 import jakarta.persistence.Table;
+import jakarta.persistence.Version;
+import lombok.AllArgsConstructor;
 import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
 
 /*
  * TB_WHISKY 테이블 매핑 엔티티
@@ -19,6 +31,9 @@ import lombok.Getter;
  */
 @Entity
 @Getter
+@Setter
+@NoArgsConstructor
+@AllArgsConstructor
 @Table(name = "TB_WHISKY")
 public class Whisky {
 
@@ -28,8 +43,15 @@ public class Whisky {
     @Column(name = "WS_ID", nullable = false)
     private Integer wsId;
 
+    @Version
+    @Column(name = "VERSION")
+    private Long version;
+
     @Column(name = "WS_NAME", nullable = false, length = 100)
     private String wsName;
+    
+    @Column(name = "WS_NAME_KO", length = 100)
+    private String wsNameKo;
 
     @Column(name = "WS_DISTILLERY", length = 100)
     private String wsDistillery;
@@ -64,8 +86,9 @@ public class Whisky {
 
     public Whisky(String wsName, String wsDistillery, String wsCategory, Integer wsAge,
                   BigDecimal wsAbv, BigDecimal wsPrice, String wsImage, Integer wsVol,
-                  BigDecimal wsRating, Integer wsVoteCnt) {
+                  BigDecimal wsRating, Integer wsVoteCnt, TasteProfile tasteProfile, List<String> tags) {
         this.wsName = wsName;
+        this.wsNameKo = wsNameKo;
         this.wsDistillery = wsDistillery;
         this.wsCategory = wsCategory;
         this.wsAge = wsAge;
@@ -81,10 +104,11 @@ public class Whisky {
      * 수정용 메서드
      * - 컨트롤러/서비스에서 엔티티 필드를 직접 set하지 않도록 update 메서드로만 변경한다.
      */
-    public void update(String wsName, String wsDistillery, String wsCategory, Integer wsAge,
+    public void update(String wsName, String wsNameKo, String wsDistillery, String wsCategory, Integer wsAge,
                        BigDecimal wsAbv, BigDecimal wsPrice, String wsImage, Integer wsVol,
-                       BigDecimal wsRating, Integer wsVoteCnt) {
+                       BigDecimal wsRating, Integer wsVoteCnt, TasteProfile tasteProfile, List<String> tags) {
         this.wsName = wsName;
+        this.wsNameKo = wsNameKo;
         this.wsDistillery = wsDistillery;
         this.wsCategory = wsCategory;
         this.wsAge = wsAge;
@@ -94,5 +118,7 @@ public class Whisky {
         this.wsVol = wsVol;
         this.wsRating = wsRating;
         this.wsVoteCnt = wsVoteCnt;
+        this.tasteProfile = tasteProfile;
+        this.tags = tags;
     }
 }

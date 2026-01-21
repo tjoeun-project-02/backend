@@ -1,23 +1,29 @@
 package com.oakey.whisky.service;
 
+import com.oakey.metadata.service.MetadataService;
 import com.oakey.whisky.domain.Whisky;
 import com.oakey.whisky.dto.WhiskyCreateRequest;
 import com.oakey.whisky.dto.WhiskyResponse;
 import com.oakey.whisky.dto.WhiskyUpdateRequest;
 import com.oakey.whisky.repository.WhiskyRepository;
+
+import jakarta.persistence.EntityNotFoundException;
+import java.util.ArrayList;
+import java.util.List;
+
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-
-import java.util.List;
 
 @Service
 @Transactional
 public class WhiskyService {
 
     private final WhiskyRepository whiskyRepository;
+    private final MetadataService metadataService;
 
-    public WhiskyService(WhiskyRepository whiskyRepository) {
+    public WhiskyService(WhiskyRepository whiskyRepository, MetadataService metadataService) {
         this.whiskyRepository = whiskyRepository;
+        this.metadataService = metadataService;
     }
 
     /*위스키 생성*/
@@ -32,6 +38,7 @@ public class WhiskyService {
 
         Whisky whisky = new Whisky(
                 request.getWsName(),
+                request.getWsNameKo(),
                 request.getWsDistillery(),
                 request.getWsCategory(),
                 request.getWsAge(),
@@ -40,10 +47,14 @@ public class WhiskyService {
                 request.getWsImage(),
                 request.getWsVol(),
                 request.getWsRating(),
-                request.getWsVoteCnt()
+                request.getWsVoteCnt(),
+                request.getTasteProfile(),
+                request.getTags()
         );
-
+        
         Whisky saved = whiskyRepository.save(whisky);
+
+        metadataService.incrementVersion("WHISKEY_LIST");
 
         return toResponse(saved);
     }
@@ -54,8 +65,27 @@ public class WhiskyService {
     @Transactional(readOnly = true)
     public WhiskyResponse findById(Integer wsId) {
         Whisky whisky = whiskyRepository.findById(wsId)
-                .orElseThrow(() -> new IllegalArgumentException("위스키를 찾을 수 없습니다. wsId=" + wsId));
-        return toResponse(whisky);
+                .orElseThrow(() -> new EntityNotFoundException("Whisky not found"));
+
+        // 트랜잭션 안에서 tags에 접근하여 데이터를 강제로 로딩(Lazy Loading 해결)
+        List<String> tagList = new ArrayList<>(whisky.getTags()); 
+
+        return new WhiskyResponse(
+                whisky.getWsId(),
+                whisky.getWsName(),
+                whisky.getWsNameKo(),
+                whisky.getWsDistillery(),
+                whisky.getWsCategory(),
+                whisky.getWsAge(),
+                whisky.getWsAbv(),
+                whisky.getWsPrice(),
+                whisky.getWsImage(),
+                whisky.getWsVol(),
+                whisky.getWsRating(),
+                whisky.getWsVoteCnt(),
+                whisky.getTasteProfile(),
+                tagList
+        );
     }
 
     /**
@@ -82,6 +112,7 @@ public class WhiskyService {
 
         whisky.update(
                 request.getWsName(),
+                request.getWsNameKo(),
                 request.getWsDistillery(),
                 request.getWsCategory(),
                 request.getWsAge(),
@@ -90,8 +121,12 @@ public class WhiskyService {
                 request.getWsImage(),
                 request.getWsVol(),
                 request.getWsRating(),
-                request.getWsVoteCnt()
+                request.getWsVoteCnt(),
+                request.getTasteProfile(),
+                request.getTags()
         );
+
+        metadataService.incrementVersion("WHISKEY_LIST");
 
         return toResponse(whisky);
     }
@@ -103,6 +138,9 @@ public class WhiskyService {
         if (!whiskyRepository.existsById(wsId)) {
             throw new IllegalArgumentException("위스키를 찾을 수 없습니다. wsId=" + wsId);
         }
+
+        metadataService.incrementVersion("WHISKEY_LIST");
+
         whiskyRepository.deleteById(wsId);
     }
 
@@ -110,6 +148,7 @@ public class WhiskyService {
         return new WhiskyResponse(
                 whisky.getWsId(),
                 whisky.getWsName(),
+                whisky.getWsNameKo(),
                 whisky.getWsDistillery(),
                 whisky.getWsCategory(),
                 whisky.getWsAge(),
@@ -118,7 +157,9 @@ public class WhiskyService {
                 whisky.getWsImage(),
                 whisky.getWsVol(),
                 whisky.getWsRating(),
-                whisky.getWsVoteCnt()
+                whisky.getWsVoteCnt(),
+                whisky.getTasteProfile(),
+                whisky.getTags()
         );
     }
 }

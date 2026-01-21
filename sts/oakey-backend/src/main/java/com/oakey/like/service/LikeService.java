@@ -26,8 +26,8 @@ public class LikeService {
     private final UserRepository userRepository;
     private final WhiskyRepository whiskyRepository;
 
-    public String toggleLike(LikeRequest requestDto) {
-        User user = userRepository.findById(requestDto.getUserId())
+    public String toggleLike(Long userId, LikeRequest requestDto) {
+        User user = userRepository.findById(userId)
                 .orElseThrow(() -> new IllegalArgumentException("사용자를 찾을 수 없습니다."));
         Whisky whisky = whiskyRepository.findById(requestDto.getWsId())
                 .orElseThrow(() -> new IllegalArgumentException("위스키를 찾을 수 없습니다."));
@@ -57,6 +57,7 @@ public class LikeService {
                 	return new LikedWhiskyResponse(
                 			whisky.getWsId(),
                 			whisky.getWsName(),
+                            whisky.getWsNameKo(),
                 			whisky.getWsImage());
                 })
                 .collect(Collectors.toList());

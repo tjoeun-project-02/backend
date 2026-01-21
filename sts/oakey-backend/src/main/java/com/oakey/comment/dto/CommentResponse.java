@@ -11,4 +11,6 @@ public class CommentResponse {
 	private String nickname;
 	private String content;
 	private String updateDate;
+	private String wsName;
+	private String wsNameKo;
 }
