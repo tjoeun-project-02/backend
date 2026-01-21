@@ -72,4 +72,17 @@ public class User {
 
         this.password = newPassword;
     }
+
+    /**
+     * 비밀번호 재설정 (이메일 인증 후)
+     */
+    public void resetPassword(String newPassword) {
+        if (!isLocalUser()) {
+            throw new IllegalStateException("비밀번호를 재설정할 수 없는 계정입니다.");
+        }
+        if (newPassword == null || newPassword.isBlank()) {
+            throw new IllegalArgumentException("새 비밀번호는 필수입니다.");
+        }
+        this.password = newPassword;
+    }
 }
