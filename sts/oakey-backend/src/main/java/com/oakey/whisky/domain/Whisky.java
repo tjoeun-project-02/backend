@@ -17,6 +17,7 @@ import jakarta.persistence.JoinColumn;
 import jakarta.persistence.OrderColumn;
 import jakarta.persistence.SequenceGenerator;
 import jakarta.persistence.Table;
+import jakarta.persistence.Version;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -35,6 +36,10 @@ public class Whisky {
     @SequenceGenerator(name = "whisky_seq_gen", sequenceName = "SEQ_TB_WHISKY", allocationSize = 1)
     @Column(name = "WS_ID", nullable = false)
     private Integer wsId;
+
+    @Version
+    @Column(name = "VERSION")
+    private Long version;
 
     @Column(name = "WS_NAME", nullable = false, length = 100)
     private String wsName;

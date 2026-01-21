@@ -1,5 +1,6 @@
 package com.oakey.whisky.service;
 
+import com.oakey.metadata.service.MetadataService;
 import com.oakey.whisky.domain.Whisky;
 import com.oakey.whisky.dto.WhiskyCreateRequest;
 import com.oakey.whisky.dto.WhiskyResponse;
@@ -18,9 +19,11 @@ import org.springframework.transaction.annotation.Transactional;
 public class WhiskyService {
 
     private final WhiskyRepository whiskyRepository;
+    private final MetadataService metadataService;
 
-    public WhiskyService(WhiskyRepository whiskyRepository) {
+    public WhiskyService(WhiskyRepository whiskyRepository, MetadataService metadataService) {
         this.whiskyRepository = whiskyRepository;
+        this.metadataService = metadataService;
     }
 
     /*위스키 생성*/
@@ -50,6 +53,8 @@ public class WhiskyService {
         );
         
         Whisky saved = whiskyRepository.save(whisky);
+
+        metadataService.incrementVersion("WHISKEY_LIST");
 
         return toResponse(saved);
     }
@@ -121,6 +126,8 @@ public class WhiskyService {
                 request.getTags()
         );
 
+        metadataService.incrementVersion("WHISKEY_LIST");
+
         return toResponse(whisky);
     }
 
@@ -131,6 +138,9 @@ public class WhiskyService {
         if (!whiskyRepository.existsById(wsId)) {
             throw new IllegalArgumentException("위스키를 찾을 수 없습니다. wsId=" + wsId);
         }
+
+        metadataService.incrementVersion("WHISKEY_LIST");
+
         whiskyRepository.deleteById(wsId);
     }
 
