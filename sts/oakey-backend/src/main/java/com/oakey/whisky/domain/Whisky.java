@@ -23,6 +23,12 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
+/*
+ * TB_WHISKY 테이블 매핑 엔티티
+ * - Lombok @Getter로 getter 메서드를 자동 생성한다.
+ * - Oracle SEQUENCE 기반 PK 생성 전략을 사용한다.
+ * - 엔티티의 직접 set을 막기 위해 update 메서드로만 상태 변경을 허용한다.
+ */
 @Entity
 @Getter
 @Setter
@@ -73,23 +79,12 @@ public class Whisky {
 
     @Column(name = "WS_VOTE_CNT")
     private Integer wsVoteCnt;
-    
-    @Embedded
-    @Column(name = "TASTE_PROFILE")
-    private TasteProfile tasteProfile;
-    
-    
-    @ElementCollection(fetch = FetchType.EAGER)
-    @CollectionTable(
-        name = "TB_WHISKY_TAG",
-        joinColumns = @JoinColumn(name = "WS_ID")
-    )
-    @Column(name = "TAG_NAME")
-    @OrderColumn(name = "TAG_ORDER")
-    private List<String> tags = new ArrayList<>();
-    
-    
-    public Whisky(String wsName, String wsNameKo, String wsDistillery, String wsCategory, Integer wsAge,
+
+    protected Whisky() {
+        // JPA 기본 생성자
+    }
+
+    public Whisky(String wsName, String wsDistillery, String wsCategory, Integer wsAge,
                   BigDecimal wsAbv, BigDecimal wsPrice, String wsImage, Integer wsVol,
                   BigDecimal wsRating, Integer wsVoteCnt, TasteProfile tasteProfile, List<String> tags) {
         this.wsName = wsName;
@@ -103,12 +98,11 @@ public class Whisky {
         this.wsVol = wsVol;
         this.wsRating = wsRating;
         this.wsVoteCnt = wsVoteCnt;
-        this.tasteProfile = tasteProfile;
-        this.tags = tags;
     }
 
-    /**
-     * 수정용 메서드: 컨트롤러에서 엔티티를 직접 set 하지 않도록 update 메서드를 제공
+    /*
+     * 수정용 메서드
+     * - 컨트롤러/서비스에서 엔티티 필드를 직접 set하지 않도록 update 메서드로만 변경한다.
      */
     public void update(String wsName, String wsNameKo, String wsDistillery, String wsCategory, Integer wsAge,
                        BigDecimal wsAbv, BigDecimal wsPrice, String wsImage, Integer wsVol,
