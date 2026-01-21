@@ -24,7 +24,7 @@ public class SecurityConfig {
                 .sessionManagement(session -> session.sessionCreationPolicy(SessionCreationPolicy.STATELESS))
                 .authorizeHttpRequests(auth -> auth
                 	    .requestMatchers(
-                	        "/auth/**",
+                	        "/auth/**",				// 나중에 빼기
                 	        "/h2-console/**",
                 	        "/swagger-ui/**",
                 	        "/swagger-ui.html",

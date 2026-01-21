@@ -5,6 +5,7 @@ import com.oakey.security.jwt.JwtProvider;
 import com.oakey.user.domain.RefreshToken;
 import com.oakey.user.domain.User;
 import com.oakey.user.dto.LoginRequest;
+import com.oakey.user.dto.PasswordChangeRequest;
 import com.oakey.user.dto.UserProfileResponse;
 import com.oakey.user.dto.UserProfileUpdateRequest;
 import com.oakey.user.dto.UserSignupRequest;
@@ -80,6 +81,14 @@ public class UserService {
                 user.getEmail(),
                 user.getNickname()
         );
+    }
+    
+    @Transactional
+    public void changeMyPassword(Long userId, PasswordChangeRequest req) {
+        User user = userRepository.findById(userId)
+                .orElseThrow(() -> new IllegalArgumentException("User not found"));
+
+        user.changePassword(req.getCurrentPassword(), req.getNewPassword());
     }
     
     @Transactional

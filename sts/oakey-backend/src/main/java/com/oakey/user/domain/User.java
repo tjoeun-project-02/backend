@@ -31,12 +31,45 @@ public class User {
     @Column(name = "nickname", nullable = false, length = 100)
     private String nickname;
 
+    /**
+     * 로컬(이메일/비밀번호) 회원 여부 판단
+     */
     public boolean isLocalUser() {
         return password != null && !password.isBlank();
     }
 
+    /**
+     * 프로필 수정 (닉네임)
+     */
     public User updateProfile(String nickname) {
-        if (nickname != null && !nickname.isBlank()) this.nickname = nickname;
+        if (nickname != null && !nickname.isBlank()) {
+            this.nickname = nickname;
+        }
         return this;
+    }
+
+    /**
+     * 비밀번호 변경
+     */
+    public void changePassword(String currentPassword, String newPassword) {
+
+        if (!isLocalUser()) {
+            throw new IllegalStateException("비밀번호를 변경할 수 없는 계정입니다.");
+        }
+
+        if (currentPassword == null || currentPassword.isBlank()) {
+            throw new IllegalArgumentException("현재 비밀번호는 필수입니다.");
+        }
+        if (newPassword == null || newPassword.isBlank()) {
+            throw new IllegalArgumentException("새 비밀번호는 필수입니다.");
+        }
+        if (!this.password.equals(currentPassword)) {
+            throw new IllegalArgumentException("현재 비밀번호가 일치하지 않습니다.");
+        }
+        if (this.password.equals(newPassword)) {
+            throw new IllegalArgumentException("새 비밀번호는 기존 비밀번호와 달라야 합니다.");
+        }
+
+        this.password = newPassword;
     }
 }
