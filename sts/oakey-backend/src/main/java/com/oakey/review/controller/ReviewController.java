@@ -30,7 +30,7 @@ public class ReviewController {
      * 특정 위스키의 리뷰 목록 조회
      */
     @GetMapping("/whisky/{wsId}")
-    public ResponseEntity<List<ReviewResponse>> getByWhisky(@PathVariable Integer wsId) {
+    public ResponseEntity<List<ReviewResponse>> getByWhisky(@PathVariable("wsId") Integer wsId) {
         return ResponseEntity.ok(reviewService.findByWhisky(wsId));
     }
 }

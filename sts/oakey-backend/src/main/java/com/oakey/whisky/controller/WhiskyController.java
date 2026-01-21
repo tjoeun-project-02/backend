@@ -25,7 +25,7 @@ public class WhiskyController {
     }
 
     @GetMapping("/{wsId}")
-    public ResponseEntity<WhiskyResponse> getOne(@PathVariable Integer wsId) {
+    public ResponseEntity<WhiskyResponse> getOne(@PathVariable("wsId") Integer wsId) {
         return ResponseEntity.ok(whiskyService.findById(wsId));
     }
 
@@ -35,12 +35,12 @@ public class WhiskyController {
     }
 
     @PutMapping("/{wsId}")
-    public ResponseEntity<WhiskyResponse> update(@PathVariable Integer wsId, @RequestBody WhiskyUpdateRequest request) {
+    public ResponseEntity<WhiskyResponse> update(@PathVariable("wsId") Integer wsId, @RequestBody WhiskyUpdateRequest request) {
         return ResponseEntity.ok(whiskyService.update(wsId, request));
     }
 
     @DeleteMapping("/{wsId}")
-    public ResponseEntity<Void> delete(@PathVariable Integer wsId) {
+    public ResponseEntity<Void> delete(@PathVariable("wsId") Integer wsId) {
         whiskyService.delete(wsId);
         return ResponseEntity.noContent().build();
     }
