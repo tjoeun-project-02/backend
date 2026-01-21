@@ -11,6 +11,12 @@ import jakarta.persistence.SequenceGenerator;
 import jakarta.persistence.Table;
 import lombok.Getter;
 
+/*
+ * TB_WHISKY 테이블 매핑 엔티티
+ * - Lombok @Getter로 getter 메서드를 자동 생성한다.
+ * - Oracle SEQUENCE 기반 PK 생성 전략을 사용한다.
+ * - 엔티티의 직접 set을 막기 위해 update 메서드로만 상태 변경을 허용한다.
+ */
 @Entity
 @Getter
 @Table(name = "TB_WHISKY")
@@ -52,7 +58,9 @@ public class Whisky {
     @Column(name = "WS_VOTE_CNT")
     private Integer wsVoteCnt;
 
-    protected Whisky() {}
+    protected Whisky() {
+        // JPA 기본 생성자
+    }
 
     public Whisky(String wsName, String wsDistillery, String wsCategory, Integer wsAge,
                   BigDecimal wsAbv, BigDecimal wsPrice, String wsImage, Integer wsVol,
@@ -69,52 +77,9 @@ public class Whisky {
         this.wsVoteCnt = wsVoteCnt;
     }
 
-    public Integer getWsId() {
-        return wsId;
-    }
-
-    public String getWsName() {
-        return wsName;
-    }
-
-    public String getWsDistillery() {
-        return wsDistillery;
-    }
-
-    public String getWsCategory() {
-        return wsCategory;
-    }
-
-    public Integer getWsAge() {
-        return wsAge;
-    }
-
-    public BigDecimal getWsAbv() {
-        return wsAbv;
-    }
-
-    public BigDecimal getWsPrice() {
-        return wsPrice;
-    }
-
-    public String getWsImage() {
-        return wsImage;
-    }
-
-    public Integer getWsVol() {
-        return wsVol;
-    }
-
-    public BigDecimal getWsRating() {
-        return wsRating;
-    }
-
-    public Integer getWsVoteCnt() {
-        return wsVoteCnt;
-    }
-
-    /**
-     * 수정용 메서드: 컨트롤러에서 엔티티를 직접 set 하지 않도록 update 메서드를 제공
+    /*
+     * 수정용 메서드
+     * - 컨트롤러/서비스에서 엔티티 필드를 직접 set하지 않도록 update 메서드로만 변경한다.
      */
     public void update(String wsName, String wsDistillery, String wsCategory, Integer wsAge,
                        BigDecimal wsAbv, BigDecimal wsPrice, String wsImage, Integer wsVol,
