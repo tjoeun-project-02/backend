@@ -1,10 +1,13 @@
 package com.oakey.user.service;
 
+import com.oakey.emailVerification.service.EmailVerificationService;
 import com.oakey.security.dto.TokenResponse;
 import com.oakey.security.jwt.JwtProvider;
 import com.oakey.user.domain.RefreshToken;
 import com.oakey.user.domain.User;
 import com.oakey.user.dto.LoginRequest;
+import com.oakey.user.dto.PasswordChangeRequest;
+import com.oakey.user.dto.ResetPasswordRequest;
 import com.oakey.user.dto.UserProfileResponse;
 import com.oakey.user.dto.UserProfileUpdateRequest;
 import com.oakey.user.dto.UserSignupRequest;
@@ -21,6 +24,7 @@ public class UserService {
     private final UserRepository userRepository;
     private final JwtProvider jwtProvider;
     private final RefreshTokenRepository refreshTokenRepository;
+    private final EmailVerificationService emailVerificationService;
     @Transactional
     public Long signup(UserSignupRequest req) {
         if (userRepository.existsByEmail(req.getEmail())) {
@@ -80,6 +84,29 @@ public class UserService {
                 user.getEmail(),
                 user.getNickname()
         );
+    }
+    
+    @Transactional
+    public void changeMyPassword(Long userId, PasswordChangeRequest req) {
+        User user = userRepository.findById(userId)
+                .orElseThrow(() -> new IllegalArgumentException("User not found"));
+
+        user.changePassword(req.getCurrentPassword(), req.getNewPassword());
+    }
+
+    @Transactional
+    public void resetPassword(ResetPasswordRequest req) {
+        // 이메일 인증 코드 확인
+        if (!emailVerificationService.verifyCode(req.getEmail(), req.getCode())) {
+            throw new IllegalArgumentException("인증 코드가 유효하지 않습니다.");
+        }
+
+        // 사용자 찾기
+        User user = userRepository.findByEmail(req.getEmail())
+                .orElseThrow(() -> new IllegalArgumentException("가입되지 않은 이메일입니다."));
+
+        // 비밀번호 재설정
+        user.resetPassword(req.getNewPassword());
     }
     
     @Transactional
