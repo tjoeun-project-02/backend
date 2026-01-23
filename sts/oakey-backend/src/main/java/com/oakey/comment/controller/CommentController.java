@@ -4,6 +4,7 @@ import java.util.List;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.core.annotation.AuthenticationPrincipal;
+import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -49,5 +50,16 @@ public class CommentController {
         commentService.updateComment(commentId, loginUserId, request.getContent());
         
         return ResponseEntity.ok("댓글이 수정되었습니다.");
+    }
+    
+    @DeleteMapping("/{commentId}")
+    public ResponseEntity<String> delete(
+            @PathVariable("commentId") Integer commentId,
+            @AuthenticationPrincipal Long loginUserId) {
+        
+        // 서비스에 삭제 요청 (서비스에도 deleteComment 메서드가 있어야 함!)
+        commentService.deleteComment(commentId, loginUserId);
+        
+        return ResponseEntity.ok("댓글이 삭제되었습니다.");
     }
 }
