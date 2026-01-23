@@ -1,19 +1,26 @@
 package com.oakey.user.controller;
 
+import org.springframework.http.ResponseEntity;
+import org.springframework.security.core.Authentication;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PatchMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
 import com.oakey.security.dto.TokenResponse;
 import com.oakey.security.jwt.JwtAuthentication;
 import com.oakey.user.dto.LoginRequest;
 import com.oakey.user.dto.PasswordChangeRequest;
+import com.oakey.user.dto.ResetPasswordRequest;
 import com.oakey.user.dto.UserProfileResponse;
 import com.oakey.user.dto.UserProfileUpdateRequest;
 import com.oakey.user.dto.UserSignupRequest;
 import com.oakey.user.service.UserService;
+
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
-
-import org.springframework.http.ResponseEntity;
-import org.springframework.security.core.Authentication;
-import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequiredArgsConstructor
@@ -50,7 +57,7 @@ public class UserController {
     /**
      * 비밀번호 변경
      */
-    @PatchMapping("/me/password")
+    @PatchMapping("/change-password")
     public ResponseEntity<Void> changePassword(
             Authentication authentication,
             @RequestBody PasswordChangeRequest req
@@ -59,7 +66,18 @@ public class UserController {
         userService.changeMyPassword(userId, req);
         return ResponseEntity.noContent().build();
     }
-
+    
+    /*
+     * 비밀번호 재설정
+     */
+    @PostMapping("/reset-password")
+    public ResponseEntity<?> resetPassword(@RequestBody ResetPasswordRequest req) {
+        // 1. 서비스에서 이메일과 인증코드가 유효한지 최종 확인
+        // 2. 해당 이메일 사용자의 비밀번호를 BCrypt 암호화하여 DB 업데이트
+        userService.resetPassword(req);
+        return ResponseEntity.ok().build();
+    }
+    
     /**
      * JWT Authentication에서 userId 추출
      */

@@ -75,4 +75,19 @@ public class CommentService {
                 ))
                 .collect(Collectors.toList());
     }
+
+	@Transactional
+    public void deleteComment(Integer commentId, Long loginUserId) {
+        // 1. 댓글 조회 (없으면 에러)
+        Comment comment = commentRepository.findById(commentId)
+                .orElseThrow(() -> new IllegalArgumentException("존재하지 않는 댓글입니다. ID: " + commentId));
+
+        // 2. 작성자 검증: 요청한 사람(loginUserId)이 댓글 쓴 사람인지 확인
+        if (!comment.getUser().getUserId().equals(loginUserId)) {
+            throw new RuntimeException("본인이 작성한 댓글만 삭제할 수 있습니다.");
+        }
+
+        // 3. 삭제 수행
+        commentRepository.delete(comment);
+    }
 }
