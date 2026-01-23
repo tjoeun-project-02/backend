@@ -24,13 +24,29 @@ public class LikeController {
     private final LikeService likeService;
 
     @PostMapping
-    public ResponseEntity<String> toggleLike(@AuthenticationPrincipal Long userId, @RequestBody LikeRequest requestDto) {
+    public ResponseEntity<String> toggleLike(@AuthenticationPrincipal Object principal, @RequestBody LikeRequest requestDto) {
+        Long userId;
+        if (principal instanceof String) {
+            userId = Long.parseLong((String) principal);
+        } else if (principal instanceof Long) {
+            userId = (Long) principal;
+        } else {
+            throw new RuntimeException("인증 정보를 찾을 수 없습니다.");
+        }
         return ResponseEntity.ok(likeService.toggleLike(userId, requestDto));
     }
     
     // 특정 유저가 좋아요한 목록 조회
     @GetMapping("/{userId}")
-    public ResponseEntity<List<LikedWhiskyResponse>> getLikedWhiskies(@AuthenticationPrincipal Long userId) {
+    public ResponseEntity<List<LikedWhiskyResponse>> getLikedWhiskies(@AuthenticationPrincipal Object principal) {
+        Long userId;
+        if (principal instanceof String) {
+            userId = Long.parseLong((String) principal);
+        } else if (principal instanceof Long) {
+            userId = (Long) principal;
+        } else {
+            throw new RuntimeException("인증 정보를 찾을 수 없습니다.");
+        }
         return ResponseEntity.ok(likeService.getLikedWhiskies(userId));
     }
 }

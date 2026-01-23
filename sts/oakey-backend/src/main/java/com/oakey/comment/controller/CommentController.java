@@ -31,11 +31,20 @@ public class CommentController {
         commentService.saveComment(request);
         return ResponseEntity.ok("댓글이 등록되었습니다.");
     }
-
     @GetMapping("/whisky/{wsId}/my")
     public ResponseEntity<List<CommentResponse>> getList(
             @PathVariable("wsId") Integer wsId, 
-            @AuthenticationPrincipal Long userId) { // 토큰에서 추출된 userId가 자동으로 주입됨
+            @AuthenticationPrincipal Object principal) { // Long 대신 Object로 변경
+        
+        Long userId;
+        if (principal instanceof String) {
+            userId = Long.parseLong((String) principal);
+        } else if (principal instanceof Long) {
+            userId = (Long) principal;
+        } else {
+            // 보안 컨텍스트에 담긴 객체 타입에 따라 적절히 형변환 필요
+            throw new RuntimeException("인증 정보를 찾을 수 없습니다.");
+        }
         
         return ResponseEntity.ok(commentService.getCommentsByWhisky(userId, wsId));
     }
@@ -43,9 +52,16 @@ public class CommentController {
     @PutMapping("/{commentId}")
     public ResponseEntity<String> update(
             @PathVariable("commentId") Integer commentId,
-            @AuthenticationPrincipal Long loginUserId, // 토큰에서 유저 ID를 자동으로 꺼냄
+            @AuthenticationPrincipal Object principal, // 토큰에서 유저 ID를 자동으로 꺼냄
             @RequestBody CommentUpdateRequest request) {
-
+        Long userId;
+        if (principal instanceof String) {
+            userId = Long.parseLong((String) principal);
+        } else if (principal instanceof Long) {
+            userId = (Long) principal;
+        } else {
+            throw new RuntimeException("인증 정보를 찾을 수 없습니다.");
+        }
         // 서비스 호출 시 토큰에서 꺼낸 ID를 전달
         commentService.updateComment(commentId, loginUserId, request.getContent());
         
@@ -55,11 +71,18 @@ public class CommentController {
     @DeleteMapping("/{commentId}")
     public ResponseEntity<String> delete(
             @PathVariable("commentId") Integer commentId,
-            @AuthenticationPrincipal Long loginUserId) {
-        
-        // 서비스에 삭제 요청 (서비스에도 deleteComment 메서드가 있어야 함!)
-        commentService.deleteComment(commentId, loginUserId);
-        
+            @AuthenticationPrincipal Object principal) { // Object로 변경
+
+        Long userId;
+        if (principal instanceof String) {
+            userId = Long.parseLong((String) principal);
+        } else if (principal instanceof Long) {
+            userId = (Long) principal;
+        } else {
+            throw new RuntimeException("인증 정보를 찾을 수 없습니다.");
+        }
+
+        commentService.deleteComment(commentId, userId);
         return ResponseEntity.ok("댓글이 삭제되었습니다.");
     }
 }
