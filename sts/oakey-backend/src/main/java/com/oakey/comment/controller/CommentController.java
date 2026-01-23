@@ -31,6 +31,23 @@ public class CommentController {
         commentService.saveComment(request);
         return ResponseEntity.ok("댓글이 등록되었습니다.");
     }
+    
+    @GetMapping("/my")
+    public ResponseEntity<List<CommentResponse>> getMyAllComments(
+            @AuthenticationPrincipal Object principal) {
+        Long userId;
+        if (principal instanceof String) {
+            userId = Long.parseLong((String) principal);
+        } else if (principal instanceof Long) {
+            userId = (Long) principal;
+        } else {
+            throw new RuntimeException("인증 정보를 찾을 수 없습니다.");
+        }
+
+        // 모든 댓글을 가져오는 서비스 메서드 호출
+        return ResponseEntity.ok(commentService.getCommentsByUserId(userId));
+    }
+    
     @GetMapping("/whisky/{wsId}/my")
     public ResponseEntity<List<CommentResponse>> getList(
             @PathVariable("wsId") Integer wsId, 
@@ -63,7 +80,7 @@ public class CommentController {
             throw new RuntimeException("인증 정보를 찾을 수 없습니다.");
         }
         // 서비스 호출 시 토큰에서 꺼낸 ID를 전달
-        commentService.updateComment(commentId, loginUserId, request.getContent());
+        commentService.updateComment(commentId, userId, request.getContent());
         
         return ResponseEntity.ok("댓글이 수정되었습니다.");
     }
