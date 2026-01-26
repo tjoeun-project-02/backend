@@ -20,4 +20,11 @@ public interface CommentRepository extends JpaRepository<Comment, Integer> {
 	       "JOIN FETCH c.user " + // User도 페치 조인 추가!
 	       "WHERE c.user = :user AND c.whisky = :whisky")
 	List<Comment> findByUserAndWhiskyWithJoins(@Param("user") User user, @Param("whisky") Whisky whisky);
+
+	@Query("SELECT c FROM Comment c " +
+		       "JOIN FETCH c.whisky w " +
+		       "JOIN FETCH c.user u " +
+		       "WHERE u.userId = :userId " +
+		       "ORDER BY c.updateDate DESC")
+		List<Comment> findAllByUserIdWithWhisky(@Param("userId") Long userId);
 }

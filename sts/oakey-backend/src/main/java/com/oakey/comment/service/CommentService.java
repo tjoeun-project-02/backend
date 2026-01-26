@@ -3,6 +3,7 @@ package com.oakey.comment.service;
 import java.util.List;
 import java.util.stream.Collectors;
 
+import org.jspecify.annotations.Nullable;
 import org.springframework.stereotype.Service;
 
 import com.oakey.comment.domain.Comment;
@@ -90,4 +91,32 @@ public class CommentService {
         // 3. 삭제 수행
         commentRepository.delete(comment);
     }
+
+	public List<CommentResponse> getCommentsByUserId(Long userId) {
+	    // 1. 유저 존재 확인
+	    userRepository.findById(userId)
+	            .orElseThrow(() -> new IllegalArgumentException("사용자를 찾을 수 없습니다."));
+
+	    // 2. FETCH JOIN으로 위스키 정보까지 한 번에 조회
+	    List<Comment> comments = commentRepository.findAllByUserIdWithWhisky(userId);
+	    
+	    // 3. 빌더를 사용하여 추가된 필드(wsImage)까지 포함해 변환
+	    return comments.stream()
+	            .map(this::convertToMyNoteResponse)
+	            .collect(Collectors.toList());
+	}
+	
+	// 빌더 패턴을 사용하여 필요한 필드만 선택적으로 세팅 (기존 코드 영향 X)
+	private CommentResponse convertToMyNoteResponse(Comment comment) {
+	    return CommentResponse.builder()
+	            .commentId(comment.getCommentId())
+	            .nickname(comment.getUser().getNickname())
+	            .wsId(comment.getWhisky().getWsId())
+	            .content(comment.getCommentBody()) // c.getContent() 대신 엔티티 필드명 확인 필요
+	            .updateDate(comment.getUpdateDate().toString())
+	            .wsName(comment.getWhisky().getWsName())
+	            .wsNameKo(comment.getWhisky().getWsNameKo())
+	            .wsImage(comment.getWhisky().getWsImage()) // 마이페이지에 꼭 필요한 이미지
+	            .build();
+	}
 }
