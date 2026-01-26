@@ -21,7 +21,7 @@ def run_whisky_ocr(image_path):
     이미지에서 위스키 라벨 텍스트를 추출하여 데이터 리스트로 반환합니다.
     """
     # 1. 모델 로드
-    yolo_path = "/Users/ljw/Desktop/whisky_assistant/yolov8n.pt"
+    yolo_path = "/yolov8n.pt"
     yolo_model = YOLO(yolo_path if os.path.exists(yolo_path) else 'yolov8n.pt')
     
     # PaddleOCR 초기화 (백엔드용이므로 시각화 옵션 등은 기본값 유지)
@@ -104,7 +104,7 @@ def run_whisky_ocr(image_path):
     return final_results
 
 if __name__ == "__main__":
-    target_img = "/Users/ljw/Desktop/whisky_assistant/Glenlivet-18_f12edbfc-f968-40de-9448-55a3a2a30240.jpg.webp"
+    target_img = ""
     results = run_whisky_ocr(target_img)
     
     # 백엔드 로그 출력용
