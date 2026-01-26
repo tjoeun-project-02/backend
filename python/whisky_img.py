@@ -3,174 +3,155 @@ import numpy as np
 import os
 import platform
 import logging
+import re
 from paddleocr import PaddleOCR
+from ultralytics import YOLO
 from PIL import Image, ImageDraw, ImageFont
 
 # -----------------------------------------------------------
-# [설정] 로그 레벨 조정
+# [설정] 환경 변수 및 로그 제어
 # -----------------------------------------------------------
-logging.getLogger("ppocr").setLevel(logging.WARNING)
+os.environ["DISABLE_MODEL_SOURCE_CHECK"] = "True"
+logging.getLogger("ppocr").setLevel(logging.ERROR)
 
 def get_optimal_font(size=20):
-    """OS별 폰트 경로 자동 설정"""
     system_os = platform.system()
-    font_path = ""
-    
-    if system_os == "Darwin": # Mac
-        font_path = "/System/Library/Fonts/Supplemental/Arial.ttf"
-        if not os.path.exists(font_path): font_path = "/Library/Fonts/Arial.ttf"
-    elif system_os == "Windows": 
-        font_path = "C:/Windows/Fonts/arial.ttf"
-    else: 
-        font_path = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
-
+    if system_os == "Darwin": font_path = "/System/Library/Fonts/Supplemental/Arial.ttf"
+    elif system_os == "Windows": font_path = "C:/Windows/Fonts/arial.ttf"
+    else: font_path = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
     try:
         return ImageFont.truetype(font_path, size) if os.path.exists(font_path) else ImageFont.load_default()
     except:
         return ImageFont.load_default()
 
-def draw_bbox_size_sort(image_path):
-    print(">>> PaddleOCR 모델 로딩 중 (Mobile 버전)...")
-    try:
-        # PP-OCRv4 Mobile 모델 사용
-        ocr = PaddleOCR(use_textline_orientation=True, lang='en', ocr_version='PP-OCRv4')
-    except Exception as e:
-        print(f"❌ 모델 로딩 실패: {e}")
-        return
+def clean_text(text):
+    """중복 체크를 위한 정규화"""
+    return re.sub(r'[^a-zA-Z0-9]', '', str(text)).lower()
 
-    if not os.path.exists(image_path):
-        print(f"오류: 파일 없음 -> {image_path}")
-        return
+def run_whisky_ocr(image_path):
+    print(">>> 모델 로딩 중...")
+    yolo_path = "/Users/ljw/Desktop/whisky_assistant/yolov8n.pt"
+    yolo_model = YOLO(yolo_path if os.path.exists(yolo_path) else 'yolov8n.pt')
+    
+    # PaddleOCR 초기화 (기존 성공 코드 설정 반영)
+    ocr = PaddleOCR(use_textline_orientation=True, lang='en', ocr_version='PP-OCRv4')
 
-    # 1. 이미지 로드
     original_cv = cv2.imread(image_path)
-    if original_cv is None:
-        print("이미지 로드 실패")
+    if original_cv is None: 
+        print(f"❌ 이미지를 로드할 수 없습니다: {image_path}")
         return
 
-    # 2. 검사할 이미지 리스트 준비 (원본 + 반전)
-    img_original = original_cv.copy()
-    gray = cv2.cvtColor(original_cv, cv2.COLOR_BGR2GRAY)
-    inverted = cv2.bitwise_not(gray)
-    img_inverted = cv2.cvtColor(inverted, cv2.COLOR_GRAY2BGR)
+    # 1. YOLOv8로 Bottle 탐색
+    print(">>> YOLOv8: 병(Bottle) 영역 탐색 시작...")
+    yolo_results = yolo_model(original_cv, verbose=False)
+    bottles = []
+    h_img, w_img = original_cv.shape[:2]
 
-    check_list = [
-        ("Original", img_original),
-        ("Inverted", img_inverted)
-    ]
+    for r in yolo_results:
+        for box in r.boxes:
+            if int(box.cls) == 39: # Bottle
+                x1, y1, x2, y2 = box.xyxy[0].cpu().numpy().astype(int)
+                # 영역 10% 확장 (글자 잘림 방지)
+                pw, ph = int((x2-x1)*0.1), int((y2-y1)*0.1)
+                x1, y1 = max(0, x1-pw), max(0, y1-ph)
+                x2, y2 = min(w_img, x2+pw), min(h_img, y2+ph)
+                bottles.append([x1, y1, x2, y2])
+
+    if not bottles:
+        print("⚠️ 병이 감지되지 않았습니다. 전체 영역을 분석합니다.")
+        bottles = [[0, 0, w_img, h_img]]
 
     raw_results = []
-    
-    print(f">>> OCR 분석 시작: {image_path}")
 
-    # 3. OCR 실행 및 데이터 수집
-    for label, img_check in check_list:
-        result = ocr.ocr(img_check)
+    # 2. 각 병 영역(ROI)별로 OCR 수행 (기존 성공 로직 적용)
+    for idx, (bx1, by1, bx2, by2) in enumerate(bottles):
+        roi = original_cv[by1:by2, bx1:bx2]
+        gray = cv2.cvtColor(roi, cv2.COLOR_BGR2GRAY)
+        inv = cv2.cvtColor(cv2.bitwise_not(gray), cv2.COLOR_GRAY2BGR)
         
-        # 결과가 없으면 스킵
-        if result is None or len(result) == 0:
-            continue
+        print(f">>> ROI {idx+1} 분석 중...")
+        for label, img_check in [("Original", roi), ("Inverted", inv)]:
+            # 에러 발생했던 cls=True 제거
+            result = ocr.ocr(img_check)
             
-        # 딕셔너리 구조 파싱
-        ocr_data = result[0]
-        
-        if not ocr_data or not isinstance(ocr_data, dict) or 'rec_texts' not in ocr_data:
-            continue
+            if result is None or len(result) == 0:
+                continue
             
-        texts = ocr_data['rec_texts']
-        scores = ocr_data['rec_scores']
-        boxes = ocr_data['dt_polys']
-        
-        num_items = len(texts)
-        
-        for i in range(num_items):
-            text = texts[i]
-            conf = scores[i]
-            coords = boxes[i] # numpy array [[x,y], [x,y], ...]
+            # [기존 성공 코드의 핵심] 딕셔너리 구조 파싱
+            ocr_data = result[0]
             
-            # [핵심] 폰트 크기(높이) 계산
-            # Bounding Box의 Y좌표 차이를 구함
-            y_coords = [p[1] for p in coords]
-            height = max(y_coords) - min(y_coords)
+            # 데이터 형식이 딕셔너리인 경우 (사용자 환경)
+            if isinstance(ocr_data, dict) and 'rec_texts' in ocr_data:
+                texts = ocr_data['rec_texts']
+                scores = ocr_data['rec_scores']
+                boxes = ocr_data['dt_polys']
+                
+                for i in range(len(texts)):
+                    text = texts[i]
+                    conf = scores[i]
+                    coords = boxes[i]
+                    
+                    if conf > 0.5:
+                        y_coords = [p[1] for p in coords]
+                        height = max(y_coords) - min(y_coords)
+                        # 원본 이미지 좌표로 보정
+                        abs_coords = [[p[0] + bx1, p[1] + by1] for p in coords]
+                        
+                        raw_results.append({
+                            'text': text, 'conf': conf, 'coords': abs_coords,
+                            'source': label, 'size': height, 'norm_key': clean_text(text)
+                        })
             
-            # 신뢰도 0.6 이상만 수집
-            if conf > 0.6:
-                raw_results.append({
-                    'text': text,
-                    'conf': conf,
-                    'coords': coords,
-                    'source': label,
-                    'size': height  # 정렬 기준
-                })
+            # 데이터 형식이 리스트인 경우 (일반적인 PaddleOCR 환경)
+            elif isinstance(ocr_data, list):
+                for line in ocr_data:
+                    coords = line[0]
+                    text, conf = line[1]
+                    if conf > 0.5:
+                        y_coords = [p[1] for p in coords]
+                        height = max(y_coords) - min(y_coords)
+                        abs_coords = [[p[0] + bx1, p[1] + by1] for p in coords]
+                        raw_results.append({
+                            'text': text, 'conf': conf, 'coords': abs_coords,
+                            'source': label, 'size': height, 'norm_key': clean_text(text)
+                        })
 
-    if not raw_results:
-        print("❌ 텍스트를 찾지 못했습니다.")
-        return
-
-    # 4. [정렬 및 중복 제거]
-    # (1) 크기(size) 기준으로 내림차순 정렬 (가장 큰 글자가 맨 앞으로)
-    raw_results.sort(key=lambda x: x['size'], reverse=True)
-
-    unique_results = []
-    seen_texts = set()
-
-    # (2) 중복 제거 (이미 정렬되어 있으므로, 가장 큰 글자가 먼저 선택됨)
+    # 3. 중복 제거 및 정렬
+    raw_results.sort(key=lambda x: x['conf'], reverse=True)
+    unique_dict = {}
     for item in raw_results:
-        text = item['text']
-        # 텍스트가 이미 등록되었다면 스킵 (작은 크기의 중복 데이터 제거 효과)
-        if text in seen_texts: continue
-        
-        seen_texts.add(text)
-        unique_results.append(item)
+        key = item['norm_key']
+        if len(key) < 2: continue
+        if key not in unique_dict:
+            unique_dict[key] = item
+    
+    final_results = sorted(unique_dict.values(), key=lambda x: x['size'], reverse=True)
 
-    # 5. 결과 출력 (콘솔)
+    # 4. 결과 출력
     print("\n" + "="*80)
-    print(f" [최종 분석 결과 (폰트 크기순 정렬)]")
+    print(f" [라벨 분석 결과 (글자 크기순)]")
     print("-" * 80)
-    print(f" {'Text':<25} | {'Size':<6} | {'Conf':<6} | {'Source'}")
-    print("-" * 80)
+    if not final_results:
+        print(" ❌ 인식된 텍스트가 없습니다.")
+    else:
+        print(f" {'Text':<25} | {'Size':<6} | {'Conf':<6} | {'Source'}")
+        print("-" * 80)
+        for item in final_results:
+            print(f" {item['text']:<25} | {int(item['size']):<6} | {item['conf']:.2f}   | {item['source']}")
+    print("="*80)
 
-    for item in unique_results:
-        # Size를 정수로 깔끔하게 출력
-        size_val = int(item['size'])
-        print(f" {item['text']:<25} | {size_val:<6} | {item['conf']:.2f}   | {item['source']}")
+    # 시각화
+    img_pil = Image.fromarray(cv2.cvtColor(original_cv, cv2.COLOR_BGR2RGB))
+    draw = ImageDraw.Draw(img_pil)
+    font = get_optimal_font(24)
 
-    print("="*80 + "\n")
+    for item in final_results:
+        poly = [tuple(p) for p in item['coords']]
+        draw.polygon(poly, outline="red", width=3)
+        draw.text((poly[0][0], poly[0][1]-30), item['text'], font=font, fill=(0, 255, 0))
 
-    # 6. 박스 그리기 및 이미지 띄우기
-    image_rgb = cv2.cvtColor(original_cv, cv2.COLOR_BGR2RGB)
-    image_pil = Image.fromarray(image_rgb)
-    draw = ImageDraw.Draw(image_pil)
-    font = get_optimal_font(size=24)
-
-    # 상위 10개만 그릴지, 전체 다 그릴지 선택 (여기선 전체 다 그림)
-    for item in unique_results:
-        coords = item['coords']
-        text = item['text']
-        
-        poly_coords = []
-        try:
-            for p in coords:
-                poly_coords.append((int(p[0]), int(p[1])))
-        except Exception:
-            continue
-
-        # 박스 그리기 (빨간색)
-        draw.polygon(poly_coords, outline="red", width=3)
-
-        # 텍스트 그리기
-        x, y = poly_coords[0]
-        try:
-            left, top, right, bottom = draw.textbbox((x, y - 30), text, font=font)
-            draw.rectangle((left-5, top-5, right+5, bottom+5), fill="black")
-        except:
-            pass 
-        
-        draw.text((x, y - 30), text, font=font, fill=(0, 255, 0))
-
-    print(">>> 이미지 창이 열렸습니다. (아무 키나 누르면 종료)")
-    image_pil.show()
+    img_pil.show()
 
 if __name__ == "__main__":
-    target_image = "/Users/ljw/Desktop/whisky_assistant/cb996de6be6a6656843139bf6d1ecd9b.jpg.webp"
-    draw_bbox_size_sort(target_image)
+    target_img = "/Users/ljw/Desktop/whisky_assistant/cb996de6be6a6656843139bf6d1ecd9b.jpg.webp"
+    run_whisky_ocr(target_img)
