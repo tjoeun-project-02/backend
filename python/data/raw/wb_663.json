@@ -1,0 +1,516 @@
+{
+    "info": {
+        "ws_name": "Glenmorangie 10-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Glenmorangie",
+        "ws_age": 10,
+        "ws_abv": 40.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/6/6/3/166648-normal.png",
+        "ws_rating": 80.02,
+        "ws_vote_cnt": 2399,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/663/glenmorangie-10-year-old"
+    },
+    "collected_count": 50,
+    "reviews": [
+        {
+            "user_name": "Hvdree",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "21 mar 2014 7:05 pm",
+            "content": "fruits, toffee, spices, coffee-background in the nose",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "dram-drinker",
+            "user_rank": "Photo Moderator",
+            "rating": "85",
+            "review_date": "30 apr 2017 11:48 pm",
+            "content": "Mostly vanilla and citrus notes - pretty drinkable but also simple",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "lincolnimp",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "08 sep 2019 11:03 am",
+            "content": "There must be some batch variation here judging by the scores, I also think some people are too harsh on Glenmorangie 10 year, it is almost fashionable to knock its quality these days, I have got this at 88 points before now and having some from a new bottle yeah its not earth shattering but it does the basics very well, and it is balanced and for £30 much better quality than some of the manufactured rubbish NAS kicking around now.I still like this, a great session malt and I always enjoy it and sod it on the strength of the latest bottles 85.86 points for this one, if it had more depth of profile I would score it higher.Drinking whisky is all about enjoyment and I always enjoy this.This is a good session malt",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Slàinte Mhath",
+            "user_rank": "Super Administrator",
+            "rating": "80",
+            "review_date": "03 aug 2019 2:53 pm",
+            "content": "Light, accessible and rather undemanding - that's probably the best way to describe Glenmorangie's 10-year-old entry-level single malt. Matured exclusively in ex-bourbon casks, the nose is fresh and clean with unripe, sour fruits (green apples and grapes), vanilla cream and honey. With water, some herbal/minty notes start to emerge. On the palate, it arrives spirity and aromatic with citrus fruits, pears and nutmeg, turning more dry and bitter in the development. The finish is of medium length, nutty and mildly spicy. Solid average but nothing special.RATING: 3.0/5.0 stars ≙ 80 pts → AVERAGE",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "peatbogger",
+            "user_rank": "Specialist",
+            "rating": "77",
+            "review_date": "05 may 2016 2:18 am",
+            "content": "I found this difficukt to \"pin down\", with no specific directionnot a bad malt in any way, but I miss some excitement that I have found in other bottles which I have given lower scores",
+            "nose": "almost too subtle, sweet on vanilla, floral with a hint of citrus and orange, some nuts in the background, after a while the sweetness remind me of \"HubbaBubba\" bubble gum.",
+            "taste": "sweet, clementine, some vanilla, faint spice",
+            "finish": "some spice and bittersweet orange, but in general short, sweetness goes bitter and fades"
+        },
+        {
+            "user_name": "Archer",
+            "user_rank": "Connoisseur",
+            "rating": "78",
+            "review_date": "08 dec 2019 9:54 am",
+            "content": "Very smooth, very soft. Does not hurt in the least, does not challenge. May also taste those who have nothing else to do with whisky.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Erik Elixir",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "12 jul 2012 9:51 pm",
+            "content": "N: vanilla, roses, honey, orange and peachT: sourish, candy (hartjes), fudge and crème brûléeF: soft, fresh, honey, vanilla and nuts",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "maltaholic",
+            "user_rank": "Connoisseur",
+            "rating": "80",
+            "review_date": "16 jan 2016 2:19 am",
+            "content": "one of the best newcomers to the world of single malts",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "ctu",
+            "user_rank": "Connoisseur",
+            "rating": "80",
+            "review_date": "09 sep 2017 1:58 pm",
+            "content": "High quality \"entrance\" level whisky from Highlands. Wonderful balances.",
+            "nose": "Plenty of flowers and fruits, mainly citruses. In addition, the american white oak also worked nicely.",
+            "taste": "There are plenty of oak and vanilla. Sweet fruits and sour citruses. Touch of mint.",
+            "finish": "Medium length, fruity. sweet, spicy."
+        },
+        {
+            "user_name": "Andytka3",
+            "user_rank": "Connoisseur",
+            "rating": "78",
+            "review_date": "25 dec 2016 7:12 am",
+            "content": "Nose:- Packed with fruits and honey. Refreshing and soothing on nose, underlying with fragrant floral dusting powder. Minimum wood influence. Palate:- Rich on flavour, direct and clean. Balance and round. Honey, banana and creamy fruits with a touch of citrusy.   Finish:- Long and fruity, Refreshing fruitiness remains. Sip in easily and cool to drink with some ice. — at The Whisky Bar, Kuala Lumpur.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Kantenmechaniker",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "15 apr 2017 7:51 pm",
+            "content": "A delicious entry into the Glenmorangie Range.",
+            "nose": "Butter cookies with lemon coating, slightly grassy, ​​pleasantly light, Persipan, sweet",
+            "taste": "Sweet and yellow fruits, slightly dry, overripe apple,",
+            "finish": "Fruit bowl, tart, warming, apple with light acidity"
+        },
+        {
+            "user_name": "WhiskyLovingPianist",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "20 may 2020 1:11 pm",
+            "content": "https://whiskylovingpianist.wordpress.com/2020/05/20/bottle-polishing-3-from-2-highland-distilleries/A strong contender for ideal whisky for beginners, like so many of us, Glenmorangie was one of my first-contact malts. Amazingly, this is my first ‘proper’ GlenMo 10 review.BOTTLE #1C: It’s been a few years since I had the GlenMo 10, but my appetite for it hasn’t wavered, and I’m a sucker for these gentile malt styles [Tomintoul, Glencadam, Balblair,…]. I absolutely caned this bottle, not even filing it. Staying consistent year on year, it noses as a lovely fluffy honeyed malt with pear drops and pineapples, a youthful style that was typical of new distilleries before STR became so prevalent, a style GlenMo has nurtured and nailed. Faultless in its class, a world without Glenmorangie 10 is a loss indeed.At £26 [one of the best BFYB going right now, discuss], I went and bought another as a daily drinker.TAKE 2N: No need to dig too far when we know its a fairly shallow affair. Enjoy top notes then of flour-covered bread-flour-battered apple & pear [drop] fruits with the emphasis on the flour. From this fluffy floured fruitiness with a touch of vanilla custard, I frequently pick up shades of Mackmyra. Was GlenMo or Balblair perhaps an influence for this Swedish distillery, or is the profile [particularly of the Bruks] just a coincidence? On cue, Angela D’Orazio tells us [at TBWC’s World Whisky Summit], that Mackmyra decided not to follow the Scottish model from the beginning.T: A lightly-floured waxy < chalky white wine-like [Cox] apple skin-tannic cider/calvados chew, though it doesn’t hang around.F: A soft-fresh sharpness cuts into the travel, finishing on chalky green barley. What a touch of underlying peat-malt wouldn’t add to this, my word! How about a [mild] peat week just occasionally LVMH? [#missingatrick]. Whilst we wait, blend in some soft peated whisky for yourself [Springbank for example which I had to hand], for the [somewhat] desired result.C: As vital for whisky enthusiasts as neon socks and Puma bags were for many kids in the 1980s, the Original 10yo is an incredibly competent, very safe go-to whisky, though, despite its solid presence, I’ve always a feeling that there should/could be more. Whilst Glenmorangie’s excellent Quarter Century bottling remains the best GlenMo I’ve had, I’ve not yet had an absolute belter. As an entry-level single malt, however, the 10yo is an ideal place to start and/or accompany one’s whisky journey.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "90ClubWhisky",
+            "user_rank": "Connoisseur",
+            "rating": "78",
+            "review_date": "15 jul 2022 10:33 pm",
+            "content": "Bright, straw color. Light oily.",
+            "nose": "Lots of flowers. Traces of the fruit of the orchard. Ripe pears. Vanilla. Delicate vanilla pudding. Sweet cream. Intense nose. At the next nose comes toffee.",
+            "taste": "Light. A little bit of flowering. Spices. Cinnamon. White pepper. Bitterness. Oak.",
+            "finish": "Spices. Black pepper. Cinnamon. Spice. The bitterness of the oak. Medium-length finish."
+        },
+        {
+            "user_name": "90ClubWhisky",
+            "user_rank": "Connoisseur",
+            "rating": "78",
+            "review_date": "05 aug 2021 4:07 pm",
+            "content": "",
+            "nose": "Very fruity, crisp and refreshing. Green fruit, fruit of the orchard. Pear, some apple. Very delicate spice. Traces of honey and caramel in the background. Later a little more ripe fruit, more peachy.",
+            "taste": "Fruit, fresh. Orchard fruit. Pears and apples. Some wood and spices. Sweetness, vanilla, caramel. Cinnamon. Pleasant, refreshing, light.",
+            "finish": "Caramel, some oak, honey. Ripe fruit, but much less fruitiness than in previous stages. Spices, slightly warming. Medium-short."
+        },
+        {
+            "user_name": "MaltVader",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "01 mar 2022 9:26 pm",
+            "content": "no fireworks, but very correct",
+            "nose": "honey, hard candy, apples, and vanilla",
+            "taste": "some apples, sweetness, vanilla, nothing complicated, no surprise here",
+            "finish": "short, slightly vanilla, empty"
+        },
+        {
+            "user_name": "Tom na Gruagaich",
+            "user_rank": "Connoisseur",
+            "rating": "80",
+            "review_date": "30 jan 2019 10:23 pm",
+            "content": "Beautiful, soft fruity vanilla, solid whisky from the bourbon barrel.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Malthead19",
+            "user_rank": "Connoisseur",
+            "rating": "68",
+            "review_date": "12 apr 2022 3:05 pm",
+            "content": "- an average single malt - good beginner malt (uncomplicated & pleasant) - one of the slightly weaker 10 year standard bottlings on the market - still seems relatively \"immature\" for the 10-year-old - there are much better ones on the market - tends to be too expensive at €30-35 for the quality shown",
+            "nose": "fruity, toffee, subtle, mild, gentle, nutty direction",
+            "taste": "initially sweet and mild, then a clear alcohol note, some oak, slightly nutty, vanilla, monotonous",
+            "finish": "medium length, fruity, somewhat sweet"
+        },
+        {
+            "user_name": "Segens",
+            "user_rank": "Connoisseur",
+            "rating": "79",
+            "review_date": "02 nov 2015 7:56 pm",
+            "content": "It is a good starter if you are new in whisky as it is cheap (25€). For myself I rather invest more :-)",
+            "nose": "young & fruity, a bit of oak. Alcohol not very good balanced",
+            "taste": "fruity and smooth. Not bad compared to the nose",
+            "finish": "a bit of oak & fruits but also a bit metallic. Nevertheless it remains positive."
+        },
+        {
+            "user_name": "LDB",
+            "user_rank": "Connoisseur",
+            "rating": "79",
+            "review_date": "01 apr 2021 6:25 am",
+            "content": "Yeah, I know, it´s a very popular classic, but here are my two cents and two and a half words: boring peach flavour!",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "QuarterCentury",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "30 oct 2011 1:44 am",
+            "content": "Glenmorangie`s 10yo sets a high standard for Highland whisky, and has gone from strength to strength as `The Original` since its slightly controversial packaging redesign a few years ago.  Medium-bodied and gently warming, with plasant spicy notes.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Tangtang_WhiskyYoda",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "11 jan 2022 12:47 am",
+            "content": "nice entry-level whisky. Not particularly complex, however, it falls under the category of easy drinking",
+            "nose": "sweet, malty, some grain, vanilla, honey, light fruits like peach and apple",
+            "taste": "sweet, rather reserved, very soft, light fruits, malt, vanilla.",
+            "finish": "the finish is very short. Also here very soft with a couple of light fruits and slightly malty sweet"
+        },
+        {
+            "user_name": "granella2003",
+            "user_rank": "Connoisseur",
+            "rating": "77",
+            "review_date": "22 dec 2012 12:50 am",
+            "content": "The golden Glenmorangie arouses curiosity, a whisky that has placed the bar high for the competition. Has for at least 10 years aged in American oak from the forests of the Ozark Mountains, Missouri, owned by the distillery itself.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "granella2003",
+            "user_rank": "Connoisseur",
+            "rating": "77",
+            "review_date": "22 dec 2012 12:47 am",
+            "content": "",
+            "nose": "Vanilla, toffee, honey forms the base with hints of ripe juicy fruits such as apples, pears and berries. Tightening and several flavors of almonds, citrus and caramel are also to observe.",
+            "taste": "Soft and creamy exchanging sweet and spicy off. Ingredients like ginger, nutmeg, caramel, raisins and sugar are clearly over with hints of almonds and cloves.",
+            "finish": "Long aftertaste of apple cider, fruit and pepper"
+        },
+        {
+            "user_name": "DistiLesha",
+            "user_rank": "Connoisseur",
+            "rating": "79",
+            "review_date": "20 oct 2020 7:40 pm",
+            "content": "The signature whisky from the distillery is a calling card.",
+            "nose": "Spices, lemon zest, some vanilla, light sweetness, characteristic profile of fruity-floral bourbon notes, caramel, beeswax!",
+            "taste": "bittersweet, wooden, rather difficult to isolate something",
+            "finish": "Smooth and wood, camembert cheese"
+        },
+        {
+            "user_name": "GlenSikkes",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "27 oct 2014 11:55 am",
+            "content": "Tasting Notes and Comments by Glenmorangie;Aroma: The scent of citrus and ripening peaches is softened by the aroma of vanilla.Taste: First, vanilla is detected on the tongue before it ripples along the palate bringing a burst of flowery fruitiness.Finish: About a minute after tasting, you are left with a clean and salving aftertaste with hints of orange and peach.The original expression of our elegant, floral spirit and the real backbone of the Glenmorangie range. A ten-year-old single malt, Glenmorangie Original is produced by marrying the delicate spirit that emerges from Scotland's tallest stills, with first and second fill American white oak casks.It is here, maturing for ten long years in a range of ex-bourbon casks such as our famous slow-grown and air-dried 'designer casks' from Missouri, that our raw spirit develops a perfect balance between sweetness and complexity. Resulting in a mature spirit that is soft, mellow and creamy. Perfect for enjoying at any time.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "_Dziki_",
+            "user_rank": "Connoisseur",
+            "rating": "78",
+            "review_date": "24 dec 2022 6:38 pm",
+            "content": "Dessert flavors, fruit - probably green apples with biscuits or biscuits, unfortunately very watered down in taste and feelings evaporate quickly",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Boletus",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "18 dec 2022 11:03 am",
+            "content": "You can't go wrong with this whisky. Consistently good, properly complex and quite tasty! If only the exit were a bit more impressive... he's going to run out of breath in the last few meters.",
+            "nose": "Vanilla, lemon, but also tangerines, freshly baked coconut macaroons, refreshingly lively, flower meadows in summer, apricots",
+            "taste": "Slightly watery onset, sweet, vanilla-lemon cream, ''Ahoi-Brause'' orange, candied pineapple, almond biscuits, apricots, light nougat, a few grated coconut, meadowsweet root, a little grassy, very milky milky coffee",
+            "finish": "Briefly, a squeeze of lemon, toasted almonds, latte with vanilla ice cream, the lightly toasted oak barely makes an appearance, mint, an enveloping hint of vanilla remains"
+        },
+        {
+            "user_name": "thomasjx",
+            "user_rank": "Connoisseur",
+            "rating": "74",
+            "review_date": "15 jul 2024 7:01 pm",
+            "content": "Beginner-friendly, can be made for around €30. Compared to alternatives (prime example: Arran 10), it falls far short for me. It comes across as rough and raucous and could be more complex and well-rounded at the same time. It makes a great gift and was actually my introduction to single malts years ago.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "hsmithjr",
+            "user_rank": "Connoisseur",
+            "rating": "76",
+            "review_date": "24 aug 2011 3:29 am",
+            "content": "Good price for a single malt.",
+            "nose": "Light and fruity.  Fresh fruit cups.  Vanilla toffee.  Pound cake.",
+            "taste": "Sweet and floral.  More toffee.  Spicy and nutty.  New oak.",
+            "finish": "Medium.  Sweet and dry.  Soft smoke."
+        },
+        {
+            "user_name": "Lorion",
+            "user_rank": "Connoisseur",
+            "rating": "71",
+            "review_date": "18 oct 2017 12:07 am",
+            "content": "What a mild whisky. And in that capacity he has convinced me more than his larger siblings (Lasantar and Nectar). 71 points.",
+            "nose": "Mild, sweet, uncomplicated. Slightly malty, (citrus) fruity.",
+            "taste": "Incredibly mild and supple in the nose.",
+            "finish": "Medium long and mild."
+        },
+        {
+            "user_name": "Falnor",
+            "user_rank": "Connoisseur",
+            "rating": "71",
+            "review_date": "20 may 2018 8:47 am",
+            "content": "Quite easy, drinkable, not very special but affordable. A fair combination for this entry level malt",
+            "nose": "Sweet spring apples and citrus fruit like orange and lime. Honey and cereals with some butter.",
+            "taste": "Again the apples and vanilla with honey and cream. A little fudge. Not so complex and quite the easy drinker.",
+            "finish": "Short finish. At the end slightly spicy, but the sweet vanilla with citrus is the main part."
+        },
+        {
+            "user_name": "drkrylov",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "23 nov 2012 7:53 pm",
+            "content": "The original expression of our elegant, floral spirit and the real backbone of the Glenmorangie range. A ten-year-old single malt, Glenmorangie Original is produced by marrying the delicate spirit that emerges from Scotland`s tallest stills, with first and second fill American white oak casks.http://www.glenmorangie.com/",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "drkrylov",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "02 jan 2012 7:34 am",
+            "content": "",
+            "nose": "Very distinctive, clean, oaky peatiness. This character is in the background throughout.",
+            "taste": "Flowery. Fudgy. Toffeeish. Nutty. Very soft, strained spiciness. Then toasty and peaty.",
+            "finish": "Firm, clean (almost crisp), peatiness. Then long, very soft, spicy and remarkably warming."
+        },
+        {
+            "user_name": "Achany",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "28 mar 2016 12:23 am",
+            "content": "I like Glenmorangie, the Original is a nicy bourbon style whisky, vanilla and the oak barrel. Clean and no fuss. Good stuff",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "TheWhiskybossch",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "13 aug 2020 8:44 pm",
+            "content": "Nice accessible whisky for anyone who wants to try a whisky. Easy to drink, not complex. Pleasant whisky. Always has a bottle in my cupboard.",
+            "nose": "Fresh and fruity with citrus notes (lemon/lime) and vanilla.",
+            "taste": "Vanilla, wood and sour.",
+            "finish": "Short, vanilla note"
+        },
+        {
+            "user_name": "spigray",
+            "user_rank": "Connoisseur",
+            "rating": "80",
+            "review_date": "10 mar 2017 12:57 pm",
+            "content": "I like it´s freshness and the profile but as I said.....80/100",
+            "nose": "light, fresh, malty, green pears, apples and some vanilla. that´s it, more or less. but let me say it´s a pleasant dram only a bit one-dimensional.",
+            "taste": "it has got a lovely profile which is nicely fresh and appetizingly fruity but unfortunately it´s also a bit watery and flat. a little higher alcohol would help for sure.",
+            "finish": "rather short and flat"
+        },
+        {
+            "user_name": "kikist",
+            "user_rank": "Connoisseur",
+            "rating": "78",
+            "review_date": "16 dec 2021 9:49 am",
+            "content": "Nose is really good, sweet, honey, hay, flowers....Taste and aftertaste are flat and empty :/",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "domani",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "24 feb 2016 11:30 pm",
+            "content": "Very nice and harmonious malt that tasted right away - 11.07.2014",
+            "nose": "Mild, lemon, peach",
+            "taste": "Mild and sweet with fruit flavors, some oak",
+            "finish": "medium"
+        },
+        {
+            "user_name": "LukeFive",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "30 oct 2013 8:12 pm",
+            "content": "Good malt for price",
+            "nose": "Fruity, toffee, coffee, spicy, nice and soft nose",
+            "taste": "Soft , fresh and crisp delivery, nice development, this one goes hand to hand with oak, nice ballance. Fudgy, salty, toffee, spicy , tiramisu like. Really nice.",
+            "finish": "Medium to long, spicy, coffee, malty."
+        },
+        {
+            "user_name": "aw-home",
+            "user_rank": "Connoisseur",
+            "rating": "80",
+            "review_date": "14 aug 2024 2:26 pm",
+            "content": "",
+            "nose": "Citrus fruits with green apples, pears, apricots, floral notes, honey and vanilla.",
+            "taste": "Vanilla with ripe citrus fruits, spices, honey and nut aromas.",
+            "finish": "Long with citrus fruits, floral notes, malty sweetness, spices and oak aromas."
+        },
+        {
+            "user_name": "boy_genius_ck",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "06 dec 2014 10:26 am",
+            "content": "wonderful flavors and complexity for a 10 year old, harmonious and well balanced at a price that won't break the pocketbook. will definitely buy another bottle... or two.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Goethe",
+            "user_rank": "Connoisseur",
+            "rating": "77",
+            "review_date": "09 feb 2015 8:43 pm",
+            "content": "Cardboard fruits with a white wine expression.Concerning price/performance ratio: 7/10",
+            "nose": "Floral and white wine (Riesling)! Fruits, pears, apples, vanilla, honey, mowed meadow.",
+            "taste": "Fruits, apples, nectarines, vanilla, almonds.",
+            "finish": "Medium. Vanilla, grape fruit, sweet cardboard."
+        },
+        {
+            "user_name": "Alex",
+            "user_rank": "Connoisseur",
+            "rating": "78",
+            "review_date": "24 jun 2013 2:33 pm",
+            "content": "easy every day dram, sometimes a bit too bitter.",
+            "nose": "floral, fruity and malty. Some ginger and cinnamon. Fresh and nice nose.",
+            "taste": "first sips are quite sweet on barley sugar, and nicely fruity. Soon herbal notes take over, getting more bitter.",
+            "finish": "medium, still some sweetness, but the bitterness from the wood is in control now."
+        },
+        {
+            "user_name": "Alex",
+            "user_rank": "Connoisseur",
+            "rating": "78",
+            "review_date": "30 sep 2012 6:33 am",
+            "content": "After 10 years in ex-Bourbon casks, the Glenmorangie spirit has had enough time to mature and mellow into a beautifully balanced yet marvelously complex malt whisky.  http://www.shanghai9.net/whisky-whisky/glenmorangie-single-highland-malt-scotch-whisky-10-year-old.html",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Ivynor",
+            "user_rank": "Expert Senior",
+            "rating": "81",
+            "review_date": "23 feb 2014 10:18 pm",
+            "content": "An excellent aperitif",
+            "nose": "honey, traces of lemon. Ultra soft",
+            "taste": "super easy to drink, sweet, sweet, caramel, green apple and apple tatin, honey. No hold in the mouth because of 40%.",
+            "finish": "Medium, a little syrup, caramel and baked apple"
+        },
+        {
+            "user_name": "Willie JJ",
+            "user_rank": "Expert Senior",
+            "rating": "76",
+            "review_date": "15 sep 2011 10:57 pm",
+            "content": "There's no real difference between this and the old ten other than the way in which the oak comes through less strongly here and in the slightly darker colour.  I just had a wee swig of the old ten as a control and there is no doubt that it has a lot more wood spice.  Is this good or bad?  Well it's just different.  The new dram is fresher and probably works better on a summer night and not so well in winter.  Still good.",
+            "nose": "seems less malty and more floral than the old ten but the basic characteristics are the same.",
+            "taste": "And on the palate its similar too, but there is less wood.  I wonder if there is a difference in the wood management showing up here.  Certainly the malt has more room to work, but it is lighter without the oak spice.",
+            "finish": "Now the wood comes through.  But it's still slower and lighter than it was in the old expression.  There is more space for vanilla notes and the wood somehow seems younger and cleaner and dusted with icing sugar."
+        },
+        {
+            "user_name": "BeatF",
+            "user_rank": "Photo Moderator",
+            "rating": "83",
+            "review_date": "15 apr 2011 11:21 pm",
+            "content": "LVHM distributes as a commodity a great whisky, which retains its quality over the nose, the key to the finish. Tip: upper room temperature opens this drop and brings it to full development!",
+            "nose": "wonderful blend of sour malt and sweet vanilla smell, rounded off by fruits (sultanas) and honey",
+            "taste": "pretty broad and aromatic",
+            "finish": "corresponds to the nose, slightly spicy (but still pleasant), leaves a pleasant warmth on the palate"
+        },
+        {
+            "user_name": "George_Martin2",
+            "user_rank": "Expert Senior",
+            "rating": "80",
+            "review_date": "25 aug 2022 9:01 am",
+            "content": "Fresh and light, not a \"must have\".",
+            "nose": "Light note, floral, fresh, vanilla, apple, pineapple, citrus fruits",
+            "taste": "Light pepper, oily, malty, oak",
+            "finish": "Oak, dry, slight bitterness, slightly alcoholic"
+        },
+        {
+            "user_name": "Whisky Hamster",
+            "user_rank": "Expert Senior",
+            "rating": "79",
+            "review_date": "19 mar 2021 6:11 pm",
+            "content": "Thanks to the nice bottle shape, tasteful label, and often free glasses included in the gift pack at same price, you are tricked to believe this juice is better than, e.g. Glenlivet or Glenfiddich 12. It is not. Pretty generic entry malt without off notes, but not as fruity, floral and smooth as you might think. The older (minus the new Nectar d'Or) cask finish versions are a clear step up in quality.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "ZLako",
+            "user_rank": "Expert Senior",
+            "rating": "87",
+            "review_date": "05 nov 2022 12:28 am",
+            "content": "My bottled was bottled in 2022.01.13 just for reference.As strange as it might get I have never yet tasted \"The Original\" Glenmorangie. Only had the Nectar D'Or, Quinta Ruban and the 18 years old. Was time I got a bottle and tasted it. 34 EUR not bad not terrible. N: Intense sweetness. Vanilla and coconut. Peaches and toffee coming through. Then getting some nice oak notes with fresh fruits and citrus peel. Green apples and nuts. This is a great and full nose for 40% and 10 years. (86)P: Pears, green apples and vanilla. A pinch of black pepper coming. Coconut and some cinnamon. Mouth coating and full. Honey with peaches and malt notes. This is great. (88)F: I'd say long because the aftertaste lingers around for quite long. Sweet and fruity with a hint of oak and pepper. (86)I am very happy with the quality of this whisky. Will keep around a bottle.86 / 88 / 86 = 86.6667 --> 87 pts / 100",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        }
+    ]
+}

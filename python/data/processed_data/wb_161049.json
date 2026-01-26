@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Aberlour 12-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Aberlour",
+        "ws_age": 12,
+        "ws_abv": 40.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/1/6/1049/442050-normal.png",
+        "ws_rating": 81.24,
+        "ws_vote_cnt": 626,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/161049/aberlour-12-year-old",
+        "ws_id": "161049",
+        "collected_count": 31,
+        "flavor_profile": {
+            "fruity": 5.2,
+            "sweet": 5.8,
+            "peaty": 0.2,
+            "spicy": 3.6,
+            "woody": 3.5,
+            "malty": 1.9
+        },
+        "top_keywords": [
+            "bourbon",
+            "toffee",
+            "clove",
+            "sweet",
+            "fig"
+        ],
+        "ws_name_kr": "아버루어 12년",
+        "ws_distillery_kr": "아버루어"
+    }
+}

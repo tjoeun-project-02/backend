@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Deanston Virgin Oak",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Deanston",
+        "ws_age": null,
+        "ws_abv": 58.5,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/2/3/8912/429337-normal.png",
+        "ws_rating": 85.38,
+        "ws_vote_cnt": 156,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/238912/deanston-virgin-oak",
+        "ws_id": "238912",
+        "collected_count": 20,
+        "flavor_profile": {
+            "fruity": 4.4,
+            "sweet": 6.4,
+            "peaty": 0.3,
+            "spicy": 4.4,
+            "woody": 4.5,
+            "malty": 1.9
+        },
+        "top_keywords": [
+            "oak",
+            "toffee",
+            "peach",
+            "oil",
+            "sweet"
+        ],
+        "ws_name_kr": "딘스턴 버진 오크",
+        "ws_distillery_kr": "딘스턴"
+    }
+}

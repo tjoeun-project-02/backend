@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Dalmore 15-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Dalmore",
+        "ws_age": 15,
+        "ws_abv": 40.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/3/6/789/512189-normal.png",
+        "ws_rating": 82.96,
+        "ws_vote_cnt": 873,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/36789/dalmore-15-year-old",
+        "ws_id": "36789",
+        "collected_count": 50,
+        "flavor_profile": {
+            "fruity": 5.3,
+            "sweet": 5.8,
+            "peaty": 0.5,
+            "spicy": 4.4,
+            "woody": 4.5,
+            "malty": 2.2
+        },
+        "top_keywords": [
+            "raisin",
+            "mint",
+            "butterscotch",
+            "leather",
+            "earthy"
+        ],
+        "ws_name_kr": "달모어 15년",
+        "ws_distillery_kr": "달모어"
+    }
+}

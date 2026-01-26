@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Deanston 18-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Deanston",
+        "ws_age": 18,
+        "ws_abv": 46.3,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/6/8/563/109838-normal.png",
+        "ws_rating": 85.55,
+        "ws_vote_cnt": 544,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/68563/deanston-18-year-old",
+        "ws_id": "68563",
+        "collected_count": 52,
+        "flavor_profile": {
+            "fruity": 4.5,
+            "sweet": 5.2,
+            "peaty": 0.7,
+            "spicy": 3.7,
+            "woody": 4.0,
+            "malty": 3.2
+        },
+        "top_keywords": [
+            "spice",
+            "malt",
+            "iodine",
+            "sweet",
+            "woody"
+        ],
+        "ws_name_kr": "딘스턴 18년",
+        "ws_distillery_kr": "딘스턴"
+    }
+}

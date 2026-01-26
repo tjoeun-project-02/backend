@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Benromach 10-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Benromach",
+        "ws_age": 10,
+        "ws_abv": 43.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/1/5/9713/271079-normal.png",
+        "ws_rating": 84.06,
+        "ws_vote_cnt": 775,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/159713/benromach-10-year-old",
+        "ws_id": "159713",
+        "collected_count": 51,
+        "flavor_profile": {
+            "fruity": 4.4,
+            "sweet": 4.8,
+            "peaty": 2.0,
+            "spicy": 4.2,
+            "woody": 3.7,
+            "malty": 2.2
+        },
+        "top_keywords": [
+            "smoky",
+            "mint",
+            "fruity",
+            "yeast",
+            "iodine"
+        ],
+        "ws_name_kr": "벤로마크 10년",
+        "ws_distillery_kr": "벤로마크"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Glenmorangie 12-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Glenmorangie",
+        "ws_age": 12,
+        "ws_abv": 40.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/2/7/2123/490380-normal.png",
+        "ws_rating": 82.29,
+        "ws_vote_cnt": 164,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/272123/glenmorangie-12-year-old",
+        "ws_id": "272123",
+        "collected_count": 15,
+        "flavor_profile": {
+            "fruity": 5.1,
+            "sweet": 5.9,
+            "peaty": 0.1,
+            "spicy": 3.5,
+            "woody": 2.6,
+            "malty": 2.0
+        },
+        "top_keywords": [
+            "citrus",
+            "vanilla",
+            "bread",
+            "malt",
+            "earthy"
+        ],
+        "ws_name_kr": "글렌모렌지 12년",
+        "ws_distillery_kr": "글렌모렌지"
+    }
+}

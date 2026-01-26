@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Glen Grant 18-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Glen Grant",
+        "ws_age": 18,
+        "ws_abv": 43.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/2/1/9297/494975-normal.png",
+        "ws_rating": 85.29,
+        "ws_vote_cnt": 216,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/219297/glen-grant-18-year-old",
+        "ws_id": "219297",
+        "collected_count": 15,
+        "flavor_profile": {
+            "fruity": 4.1,
+            "sweet": 4.2,
+            "peaty": 0.0,
+            "spicy": 2.1,
+            "woody": 2.4,
+            "malty": 2.0
+        },
+        "top_keywords": [
+            "bourbon",
+            "toffee",
+            "malt",
+            "fruity",
+            "balanced"
+        ],
+        "ws_name_kr": "글렌 그랜트 18년",
+        "ws_distillery_kr": "글렌 그랜트"
+    }
+}

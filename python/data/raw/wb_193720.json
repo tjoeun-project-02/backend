@@ -1,0 +1,426 @@
+{
+    "info": {
+        "ws_name": "Glen Grant 15-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Glen Grant",
+        "ws_age": 15,
+        "ws_abv": 50.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/1/9/3720/349646-normal.png",
+        "ws_rating": 84.08,
+        "ws_vote_cnt": 274,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/193720/glen-grant-15-year-old"
+    },
+    "collected_count": 41,
+    "reviews": [
+        {
+            "user_name": "dram-drinker",
+            "user_rank": "Photo Moderator",
+            "rating": "86",
+            "review_date": "03 may 2023 9:39 pm",
+            "content": "Actually quite nice and easy drinkable",
+            "nose": "Vanilla, almonds, nuts, marzipan, cookie dough, honeydew, yellow fruits, hay, cereals, ripe banana",
+            "taste": "Oily, fruity, vanilla, honeydew, good sweetness, spices, pepper, yellow fruits, almonds, dough, oak wood",
+            "finish": "Medium, long, warm, vanilla, spices, oak wood, honey"
+        },
+        {
+            "user_name": "Baanaanaabob",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "22 may 2023 9:07 pm",
+            "content": "Vanilla, almond, apple pie, honey, banana, coconut, pepper, nicely fruity",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "wisekyofcourse",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "01 dec 2021 9:06 pm",
+            "content": "Interesting because the GG imprint is still present despite a change of masterblender at the controls nose: peppery spices are in the foreground, where the fruit salad is much more pronounced than the leading product of GMS fresh, intense fruit, a blend of natural peach and artificial with a very strong sweet taste, a malty return mouth: The good side of this product are the stubborn scents that make it different from other distilleries, it's fresh, it is almost drunk more than it tastes, the squeezed fruits are very sweet on peach, apricot, dry oak. , in short better than it seems nuts a little roasted in return to calm this riot of fruit, well the spicy return is felt final: Long, fruity and spicy, simple but intense. More interesting than it seems.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Paddy_Glen",
+            "user_rank": "Connoisseur",
+            "rating": "74",
+            "review_date": "19 sep 2022 11:00 am",
+            "content": "2+8+10+4+50",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "MrGlenfarclas",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "18 aug 2023 5:46 pm",
+            "content": "Not a bad bottling. No misses. But nothing special either. Relatively sparkling for its 15 years. A lot of fresh apple. Vanilla. cookie dough. Citric notes. A slight sweetness on the tongue. Not particularly demanding. I'm happy to take a dram here. But a whole bottle would be too boring.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "_Dziki_",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "02 aug 2023 11:15 pm",
+            "content": "",
+            "nose": "Sweet, icing and caramel, there is vanilla and hints of citrus.",
+            "taste": "As in aroma, caramel, vanilla, honey, toffee.",
+            "finish": "Not too long, sweet, slightly warming."
+        },
+        {
+            "user_name": "JoshNRW",
+            "user_rank": "Connoisseur",
+            "rating": "87",
+            "review_date": "27 may 2022 1:18 am",
+            "content": "After a short whisky evening with a few disappointments, I wanted to finish with a whisky that surprised me positively and that I could simply enjoy. I could hardly have made a better choice. I would wish for such honest whiskys more often and I'm sure they were made for such a simple pleasure many years ago. The price is outstanding and I would prefer this malt to any young and overly barrel driven SV at 55 percent for 90 euros.",
+            "nose": "88.5 For anyone who can enjoy a Glen Grant Standard, this easy bourbon aging nose is to die for. Full honey notes with vanilla, hazelnut and Christmas apples. Percentages and age go together perfectly here at Glencairn. With the 15 years and the 50 percent this is just a perfect dram to end a nice evening with a delicious whisky. There isn't much to discover here, but when a whisky is made so beautifully simple and yet intensely clean, you don't always need to discover it.",
+            "taste": "The start is strong, full, ripe and characterized by sweet butter cake and honey. For my taste it could have been 5 percent less, but you can easily achieve that in a 3cl sample with 3-4 drops of water. If a slight sympathy for middle-aged Glen Grant maturations should have an influence here, I beg your indulgence. I just really like the light wood note with vanilla of such whiskys. For some connoisseurs, this is only 84-85 points, because it seems too boring. That's okay and understandable. This just goes to show that whisky is a matter of taste and many people don't prefer this to a blatant sherry sweetness. Everyone has to decide for themselves and that's totally ok. I am happy about every message and invitation that suggests an evening together with the two contrasting aroma profiles.",
+            "finish": "86.5 A medium-long interplay of sweet and bitter aromas. Simple but good."
+        },
+        {
+            "user_name": "Othorion",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "02 oct 2024 8:03 pm",
+            "content": "",
+            "nose": "spicy, apple compote with a hint of cinnamon, honey, vanilla sauce, roasted almonds, pear juice, but also a bit of alcohol, a slightly sour note of apple cider vinegar",
+            "taste": "Here too, a spicy start, nutty, creamy, vanilla pudding, green apple, black pepper, slightly unripe pear, honey, a little black coffee",
+            "finish": "walnuts, coffee, oak spice, green apple and vanilla"
+        },
+        {
+            "user_name": "DramALife",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "07 jun 2022 7:32 pm",
+            "content": "S 7 I can’t tell if there’s any fruit when having it neat, it’s rather malty and bourbon-like. Adding a few drops of water elevated the nose and palate with fruits while shortening the finish. Can’t really say it’s a “fruit bomb” like how it's described by others here, but very professionally crafted. [78-82] I'll gladly welcome another dram.N 25 Oaky and vanilla. With a few drops of water, the juicy fruits finally surfaced. Half-ripe banana, red apple, a whiff citrusy. The spirit strength, however, also became more noticeable. P 26 Way more sophisticated than my expectation drawn from nosing it. Creamy, sweet malt, and a lot of peppery spices that gradually smoothen out. Subtle honey running behind. Then elegant wood fragrance arrives with a faint amount of orchard fruits (red apples, white peach). Water enhanced the fruits to add an extra layer of complexity. F 23 Mid, mildly dry finish. Freshly baked loaf with warm spices lingering.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Will_iam",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "02 sep 2023 12:28 pm",
+            "content": "Great whisky to just drink",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "kikist",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "03 jun 2024 7:08 pm",
+            "content": "15 yo, high abv, glen grant, good price I though this should be good buy... and it is really good value for money at todays market... however i guess it can be even better with slightly better cask selection",
+            "nose": "Need some time in the glass...overbaked cookies, apple vinegar, apple pie, alcohol is not well integrated, a little bit earthy, a lot of sweet honey, really floral (mainly St. John's wort), oak, really herbal (sage), nice vanilla, lightly mossy",
+            "taste": "Oak, cookies, light sweetness, coffee residue, warm pastry, vanilla, welding smoke, alcohol is there, oak bitterness, light rosemary, bitterSlightly too hot",
+            "finish": "Slightly floral, sage tea, dark oak, caramel, puff pastry, lightly parfumy, apple pie, artificially flavored apple candy, stays at palate pretty longSlightly too wild"
+        },
+        {
+            "user_name": "domani",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "05 nov 2022 6:44 pm",
+            "content": "Nice whisky that surprised me positively. Offers scope to play with water and is also interesting in terms of price - 05.11.2022",
+            "nose": "Malty, wheat, star fruit, gooseberry, rosehip, ovaltine, toffee, nice interplay between sour fruits and fine sweetness",
+            "taste": "Strong oak, lots of pepper, the percentages are noticeable but not intrusive, honey, biscuits, sweet fruit",
+            "finish": "Medium length, honey, oak, the alcohol strength is still noticeable, ripe banana"
+        },
+        {
+            "user_name": "ryju007",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "07 jan 2025 10:48 pm",
+            "content": "",
+            "nose": "sweet apples, pears, a bit of earthy aromas in the background, sweet crumble, lots of vanilla with oak, sourdough bread, a pinch of pepper, pure bourbon vibes",
+            "taste": "sweetness with a large dose of chili pepper spiciness - intensely warming and even burning, apart from that consistent with the nose, with chocolate accents",
+            "finish": "quite short, intensely warming, sweet with a bit of bitterness from the fruit stone"
+        },
+        {
+            "user_name": "minialkoff",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "09 dec 2023 9:27 pm",
+            "content": "21+22+21+21",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "craide",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "02 dec 2022 11:22 pm",
+            "content": "Not a bad malt. But not very versatile for me. In addition, the quite high alcohol content, that doesn't really go together for me, 4-5% less would probably be better.",
+            "nose": "Nose is slightly closed to me. Vanilla and caramel are noticeable, but fruit and sweetness are only timid. Citrus fruits, apple, a bit malty, butter biscuits, maybe a subtle almond aroma. With a little more time in the glass, a subtle alcoholic sting is added. Not exactly uncomfortable but a bit annoying. Still a very good nose.",
+            "taste": "Sparkling, spicy, more sour after citrus, grapefruit, some gooseberries. More intense on the palate. Honey sweetness with butter almond cake, slightly floral, the 2nd sip seems slightly alcoholic to me, a bit spicy. Oak spice is slightly dominant and suppresses fruit and sweetness a bit and then also seems bitter to me.",
+            "finish": "Medium-length finish, vanilla, banana, honey sweetness, still slightly bitter,"
+        },
+        {
+            "user_name": "KIMCHIBaby",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "20 may 2024 6:12 pm",
+            "content": "It is characterized by a bright amber color, light body, and green apple scent.",
+            "nose": "Flowers, green grapes, apples, soil",
+            "taste": "Vanilla, green apple, lime, wood",
+            "finish": "Oak barrel, vanilla, green apple"
+        },
+        {
+            "user_name": "kawhi",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "19 apr 2024 11:19 pm",
+            "content": "At the bar.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "rich_93",
+            "user_rank": "Expert Senior",
+            "rating": "87",
+            "review_date": "09 mar 2022 6:57 pm",
+            "content": "Initially, a malt covered in a fresh bourbon blanket, I was very disappointed. With time, I am stunned by how lovely this is, and completely won over. Totally my style of whisky, could have this every day. Despite what most people say, I think this behaves well with water. It’s quite spicy neat, so you’ll want to experiment if you want to get to the gentler floral and fruity notes.",
+            "nose": "A little bit of a prickle at 50%. Very buttery, with lots of orchard fruit and plenty of spice. Apricot, peach, pear, apple, orange, lime perhaps. Honey and yellow florals. An intentional composition, the blender knows exactly what he’s doing here. Vanilla, tonka bean, cinnamon, hints of pastries but not too bready - this one is all about the fruit. Hint of lily of the valley, and even an acquatic / ozonic tinge - makes me think watermelon.",
+            "taste": "Just a very pleasant mixture of sour and sweet on the tongue. The citruses gain a bit of ground compared to the nose. Developer nicely from soft fruits to spicy buildup. Heavy herbal honey, lemon and orange, peach, apricots, sweet apple, sourdough.",
+            "finish": "Fairly dry but not overly so, plenty long for the age. The fruits continue, supported by nice bready notes and some herbs. Massard put it very well below - simple but intense."
+        },
+        {
+            "user_name": "pilgrim77",
+            "user_rank": "Expert Senior",
+            "rating": "86",
+            "review_date": "10 nov 2022 8:29 pm",
+            "content": "Malty, fruity nose (ripe, orchard fruits), where a few drops of water open things up, allowing through vanilla caramel, oak and biscoff biscuits. Very similar profile on the palate, although the alcohol burn is more noticeable than on the nose, definitely needing water to tame it. A drying, slightly metallic note emerges late on, and dominates the medium-length finish more than I’d like. Very fresh and lively nose and palate, then, only let down slightly by the finish.Edit: got a lot sweeter and the sharper edges disappeared as the bottle got under half full. 85 fresh pour. 87 now. Updating score to average of 86.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "bl0wb4ck",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "05 apr 2023 11:30 pm",
+            "content": "",
+            "nose": "first oak, then typical ExBC notes. Caramel dominates here, vanilla is only subtle in the background. The 50 volume percent are not noticeable in the nose.",
+            "taste": "Again, first the wood. In addition some sweetness and a few light fruits, reminiscent of mashed pears. Here the 50 percent by volume is now clearly perceptible. With a drop of water then again a good deal more intense and voluminous.",
+            "finish": "Medium long, slightly bitter. Nothing special for a 15yo."
+        },
+        {
+            "user_name": "Peatyjohn",
+            "user_rank": "Expert Senior",
+            "rating": "87",
+            "review_date": "26 sep 2025 7:21 pm",
+            "content": "Tasted at distillery. Glen Grant's single malt, matured for 15 years in a combination of ex-bourbon and ex-sherry casks. Bottled up at a hearty 50% ABV, it boasts a bold, fruity profile with plenty of vanilla rich oak char. I further get banana, caramels , almonds, brioche, reminds me of bread and butter pudding. Could sip this all night.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Nomorewh",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "26 jan 2024 10:55 am",
+            "content": "",
+            "nose": "flowery, vanilla, woods, apples",
+            "taste": "vanilla and woods.spicy",
+            "finish": "vanilla and woods"
+        },
+        {
+            "user_name": "Mugis",
+            "user_rank": "Expert Senior",
+            "rating": "86",
+            "review_date": "07 feb 2025 7:47 pm",
+            "content": "",
+            "nose": "Sweet, vanilla, mild, oak.",
+            "taste": "Strong, floral, sweet, some oak, lemon drops.",
+            "finish": "Very sweet, light fruit, becomes dry and spicy."
+        },
+        {
+            "user_name": "fledDerick",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "31 dec 2022 11:37 pm",
+            "content": "Vanilla, fruit, lemon.Very smooth, honey, creamy.Pepper and honey",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "whisky_knight",
+            "user_rank": "Expert Senior",
+            "rating": "80",
+            "review_date": "04 aug 2023 10:11 am",
+            "content": "Trying the standard Glen Grant 15 Year Old – Batch Strength 1st Edition (New Label) right after sampling the standard Glen Grant 12 Year Old (New & Old Label) was a great way to see how additional years, and a higher ABV (50%) can help enrich the Glen Grant flavor profile.This was definitely a bottle I could see myself enjoying regularly, sharing with friends and it brought more insight into the core Glen Grant character. Onto the Glen Grant 15 Year Old (Old Label) next…",
+            "nose": "On the nose, the standard Glen Grant 15 Year Old (New Label) immediately stood out over the 12 Year Old we just tried, with a stronger, richer Manuka honey note, bolder caramel and vanilla notes.",
+            "taste": "There’s a medium coating mouthfeel, with some ginger right on the front palate, the higher ABV is felt from the start. And similar to the nose, the palate of this standard Glen Grant 15 Year (New Label) featured a richer flavor profile, with stronger ripe apple notes, baked apples, stronger honey and caramel notes, reflecting what I got on the nose.",
+            "finish": "Long finish, with fading prickly ginger spice, honey, barley sugars, just a pleasant finish."
+        },
+        {
+            "user_name": "Sanma",
+            "user_rank": "Expert Senior",
+            "rating": "86",
+            "review_date": "06 nov 2024 12:33 pm",
+            "content": "",
+            "nose": "Pear, apple, green grape, pineapple, lemon, honey, floral, woody, vanilla, nutty, mint, banana, toffee, coconut, cookie, white chocolate",
+            "taste": "Pear, floral, vanilla, green grape, pepper, mint, toffee, apricot, malty",
+            "finish": "Vanilla, pepper, cinnamon, oak, honey, floral, slightly bitter, toffee"
+        },
+        {
+            "user_name": "wbarchive_864627",
+            "user_rank": "Expert Senior",
+            "rating": "80",
+            "review_date": "03 jan 2024 2:45 am",
+            "content": "A whisky that suffers from a significant degradation problem once opened. The 1L bottle I bought after having tasted this one (before it started to degrade) thankfully does not suffer from this. I don't know if it is a batch thing or if they actually put different stock in the 70cl vs 1L bottle, but I'm much more satisfied with the latter (4 points higher).Still, cheap, 50% 15-year old nowadays is hard to find, and there is nothing too wrong about it.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Hsh",
+            "user_rank": "Expert Senior",
+            "rating": "83",
+            "review_date": "09 mar 2025 4:02 am",
+            "content": "Cereal Honey Green Apple Vanilla Syrup Heavy Body",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "EnnongE",
+            "user_rank": "Expert Senior",
+            "rating": "83",
+            "review_date": "29 apr 2024 6:42 am",
+            "content": "Nose: Flower, apple flesh, apple jam, breadTaste: Honey, appleFinish: Oak, Korean taffy",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Falkirkalash",
+            "user_rank": "Expert Senior",
+            "rating": "88",
+            "review_date": "18 sep 2023 10:31 pm",
+            "content": "Had it at the Ardshiel Hotel in Campbeltown.",
+            "nose": "Nice acid spicy fruity smell. Floral notes",
+            "taste": "Spicy, sweet, tongue biting, orange peel",
+            "finish": "Not long, spicy, but of bitterness"
+        },
+        {
+            "user_name": "Emperor69",
+            "user_rank": "Expert Junior",
+            "rating": "85",
+            "review_date": "24 may 2022 12:15 pm",
+            "content": "Glen Grant 15YO Category: Single Malt Producer and bottler: Glen Grant Distillery (Campari) Region: Speyside Strength: 50% (barrel) Bottling series: Batch Strength - 1st Edition Volume: 1000 ml (Duty Free) Barrel type: 1st fill ex-Bourbon Bottling date: LR0/FG 20 Min. age: 15 years Filtration: none Dye: no Nose. Orange confiture, lime, pear, honey melon, red apple with cinnamon, apricot, baked butterscotch, herbaceous notes, vanilla, ginger. As you can see, it continues the line of its predecessors - the same bright fruity profile, but noticeably spicier and with a greater influence of wood. Adding water enhances the fruity tones. Taste. We took sliced fruit (red apples, pears, apricots), added cinchona bark, malt, poured floral honey on top, melted creamy toffee, sprinkled a little lime juice for sourness and, so that the resulting cocktail was not too cloyingly sweet, added a fair amount of spices (orange zest, vanilla, cinnamon, ginger). The whisky has good density, a “fat” creamy vanilla texture and a good balance in taste. Aftertaste. Medium to long. Noticeably dry. Orange confiture, red apple pulp, malt, vanilla, ginger. Summary. An excellent representative of pure bourbon aging in the Speyside style, uncomplicated, a little straightforward, but bright, powerful, fresh, sweet. \"Fruit bomb\" as it is. It may seem too spicy, especially for beginners, but that's why it's cask strength - just add water! I personally prefer Highland bourbon makers, who seem more austere, elegant and intelligent, but here one cannot fail to note the skill of the wizards from Glen Grant - they have produced very high-quality whisky. Score: 85 out of 100.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Kim_1",
+            "user_rank": "Expert Junior",
+            "rating": "84",
+            "review_date": "12 dec 2025 12:00 am",
+            "content": "Very nice at nose, but not expected bitter note is felt in the mouth",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Flerodex",
+            "user_rank": "Expert Junior",
+            "rating": "81",
+            "review_date": "19 jul 2025 7:28 am",
+            "content": "In the Murray's Bible, this dram have a rating until 97...I bought may be a wrong bottle.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Jabarkas",
+            "user_rank": "Expert Junior",
+            "rating": "80",
+            "review_date": "25 jul 2022 12:55 pm",
+            "content": "Not a bad one. Nice summer dram even with that relatively high abv. Its just not very exciting in any way. It really opens up nicely with a drop of water.",
+            "nose": "Citruses, vanilla.",
+            "taste": "Pineapple, apple, bourbon casks, honey.",
+            "finish": "Pineapple, caramel."
+        },
+        {
+            "user_name": "nsfw",
+            "user_rank": "Member Senior",
+            "rating": "84",
+            "review_date": "24 sep 2023 5:38 pm",
+            "content": "the standard of bourbon cask whisky.But it's a shame that the scent and taste are weak.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "pepsi",
+            "user_rank": "Member Senior",
+            "rating": "84",
+            "review_date": "02 oct 2023 9:07 pm",
+            "content": "I think the taste and flavor are good for the price.",
+            "nose": "The scent of flowers and honey meets the scent of citrus for a refreshing experience. It has a mandarin-like aroma like orange, a hint of vanilla, a nutty grain aroma, and a herbal aroma of grass.",
+            "taste": "The first taste is a rich honey flavor, followed by a sweet and refreshing fruity flavor.",
+            "finish": "The bright scent of flowers"
+        },
+        {
+            "user_name": "Ekoasome",
+            "user_rank": "Member Senior",
+            "rating": "83",
+            "review_date": "20 apr 2024 8:52 pm",
+            "content": "Nose: apples with cinnamon, apple pie, pears, peaches, citrus fruits. Taste: as in the aroma plus pepper, a bit too bitter and peppery Finish: medium, green apples, pepper, lychee",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "struth66",
+            "user_rank": "Member Junior",
+            "rating": "90",
+            "review_date": "28 jun 2023 7:34 pm",
+            "content": "a nice summer fruity malt with a sherry touch in the palate.a decent 50%abv helps this along and I prefer this to the excellent 18.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Fallenroads",
+            "user_rank": "Member Junior",
+            "rating": "75",
+            "review_date": "23 jul 2024 12:30 pm",
+            "content": "smooth, sweet of rock fruit(peaches), with vanila, but no complexity",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "commonwhiskytaster1",
+            "user_rank": "Newbie",
+            "rating": "82",
+            "review_date": "23 aug 2025 8:54 am",
+            "content": "Spirit character got eaten by cask. That doesn't mean this dram have many fruits essence. And so raw spirit texture to don't think 15years matured. So disappointed.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "qzwxecrv567",
+            "user_rank": "Newbie",
+            "rating": null,
+            "review_date": "01 jul 2024 12:24 pm",
+            "content": "Nothing special, ordinary, forgetable.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        }
+    ]
+}

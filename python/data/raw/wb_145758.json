@@ -1,0 +1,346 @@
+{
+    "info": {
+        "ws_name": "Glenlivet 18-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Glenlivet",
+        "ws_age": 18,
+        "ws_abv": 40.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/1/4/5758/269498-normal.png",
+        "ws_rating": 84.14,
+        "ws_vote_cnt": 404,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/145758/glenlivet-18-year-old"
+    },
+    "collected_count": 33,
+    "reviews": [
+        {
+            "user_name": "Slàinte Mhath",
+            "user_rank": "Super Administrator",
+            "rating": "84",
+            "review_date": "22 jan 2022 9:03 pm",
+            "content": "Quick hit review.Pernod Ricard recently adjusted the ABV of Glenlivet 18 by 3%, but unfortunately into the wrong direction. Almost like a quality blend, the nose is characterized by apple sauce, cinnamon and sweet oranges. Very gentle and civilized on the palate as well, emphasizing fruity and spicy notes with a hint of dry oak. More on the short side, the finish is marked by nutmeg, grapefruit zest and soda. It's hard to complain at this price.RATING: 3.5/5.0 stars ≙ 84 pts → ABOVE AVERAGE",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "90ClubWhisky",
+            "user_rank": "Connoisseur",
+            "rating": "87",
+            "review_date": "22 dec 2021 5:54 pm",
+            "content": "",
+            "nose": "",
+            "taste": "Spices. Sweetness. Caramel. Ginger. A bit of creaminess.",
+            "finish": "Sweetness. Caramel. Spices. Vanilla. A bit spicy. Medium length."
+        },
+        {
+            "user_name": "Georges",
+            "user_rank": "Connoisseur",
+            "rating": "88",
+            "review_date": "05 mar 2020 10:08 pm",
+            "content": "",
+            "nose": "Sweet malt, fruity (oranges, apricots, grapefruit), honey, spicy (pepper, cinnamon, nutmeg)",
+            "taste": "Soft, sweet, sherry, oily, creamy, buttery, fruity (oranges, apricots), toffee, spicy, citrus, lemon zest, honey, vanilla",
+            "finish": "Long, smooth, fruity, raisins, oaky, spicy"
+        },
+        {
+            "user_name": "pianoman",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "19 aug 2023 8:02 pm",
+            "content": "",
+            "nose": "Light. Raisins, baked apple, a hint of cinnamon. dry earth. Hazelnut. Milk chocolate.",
+            "taste": "Raisins, apricots, a hint of brown sugar. Some caramel and nougat. Rather short.",
+            "finish": ""
+        },
+        {
+            "user_name": "WiltChamberlain",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "23 feb 2021 6:13 pm",
+            "content": "mass market whisky. Mild, fruity, fresh.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "DistiLesha",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "23 may 2025 10:12 pm",
+            "content": "Didn't impress me at all. In fact, it is clear why the price of decent 18-year-olds is almost twice as high as this 18-year-old Glenlivet. The whisky is really significantly inferior to many of its peers. The aroma and taste are still not bad, but the aftertaste is a complete failure. 22 22 20 20",
+            "nose": "Vanilla, dried fruits, apple-pear puree, youth, grassiness, wood. Intensity: 7/10",
+            "taste": "Watery. Vanilla and crushed apples, dried apricots, sliced sweet and sour green pear, lots of vanilla, a fresh and bright portion of flower honey, iron beer. Sweetness: 7/10 Saturation: 6/10",
+            "finish": "One of the worst expressions of woodiness in the aftertaste. In addition to the strange woodiness, a light and almost alcoholic bitterness is mixed with floral honey and vanilla. It's off-putting."
+        },
+        {
+            "user_name": "MaroFF",
+            "user_rank": "Connoisseur",
+            "rating": "88",
+            "review_date": "03 sep 2021 6:59 pm",
+            "content": "Very light, mild with a good taste of whisky. Version 12 and even 15 years old do not have a \"start\" to it The alcohol is completely hidden, which makes the whisky taste like a fruit compote with a nice touch of a warm and pleasant moment at the very end. Perfect as a dessert whisky, and also as everyday dram",
+            "nose": "delicate, sweet, raisins, white chocolate, vanilla, orange",
+            "taste": "sweet, honey, oily, very mild, fruity, orange, light oak.",
+            "finish": "quite long, pleasant, slightly peppery, dark chocolate, warming tip, raisins"
+        },
+        {
+            "user_name": "ffmdino",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "02 sep 2020 6:36 pm",
+            "content": "this 18 has no smoky note, the old one does  more ABV would suit him well  Although he likes the old one with 43% and I liked this smoke grade better",
+            "nose": "Sherry, raisins, slightly sweet, slightly tingling, spicy, brown apple, slightly gummy, brown sugar, slightly red berry",
+            "taste": "strong on the palate  Sherry, light oak, spicy, sherry goes well, red berries (raspberry?), Light espresso, the alcohol stings a bit",
+            "finish": "medium long  light oak, sherry, tart, spicy becomes more, liquorice"
+        },
+        {
+            "user_name": "_Dziki_",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "26 nov 2023 5:58 pm",
+            "content": "",
+            "nose": "Marzipan, nut halva, almonds, student mix, caramel, Amaretto, pine needle syrup, resin, cane sugar, milk chocolate.",
+            "taste": "Similar to the aroma, but you can immediately feel the shortcomings: salted caramel, peanuts, nougat, halva, sunflower seeds, sesame, white chocolate, nutmeg.",
+            "finish": "Rather short, here it is the worst, blurry, quite flat, caramel, icing, spices."
+        },
+        {
+            "user_name": "Damek",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "11 dec 2023 4:36 pm",
+            "content": "",
+            "nose": "Nose: Pleasant and light, vanilla, toffee, chocolate, a bit buttery, marzipan, nuts, citrus, oranges, sour apples, baked apples, dried apricots, cinnamon, wood, pepper. 84.00",
+            "taste": "Taste: Extremely intense and full for 40%, vanilla, toffee, caramel, cocoa powder, tart wood, fruit, citrus, grapefruit, orange peel, clearly noticeable pepper, cinnamon, nuts. 83.50",
+            "finish": "Finish: Long lasting, which is surprising considering the 40%, sweet, dark chocolate, dark caramel, nuts, wood, apricot, orange peel, spices, a bit of spice. 84.00"
+        },
+        {
+            "user_name": "Falang",
+            "user_rank": "Expert Senior",
+            "rating": "87",
+            "review_date": "24 mar 2020 3:12 pm",
+            "content": "Great whisky but a bit low on ABV. If this whould have had 48% alcohol I think it would have been more balanced, had would have had more depth. Nevertheless this is a great product :-) Well crafted and clever - a lot too discover within a very narrow range of flavors. At first this might seem a simple whisky, but it's not. Let it open up, let it evolve. Great depth with hints of peach, honey like sweetness, leafy influences, vanilla and a hidden sourness. Lovely!",
+            "nose": "Smooth odeur; sweet with a very strong aroma of butter. Hints of toffee, vanilla and a touch of dry cotton. Bit leafy at the end plus some wet forest floor.",
+            "taste": "The Glenlivet 18 year old is a true masters product, well crafted and balanced. Bit low on ABV, but it's ok. Not too watery. And full of flavors: hints of sourness with orange geste, warm apples in the oven, pear and pie. Although all these components are considered to be warm, this whisky gives something fresh -almost like minty (mentol candy)… Hint of milk chocolate, hint of hidden leather. Leafy at the end. Lovely!",
+            "finish": "A balanced aftertaste; with hints of cardamon and chicory, sensible and soft, royal and pleasing. Bit fragrant, and flowery. Hint of cocos. And then a series of feinty herbs seem to enter. Milk chocolate at the end."
+        },
+        {
+            "user_name": "Abadon05",
+            "user_rank": "Expert Senior",
+            "rating": "82",
+            "review_date": "03 oct 2020 4:43 pm",
+            "content": "60 € for an 18 year old? You have to get it that way first. Some ten-year-olds cost more. Very mild and almost a blend, but pleasing to the crowd. Certainly not bad. For the money there are better things, but a lot more bad things. Quite interesting and also something for those who want to go in the direction of a distillery character. An all day dram for autumn. Would more percent have done him good? Perhaps. But I think he should be like that with 40%.",
+            "nose": "Fermented grapes. One is reminded of the grape harvest. A whisky for a golden autumn? The color and the nose are definitely right. But overall rather flat. A little caramel, a little cinnamon, but the grapes dominate. Some fermented fruit in the form of apples and pears. The typical smell when you first come to a distillery. Exactly the same smell. The apples are clearer and more like sour apple rings from Trolli. Not very complex and no real depth either. But the aromas that are there are clear and remind you of whisky and the distillation of it. I like it.",
+            "taste": "Vanilla and caramel as well as wood are evident. The sour apple rings go back a little. A sweet one remains. The nose is confirmed, but without the grapes. Light and mild, very little spice and even less depth. Almost in the direction of blend. The slightly fermented fruits remain.",
+            "finish": "Also here rather mild and short, whereby the sweetness disappears a bit and it becomes drier, which I don't really like. Also wood and a little bit of raisins."
+        },
+        {
+            "user_name": "Petitcham",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "28 mar 2024 2:44 pm",
+            "content": "Artificial apples, bubble gum, corn husks, subtle spices, vanilla, lightly butterscotch, a slightly uncomfortably bitter texture",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "aquataste",
+            "user_rank": "Expert Senior",
+            "rating": "89",
+            "review_date": "25 jan 2022 6:21 pm",
+            "content": "",
+            "nose": "Complex, delicate, floral, sweet, baked apples, green fruit, citrus, varnish, vanilla, toffee, dried fruit, dark chocolate, notes of sherry, spices, cinnamon",
+            "taste": "Light, citrus, sweet, slightly peppery, baked apples, cinnamon, cream, malt, dried fruit, spices",
+            "finish": "Long, sweet, spicy"
+        },
+        {
+            "user_name": "Peatyjohn",
+            "user_rank": "Expert Senior",
+            "rating": "74",
+            "review_date": "14 jun 2025 5:13 pm",
+            "content": "Very thin, lacks distinctive character. Light acacia honey, distillate driven alcohol, vanilla, honey, citrusy. Disappointing. The 15 yo is better, but not by much.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "JohnnyCaps85",
+            "user_rank": "Expert Senior",
+            "rating": "79",
+            "review_date": "30 aug 2022 8:59 pm",
+            "content": "* * * *",
+            "nose": "Fruits, Peach, Citrus, Oak, Sour Trolli Gums, Nuts, Sweetness, Berries, Malt, Herbs, Dried Fruits, Orange, Apple, Chocolate,",
+            "taste": "Fruits, Oily, Malt, Spices, Sweetness, Oak, Peach, Tart, Apple, Nuts, Orange, Dark Chocolate,",
+            "finish": "Fruits, Spices, Sweetness, Tart, Oak, Dry, Dark Chocolate, Orange,"
+        },
+        {
+            "user_name": "KyleRiemen",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "08 dec 2024 8:23 pm",
+            "content": "The classic: too young in taste and too diluted, although otherwise everything is fine. A bit disappointing for Glenlivet, I had high hopes for this one when tasting 18-year-old whiskies because I had such positive memories of the Illicit Still. This one is also colored and chill-filtered, and I still don't understand why that is done. Normally no beginner would spend that much money on a whisky. And the coloring... why is that even allowed? Let's leave it, it doesn't change anything anyway.",
+            "nose": "The first thing I notice is a note of green apples, unfortunately not very positive, but more indicative of a young whisky, along with a fine citrus note, which I really like. For an 18-year-old, it is very fruity overall with orange peel, I miss the heavy aromas that the other 18-year-old whiskies show more clearly.",
+            "taste": "Very watery, but the rounder, warmer tones that I was missing in the nose are now coming through: vanilla, chocolate, caramel, honey, but a little sour apple remains, which is pleasantly complementary in this intensity. A hint of peach rounds off the taste.",
+            "finish": "The medium-long finish reflects the notes of the taste, overall positive, but unfortunately too weak and too short."
+        },
+        {
+            "user_name": "MarcelWhiskyPanda",
+            "user_rank": "Expert Senior",
+            "rating": "80",
+            "review_date": "13 dec 2024 5:05 pm",
+            "content": "Would be a good whisky but unfortunately much too thin",
+            "nose": "Unfortunately much too thin!!!!! BUT It smells extremely interesting Ripe orange Delicious caramel Sweet vanilla pudding Nutty barrel hay Cinnamon",
+            "taste": "Too diluted Extremely watery oak caramel Dough peach Orange",
+            "finish": "Also extremely thin Orange Cinnamon almonds Slightly bitter oak"
+        },
+        {
+            "user_name": "wbarchive_879608",
+            "user_rank": "Expert Senior",
+            "rating": "66",
+            "review_date": "21 aug 2020 2:55 pm",
+            "content": "This whisky is then 18 years old, but it is not complex at all, very flat and no depth ... note: I have that new Glenlivit 18 batch reserve at 40% abv, the old one had 43% abv ... and that one was better .. luckily it was on sale for 66, - but you can buy much better whiskys for this Never buy again !! Bad flat and flat whisky without draft and only 40% pffff ..",
+            "nose": "Fresh and fruity, slightly spicy, a little oak, I don't smell the toffee, but I do smell citrus",
+            "taste": "Smooth, balanced, little chocolate",
+            "finish": "Short, a little chocolate"
+        },
+        {
+            "user_name": "plutoes",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "08 oct 2025 5:34 pm",
+            "content": "A pleasant surprise. Far better than expected. Well-balanced from nose to finish, easy to appreciate.",
+            "nose": "Dominated by the sweet fruitiness of dark ripe figs and red apples.Toffee sweetness blends with juicy apple, syrupy canned pineapple, and a touch of citrus zest.Soft nutmeg spice appears, along with faint notes of plywood and a trace of rubbery sulfur.Far better than expected — despite the low ABV, it doesn’t feel lacking in volume or aroma density.",
+            "taste": "Sweet & spicy.Fuji apple, honey, and crème brûlée sweetness open the palate, soon joined by the gentle heat of ginger tea.The mid-palate carries dusty apple fruitiness with raisins, dry oak, and traces of cinnamon and clove.When rolled on the tongue, ginger-spiced apple and honey dominate, backed by subtle roasted coffee bitterness.It becomes clear why this bottling sits at 40% — a higher ABV might have exaggerated the spiciness.Despite the naturally watery texture of its strength, the gingery heat compensates nicely, keeping the palate from feeling hollow.",
+            "finish": "The retronasal is led by ginger and apple, supported by raisins, light honey sweetness, and mild peppery citrus.On the palate, ginger tea and apple linger, joined by roasted coffee bitterness, honey, vanilla, and dry oak.Surprisingly solid finish given the low ABV — shows good persistence and balance."
+        },
+        {
+            "user_name": "L_Gillian",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "09 nov 2020 8:33 pm",
+            "content": "",
+            "nose": "Amazingly inviting and rich, like an elegant perfume.Tropical fruits, buttery, bay leafs and other aromatic spices, everything smothered in honey.",
+            "taste": "Prominent lychee. Sour, fresh, mint,",
+            "finish": "Too short. Oaky"
+        },
+        {
+            "user_name": "Kirei_kr",
+            "user_rank": "Expert Senior",
+            "rating": "83",
+            "review_date": "27 mar 2025 3:22 am",
+            "content": "*This review was originally written in Korean and translated through ChatGPT. There may be translation errors.*",
+            "nose": "N: Green Apple, Honey, Oak, Peach, MintA bright, sweet aroma of green apple and honey.The bitterness of oak is present but less harsh than when first opened.A firm, ripe peach note.A cooling herbal freshness from mint.",
+            "taste": "P: Apple, honey, vanilla, spicy, oaky, mintAs expected, it's sweet.The spiciness of the spices and the bitterness of the oak.The bitterness of the oak lingers more strongly than in the aroma.The coolness of the mint.",
+            "finish": "F: Honey, vanilla, oakA slight sweetness,but perhaps due to a condition issue, the bitterness dominates the finish, which is disappointing."
+        },
+        {
+            "user_name": "Rockwell",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "02 nov 2023 1:06 pm",
+            "content": "",
+            "nose": "Relaxing pears, ripe black grapes, and plums while retaining the freshness of Japanese pears.",
+            "taste": "White peach, faint prune, light and soft, thick and sweet.",
+            "finish": "Lightly black grape."
+        },
+        {
+            "user_name": "MitekandGajzin",
+            "user_rank": "Expert Junior",
+            "rating": "88",
+            "review_date": "11 dec 2023 5:55 pm",
+            "content": "",
+            "nose": "The whisky is sweet, fruity, clearly rich. You can smell vanilla, dried plums, cherries, wet wood, nectarines, apricots with the addition of white pepper and cinnamon.",
+            "taste": "The whisky is pleasant and rich in flavor. You can smell cherries, honey, vanilla, nuts, wet wood, chocolate and spices. The influence of other fresh fruits is clearly felt.",
+            "finish": "The finish is long and pleasant. It is intertwined cherry sourness and wet wood."
+        },
+        {
+            "user_name": "Emperor69",
+            "user_rank": "Expert Junior",
+            "rating": "84",
+            "review_date": "11 aug 2021 8:24 pm",
+            "content": "The Glenlivet 18 YO Batch Reserve Category: Single Malt Manufacturer and bottler: The Glenlivet Distillery (Pernod Ricard) Region: Speyside Fortress: 40% Volume: 700 ml Bottling date: 05/26/2020 Barrel type: First and Second Fill American Oak and ex-Sherry casks Age: 18 years old Filtration: present Dye: yes Nose. First of all, we are greeted, it seems, by a typical feature of the Glenlivet style - sweet citrus fruits, both in the form of a natural roasted whole orange with zest, and in the form of marmalade and candied fruit. The second bright dominant feature in the profile of this whisky is such a fat melted creamy toffee. Next, yellow apples, light raisins, cinnamon gingerbread, almond crumbs are connected. A peculiar, slightly \"Christmas\" character can be traced in aromatics. However, this idyll of sweet aromas is disturbed, and every now and then, crawl out to the fore, dragging the blanket over themselves, ginger, nutmeg and a light ethanol “smell”, which, unfortunately, the distillery for 18 years in its regular releases has not was able to overcome. For an 18 year old, this whisky on the nose, however, clearly lacks intensity and balance. Taste. This time, unlike its predecessors, the whisky is really easy and pleasant to drink, it is not so tanned, the wood acts more delicately despite its age, and the spices do not clog the entire flavor palette and do not dry so much. It all starts with a light sweetish creamy caramel theme, continues with sweet citrus fruits, apples, dried apricots, then more or less delicate spices (ginger, nutmeg and cinnamon) and oak tones come up; at the finish, raisins soften the pressure of spices. All this, however, is just harmonious taste sensations, nothing more - there are no depths of taste here, which are inherent even in many less seasoned specimens of scotch. Aftertaste. The average. Dryish. Raisins, oak and spices. Outcome. If you just want to have a nice evening, this is probably your choice (I repeat, whisky is really unrealistically “drinkable”). If you are really fond of whisky, then this is clearly money down the drain. The same Glenfiddich 18 YO at a comparable price and output offers a more interesting profile, saturated with sherry influence. Not to mention some Glendronach 18 Allardice. This Glenlivet is a vivid example of the discrepancy between a beautiful wrapper, numbers in the title and marketing legends to the quality of the final product. Yet, no matter what anyone says, with such volumes of production, the quality cannot but suffer. The verdict is just a good whisky “to drink”, take it only at very good discounts, or who cares about the money. Rating: 84 out of 100. A question for the audience: who has tried Glenlivet Nadurra in different manifestations, are they very different from their regular releases, is it worth getting acquainted with them or well, to hell with them?",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Eug300",
+            "user_rank": "Expert Junior",
+            "rating": "84",
+            "review_date": "19 jul 2024 7:29 am",
+            "content": "B: 40%, filtered, colored, full bodied, balanced. 20N: vanilla, red apple syrup, honey, floral, spice,orange peel, raisin, tannin. 22P: red apple, vanilla, spice, honey, milk chocolate. 22F: red apple, cinnamon, spice, vanilla, orange peel. 20Typical fruity Speysider. Despite the minimal strength this dram is rich and intense. The palate is very sweet but pretty flat with watery mouthfeel. The finish is medium long zesty and dry. Smooth and tasty easy drinking",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "TF7X",
+            "user_rank": "Member Senior",
+            "rating": "88",
+            "review_date": "12 mar 2022 10:00 pm",
+            "content": "During the tasting, I was very curious and honest about this whisky, I was surprised by its taste and aroma, pleasantly surprised. I could smell fresh fruit, strong pear and vanilla",
+            "nose": "Vanilla",
+            "taste": "Caramel and a strong fruity tone",
+            "finish": "Vanilla and fading sweetness"
+        },
+        {
+            "user_name": "phil777thrill",
+            "user_rank": "Member Senior",
+            "rating": "79",
+            "review_date": "07 nov 2022 3:48 pm",
+            "content": "I fell for the marketing scheme Glenlivet provided on this one. Is it bad whisky? No. It's just blah and for $125, I'd buy 2 bottles of the 12yr old Illicit Still and still have $20 in my wallet. I bought it. I tried it. I finished it. It won't appear in my shelf ever again. Diluted to 40%, colored and chill filtered. I fell for the marketing. It happens. It's whisky. That's what makes it fun.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Hassleswalker",
+            "user_rank": "Member Senior",
+            "rating": "80",
+            "review_date": "15 nov 2021 8:03 pm",
+            "content": "Moderate dram. At first bump it is a nice and spicy experience. After two sips he is completely gone. And in combination with Hamka's chips from Lays it is very gross. Way too expensive for what it is.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "antoniod",
+            "user_rank": "Member Senior",
+            "rating": "85",
+            "review_date": "29 dec 2022 2:10 pm",
+            "content": "Despite the 40% ABV, wich putts me off from purchasing single malts from a certain price point, I recognize this a very pleasant one and for the price 18 years old are costing now, this can be a nice choice between 75-85 bucks. The older Glenlivet 18 with 43% ABV is oilier and more sherried but this is very floral and fruity aswell and with decent sherry notes. I also noticed it improves with oxidation. My bottle has now reached its half and tastes better than before. 85 pts I think it’s alfaie grade.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "antoniod",
+            "user_rank": "Member Senior",
+            "rating": "85",
+            "review_date": "30 mar 2022 10:21 pm",
+            "content": "It’s not that bad, but really overpriced. It’s watery and weak, but doesn’t taste bad. It’s clearly a speyside and a hint of sherry is felt. Should cost less and would be a pleasant simple daily dram. The 15 offers much more impact and is a better option and with 40% ABV also.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Cupcakke0955",
+            "user_rank": "Member Senior",
+            "rating": "84",
+            "review_date": "15 sep 2024 8:26 am",
+            "content": "Mouthful is a little thin compared to the older bottling which came at 43% abv. Disappointed that they reduced this newer bottling to 40% abv. The aroma and finish is still great, but it lacks the rich and oily mouthful the older higher abv bottling had.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "jakubpoltoraczyk",
+            "user_rank": "Member Junior",
+            "rating": "83",
+            "review_date": "07 dec 2025 3:47 pm",
+            "content": "Aroma: Fruity and slightly vegetal, with oranges, citrus notes, tropical fruits, then dried fruits, floral tones, and a hint of vanillaTaste: Fruity and vegetal, with citrus, orange peel, a touch of dried fruits, a light oak bitterness, fairly spicy, and a medium-long finish that is spicy, woody, and carrying the sweetness of dried fruitsOverall Impression: A decent whisky, but considering its age, one could expect greater complexity and intensity, even despite the relatively accessible price for an 18-year-old whisky",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        }
+    ]
+}

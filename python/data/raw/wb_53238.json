@@ -1,0 +1,566 @@
+{
+    "info": {
+        "ws_name": "Glendronach 21-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Glendronach",
+        "ws_age": 21,
+        "ws_abv": 48.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/5/3/238/505636-normal.png",
+        "ws_rating": 89.29,
+        "ws_vote_cnt": 4682,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/53238/glendronach-21-year-old"
+    },
+    "collected_count": 55,
+    "reviews": [
+        {
+            "user_name": "lincolnimp",
+            "user_rank": "Connoisseur",
+            "rating": "89",
+            "review_date": "07 jul 2016 11:43 pm",
+            "content": "Much better than the 18 year Allardice  more in common with the 15 Revival.Really good stuff",
+            "nose": "Very rich sherry, old books, leather and dark meats , dark treacle toffee, balsamic glaze, dates.",
+            "taste": "Wow that is rich and creamy,there is some oaky bitterness but the dark fruits keep it in check. Prunes, currants and very ripe dark plum",
+            "finish": "Medium length, creamy and the bitter oak fighting with the ripe fruits till the end which is entertaining."
+        },
+        {
+            "user_name": "Archer",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "04 sep 2016 10:36 am",
+            "content": "It stands out qualitatively clearly from the younger bottlings of the distillery. Good sherry / oak ratio.",
+            "nose": "A dense and full nose. Strong sherry, brown sugar, oak planks. Some white pepper and cinnamon. Toffee and milk chocolate. Vanilla, leather. Although the aromas are densely interwoven, they are easy to break apart.",
+            "taste": "Creamy and full. The sherry again. Wood influence more subtle than expected. Grape must, dark chocolate. Coffee beans. Becomes slightly bitter over time and the wood is going through.",
+            "finish": "Medium long with lots of wood and sherry."
+        },
+        {
+            "user_name": "maltaholic",
+            "user_rank": "Connoisseur",
+            "rating": "89",
+            "review_date": "10 oct 2016 3:20 am",
+            "content": "Gorgeous nose, fruity, soft, but very intense. I think that's the most sherry whisky I've ever had.  Powerful start. Who likes Sherry bombs, is right here. Does something spicy, ham ?, vanilla, red fruits over time.  Works old, mature, round.  Gorgeous!",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "rpvdwel",
+            "user_rank": "Connoisseur",
+            "rating": "89",
+            "review_date": "18 feb 2018 7:36 pm",
+            "content": "",
+            "nose": "Sherry, chocolate, forest fruits",
+            "taste": "Toffee, dates, cinnamon and pepper",
+            "finish": "Long finish with a lot of sherry"
+        },
+        {
+            "user_name": "ctu",
+            "user_rank": "Connoisseur",
+            "rating": "89",
+            "review_date": "11 jun 2017 11:45 pm",
+            "content": "Nice complex sherry bomb.",
+            "nose": "Big dose of sherry, spicy oak, caramelized plum, cinnamon and honey",
+            "taste": "Rich sherry, citruses, tannic oak, milk chocolate and butter",
+            "finish": "Long, creamy, spicy, dry"
+        },
+        {
+            "user_name": "Andytka3",
+            "user_rank": "Connoisseur",
+            "rating": "96",
+            "review_date": "13 dec 2016 11:37 pm",
+            "content": "N- Elegant and finese barely reflect her sublime quality. Refinely rich olorosso sherry waving on and on, creamy biscuity add substance and weight with a cuts of acidic lemonade. P- Dry mouthfeel, delicious sherry notes comes with full spices sensation. Chocolate and warm pudding join the troop.  Well balance and broad shoulder.  F- Lasting with winery chewy note and nutmeg linger on.  Bagpipe horning in the ears... — at Whisky Live Singapore.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Kantenmechaniker",
+            "user_rank": "Connoisseur",
+            "rating": "90",
+            "review_date": "21 mar 2022 6:57 pm",
+            "content": "I wrote the notes quickly between the doors and they don't really do the whisky justice, a delicious drop in any case.",
+            "nose": "Nice fruity sherry, nutty, some mint, tobacco, nice spice too, rather subtle sweetness, plums",
+            "taste": "Oily, plum must, some wood, now sweeter, creamy, slightly tart, full-bodied",
+            "finish": "Tart, slightly acidic, apple, cherry, with a creamy finish"
+        },
+        {
+            "user_name": "90ClubWhisky",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "02 jul 2025 9:06 pm",
+            "content": "2020 Rating",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "robain",
+            "user_rank": "Specialist",
+            "rating": "86",
+            "review_date": "27 feb 2023 9:19 pm",
+            "content": "",
+            "nose": "Sherried, well balanced, slight oak.Pears coated in chocolate.",
+            "taste": "Elegant profile, green fruits, vanilla, sweet, oak and some malty notes.",
+            "finish": "Nice sweet and slight oak."
+        },
+        {
+            "user_name": "dRambo",
+            "user_rank": "Connoisseur",
+            "rating": "91",
+            "review_date": "09 apr 2017 4:01 pm",
+            "content": "Nose: red fruit of very ripe fruit with orange zest from the oak table, spicy, strong resinous oak acidity with tree saftarom, bergamot, apricot, bitter almond, more complex citrus notes with a slight sharpness in the smell of grapefruit peels - but no alcoholic sharpness, an old leather jacket in a dusty Dandruff - in your pockets - Rotten tobacco with a hint of vanilla  Taste: velvety soft sweet syrupy texture, strawberry cherry jam brings along with acidity, orange juice with a lot of grated ginger - brings more acidity as an antipode to sweetness, icing with lemon juice, sawdust, pine resin, some mint and a lot of spicy oak on the tongue, warming and Cooling at the same time, orange marmalade with a lot of peel - slightly bitter but in the aromatic delicious way, with each sip it becomes spicier - tobacco - cinnamon - leather tingles on the tongue, the sweetness is increasingly displaced by berry - fruity acidity and they commute in the Balance, the finish is long - rather determined by wood and spice notes than by the fruit and ends dry, at the end remains a slightly resinous aromatic mint note on the tongue  Conclusion: one of my favorites - balanced, complex, ripe, yummy, undyed, unfiltered, high percentage - even for twice the price I can not find anything better - rather something else - only the golden packaging, which is not, there is the 12er more beautiful",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "thijs100",
+            "user_rank": "Connoisseur",
+            "rating": "90",
+            "review_date": "26 aug 2015 10:38 am",
+            "content": "Really, really good. Thick, rich and meaty. You'd be hard pressed to find a better sherried whisky for this price.",
+            "nose": "Sweet and fruity. Toffee with plums and caramelized oranges, raisins and bitter chocolate. Very thick and meaty, a bit of mint in the background. A hint of sulphur.",
+            "taste": "Syrupy and rich. Brown sugar, blackberries, blueberries, and caramel. Very sweet, like a dessert wine almost. Some spices like nutmeg, but the sweetness prevails.",
+            "finish": "Raisins, mocha and blueberry. Long."
+        },
+        {
+            "user_name": "Totoro",
+            "user_rank": "Connoisseur",
+            "rating": "89",
+            "review_date": "09 jan 2019 7:30 pm",
+            "content": "It's either the heavy sherry influence or the fact that it has been produced with significantly older stock for some time: this sure seems older than its - already considerable - stated age. 21 going on 25, at least as far as my bottle (ca. 2016) is concerned. What we have here is a heavy, massive, sweet-and-dry sherry-soaked, oily and woody nose. Chocolate-covered, rum-soaked raisins; bacon-wrapped, roasted figs; aged aceto balsamico; blackberry and/or plum jam; mulled wine, speculoos and christmas spices; assorted nuts. In terms of sherry maturation, this is definitely more on the fruity-and-juicy than on the earthy-and-leathery side. Having said that, there is some leather to be found, along with other aromas that exude the aura of age: musty cellar, dusty attic, shopworn library books... Zero alcohol on the nose despite the elevated ABV, but it's also not exactly easy to locate the distillery character behind this wall of deep and dark sherry aromas. So this is the one quibble I have with this otherwise pretty perfect nose - the PX is perhaps just a tiny bit too prominent. But enough grousing; on to the palate!Without water, there's an immediately leathery, nutty and (given the unmistakable PX influence on the nose:) surprisingly dry attack, with an incredibly rich and mouth-coating texture. Then the juicy sweetness and the robust Glendronach Highland character hit home. There's a sense of peppery heat, but it's nowhere near as pronounced as in the 18-year-old Allardice. The burn (if you can even call it that) here is much more restrained, and, given the sticky, syrupy aspect of the palate, even welcome. Finally, some bitter notes (black liquorice, black coffee, dark chocolate) join in, along with a faint mintiness. Intense and thick throughout, without ever losing steam.Finishes strong and substantial, with a warming afterglow, then continues to stick to the insides of the mouth for a good long while, with the typical Oloroso notes of liquorice and leather as the last notes to fade. Clearly a high-class sherry monster, with the superb Glendronach distillate struggling, but not outright failing to assert itself. What I found most surprising about this one was that the wood was most discernible on the nose. On the palate and in the finish, it almost slipped my attention - either because the sherry overpowered it or because it merged with the sherry so harmoniously (depends on your perspective, I guess). So yeah: a bit brutal and crass, but also just simply a blast. An event of a whisky.P.S. Water brings out (even) more umami aromas, adds an intriguing floral element, sweetens the attack, eliminates any burn and reinforces the wood in the finish. Obviously I recommend adding some.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "LiquidThoughts",
+            "user_rank": "Connoisseur",
+            "rating": "90",
+            "review_date": "27 apr 2016 2:28 pm",
+            "content": "Simply the round sherry standard!",
+            "nose": "Deep, round sherry, sweet, spice & bakery, dates, plums",
+            "taste": "Pure Oloroso, liqueur, prunes, cinnamon, dark chocolate, nuts, black walnut, berries, hints of sulfur",
+            "finish": "Long, sweet, stay with Christmas spices, dates, berries"
+        },
+        {
+            "user_name": "Tom na Gruagaich",
+            "user_rank": "Connoisseur",
+            "rating": "90",
+            "review_date": "01 apr 2019 1:46 pm",
+            "content": "A fine sherry bob in front of the Lord.",
+            "nose": "sweet, intense notes of sherry, black bun (raisins, dates, etc.), some alcohol sticks to the nose (cask strength?) and a slight mineral note is also in the background, which surprise and make the whisky very fresh, despite the sherry freight. Over time, spicy oak notes emerge.",
+            "taste": "intense, white notes, light sulfur, sweet, dry fruits, intense, powerful, but also very good without water. I do not want to water down that.",
+            "finish": "the sweet and the vain notes hold, then pass easily and give way to the somewhat tart oak notes. A bit of menthol, but not too strong and a really long bitter-sweet finish."
+        },
+        {
+            "user_name": "wisekyofcourse",
+            "user_rank": "Connoisseur",
+            "rating": "88",
+            "review_date": "02 oct 2017 11:40 am",
+            "content": "On the nose, characteristic sherry, a little smoky, spicy, old wood!  On the palate, we attack the rather strong spices, cinnamon, vanilla aged, it has depth!, Then mixed fruit, macerated on candied orange, old wood and leather associated, a roasted chocolate side!  In the final, a rather complex sensation, on sherry, spices, dry wood, sweet-honeyed side!  A very good dram with a singular and long length!",
+            "nose": "more floral, spice and even grassy scents on a sherried-woody basis.",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "rottendon",
+            "user_rank": "Connoisseur",
+            "rating": "88",
+            "review_date": "02 mar 2016 2:55 am",
+            "content": "Quite so without corners, he is not at all, which has quite bite. Basically, he looks very elegant and mature. The barrel is absolutely in the foreground here, so it is interchangeable with many other sherry bombs, but the quality of the barrels is outstanding here. Nevertheless, he allows sufficient conclusions about his origins. He should be given time, and he benefits immensely from the heat.   A batch from 2014 was tasted, but unfortunately not known.",
+            "nose": "Sherry, dark, sparkling, fat, sweet, buttery, dates, roasted almonds, Demerara sugar, gianduia, plums, some salt and sweat, the alcohol tickles a bit in the nose. After some life come lighter fruits, grapes z. B., Italian spices, cinnamon and also acidity on tap. Cocoa and also coffee. The nose is now less pleasing and sweet. Especially in the heating phase, this effect is intensified, sometimes it is downright unpleasant. Once heated, sweet notes come to the fore again, yet acidic coffee remains dominant. Leather and toasted caramel are added.",
+            "taste": "Starts very sweet, with dark honey and kahlua, spicy notes are added, the oak is much less present than expected. Only with the second sip are both bitter and sour notes from the barrel clearly, coffee and Zeste. The mouthfeel is creamy, but not thick.",
+            "finish": "The sweetness goes, the oak remains and cooling eucalyptus comes at the end, when actually everything is over. Significantly drying. Overall medium to long finish. In the end, a memory of walnuts with honey stays in the mouth for quite a long time."
+        },
+        {
+            "user_name": "pianoman",
+            "user_rank": "Connoisseur",
+            "rating": "91",
+            "review_date": "02 jul 2016 3:41 pm",
+            "content": "",
+            "nose": "Dark fruits, blood oranges, dates. Dark chocolate, spices, Christmas cake.",
+            "taste": "Sweet. Dark grapes. Chocolate, spices, espresso. Pleasant bitterness.",
+            "finish": ""
+        },
+        {
+            "user_name": "Segens",
+            "user_rank": "Connoisseur",
+            "rating": "88",
+            "review_date": "26 jan 2016 9:12 pm",
+            "content": "A very good sherry whisky which is suprisingly worse than the GD 15 Revival! Nevertheless it can be fully recommended!",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Mr.Edradour",
+            "user_rank": "Connoisseur",
+            "rating": "89",
+            "review_date": "13 feb 2016 8:54 pm",
+            "content": "This is the best sherry cask finished whisky I tried so far.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Mr.Edradour",
+            "user_rank": "Connoisseur",
+            "rating": "89",
+            "review_date": "13 feb 2016 8:53 pm",
+            "content": "Better than \"Allardice\" and \"Revival\".",
+            "nose": "Sherry, dried fruits, vanilla, cacao.",
+            "taste": "More sherry, caramel, milk chocalate, cacao and oak.",
+            "finish": "Long, rich and mouthfilling."
+        },
+        {
+            "user_name": "Mannix65",
+            "user_rank": "Connoisseur",
+            "rating": "88",
+            "review_date": "03 may 2018 9:19 pm",
+            "content": "beautiful, intense, harmonious standard bottling",
+            "nose": "Sherry, raisins, nuts, chocolate, red grape juice, gingerbread spice, cardamom, cloves",
+            "taste": "soft sherry, grape nut chocolate, sour cherry, slightly peppery in the background",
+            "finish": "medium, with a lot of sherry, then the spices are still"
+        },
+        {
+            "user_name": "DistiLesha",
+            "user_rank": "Connoisseur",
+            "rating": "88",
+            "review_date": "12 sep 2022 11:06 pm",
+            "content": "Slightly disappointing aftertaste. It's unfortunate that it is so strangely formed in this whisky. I was very pleased with the aroma, where I literally felt the past, which was expressed in the traces left by the vital activity of yeast. 23 23 21 21",
+            "nose": "Dense in texture and thick. Here you can feel the work of yeast and how what they left us became related to a sherry cask! Red plum, leather, chocolate, nuts, pastries, vanilla, raisins. I would even say dark chocolate with crushed nuts and raisins. A rich palette with dried fruits: prunes, figs, dried apple. Cinnamon, ginger, malt",
+            "taste": "Sweet-sour tones of a handful of raisins from different grape varieties, both sour and sweet, dried fruits, leather, chocolate. Lemon and sweet walnuts. For the first time, I distinctly felt some kind of pastry - such as gingerbread cookies with cinnamon and chocolate chips. Tannins and spices are in good balance. Quickly replaced by an aftertaste.",
+            "finish": "Assorted raisins, tobacco, chocolate, jalapeno peppercorns. The tannins formed rather badly here - it turned out quite overtanned and bittersweet with licorice."
+        },
+        {
+            "user_name": "Saftkenner",
+            "user_rank": "Connoisseur",
+            "rating": "90",
+            "review_date": "13 apr 2021 5:32 pm",
+            "content": "Great standard bottling with a complex nose, full body and great drinking strength. Let's hope that the proportion of sherry casks won't decrease steadily in the future.",
+            "nose": "Very full-fruity and spicy-sweet nose. The alcohol is very well integrated. Vanilla, strong oak spice, pickled plums with cinnamon, sweetened ripe sour cherries, raisins, both ripe raspberries and raspberry brew, coffee beans, gingerbread, old leather, caramel, pipe tobacco, bitter almond, blood orange, dried apricots.",
+            "taste": "Oily, strong, spicy. Well-integrated alcohol. Overripe blackberries, plum jam with cinnamon, walnut, espresso, cherries, mulled wine, dark chocolate, forest honey, leather, tobacco, raspberries.",
+            "finish": "Long finish with strong oak, espresso, walnuts, cinnamon and marzipan with plum liqueur."
+        },
+        {
+            "user_name": "Marko_I",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "31 may 2016 11:39 pm",
+            "content": "A few years ago for 70-80 € a top whisky, today for 100+ still, full-bodied, strong, full of flavors, not a little soft or round-sucked, will not be boring.",
+            "nose": "intense and full, brown sugar, dried fruit, roasted almonds, also reminiscent of roasted cashews with honey and salt, dark chocolate, cinnamon, some leather and sweetish tobacco",
+            "taste": "full-bodied, spicy-bittersweet, burnt sugar, cocoa, coffee, also some acid, walnut, gingerbread spice, plum jam and sugar beet syrup, tobacco ... persistent tongue carnival, which will not be boring ... with later swallowing still fruity red wine and Johannis / blackberry liqueur",
+            "finish": "long, bitter-spicy, cocoa, pepper, tobacco"
+        },
+        {
+            "user_name": "didi1893",
+            "user_rank": "Connoisseur",
+            "rating": "90",
+            "review_date": "14 jul 2017 10:38 pm",
+            "content": "A true sherry bomb! This Parliament offers everything I expect from a sherry bomb. Dark fruits, spicy wood flavors, leather, tobacco, chocolate and coffee. A great whisky, I like it very much!",
+            "nose": "Syrup-like streaks stick to the glass wall, in slow motion oily and viscous drops come out. Dark fruits blow from the Nosingglas over, deep dark and rusty amber rests mysteriously in the glass. The long, sticking to the glass wall drops slowly pull their tracks while the dark sherry aroma is intense. During the first nosing, the nose fills with dark and dried raisins and dates, toasted aromas rise. Dark and strong caramel mixes with forest honey, sweetish tobacco leaves crumble on dried orange slices. Spicy sweetness lies above everything and mixes slowly with spicy oak notes. A touch of milk chocolate and a scent of hot coffee rise from the extremely fruity Sherrynote. Apricots and now fruity sweet oranges mix with the honey and caramel to an extremely fruity and beguiling melange. The drops on the glass wall are getting longer, my salivation is extremely stimulated. Optically and olfactorically, the Parliament is currently a perfect combination. Fantastic!",
+            "taste": "Mild and yet fruity intense, the Glendronach pours over the tongue at the first sip. Dark dried berries are immediately mixed with spicy oak tones, a subtle wooden sharpness dominates the entire mouth in the next moment. Again subtle toasty aromas are added, a touch of leather and dry tobacco leaves playing with the fruity sherry aroma. Sour grapefruit and other citrus fruits mingle with dark and aged oranges. The leather aroma is intensified, dark chocolate is doused by cold espresso. A bitter and subtly bitter aroma now dominates the taste. Here and there flash dark fruit flavors, the dark caramel is also always coming to light. Overall, the Parliament does not look as fruity in taste as the nose pretends, but rather is characterized by woody sharpness and tart oak tones. The fresh coffee note rises again, fresh mint and a hint of eucalyptus provide a fresh mouthfeel.",
+            "finish": "Bitter espresso flavors and dark dark chocolate start the finish. A subtle wooden sharpness and a hint of pepper exude a cozy warmth and hold the harsh aromas. Dark and dried fruits are subtly in the background, the mint, however, comes back to the foreground. A hint of sour citrus flavors mix with the tart and spicy wood elements. The finish sounds slow and leaves a discreetly tart wood note and fresh aromas on the tongue."
+        },
+        {
+            "user_name": "whiskydramo",
+            "user_rank": "Connoisseur",
+            "rating": "89",
+            "review_date": "02 jul 2022 3:06 pm",
+            "content": "",
+            "nose": "Nutty milk chocolate, fresh plums and freeze-dried apple slices. The plums started condensing and developed into Jiayingzi preserved dried plums which were slightly salted and sweet. There were also Kyoho grapes and honey-dried Chinese bayberries. After a while in the glass, cappuccino with sugary foam, some carabao mangos and sweetcorn juice. Interestingly there's Fanta from the emptied glass.",
+            "taste": "Red fruits and earth to start, raspberries, strawberry jam. Mandarin orange peel, followed by grapes, raspberries, chocolate bar and a touch of fruit stems.",
+            "finish": "Honey black tea, vanilla and dried prunes with black peppers arising. Strawberry jam, nuts, cinnamon and tannins. It got woody and showed signs of black coffee at the end, without bitterness luckily."
+        },
+        {
+            "user_name": "_Dziki_",
+            "user_rank": "Connoisseur",
+            "rating": "89",
+            "review_date": "26 apr 2023 12:31 am",
+            "content": "",
+            "nose": "Sweet and sour, with an emphasis on the first, slightly sour fruits, plums in compote, grapefruit, apricot, dry wine, crisp aroma of apple blossoms, generally blooming orchard, sour apples. The addition of beeswax, the aroma is medium volatile, but mature and very pleasant.",
+            "taste": "Cocoa, chocolate, gingerbread, pralines, candies with jelly in chocolate, wax, butter, yeast cake, Easter cake, frosting. The taste is much more chocolate, there is not much fruit here, prunes, apricots, cashew nuts, almonds.",
+            "finish": "Medium long, coffee, full, fudge, toffee, still no exaggerated fruit flavor, a bit of cherry jam, but chocolate and caramel dominate."
+        },
+        {
+            "user_name": "Albaron",
+            "user_rank": "Specialist",
+            "rating": "85",
+            "review_date": "31 oct 2017 10:28 pm",
+            "content": "Somewhat strong alcohol, pretty one-dimensional, sherry, sherry, sherry and then quite sweet, probably from the PX Sherry. Simply too much and unfortunately too little barrel wort, whereby the actually of 21 years would be expected and in the younger but also clearly, actually too violent to notice. Maybe it's just a finish here? On top of that, the existing barrel wort is also covered by sherry. If you like sherry bombs is here but absolutely right.",
+            "nose": "Immediately salty sherry, some alcohol, after some time of oxidation you can divide it apart, plum jam, chocolate, some coffee, also a hint of sulfur and herbs, but unfortunately go in the direction of Maggi",
+            "taste": "Here, too, the sweet sherry, warming alcohol, then blackberries, cherry juice and plum jam, and from time to time a sour undertone",
+            "finish": "The fruits fade slowly, the spice finally comes through and then stays a little longer, as well as the heat of alcohol persists quite a long time."
+        },
+        {
+            "user_name": "Lorion",
+            "user_rank": "Connoisseur",
+            "rating": "90",
+            "review_date": "07 may 2022 12:31 am",
+            "content": "I'm always excited! Great combination of sherry and wood! One of my favorite standards. 90!",
+            "nose": "A sherry wall! Sherry and oak - right in the face. Figs, plums, fresh pastries. Add wood, spice and chocolate. Not sweet at first, only after a few minutes the nose becomes sweeter. The alcohol doesn't sting, but it's achievable and, together with the spiciness, is reminiscent of nutmeg. Add some baked apples.",
+            "taste": "Full, fruity, quite sweet with sparkling but still subtle oak. After a few seconds, leather develops, becoming stronger and dominating the palate with dark fruits (plums, wild berries). Only with a time lag does the oak really hit. Dark chocolate spreads and finally dominates the aftertaste. Barely sweet, fruit, leather and lots of wood remain.",
+            "finish": "Long, fruity, bittersweet and dry."
+        },
+        {
+            "user_name": "DramALife",
+            "user_rank": "Connoisseur",
+            "rating": "89",
+            "review_date": "25 jan 2022 7:22 pm",
+            "content": "S 7Definitely earned itself a seat in the Parliament for Whisky. Perfectly resembled the cream sherry nose, the whole experience was elevated by malted barley, wood, and spice from whisky. An excellently balanced sherry dram.N 28Lightly smoked datesDark fruitWinter spice (clove, nutmeg, cinnamon)Aged sandalwood furnitureCherry citrusy poking here and thereA touch of caramelP 27Very rich & deepRipe fruit explosionMalted barleyOaky, pepper spiceTouch of cherry citrusyF 27Mid-long, dry finishNuttyDark roasted coffee beanOloroso sherry note lingering w/ subtle smoke",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Moses",
+            "user_rank": "Connoisseur",
+            "rating": "87",
+            "review_date": "29 mar 2020 12:23 pm",
+            "content": "The PLV at this point is impressive. Nice age with a balanced sherry barrel ratio. However, I prefer the younger two 15/18 at Glendronach. It's a matter of taste. You can also feel that the 15 and 18 belong together. Parliament is very special.",
+            "nose": "Extremely full and thick on the nose. Oak wood and sherry sugar. Milk chocolate toffee with leathery vanilla. You smell so much, it takes all to find. Impressive.",
+            "taste": "It fills the mouth with a full and full flavor. Bittersweet but not disturbing, it delivers everything that goes with it. Fruits like plums, currants and blackberries, everything is there. Coffee beans pickled in red wine. Heavy thick toffee syrup. Big and woody. Too much of a good thing for me at this point.",
+            "finish": "Medium to long with lots of wood and sherry. Somewhat bitter and spicy, more peppery with cocoa and tobacco. It stays creamy with ripe fruits until the end, But overall, the oak that is getting heavier and heavier bothers me personally. You have to like that. Not for everyone."
+        },
+        {
+            "user_name": "spigray",
+            "user_rank": "Connoisseur",
+            "rating": "90",
+            "review_date": "20 feb 2016 1:31 pm",
+            "content": "n: sex bomb, sex bomb!!! everything that you would expect from a sherry whisky.    all sorts of dried fruit and the full monty of spices, chocolate and coffee.    christmas cake in the glass.    very sweet and very smooth. a little rubber but not disturbing at all.t:  this is like cream in its texture. full-bodied with a wonderful, sweet and spicy     attack.     panforte from siena, gingerbread, chocolate, coffee, fudge and orange     marmalade.f:  looong, smooth, slowly drying, spicycomments: :-)))))should I go up to 91/100? who cares!",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "robbert88",
+            "user_rank": "Connoisseur",
+            "rating": "89",
+            "review_date": "25 jul 2024 12:09 pm",
+            "content": "My favorite was always the 18. Until I finally sat down with 21. What a whisky!",
+            "nose": "N: pureed red fruit, dark fruit, wet leather, heavy cigars, plums, dried oranges, maple syrup on American pancakes, brown caster sugar, cigar smoke & a hint of matches.",
+            "taste": "P: leather, cigars, also some cigar smoke, lots of red fruit, fresh nutmeg, raisins, dates, figs, cinnamon,",
+            "finish": "F: sherry, medium long, leather, dark fruit, red fruit, cigars,"
+        },
+        {
+            "user_name": "domani",
+            "user_rank": "Connoisseur",
+            "rating": "90",
+            "review_date": "24 feb 2016 10:50 pm",
+            "content": "A wonderfully balanced, complex and excellently balanced Single Malt - 01.08.2014",
+            "nose": "Full sherry aroma, raisins, grapes, plums, cocoa, Linzer Torte, rum cake, panettone, nuts, almonds",
+            "taste": "Sweet, sherry, vanilla, oak, dark chocolate, espresso",
+            "finish": "Lang"
+        },
+        {
+            "user_name": "aw-home",
+            "user_rank": "Connoisseur",
+            "rating": "98",
+            "review_date": "08 apr 2023 11:05 am",
+            "content": "",
+            "nose": "Dark sherry fruit with dark chocolate, rum raisins, coffee, pastries, leather, tobacco and oranges.",
+            "taste": "Sweet sherry with dark chocolate, coffee, pastries, oranges, vanilla, leather, tobacco and oak flavors.",
+            "finish": "Long with dark chocolate, oranges, leather, tobacco, espresso and oak aromas."
+        },
+        {
+            "user_name": "WhiskyCasual",
+            "user_rank": "Photo Moderator",
+            "rating": "89",
+            "review_date": "26 mar 2020 9:22 am",
+            "content": "Unfortunately (due to closure?) Subject to batch fluctuations. Some have gotten too much bitterness, others have a nice balance between barrel and sherry. So older not necessarily = better;)",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Defeatless",
+            "user_rank": "Connoisseur",
+            "rating": "89",
+            "review_date": "25 may 2016 9:40 pm",
+            "content": "Nose: Very well done with this sherried expression. Sherry on the nose, woodpolish and beeswax. Some raisins and other dried red fruit. I certainly love this one. Some black tea. It develops a bitter note which is totally pleasing when adding a drop of water. Taste: Sherry is calling! Lovely balanced flavour. Doesn't need water. Some old leather and tabaco. Again red fruit. Body: Full bodied, yet sweet as silk and a bit oily.Finish: long. Sherry prolonges again, and there comes a fine sweet sour taste after a minute or so. slight hint of oakwood.Price: If you find one for less than 100 euro's its a must buy.Presentation: Don't know this was a sample from a sample swap with Squaadgras.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Whiskylifestyle",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "29 jan 2017 3:07 pm",
+            "content": "This is a very nice dram, price / quality ratio is good but you have to be in a sherry infused mood. So these cold winter days are perfect for a Glendronach 21! I quite like it although I have to say I prefer the 15 year old revival.",
+            "nose": "A little bit of red and black fruits (blackberries, blue berries, strawberries). Cinnamon, cloves, nutmeg. Some leather, brown sugar and alcoholic. Don’t forget the chocolate, the dark ones with a  lot of cacao and missing the sugar.",
+            "taste": "Leathery, dark chocolates and a lot of them. First it started sweet and fruity but it becomes very creamy and chocolate profile. Not the alcoholic taste I expected with the nose which is very pleasant.",
+            "finish": "Quite sweet but it disappears, the leather and dark chocolate stay. Also the brown sugar keeps coming back."
+        },
+        {
+            "user_name": "boy_genius_ck",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "26 feb 2017 9:52 pm",
+            "content": "good whisky but the sherry is toorich for my taste, i prefer the 18 allardice",
+            "nose": "deep dark sherry, redfruits/berries, cinnamon, sugars, honey, preserved sour plums, hints of ham",
+            "taste": "rich aromatic sherry, elegantcitrus, orange peel, dry, neutral sweetness, wood/cinnamon spicy, richchocolate, red fruits, hint of nuts",
+            "finish": "medium-long, bitter spicy, reallydry, light red fruits, red wine, dried ginger, slightly citrusy roasted nuts atthe back followed by rich sherry and roasted sugar sweetness"
+        },
+        {
+            "user_name": "Goethe",
+            "user_rank": "Connoisseur",
+            "rating": "90",
+            "review_date": "07 feb 2015 7:59 pm",
+            "content": "Intensive dried red fruit monster. Sherry in the square!Concerning price/performance ratio: 8/10",
+            "nose": "Oloroso and Pedro Ximénez sherry on a sweet sirupy venture. Vanilla, rasins, plums, dried red fruits.",
+            "taste": "Dark red dried fruits, spicy oak and leather.",
+            "finish": "Dark chocolate, dark winegums, leather and at the end some espresso!"
+        },
+        {
+            "user_name": "Dirk",
+            "user_rank": "Super Administrator",
+            "rating": null,
+            "review_date": "07 feb 2016 5:57 pm",
+            "content": "Not overly complex if you ask me and I think the 15 years old is better to my liking.",
+            "nose": "Raisins and a lot of them, chocolate and a little bit of fruit. Dried fruits and figs. Did I say raisins already? With water I get a lot more oranges and sweet mandarin, much better if you ask me.",
+            "taste": "Caramel and chocolate, raisins. Something that is drying but not to much, quite coating my mouth. Cherries and a bit of zest or lemon. Very faint oranges and again raisins (sorry for that but it's not a complex whisky if you ask me). It's a complete and will rounded whisky though.",
+            "finish": "A rounded finish with a drying mouth feeling. Mouth coating and quite sweet and long."
+        },
+        {
+            "user_name": "Martin1965",
+            "user_rank": "Expert Senior",
+            "rating": "95",
+            "review_date": "23 feb 2019 11:36 am",
+            "content": "",
+            "nose": "Sherry, sweet pastries, ripe fruits",
+            "taste": "Sherry, oak, dark fruits, dark chocolate",
+            "finish": "Long and spicy  A crazy whisky try it.  Who likes sherry - a must have"
+        },
+        {
+            "user_name": "DramRol",
+            "user_rank": "Expert Senior",
+            "rating": "90",
+            "review_date": "01 may 2020 12:14 am",
+            "content": "",
+            "nose": "Sweet sherry, dark fruits, plum, raisins, dark chocolate, coffee, leather, old furniture, very slight hint of smokyness",
+            "taste": "Dry sweetness, lots of tannins, spicy, oak, dark chocolate",
+            "finish": "Very long"
+        },
+        {
+            "user_name": "DrunkDude",
+            "user_rank": "Expert Senior",
+            "rating": "79",
+            "review_date": "27 jan 2024 7:09 am",
+            "content": "The 2017 version has a lot of restrained sulfur content, glucose syrup, sawdust, green apples, tonka beans, Pedro xemenez with a sense of oxidation, lignin, and the vintage is in place. The cleanliness of the barrel can be improved, and it is best not to smell of paint. . 83 The liquor gives me the feeling that the bottle has been opened for a long time. It is a sherry cask whisky that has been oxidized to the point of losing its flavor. It is easy to drink but blank. It has a small amount of glucose syrup and a lot of chocolate. It is very malty. The acidity of the oil is missing. It is from sherry cask. No texture or thickness either, a little sugar, dead wood, pepper. 80 The finish is bitter, the sweetness is missing, and the tannins are bitter. 75",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "mothers_finest",
+            "user_rank": "Expert Senior",
+            "rating": "89",
+            "review_date": "13 jul 2016 3:34 pm",
+            "content": "Very refreshing nose, cooling, reminds me directly of grapes or grapes, oak, ripe melon, mango, and a hint of vanilla. In the taste I find it rather soft (well, lately I had almost only cask strength), kräutrig, pleasant spice from the wood, bittersweet, grape must, a little cinnamon. Delicious! The finish is rather thin again. Very pleasant, gentlemen like, but as I said not very long. The sherry sweetness stays in the mouth without spreading. There is room for a pinch of cinnamon and brown sugar next to the sherry. Vin the balance a dream! Here many things were done right. In my opinion, but he could stand 2-3% more jerk. All in all a very good sherry whisky, not overpowered, not artificial, very balanced, but the finish could be longer. PLV just okay. From me scarce 89 counter.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "claymore84",
+            "user_rank": "Expert Senior",
+            "rating": "92",
+            "review_date": "28 mar 2025 11:09 pm",
+            "content": "Tasted on 28.03.25.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "claymore84",
+            "user_rank": "Expert Senior",
+            "rating": "92",
+            "review_date": "27 feb 2020 3:52 pm",
+            "content": "Tasted at \"THE CONNOISSEUR’S TOUR\" on 11-03-2019 at \"Glendronach Distillery\".",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "bikenerd",
+            "user_rank": "Expert Senior",
+            "rating": "90",
+            "review_date": "17 apr 2018 11:17 am",
+            "content": "great dram and worth every cent",
+            "nose": "dried fruits, raisins, sherry, sweet, brown sugar, cocoa, oaky",
+            "taste": "sweet, oak spices, sherry, cherries, nutty, dark chocolate",
+            "finish": "very long, coffee,"
+        },
+        {
+            "user_name": "p4blo",
+            "user_rank": "Expert Senior",
+            "rating": "89",
+            "review_date": "10 sep 2014 9:29 am",
+            "content": "A great standard expression from a great distillery!",
+            "nose": "Sherry hits first, then there is the entire pack of other fruits - plums, raisins, dates accompanied by chocolate, toffee, caramel, coffee and load of wood. Great nose.",
+            "taste": "Perfectly rounded and balanced, quite sweet with the fruit flavors (cherries and plums in particular) followed by coffee, toffee and chocolate. A touch of spices - cinnamon, maybe pepper.",
+            "finish": "Very long, now the raising dominate the chocolaty and woody notes. It leaves a very pleasant sensation for minutes."
+        },
+        {
+            "user_name": "Gloin",
+            "user_rank": "Expert Senior",
+            "rating": "91",
+            "review_date": "21 dec 2014 1:21 am",
+            "content": "needs some acclimatization time in the glass, absolute top whisky!",
+            "nose": "Alcohol sharpness (softens after a while in the glass), tons of sherry and dark red fruits, burnt sugar, slightly acidic (less than in younger Glendronach), some oak",
+            "taste": "less alcoholic than in the nose, dry, dry sherry paired with sweet sherry (PX barrels are noticeable), dark chocolate, oak, despite the tart notes very harmonious and good drinkable",
+            "finish": "dry, oak, dark chocolate, again some burnt sugar"
+        },
+        {
+            "user_name": "Shane_IL",
+            "user_rank": "Expert Senior",
+            "rating": "88",
+            "review_date": "10 dec 2015 9:52 pm",
+            "content": "Very sweet and sticky.",
+            "nose": "Px. Px. Px. Some toasted wood. Figs. Sticky raisins. Mahogany. Christmas pudding. Light cinnamon. Silan.",
+            "taste": "Matches. Black cough syrup. Aniseed. Camphor. Dried figs. Stewed fruit.",
+            "finish": "Long. Raisins. Acacia sap. Salted chocolate. Burned pecans."
+        },
+        {
+            "user_name": "wbarchive_104650",
+            "user_rank": "Expert Senior",
+            "rating": null,
+            "review_date": "23 apr 2016 11:11 am",
+            "content": "he is different from his younger siblings; not so sweet and noticeably spicy; here the Wiche has done its duty. Delicious!",
+            "nose": "Sherry is directly in the nose; sweet onions and dark chocolate; Raisins and fermented red grapes; Plums and cherries; toffee",
+            "taste": "very oily; dark chocolate and a lot of dark oak; dry and very spicy",
+            "finish": "very long; the oak presses neatly; In addition, dark spices (especially pepper) and it remains slightly sweet on the palate"
+        },
+        {
+            "user_name": "K_A_i",
+            "user_rank": "Expert Senior",
+            "rating": "88",
+            "review_date": "09 apr 2024 5:09 pm",
+            "content": "",
+            "nose": "At first, it smells a bit like lees, followed by raisins, dried fruits, some nuts, and very sherry. At the end, there is some slight acidity and sulfur, and the alcohol is relatively slight. After a period of time, the raisin flavor becomes prominent, and the sweet and sour aroma is dominant.",
+            "taste": "The wine is oily, smooth overall, with good texture density, sweet and sour, with a hint of bitterness, nuts, malt, and some spices such as cinnamon. It is very clean overall.",
+            "finish": "The mouth will be slightly dry, roasted malt, dark chocolate, spices"
+        },
+        {
+            "user_name": "Wtrstrnghlt",
+            "user_rank": "Expert Senior",
+            "rating": "88",
+            "review_date": "22 nov 2016 10:06 am",
+            "content": "N: sweet spices. earthy, nuts. raisins. vanilla, warm fruit. gets more nutty and less sweet with water.T: Sweet arrival, lots of pepper. fruity and spicy. round and full mouthfeel. gets more dry and nuttier.F: easy, but with enough spices, oak and pepers. nuts and drying.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "notesofmalt",
+            "user_rank": "Expert Senior",
+            "rating": "89",
+            "review_date": "16 oct 2014 10:25 am",
+            "content": "Glendronach 21 years Parliament, original bottling, 48% alc.  Extending: Ex Sherry casks (PX + Oloroso)  Region: Speyside, Scotland  Nose: Overripe fruits, blackberries, currants, a little orange. In addition, wood polish and sugar molasses. After a while, it will be slightly rounder, flavors of pastry will rise. ...  Palate: Significantly caramel, with leathery notes and overripe fruits, which have been seasoned with nutmeg and cinnamon. class  Finish: Long with dark chocolate and the spices  Conclusion: A horny Glendronach, which I would like in cask strength!  89/100 points (tasted 2014, price ca. 80,00 €)  posted on my facebook page: https://www.facebook.com/notesofwhisky",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        }
+    ]
+}

@@ -1,0 +1,516 @@
+{
+    "info": {
+        "ws_name": "Dalmore 15-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Dalmore",
+        "ws_age": 15,
+        "ws_abv": 40.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/3/6/789/512189-normal.png",
+        "ws_rating": 82.96,
+        "ws_vote_cnt": 873,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/36789/dalmore-15-year-old"
+    },
+    "collected_count": 50,
+    "reviews": [
+        {
+            "user_name": "dram-drinker",
+            "user_rank": "Photo Moderator",
+            "rating": "85",
+            "review_date": "24 aug 2019 6:34 pm",
+            "content": "Not bad",
+            "nose": "Dried fruits, nutty",
+            "taste": "Nutty, woody, dried figs",
+            "finish": "Medium long, warm"
+        },
+        {
+            "user_name": "lincolnimp",
+            "user_rank": "Connoisseur",
+            "rating": "56",
+            "review_date": "15 nov 2015 11:31 pm",
+            "content": "One of the worst whiskies I have ever tasted, absolutely awful.Utter rubbish, Dalmore should hang there heads in shame for selling this crap.",
+            "nose": "Weird, it smells artificial and manufactured on big sherry, prunes, black cherry but in truth the nose is not good.Smells of cheese and damp wood.",
+            "taste": "Sherry and not much else, too thin on the palate for me.",
+            "finish": "Who cares when its this bad."
+        },
+        {
+            "user_name": "lincolnimp",
+            "user_rank": "Connoisseur",
+            "rating": "56",
+            "review_date": "15 nov 2015 9:44 pm",
+            "content": "Awful",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Cubey666",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "26 oct 2017 7:13 pm",
+            "content": "Nice fruity dram, with alot of woodnotes.only downside is the low %avb, which makes it a tad too light in my opinion.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Andytka3",
+            "user_rank": "Connoisseur",
+            "rating": "89",
+            "review_date": "27 dec 2016 12:20 am",
+            "content": "Nose:- Trademark of classic Dalmore, firm and intense aroma with initial note of ripe banana and whiff of leather, silky and gentle. After breathing time, beautiful orange marmalade emerge and catch the soft white pepper note on top half of the glass. Palate:- Set in gracefully on the palate, you will not be wow with his presence (either in good or bad way). Very tender, soft with present of mature wood and seasoned leather. Lightly cream with a touch of jammy orange. Finish:- A quiet, well mature dram with depth. Orange zest linger. Lengthy finish. — at The Whisky Bar, Kuala Lumpur.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "WhiskyLovingPianist",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "24 sep 2017 5:06 am",
+            "content": "Crazily dark in colour, heading towards black molasses.N: Bready sherry that texturally talks of white fluffy bloomers. Other underlying notes run along the lines of muesli, cereal bars, malty oak. The complexities are very subtle, given the bold fundamentals.T: Heavily woody, it's a 15 yo going on 21, though the standard 18yo may have something to say about that. Develops on dark chocolate & sweet malt, not much orange.F: Decent finish on a dark vanilla chocolate maltiness.C: This appears generously overaged. I found an expression i tried back in 2013, more charming and with more [herbal] complexity, though there’s only a point in it. Very decent stuff indeed.Scores a B[-]",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "90ClubWhisky",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "03 jan 2025 10:31 pm",
+            "content": "Mahogany color. Oily structure.",
+            "nose": "Quite intense. Sweet. Dark berries. Sweet cream. Blueberries and bilberries with sweet whipped cream. Raisins. Maraschino cherries. Strawberries with whipped cream. Strawberry jam. Milk chocolate with strawberry filling. Dark chocolate. Plums. Dried plums. Caramel, toffee. Sweet cream. Orange peels. Candied oranges. Vanilla pudding. Vanilla. Tangerines.",
+            "taste": "Light sweetness. Milk chocolate. More dryness in a moment. Dark chocolate. Oak. A bit of leather and tobacco. Lots of walnuts. Dark chocolate. Cocoa. Black coffee. Minimal oiliness. Hazelnuts. On the second sip, a hint of orange and tropical fruit deep underneath. Pineapple.",
+            "finish": "Cocoa. Dark chocolate. Spices. Ginger. Walnut. White pepper. Black coffee. Tobacco. Dark chocolate. Quite a long finish."
+        },
+        {
+            "user_name": "wisekyofcourse",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "03 feb 2018 12:45 pm",
+            "content": "On the nose, characteristic scents on sweet caramel, chocolate, on caramelized orange fruits, on \"sherry\", on old dusty oak, vinified back.",
+            "nose": "creamy, caramelized, on chocolate, candied oranges, rather strong wood, remarkable scents given the low alcoholic deg.  back very woody, candied.",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "LeChiffre",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "09 mar 2019 6:55 pm",
+            "content": "In the nose quite interesting. In the taste but ultimately a bit too shallow and not very exciting. A little more alcohol would do him good. Overall good drinkable but for the money there are simply better alternatives.",
+            "nose": "Sherry; fruity and sweet; Dried fruit; Citrus with lots of orange; Vanilla; Cinnamon; spicy",
+            "taste": "sweet and spicy; Orange; some ginger sharpness; slight oak notes; altogether quite flat / weak in the mouth",
+            "finish": "Finish a bit more intense; little sweet; quite spicy and clear oak flavors come through"
+        },
+        {
+            "user_name": "rottendon",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "10 may 2023 4:13 pm",
+            "content": "All in all a positive surprise. The weaknesses in the nose only become apparent with a time lag, the target customers should usually sniff the glass briefly pro forma, then sink the whisky down their throat with a sip, possibly pull it through their teeth beforehand and then distort their faces and with a place the glass on the counter with a clearly audible \"¥€$\". That's what it's made for and it's extremely good at it. Viewed soberly, the alcohol is incredibly poorly integrated and the mix of poorly aged bourbon casks with some presumably high-quality sherry casks is obvious. However, even if you deal with the whisky properly, it works, the overall picture is convincing.",
+            "nose": "The first little nose is delicious, rich dark fruity sweetness, a load of caramel and cane sugar. It lasts for exactly five seconds, then it gets progressively thinner. While caramel and a sherry fruit mix are still present to a lesser extent, fermentation notes creep up from behind, not massive but enough to disrupt the harmony. The longer you smell it, the more they come to the fore. Heat amplifies this and also makes the alcohol bite your nose.",
+            "taste": "Watery mouthfeel with noticeable spiciness, amazing amount for 40%. In addition, dominant sweetness, clear tannins, slightly older cork and a hint of menthol.",
+            "finish": "The finish is significantly longer than expected and even warms up the chest a little, while slowly drying off."
+        },
+        {
+            "user_name": "Maltbehr64",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "12 feb 2017 1:50 am",
+            "content": "Whiskyfun: Dalmore 15 yo (40%, OB, +/-2015) I found it super-good back in 2015 (WF 85). Colour: gold/amber. Nose: typical oranges, malt, butterscotch, warm apple pie, raisins, early grey, liquorice… And then there’s a second page, with more cedar wood, tobacco, toasted bread, and marmalade. Very traditional, sherried and ‘caramelised’, our old uncles will love it. Mouth: it’s not as ‘polished’ as I had expected, and rather more cerealy and bready. Croissants covered with marmalade and cherry jam. And raisins, naturally. Only the weakish strength is a wee problem, and makes it a little thin and slightly papery at times. On the other hand, this feeling of Mars bar and café latte is very pleasant. Finish: medium and appropriately grassier and more chocolaty. The marmalade is back in the aftertaste and would come with a touch of salt. Comments: a lovely dram for lovely chocolate and malt lovers. Probably full sherry. SGP:441 - 84 points.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "St. Pauli",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "14 nov 2016 10:13 pm",
+            "content": "Overall not a convincing dram. It's too weak, possibly coloured, Blind tasting of a sample.",
+            "nose": "The coating to the glass is something that makes me think of the Mannochmore Loch Dhu: as if you would have syrup in the glass. Caramel colouring alert?Rather weak nose of honeyed malt, dried fruit and soapy coriander. A wee bit of dunnage warehouse and orange.",
+            "taste": "Quite thin, watery feel. Dried fruit, orange, pepper, ginger, some bitter oak influence.",
+            "finish": "Maybe the best part. It sticks for quite a while, and doesn't get as bitter as the palate suggests. It's rather malty, honeyed, with some hay, and dates and sultanas."
+        },
+        {
+            "user_name": "Lu Cifer",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "31 jul 2024 4:20 pm",
+            "content": "",
+            "nose": "slightly spicy sherry nose, dried fruit, spices, caramel, herbs, wood notes, nuts, hint of mint.",
+            "taste": "soft, also a little spicy, sherry, spices, oranges, barely sweet, wood notes, oak spice, herbs, a little chocolate. Seems a little watered down, but still quite harmonious and somehow drinkable.",
+            "finish": "Spices, nuts, a little sherry, wood notes, hint of caramel, a hint of sweet malt. Slightly dry at the end."
+        },
+        {
+            "user_name": "DistiLesha",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "19 feb 2024 8:31 am",
+            "content": "Excellent, non-massive and quite brutal profile. Dalmore itself is difficult to guess and only by the insinuating notes of printing. 22 22 21 21",
+            "nose": "Very sulfurous, quite brutal and industrial like Ben Nevis. Absolutely zero alcohol content, pleasant tart spice. In the third plan there is a light gastro note of cheeses and the phenolicity of a charred barrel. Intensity: 7/10",
+            "taste": "Oily and round, the richness balances on the edge of the abyss of wateriness. Waxed printing, dried fruit syrup, tart tannin, oak chips, sherry acidity, some bitter wood and grape tannins. Sweetness: 7/10 Saturation: 8/10",
+            "finish": "Grape tannins, oaky woodiness, dry, medium length."
+        },
+        {
+            "user_name": "Issie",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "31 mar 2022 2:25 pm",
+            "content": "18.02.2022",
+            "nose": "Musty, wet, old cellar, moss, leaves, slightly rotten, nuts, leather, tobacco, orange, very light wild berry jam",
+            "taste": "Orange, grapefruit, nuts, very light wild berry jam, tobacco, burnt wood",
+            "finish": ""
+        },
+        {
+            "user_name": "MrGlenfarclas",
+            "user_rank": "Connoisseur",
+            "rating": "70",
+            "review_date": "10 apr 2024 10:32 pm",
+            "content": "Absolutely characterless bottling. It's amazing how you can mess up a 15 year old whisky like that. The nose is still OK, although anything but harmonious. But the taste is embarrassing. Everything is completely inharmonious. Old bourbon wood tries to beautify itself with a bit of fresh sherry. And that musty cat food aroma. And I can't remember a 40% bottling in which the alcohol was so poorly integrated. How do you manage something like that?? Crazy. It even undercuts the Tullibardine 15. And at such a price...",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Othorion",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "31 jan 2021 8:36 pm",
+            "content": "The nose is still good, but then unfortunately much too thin and weak in the mouth!",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "DramALife",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "31 dec 2022 9:18 pm",
+            "content": "S 7 The nose is intriguing but lacking strength. Palate resembles some decent sherried casked whiskies, but at this price, there are plenty of better choices on the market. 81-85 - Another dram welcomed",
+            "nose": "Vinous. Nose like aged sherry with more oak influences. Husky malt. Toffee. Orange marmalade and a whiff of vegetal oily note at the back (-).",
+            "taste": "It's full-on sherry-driven palate, with sufficient spices (white pepper, gingers) to enrich the body. Plenty of cloves, nutmeg, and star anise. Juicy red fruits (plums, grapes, sweet berries), and oranges too. Lusty malt is complementing the sherry notes rather than the other way around.",
+            "finish": "Mid, warming finish. Slightly drying oak. Crushed peppercorns. Orange zest."
+        },
+        {
+            "user_name": "Achany",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "25 jul 2016 11:25 am",
+            "content": "it would be interesting to have this malt with 46 ABV instead of the 40 ABV it got. nice Sherry whisky with hints of dark fruit, nuts, and good spices from the cask. but I would have expected more complexity from Dalmore and a 15 y old. the finish is rather short.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Kensay",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "10 jun 2018 10:15 pm",
+            "content": "on the nose is interesting and rich, not sharp, sweet  soft and slightly prickly, slightly sweet, sherry and fruity, the aftertaste is not very long",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Dutchdram",
+            "user_rank": "Expert Senior",
+            "rating": "83",
+            "review_date": "12 jul 2022 11:06 pm",
+            "content": "",
+            "nose": "Some dried fruits in the beginning. Raisins with dates. There is a hint of sherry too, followed by a clear note of sangria and cocktail fruits. Next some orange marmelade. A sweet note of caramel. And there's a little note of blackberries aswell. At the end spicy notes like cinnamon and nutmeg.",
+            "taste": "A tiny raisin with orangejam on the background. Praline, caramel and some honey complement each other with dark chocolate after. Very spicy now with notes of cinnamon, cloves and nutmeg. At the end a clear note of spearmint.",
+            "finish": "Short. With orangejam, chocolate and cinnamon."
+        },
+        {
+            "user_name": "Ivynor",
+            "user_rank": "Expert Senior",
+            "rating": "82",
+            "review_date": "28 jul 2016 10:18 pm",
+            "content": "Made younger than her age, and remains too dilute. Probably more interesting at 46%.  82 + / 83-",
+            "nose": "lots of wood, spices, including lots of cinnamon, herbaceous notes and orange essence.  Do not make especially sherry",
+            "taste": "Fairly sweet, slightly creamy, with dried fruits, dark chocolate, spices, exotic wood, herbs. Traces of caramel. the whole is unfortunately too diluted.",
+            "finish": "Good size for 40%, lots of spices, herbs, some caramel and vanilla."
+        },
+        {
+            "user_name": "Willie JJ",
+            "user_rank": "Expert Senior",
+            "rating": "70",
+            "review_date": "29 jul 2014 10:19 pm",
+            "content": "Dull and lifeless for the most part. Caramel laden I think.",
+            "nose": "Sour orange and gooseberry, toffees and linseed oil. Musty bung cloth.",
+            "taste": "Vaguely orangey, but flat as a pancake.",
+            "finish": "Finally comes to life here with light warmth and sugary bitterness. Disappointingly fades to bitterness at the end."
+        },
+        {
+            "user_name": "KIMCHIBaby",
+            "user_rank": "Expert Senior",
+            "rating": "86",
+            "review_date": "29 jul 2024 6:28 pm",
+            "content": "!This is 43% version review!Truffle oil-infused whisky?Despite being the 43% ABV version, the flavors are subtle but distinct. This whisky is particularly notable for its strong oily character, reminiscent of olive oil, lubricant, and truffle oil. If there is a 43% version of Dalmore 15 years, I would be interested in trying a bottle. An intriguing whisky!",
+            "nose": "Nose: Herbal medicine, licorice, olive oil, lubricant, leather, mushrooms A very dark and oily aroma. The scent starts with dark and slightly sweet notes of herbal medicine and licorice. Following this, very oily scents like olive oil and lubricant (grease) are noticeable. The aroma retains a musty note of leather and mushrooms that grow in wetlands.",
+            "taste": "Palate: Truffle, raisins, wet wood, chocolate, nutsThe taste evokes the flavor of truffle mushrooms, with a spice and oiliness that is clearly accompanied by raisins. This is followed by the taste reminiscent of damp coniferous forests. The base flavors include chocolate and nuts.",
+            "finish": "Finish: Tobacco, chocolate, raisins, tangerine The oily notes dissipate significantly, giving way to the character of the sherry cask. The finish features a blend of smokiness and tobacco, with chocolate, raisins, and dried tangerine appearing briefly before fading quickly."
+        },
+        {
+            "user_name": "Martin1965",
+            "user_rank": "Expert Senior",
+            "rating": "89",
+            "review_date": "25 mar 2019 7:35 pm",
+            "content": "",
+            "nose": "Sherry, spices, orange marmalade behind vanilla",
+            "taste": "Sherry and Christmas spices, nutmeg",
+            "finish": "Long, sweet with nutmeg  Lots of sherry but no sherry bomb. Could have a few percent more, still great malt"
+        },
+        {
+            "user_name": "Wolv",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "06 apr 2019 12:21 am",
+            "content": "",
+            "nose": "wine, sherry, nuts, marzipan, grapes, raisins, plums, chocolate, bonfire, vanilla, hay, leather, dessert wine, fruit cake, nutmeg, cloves, cinnamon, oak, caramel, citrus",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Alex_Whisky_Corner",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "19 dec 2024 11:09 pm",
+            "content": "The nose is heavy and dark. Lots of lovely sherry notes flow out of the glass. The taste is initially creamy but unfortunately also watery. Little by little the aromas come to the fore. The finish, which is medium-long, leaves sweet and spicy notes. I like the nose, but the taste is less intense due to the watery feeling. I think that's a shame, because the nose raises expectations. I still like the whisky, which goes well with dessert. I can't find any off notes.",
+            "nose": "I can smell musty wood from a dusty cellar. Then spicy malt comes along. Now I notice dried fruit, red berries, a little fresh grass. In the background there is also slightly sour lemon and chocolate.",
+            "taste": "An oily and creamy start. Some spicy oak, milk chocolate and dark plum. Then caramel, raisins and oranges come in. There are also garden herbs.",
+            "finish": "The finish is medium long, leaving sweet malt, spicy oak and sherry."
+        },
+        {
+            "user_name": "Whisky Hamster",
+            "user_rank": "Expert Senior",
+            "rating": "83",
+            "review_date": "10 mar 2021 6:44 pm",
+            "content": "Discernibly better than the 12 yo, but integrity presentation w/o coloring, chillfiltration and bottling @46% abv. would really boost this one up.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "mihatozzz",
+            "user_rank": "Expert Senior",
+            "rating": "86",
+            "review_date": "28 jun 2024 12:53 pm",
+            "content": "Very drinkable sherry wine, perfect for gatherings with friends. Great to drink in winter as a snack with cherries (thawed, of course).",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Alex Fridays",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "05 nov 2018 5:12 pm",
+            "content": "Colour: dark amber Nose: grass, oak, raisin, chocolate, wood notes.Mouth: sweet, chocolate, raisin, oak and dried fruits. Finish: middle, spices, dried fruits, oak, vanilla and chocolate.This is a good, sweet and oaky whisky.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Alex Fridays",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "24 jun 2018 10:15 am",
+            "content": "Dried fruits, cake, spices, old leather, furniture polish, vanilla, cream, dry hay, dust notes on nose.Dried fruits, cream, vanilla, spices, oak, chocolate, furniture polish, herbs, dry hay notes on palate.Spices, dried fruits, oak cask, herbs and dry hay notes on long finish.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Gloin",
+            "user_rank": "Expert Senior",
+            "rating": "82",
+            "review_date": "18 jul 2023 7:29 am",
+            "content": "The smell is surprisingly intense despite the low alcohol strength and exciting, even if the musty smell is a bit annoying. Unfortunately, this continues in the taste. Nice aromas appear on the surface, but somewhere in the background, well hidden, something ugly lurks. The exit then acts as if nothing had happened, but remains quite superficial.",
+            "nose": "The first impression is spicy, rotten wood, then red fruits, blackberries, a hint of cherries, some leather, slightly musty in the background",
+            "taste": "Very light body, noticeable attack, fermented fruits, plums, some cherries, mushrooms, a bit spicy",
+            "finish": "Mild, sweet, some fruit, a touch of oak, slightly tart."
+        },
+        {
+            "user_name": "Shane_IL",
+            "user_rank": "Expert Senior",
+            "rating": "83",
+            "review_date": "03 jan 2015 8:12 pm",
+            "content": "This was a nice whisky, but that's it, just nice, not great. Not worth the price it commands, feels like more effort went into the colour and packaging than the actual malt.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Magnus Hillman",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "20 jul 2014 3:52 pm",
+            "content": "Expected more from this one. The nose is beautiful, the taste is good, especially without water but the finish is too short and rough.(Rating interval 82-85)",
+            "nose": "Dried apricots, apricot or orange marmelade, Cheerios breakfast cereal, walnuts and sherry spices",
+            "taste": "Vanilla, figs, nuts, dried apricots, hints of coffee, oak and white pepper. With water it becomes both sweeter and rougher.",
+            "finish": "Quite short with oak and pepper as the dominating features. Rasins and sherry spices are there as well."
+        },
+        {
+            "user_name": "marmeladow",
+            "user_rank": "Expert Senior",
+            "rating": "90",
+            "review_date": "23 feb 2020 5:32 pm",
+            "content": "P / 004 803 L8122 - 02/05/18 - uncorked 40 days ago. It takes a lot of time and air, not only in the Glencairn glass, but also in the bottle to present itself in all its diversity.  At the beginning it was very closed with a very dominant oak and spice. But then comes almost perfectly with time and after several tastings - wonderful marriage of the different sherry casks with bourbon refill casks.  Oranges and mandarins, cinnamon and nutmeg, nuts, sweetness and delicate bitterness, oak with a slightly peppery flavor. Complex and iridescent - so much of what makes a very good Highland Single Malt.  But: overpriced for me",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "The_Osprey",
+            "user_rank": "Expert Senior",
+            "rating": "87",
+            "review_date": "20 jun 2021 11:33 am",
+            "content": "Dalmore 15, 40%. Really dark colour- not convinced that's natural! Aroma is weird mousy oak, underripe raspberries, fruited cheap chocolate, soft with no spiritous harshness. Taste arrives in stages. To start it's very rounded oaky, old mousy oak, probably too oak dominant for my taste I thought to start. Blind I'd say this is a 40yo whisky. Then some coffeeish notes. Moving to milky coffee and touches of mint. Then chocolatey creamy oak. Silly stale biscuit oak. I mean I'm actually enjoying the silliness of the oak character. It's like drinking the essence of an old whisky cask. Then it builds such a deep chocolatiness that in the end it drinks like chocolate liqueur. This grew on me loads. Always seemed underpowered though and could really benefit from a higher bottling strength. (3.65/87)",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "malthead-sven",
+            "user_rank": "Expert Senior",
+            "rating": "81",
+            "review_date": "14 jun 2016 9:59 pm",
+            "content": "Light and shadow. The sherry intensity I would not have expected so much. You can tell that the whisky was 15 years in good sherry barrels. The finish is also fine, but the taste is unfortunately a disappointment. Overall, out of round. 81/100",
+            "nose": "heavy, musty sherry sweetness, Mon Cherie chocolates, dark wine gum, rose water, soapy, leather sofa and very light cinnamon, hints of peach and lychee",
+            "taste": "light and soft, watery, thin, lovely, very sweet",
+            "finish": "weak at first, then the sherry is clearly noticeable, followed by a very present oak flavor, milk chocolate, then fades quite fast, so it is not quite enough for \"medium-long\""
+        },
+        {
+            "user_name": "Hans-Ludwig",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "13 apr 2014 5:37 pm",
+            "content": "To talk about color in a dyed whisky is really nonsense. Nevertheless, the impression in the glass is mahogany. The nose knows immediately where the wind is blowing: Sherry! Sweet fruits, vanilla, chocolate and raisins behind. After a while, you get a very tender and dark impression, soy sauce? The finish is sweet and beautiful and leaves the connoisseur with a dream of sherry.  For the lovers of sherry whiskys a must! The different sherry barrels make the Dalmore elusive but you do not have to. It is a lot of fun to enjoy this whisky, again and again new nuances occur.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "uap304",
+            "user_rank": "Expert Senior",
+            "rating": "87",
+            "review_date": "28 jan 2018 7:36 am",
+            "content": "A guilty pleasure.  Highly engineered but enjoyable sipping whisky, like a blend.",
+            "nose": "Vinegar, chocolate, toffee, fruity sherry.",
+            "taste": "Honey, musty faint sherry, maple  and brown sugar oatmeal.  Pretty bold for such a watery body.",
+            "finish": "Flat and fast.  Cinnamon, cough syrup, soft and sweet."
+        },
+        {
+            "user_name": "Erik1702",
+            "user_rank": "Expert Senior",
+            "rating": "86",
+            "review_date": "20 oct 2024 8:06 pm",
+            "content": "Nase: Süß, getrocknete dunkle Kirsche, Backpflaume, Malz, Tabak, Gewürze, Eiche ••• Geschmack: Süß, würzige Eiche, Malz, dunkle Trockenfrüchte, Tabak, Gewürze, Kirschenschale ••• Abgang: Mittellang, süße, dunkle Trockenfrüchte mit Malz und einem Hauch Eiche bleiben. ••• Fazit: Es geht los mit einer süßen und für 40% sehr schweren, dunklen Nase. Getrocknete dunkle Kirschen und Backpflaumen kommen stark zur Geltung. Malz, Tabak, Gewürz und Eiche kommen anschließend. Irgendwie auch fleischig. Im Geschmack kommt zum Anfang eine würzige Eiche mit süßen Noten und dunklen Trockenfrüchte. Gleich im Anschluss Tabak, Gewürze und eine leichte Bitterkeit die mich an Kirschenschale erinnert. Ein Whisky bei dem ich immer wieder an Melasse und/oder eingekochte dunkle Früchte denken muss. Ein schöner Whisky ohne Fehlnoten. Intensiv und meiner Meinung nach ehr für die kühlere Jahreszeit. ••• 86",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Larry411",
+            "user_rank": "Expert Senior",
+            "rating": "83",
+            "review_date": "03 sep 2025 11:32 pm",
+            "content": "Dark fruits, chocolate, and chlorine. Unpopular opinion, but I actually like the 12 a smidge more...",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "KyleRiemen",
+            "user_rank": "Expert Senior",
+            "rating": "83",
+            "review_date": "23 dec 2023 5:35 pm",
+            "content": "Tasting as part of an Advent calendar. Not bad, but the price is too high for what is delivered, plus \"only\" 40%, which makes it a bit watery. It's nice to have tried it, but I won't buy a whole bottle of it.",
+            "nose": "Weak but very well balanced, with aromas of dark fruits, plum, caramel, nuts, tobacco and leather. When freshly distilled, there is still some rum influence, but this disappears relatively quickly.",
+            "taste": "A bit sour and bitter at first, but then the full sherry program follows, vanilla, caramel and old wood. Unfortunately a bit watery and weak on the chest, although surprisingly good for 40%. A bit bitter and astringent at the back.",
+            "finish": "Really good, but unfortunately it fades too quickly, even if you still have the delicious aromas of vanilla, caramel, honey and nuts in the background for a long time."
+        },
+        {
+            "user_name": "Matthias80",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "08 oct 2023 11:00 pm",
+            "content": "Tasted on the Beinwil Whisky Ship 2023 Pretty hyped distillery that I also consider to be good. I tried it once a long time ago, the only thing I remember is that I liked the one in the 12yo / 15yo / 18yo series the least at the time. As is well known, tastes change and so do fires. So let's take a look. Newly tasted in Lucerne 2024",
+            "nose": "Herbs and plums, not too rich on the nose. 2024: noticed significantly more at the beginning of the evening: spicy, earthy, probably these are the herbs of 2023. nutty, rustic aromas, compote, coffee",
+            "taste": "Herbs, sherry notes of plums, raisins and a little bit of figs. I perceived the body as being of medium strength. Pleasant, nutty, marzipan-like notes. Mild, no spiciness and pleasant to drink. 2024: fairly consistent with 2023; There is also some licorice, oak and caramel",
+            "finish": "Rather short, dominated by the sherry aromas. 2024: obviously I wasn't as sensitive to the woody in 2023. Now also roasted aromas and a little vanilla."
+        },
+        {
+            "user_name": "AX1654XA",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "27 mar 2021 10:58 pm",
+            "content": "",
+            "nose": "Dominant sweetness, liquid honey, wet wood, walnut, tanning, burnt sugar, heavy, fleshy, yellow flowers (dandelion)",
+            "taste": "dense, rich, nut, skin,",
+            "finish": "warm, long, one-sided, nut butter, oak"
+        },
+        {
+            "user_name": "Pulteney83",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "25 jul 2020 10:25 pm",
+            "content": "The nose is the best part of this whisky, caramel in the taste and some sulpher in the finish... and some more spicy notes, but for a 15 year old i always would go for a glen scotia or glendronach.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Dramrunner",
+            "user_rank": "Expert Senior",
+            "rating": "82",
+            "review_date": "03 jan 2025 10:41 am",
+            "content": "",
+            "nose": "Caramel, orange, slightly weaker, sherry",
+            "taste": "Dried fruit, dark chocolate, spice",
+            "finish": "Long, gentle and smooth, weak"
+        },
+        {
+            "user_name": "Don Cassi",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "08 jul 2021 11:42 am",
+            "content": "Very spicy on the nose with dark (dry) fruits in the background. Aromas of tobacco and leather are above it. Very soft and oily and spicy-sweet in the mouth. In the very strong finish oranges with tobacco and oak. After the sweetness fades, a spicy-bitter wood and leather note remains in the mouth. Note 1-",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Sanma",
+            "user_rank": "Expert Senior",
+            "rating": "86",
+            "review_date": "26 jan 2025 6:53 am",
+            "content": "",
+            "nose": "Chocolate, nuts, spices, cinnamon, honey, black tea, tobacco, raisins, prunes, oranges",
+            "taste": "Chocolate, spices, licorice, cinnamon, honey, nuts, black tea, vanilla, orange, toffee",
+            "finish": "Chocolate, nuts, cinnamon, black tea, malty, toffee, tannin"
+        },
+        {
+            "user_name": "Der_Schnappulierer",
+            "user_rank": "Expert Senior",
+            "rating": "82",
+            "review_date": "26 may 2021 5:45 pm",
+            "content": "Very nice nose, the taste of the Dalmore 15 is an absolute beginner whisky and it is too expensive for that. There is no reason to dilute whisky down to 40% in this price range and the Dalmore cannot take it at all. Only the beautiful finish makes up for something.",
+            "nose": "Very intense sherry nose. Lots of milk chocolate, rum raisins, cocoa, Turkish honey, caramel, plum jam. A little too round, but very beautiful.",
+            "taste": "Here it is again, Dalmore's lack of texture. It's like having your mouth watering. The already very soft basic character is diluted beyond recognition. A little vanilla, caramel and oak can be tasted, otherwise very little is possible here. Too bad",
+            "finish": "The finish is short but very pleasant with honey, vanilla and very light oak."
+        },
+        {
+            "user_name": "Dalm",
+            "user_rank": "Expert Senior",
+            "rating": null,
+            "review_date": "17 jan 2016 2:19 pm",
+            "content": "Aroma: Sherry, sweet citrus fruits, heather, honey, vanilla, cinnamon  Taste: intense, malt, sherry, wild honey, citrus fruits, cloves  Finish: long, sherry, oak, spices",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Oban 14-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Oban",
+        "ws_age": 14,
+        "ws_abv": 43.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/3/9/114398-normal.png",
+        "ws_rating": 81.92,
+        "ws_vote_cnt": 2782,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/39/oban-14-year-old",
+        "ws_id": "39",
+        "collected_count": 50,
+        "flavor_profile": {
+            "fruity": 4.9,
+            "sweet": 5.1,
+            "peaty": 1.7,
+            "spicy": 4.5,
+            "woody": 3.3,
+            "malty": 2.3
+        },
+        "top_keywords": [
+            "sugar",
+            "apricot",
+            "oak",
+            "iodine",
+            "maritime"
+        ],
+        "ws_name_kr": "오반 14년",
+        "ws_distillery_kr": "오반"
+    }
+}

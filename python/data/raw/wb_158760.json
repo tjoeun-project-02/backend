@@ -1,0 +1,356 @@
+{
+    "info": {
+        "ws_name": "Macallan 18-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Macallan",
+        "ws_age": 18,
+        "ws_abv": 43.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/1/5/8760/504324-normal.png",
+        "ws_rating": 88.61,
+        "ws_vote_cnt": 221,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/158760/macallan-18-year-old"
+    },
+    "collected_count": 34,
+    "reviews": [
+        {
+            "user_name": "dram-drinker",
+            "user_rank": "Photo Moderator",
+            "rating": "85",
+            "review_date": "27 jun 2021 9:08 pm",
+            "content": "Quite drinkable but indeed nothing special - get multiple bottles of a more exciting whisky for the same price instead",
+            "nose": "Raisins, vinous notes, forrest fruits, berries, some leathery notes, hints of sherry wood, little nutty",
+            "taste": "Oily, creamy, subtle sweetness, nutty, more raisins, toffee, little spices, more vinous notes, little citric, orange zest",
+            "finish": "Medium long, warm, little spicy, more raisins"
+        },
+        {
+            "user_name": "alex..w..fan",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "26 nov 2021 7:23 pm",
+            "content": "21 20 21+ 20 82+ very dry style of modern sherry, you have to love it, sorry, but no, and where is 18 years old? hmm, sad ...",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Baanaanaabob",
+            "user_rank": "Connoisseur",
+            "rating": "87",
+            "review_date": "06 jun 2021 7:12 pm",
+            "content": "Quite a boring whisky, it’s not bad but the price is ridiculous. Not very complex, ok sherry, feels youngish and thin with a short finish",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "maltaholic",
+            "user_rank": "Connoisseur",
+            "rating": "90",
+            "review_date": "02 oct 2021 6:12 pm",
+            "content": "I loved the 2018 and 2019, both of which got 91 points from me. Now this one, which looks great in terms of color. Almost dark brown, a mahogany. Thick, oily streaks on the glass ... A typical Macallan for me. That intense sherry nose, old wood, leather. Everything harmonious, by no means overwhelming, noble. In terms of taste on the same line, maybe a touch more barrel, less sherry. No missing notes, it stays round and tasty. Of course, 300+ euros for such a bottle is already a word. And yet I'm happy to try it again ...",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "ThorstenH",
+            "user_rank": "Connoisseur",
+            "rating": "88",
+            "review_date": "29 mar 2022 9:42 pm",
+            "content": "A dram for adults. On the one hand because of the price, but also in the nose you immediately notice what you have in front of you. 86-90 – Wow, really good one, need a bottle",
+            "nose": "Very round and aged gracefully. Very pleasant wood aromas, very light apple. Slightly nutty.",
+            "taste": "This continues in the mouth.",
+            "finish": "Pleasant finish, but without standing out."
+        },
+        {
+            "user_name": "Georges",
+            "user_rank": "Connoisseur",
+            "rating": "90",
+            "review_date": "02 may 2021 10:10 pm",
+            "content": "Matured in hand-picked sherry-seasoned oak casks from Jerez",
+            "nose": "Sweet, sherry, raspberries, strawberries, caramel, dried fruits (apples, oranges, apricots), vanilla, spicy (cinnamon, nutmeg, cardamom)",
+            "taste": "Sweet, sherry, oily, leathery, orange marmalade, figs, chocolate, spicy (cinnamon, clove, ginger), dried fruits, nutty, sultanas",
+            "finish": "Medium long, sweet, cocoa, cranberries, tobacco, orange zest"
+        },
+        {
+            "user_name": "LeChiffre",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "23 apr 2021 5:08 pm",
+            "content": "Overall, a very tasty and drinkable whisky despite the price. But nothing special and a bit thin. And considering the price, which I can no longer ignore in this case, it's unfortunately a disappointment - the sample is enough for me. You can get it much cheaper and better elsewhere, for example a Glengoyne 21y or Glendronach 18y for a fraction of the price is clearly ahead in all respects.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "HammerHead",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "04 jun 2022 6:59 pm",
+            "content": "Head to head with the 18yo double cask which has way better balance than this. 18 years of maturation and still no proper integration here... dissapointing. The price performance ratio is downright laughable.",
+            "nose": "Dried fruits, raisins, fig, overripe peach, orange and lemon, sour cherry, blueberry, chocolate, roasted nuts, soft leather, ginger, nutmeg and clove.",
+            "taste": "Dried fruit, apricot, raisin, fig, cherry, lemon, honey, some leather polish, dark chocolate, coffee bitters, bitter nuts, clove and very clear (black) pepper. I would even call this a little hot (at only 43%).",
+            "finish": "Medium: some honey, dried fruits, cherry, roasted walnuts, cocoa, coffee and a sudden rush of peppery hot alcohol at the tail end (must be poor integration)."
+        },
+        {
+            "user_name": "Lu Cifer",
+            "user_rank": "Connoisseur",
+            "rating": "91",
+            "review_date": "28 dec 2022 5:33 pm",
+            "content": "",
+            "nose": "Idea heavy and syrupy with beguiling dried fruit aromas, notes of wood, spices, somewhat herbaceous, slightly sweet. 90-91",
+            "taste": "warm, spicy-fruity, sweetish, dried fruit, sherry, fine oak notes, orange, spices, some honey, barrel and coffee. Elegant, balanced and delicious! 90-91",
+            "finish": "Spices, fine notes of wood, dates, figs, roasted oak, nuts. Finally, slightly sweet with honey and raisins. 89-90"
+        },
+        {
+            "user_name": "detachedblue",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "08 jan 2022 1:38 pm",
+            "content": "Modern sherry, paint and sherry, lots of damp oak, on the palate, chemicals, paint, dried dates, woody, not too bad.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Damek",
+            "user_rank": "Connoisseur",
+            "rating": "89",
+            "review_date": "01 mar 2024 7:25 pm",
+            "content": "",
+            "nose": "Nose: Incredibly fruity, red and dark fruits, raspberries, red and black currants, raisins, figs, oranges, toffee, nougat, pralines, cold black tea, roasted nuts, ginger, a bit of leather. 89.00",
+            "taste": "Taste: Sweet and tart, toffee, dark chocolate, earthy, nuts, roasted nuts, cocoa powder, leather, dry tobacco, not entirely sweet fruit, apricot, orange peel, figs, blackcurrant, raisins in syrup, nut syrup , a bit of chili and pepper. 88.50",
+            "finish": "Finish: Medium long, mild and very pleasant, bitter caramel, coffee with milk, roasted nuts, generally a whole lot of nuts, wood, cocoa powder, raisins, dried plum, tobacco, slightly earthy. 89.00"
+        },
+        {
+            "user_name": "dominikbraun",
+            "user_rank": "Connoisseur",
+            "rating": "87",
+            "review_date": "26 sep 2021 10:33 pm",
+            "content": "I wouldn't want to compare this Macallan to the Glendronach 18 or Glengoyne 21. It is much more balanced and the sherry influence is more reserved - that is not a valuation, but the objective statement. Which style you prefer is a matter of taste. In any case, this whisky deserves to be bottled with 46% ABV. So he stays a little below his potential.",
+            "nose": "Red, fruity and sweet. Butter scotch, sun-dried fruits, croissants, fried almonds, flowers, milk chocolate. The nose is very creamy, balanced, colorful and friendly. Personally, I really like this Macallan character.",
+            "taste": "Milk chocolate, juicy fruits, stone fruits, tart wood, pancakes with plum jam, delicate spices, pastries and hay. Very tasty, but unfortunately a little little volume for 18 years.",
+            "finish": "The finish rounds off the tastes described above well and leaves a fruity-tart taste on the tongue."
+        },
+        {
+            "user_name": "DannyDram",
+            "user_rank": "Connoisseur",
+            "rating": "88",
+            "review_date": "06 mar 2021 1:27 pm",
+            "content": "Sherry, polish, fig, tobacco, chocolate, chewing gum, leather, cane sugar, caramel, citric. Well balanced, full-bodied, creamy, grainy, slightly sweet, good complexity, medium intensity.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Koning",
+            "user_rank": "Connoisseur",
+            "rating": "87",
+            "review_date": "07 aug 2022 9:15 pm",
+            "content": "A well made dram, with a lovely soft spiciness and well integrated sherry notes. This is the expression I enjoyed the most in an extensive lineup of age stated Macallans (12 Triple, Double & Sherry Cask, 15 Triple and Double Cask, 18 Double & Sherry Cask) I tried in one session. Still, it lacks the power to really impress. Pricewise, this whisky is a complete joke of course.",
+            "nose": "A bit shy at first, but develops nicely. Raisins, praliné chocolate and coffee. Has a ligher side too; it's a bit floral and some fruits are to be discovered. A tiny bit of smoke?",
+            "taste": "Well integrated spices, oranges, chocolate, vanilla and a sweet floral side. Develops well in the mouth and no offnotes to be found.",
+            "finish": "Soft spices again, with juicy citrus fruits, praliné and vanilla. Subtle tannins develop, which give it a bit more weight. A hint of smoke returns."
+        },
+        {
+            "user_name": "clyne_loganar",
+            "user_rank": "Connoisseur",
+            "rating": "89",
+            "review_date": "30 jan 2024 3:03 am",
+            "content": "Overall, I keep feeling too soft, but I like the unique cognac-like feeling and soft milk chocolate feelingThe overall balance is so good and the berry/spicy/chocolate/grape/oak taste is mixed with the right feeling, so it's good to eat",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "craide",
+            "user_rank": "Connoisseur",
+            "rating": "87",
+            "review_date": "12 oct 2021 7:53 pm",
+            "content": "Me and Macallen that won't work. There is no question that this is a good, tasty malt. Very harmonious with a good balance between the palate and nose. But does not reflect what it costs. I think that I can get this quality much cheaper from others.",
+            "nose": "A little restrained at first, but then nice, soft sherry flavors. Some raisins, plums and dates. A few vinous notes of red wine or rose resonate. A few red berries mix with it. The malt already appears fruity-sweet and a little creamy in the nose. Subtle notes of leather, tobacco and milk chocolate emerge in the background, slide forward and leave less room for the fruit notes. The whole time it is accompanied by wood aromas. The wood brings in a nice contrast, a bit bitter then fresh again.",
+            "taste": "Appears a bit thin on the palate with the first sip. But then it is not really. The feeling of the soft, creamy nose is now confirmed. Slightly oak spicy with little heat. It tingles only slightly and immediately brings out the fruit notes. Red berries, oranges, raisins. In general, it looks more like dried fruit, as the malt generally leaves a dusty, musty impression on the palate for me. Honey and chocolate bring out a bit of sweetness, with a hint of vanilla and almond. More spices in the background. Cloves, pepper.",
+            "finish": "Medium-long finish, the malt remains fruity and sweet. something like roasted almonds with cinnamon. Slight sharpness,"
+        },
+        {
+            "user_name": "molpet",
+            "user_rank": "Expert Senior",
+            "rating": "88",
+            "review_date": "24 jan 2025 11:00 pm",
+            "content": "I am going to factor out the price, otherwise I would have to be really mean with my rating! My overall impression is that this whisky had some potential, but has been butchered by chill filtration and watering it down too much. It needed to be at least 46% ABV in my opinion. As is, it would be worth 150 Euros to me, not a penny more!",
+            "nose": "Raisins, dried fruits, vanilla, orange, milk chocolate, gentle oak and spiciness. Yes, it has the Macallan signature, but is simply too thin. Nice balance of aromas.",
+            "taste": "Possibly even cherries and walnut skin are joining the party. The whisky is clearly missing viscosity/texture and some kick. Pity! It could have been so much more...",
+            "finish": "Short to medium. Very inoffensive."
+        },
+        {
+            "user_name": "Whisky Hamster",
+            "user_rank": "Expert Senior",
+            "rating": "87",
+            "review_date": "17 jul 2021 11:18 am",
+            "content": "Not judging this one by older bottlings I don't know and which supposedly represented one cornerstone in building Mac's good reputation. This one - price aside - is a good sherry cask whisky, well-integrated with wood spices, not overly sherried, nicely balanced, perhaps a bit thin-bodied, in short, a competently-crafted dram I quite enjoyed. However if you now take the price into consideration this quickly becomes a model case for marketing fraud and pretentiousness. I can see this nowadays with all the price spikes considered retailing for a bout 100-120 EUR (somewhat in similar range as Dronach 18, which is most probably more intense, but maybe not as fine-tuned). Everything above is Macallan exclusive money I am afraid. But I am very thankful for having had the opportunity to try this one from a good whisky pal. Slainté! :-)",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "ZLako",
+            "user_rank": "Expert Senior",
+            "rating": "90",
+            "review_date": "10 nov 2022 6:38 pm",
+            "content": "N: Macallan sherry...so typical. Raisins followed by plums and juicy apricots. Some coffee and oak appears. (93)P: Spices, oranges and chocolate. Lots of vanilla coming through with oak and toffee. Great sipper. (97)F: Soft spices with citrus and vanilla. (93)94 / 97 / 93 = 94.6667 --> 95 pts / 100",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "DimiIkon",
+            "user_rank": "Expert Senior",
+            "rating": "89",
+            "review_date": "30 sep 2021 2:31 pm",
+            "content": "Blind Tasting: July 2021",
+            "nose": "Direct an aroma of red fruits, raisins, plums and dates. Light chocolate, toffee and almonds.",
+            "taste": "Floral, sweet, honey and chocolate. A little butterscotch with vanilla bean. A little sweet pepper in the background.",
+            "finish": "Floral and burnt sugar. A little vanilla that surprises. Pepper and more sweetness. Medium to long."
+        },
+        {
+            "user_name": "The_Osprey",
+            "user_rank": "Expert Senior",
+            "rating": "86",
+            "review_date": "30 jan 2024 7:47 pm",
+            "content": "Macallan 18yo Sherry Oak 2023 Release. Sampled at The Whisky Show 2023. Initially very dirty on nose. Soften up quickly. Raisins. Taste is a little on the 'too-soft' side, nice basic sherry cask vibes. Super solid stuff 3.6/86",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Petitcham",
+            "user_rank": "Expert Senior",
+            "rating": "87",
+            "review_date": "05 jan 2022 12:56 pm",
+            "content": "Add a little water: macallan-specific spices, suites, oaks, dry fruits, no inconvenience",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Raistlinmejere",
+            "user_rank": "Expert Senior",
+            "rating": "87",
+            "review_date": "08 oct 2022 5:26 pm",
+            "content": "Macallan 18 2020 Edition 43 Degree Smell: It is a little irritating at first, and the irritating is mainly acidic, with some sweetness. Then it starts to become softer, more like tangerine peel, fig shreds sold in school supermarkets in the 90s. The latter part is some sweet rock sugar and a small amount of hawthorn. Tasting: There is basically no sense of alcohol, the entrance is very sweet, iced hawthorn and red date tea. Then there are roasted nuts in the middle surrounded by sweet and sour berries. The nasal cavity is dominated by spices, a small amount of dark chocolate, and dried fruit baked to black, with a more neutral woody note. Finish: Slightly bitter boiled water, then dark chocolate with a little astringency, a bit like citrus, moderate length. The advantage is that it is relatively positive, with less miscellaneous flavors, soft and alcohol-like suppression is very good, and the smooth and stable Sherry barrel... gone.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Peatyjohn",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "06 oct 2025 9:01 pm",
+            "content": "Quite soft and easy on palate. Cask influence produces dark fruity notes and a touch of spice. Tasted on a distillery tour.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "peatjens",
+            "user_rank": "Expert Senior",
+            "rating": "86",
+            "review_date": "22 mar 2022 8:22 pm",
+            "content": "Hey Macallan! It was hardly possible for me to get close to bottlings from previous years. Now I can finally buy a few of the legendary Sherry Cask editions. I'm sobered up. This isn't what I expected. Perhaps one can still get hold of bottlings here and there that have established the Macallan myth. For me it is incomprehensible. I sit back and leave the field to others who understand Macallan. I prefer to focus on all the other whisky wonders that exist today.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Rosebanker66",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "12 aug 2021 2:02 pm",
+            "content": "",
+            "nose": "",
+            "taste": "",
+            "finish": "Thin and 85 points with a lot of benevolence"
+        },
+        {
+            "user_name": "Dram Brigade",
+            "user_rank": "Expert Senior",
+            "rating": "87",
+            "review_date": "01 sep 2021 5:24 pm",
+            "content": "It's been a long time since I tried a Macallan Sherry 18, I had tried double cask 18 earlier this year however not a big fan, for me in double cask series, the 15 is more balance. The new sherry 18 is delicate, malty sweet, nose is really good. Price wise, was a little high and I really hope for the price they can increase the abv a little bit more, 46-48%.",
+            "nose": "Milk chocolate, coco cereals, hints of smoke, dried fruits, the oak is well integrated, not overly sherried. Some tobacco, a little bit of hay, more coco cereals, chocolate bar, some matches. Delicately sweet nose.",
+            "taste": "A bit dry and thin bodied compare to the nose. Dark chocolate, toffee, some oak spice, dark fruit tea.",
+            "finish": "Medium, some sherry sweetness, dark chocolate."
+        },
+        {
+            "user_name": "Sanma",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "07 nov 2024 12:49 pm",
+            "content": "",
+            "nose": "Raisins, spices, prunes, chocolate, nutty, vanilla",
+            "taste": "Dried fruit, vanilla, citrus, nutty",
+            "finish": "Hay, date, bitterness, nutty"
+        },
+        {
+            "user_name": "Chris_V_Swan",
+            "user_rank": "Expert Senior",
+            "rating": "90",
+            "review_date": "21 jan 2022 6:30 pm",
+            "content": "A Classic.",
+            "nose": "Old wood, lots of wood, sherry aromas, also some peppery and raisins (which I like so much!). A really mature malt. I would have blindly guessed it as older. You have to like strong oak characteristics. Not dissimilar to 12 Sherry. Only much more mature and therefore much more woody.",
+            "taste": "Classic Macallan Speyside Malt Whisky. Very round, very soft, a lot of oak. You can literally taste age. A mature whisky. At 43%, he actually has enough power to make himself noticed.",
+            "finish": "Very long. There's a lot of complexity here. The sherry cask aging is clearly evident. Good luck for! The European oak barrel greets. Lots of spices, a little leather is added."
+        },
+        {
+            "user_name": "OrinTheGreat11",
+            "user_rank": "Expert Junior",
+            "rating": "81",
+            "review_date": "04 apr 2022 3:46 am",
+            "content": "Nose is very nice, but thats about it. Very very thin and watery in the mouth. Really, nothing positive to say in terms of mouthfeel or richness of flavor. I am underwhelmed and very disappointed as this is the first time I ponied up to spend 350+ on a Macallan. Never making that mistake again. Ive had more enjoyable drams for less than 1/3 the price. I really expected more. Part of the reason I was willing to spend the money was the high rating it has on this site. Thanks guys! No idea how the ratings are so high. The Macallan Cacao was much much better at less than half the price. Save your money.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "antyloop",
+            "user_rank": "Expert Junior",
+            "rating": "90",
+            "review_date": "21 apr 2022 7:26 am",
+            "content": "Macallan 18 YO Sherry Oak Cask (2020), 43% abv. Category: Single Malt District: Speyside Distillery/Brand: The Macallan bottler: OB Bottled: 2020 Age: 18 years old Strength: 43%abv. Cask type: Oloroso Sherry Oak from Jerez Filtration: YES Colour: natural color Colour: lacquered mahogany Conclusion: no, not a sherry bomb... but, this is a legend and a standard of taste in its age, everything is very balanced and balanced, with such a sit and get high by the fireplace... it's a pity that the realities of current prices are a pain Points: 90",
+            "nose": "Aroma: well, everything is like in a textbook - rich and balanced... spicy sweet spices, dark berries, high-quality dried fruits, dark bitter chocolate, Cappuccino coffee... nice tannins... a little ginger",
+            "taste": "Taste: very juicy and fat - dark chocolate surrounded by an enveloping creamy coffee foam ... dried fruits - dates, raisins, dark dried apricots ... pleasant astringency of tannins ...",
+            "finish": "Finish: long... enveloping-warm... chocolate-coffee-tannin... well, dried fruit too... very pleasant"
+        },
+        {
+            "user_name": "Ummixhead",
+            "user_rank": "Expert Junior",
+            "rating": "88",
+            "review_date": "16 apr 2025 10:42 pm",
+            "content": "Sample balance in whisky",
+            "nose": "Dense, refined balance of aromas, rich, spicy, citrus, candied fruit, dried fruit, lemon, date, chocolate",
+            "taste": "Delicate, light, citrus, chocolate, vanilla.",
+            "finish": "Bright, long-lasting, developing. Vanilla, chocolate, spices, citrus, leather, tobacco."
+        },
+        {
+            "user_name": "SpectralCF",
+            "user_rank": "Newbie",
+            "rating": "88",
+            "review_date": "13 jul 2024 3:13 pm",
+            "content": "One of my favourite drams. Compared this to the Tamdhu 18 yo, or Glendronach 18 yo.This macallan is the pure expression of Whisky balance and Elegance. Great ballanced nose: Macallan spirit, sherry, oakinesPallate, smooth, slowly introducing the typical sherry notes, macallan taste, transfering to Oakiness, vanulla",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "whistleky",
+            "user_rank": "Newbie",
+            "rating": "82",
+            "review_date": "16 dec 2021 8:50 am",
+            "content": "Citrusy, sugared ginger spice and what I would call a \"clean\" type sherry flavor. Similar to the 2019, and much better than the 2018 in my opinion. Very drinkable but disappointingly looses strength very quickly, only the spiciness is retained. Perhaps to be expected due to such a low abv. Considering the price, I don't see a reason to buy this instead of the excellent 12yo.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        }
+    ]
+}

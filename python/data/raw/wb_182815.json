@@ -1,0 +1,586 @@
+{
+    "info": {
+        "ws_name": "Talisker 10-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Talisker",
+        "ws_age": 10,
+        "ws_abv": 45.8,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/1/8/2815/320857-normal.png",
+        "ws_rating": 84.07,
+        "ws_vote_cnt": 1275,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/182815/talisker-10-year-old"
+    },
+    "collected_count": 57,
+    "reviews": [
+        {
+            "user_name": "dram-drinker",
+            "user_rank": "Photo Moderator",
+            "rating": "88",
+            "review_date": "02 feb 2023 10:38 pm",
+            "content": "Maritime, more peaty and smoky than it used to be in the past but good, very drinkable, very good price value ratio, serves well as daily dram for me",
+            "nose": "Seabreeze, iodine, liquorice, ripe yellow fruits, tobacco, whiffs of peat and smoke, hint of honey and herbs, peach, apricot - quite nice",
+            "taste": "Little punchy, fruity, liquorice, honey, ripe orchard fruits, subtle sweetness, spices, hint of peat and smoke, tobacco, little herbs, iodine, brine, seaweed, green tea, hint of oak wood - really not bad",
+            "finish": "Medium long, warm, spices, liquorice, some peat and smoke"
+        },
+        {
+            "user_name": "WhiskyLovingPianist",
+            "user_rank": "Connoisseur",
+            "rating": "89",
+            "review_date": "28 nov 2023 6:39 pm",
+            "content": "https://whiskylovingpianist.wordpress.com/2023/11/28/bottle-polishing-november-2023/A new label design. Should we be worried? See the comparison of ‘old’ & new Talisker 10 from GWhisky [2:18]. The colour looks pretty much the same. You never know, it could have improved!N: I don’t remember Talisker being this peaty nor with this attributed level of controlled spiciness though I’m not complaining. Certainly a youthful/spritely 10yo, we are talking malt, salt, and peat, seasoned with seaweed crisps, sage, and brine and with a lively fruity-ish < vegetal zing beyond anything found in the normally recognised food realm, sweet < savoury/mineral, a little dirty/soot, peppery,… No doubt I will have more descriptors for you on the palate, the notes of which will be interchangeable. What’s not to like? Really, we are flying.T: In agreement with GWhisky, I find this favourably rugged & forward. Straight up, we’ve a saltiness nearing back-in-the-day Old Pulteney levels [if far gentler and sweeter] before a development of briny dry peat, coal [tar], sooty gravy with zesty caramel into ginger butterscotch honeycomb, and a hint of medicinal spearmint=pecan freshness. This fresh/vibrant sweet-savoury-to-sour profile goes through a number of staggeringly regulated shifts in the middle stages which are easy to follow and joyous to experience.F: While I’m not wildly enthusiastic about food-pairing whiskies, do try this with mixed unsalted nuts – brazils. almonds, cashews, and pecans especially. That aforementioned bold phenolic spicy freshness seems determined to hang around, though ultimately, it softens/falls away towards phenolic barley sugar, finishing in a coppery organic malty seaweed/kale/roasted brussel sprout bundle with a little liquorice, wood-tannic plastics,… mainly with deep-ashy Longrow-like phenolics lingering.C: As Ralfy tells us, Talisker has been through a bad patch ever since Storm et al were introduced. Whereas the 10yo was generally variable [in my book], the now-discontinued 57° North [see pic] and the overnight hyper-inflated 18yo remained/remain absolute crackers if now unreasonably attainable. Finished in just two months, honestly, I don’t remember Talisker 10 ever being this good. I’ve seen it recently for just €30 so stock up!Scores 89 points [going on 92+ in 2050]Impossible musical/whisky pairing: Talisker 10 with Louis Armstrong live in Berlin 1965.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "WhiskyLovingPianist",
+            "user_rank": "Connoisseur",
+            "rating": "89",
+            "review_date": "20 apr 2022 9:26 pm",
+            "content": "https://whiskylovingpianist.wordpress.com/2022/04/20/spotlight-on-waterford/Easily the best of the three. With Lagavulin 16yo now premiumised, this is now the go-to malt when you find yourself out & about [limited]. This typical experience only goes to further highlight where Waterford is in comparison to the global standard fare. Waterford is making cracking whisky and their journey has only just begun.[Not scored]",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "markjedi1",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "18 jun 2023 10:01 pm",
+            "content": "ClassicSince the arrival of Torabhaig, Talisker can no longer call itself 'The Only Distillery on Skye'. So they renewed the packaging and are now 'The Oldest Distillery on Skye'. Let's see if this new batch still produces such a beautiful malt.Yes... That nose is still absolutely amazing: pepper, salt and peat with a nice touch of oyster juice and citrus fruit, unripe banana and a bonfire on the beach. Whopper of a classic, right?Silky soft on the tongue, wood and oranges in front, immediately followed by a big surge of the pepper. Then the typical salty notes appear that are immediately pushed away by sweet notess. Red apples, citrus fruit, nice and bright and accessible, but very typical of the house. That's the way it should be!The finish puts a blissful smile on my face: this is coming home.For years, the Talisker 10 has been untouchably tasty and affordable and therefore a must-have in every whisky cabinet. Thank you for the sample, Pat!",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "MaltVader",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "30 mar 2022 8:34 pm",
+            "content": "",
+            "nose": "Smoke, sea breeze, leather furniture, a hint of citrus",
+            "taste": "Smoke a little softer, sweet, a little citrus, skin",
+            "finish": "Pleasant in diameter, smoky, enduring"
+        },
+        {
+            "user_name": "ThorstenH",
+            "user_rank": "Connoisseur",
+            "rating": "73",
+            "review_date": "12 sep 2022 9:39 am",
+            "content": "The 10 years and with the PLV outstanding. A legend. Perfect for beginners in rough maritime whiskys, possibly as a preliminary stage in peat. 71-80 – Fine, like to drink by time",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Tom na Gruagaich",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "07 apr 2022 12:22 am",
+            "content": "It used to be a no-go malt for me, today it's almost pleasing. Is it me or the malt? Who knows. Still, what you get here for cheap money is fantastic. Nice peat, fruit, a bit salty maritime, citrus and I think that's where the complacency really comes from, embedded in a bed of vanilla oak. Nice whisky.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "LeChiffre",
+            "user_rank": "Connoisseur",
+            "rating": "88",
+            "review_date": "12 feb 2022 4:25 pm",
+            "content": "For me simply a bank and the best standard around 30 euros. I can't get much more for the money. Note: I don't usually do it, but in this case I took the price into account in the evaluation, since one can speak of a really grandiose PLV here.",
+            "nose": "distinctly smoky for a Talisker; maritime-salty; sea breeze; citrus notes; some young leather; caramel",
+            "taste": "soft and yet sufficiently powerful; Sweet; tender dried fruits; maritime-salty; Caramel; a tingly peppery spiciness arises",
+            "finish": "tingly peppery-spicy (Chili-Catch); sweet-spicy; maritime; salty; smoky"
+        },
+        {
+            "user_name": "Sporx",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "24 oct 2021 12:36 am",
+            "content": "Aroma Spicy, oak, campfire taste Sweet, maritime, salt, some smoke, chili catch finish Medium length, sweet, maritime",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "pianoman",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "21 jul 2022 6:56 am",
+            "content": "",
+            "nose": "Campfire, orange zest, chocolate and freshly cut chili. Some wet earth and mint.",
+            "taste": "Smoke, orange marmalade, chili, some pepper. Butter cookies with chocolate. Apricots, a hint of salt and a subtle spiciness.",
+            "finish": ""
+        },
+        {
+            "user_name": "Boletus",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "28 dec 2022 8:52 am",
+            "content": "In my eyes still a good malt, but compared to the previous version somehow softer and more boring, but at the same time more unbalanced in terms of the distillate. What used to be a peppery note of spices on the finish was more like a mixture of alcoholic afterburner (“hot spirit”) and ginger spiciness when I tasted it.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "glen efze",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "01 jun 2022 7:51 am",
+            "content": "The iconic whisky from the Isle of Skye, matured for 10 years, peated, part of the Classic Malts and therefore one of the whiskys that many whisky connoisseurs have known for years. But also colored and chill-filtered. Made by the Sea? www.glen-efze.de",
+            "nose": "Talisker is powerfully smoky and quite on par with some Islay smokers. The smoke isn't primarily medicinal/phenolic or sooty, it's the nice smoke of a warm campfire. This makes it comparable and confusing with Caol Ila. Behind the smoke come fruit, some dark cherries and some orange zest.",
+            "taste": "In the mouth it is oily and the smoke is powerful here too. The fruits are quite restrained, are only slightly sweet and are then replaced by a smoky wood note. It's all delicious, but without a big highlight. The nice smoke determines the taste. Chilli Catch? I've never been able to do much with it... There is a certain sharpness, which can also come from the alcohol, but it doesn't bother me.",
+            "finish": "In the aftertaste, the whisky becomes dry in the mouth, but the plum is still noticeable. Not too complex but easy to drink. Talisker 10 is a good whisky to drink again and again, but not particularly exciting either. Sure, in the end it's just a Diageo mass product with all the features that you don't like about this group. And although it was distilled on the Skye coast, it is believed to have matured at Diageo's central warehouse near Sterling. Because on Skye they definitely don't have the sufficient amount of warehouses. Nevertheless, a good, tasty whisky that you have to have on the shelf every few years."
+        },
+        {
+            "user_name": "Whisky.Hedonist.MY",
+            "user_rank": "Connoisseur",
+            "rating": "88",
+            "review_date": "02 jun 2022 3:11 am",
+            "content": "Still a very solid Talisker.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Spoerkel",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "04 sep 2023 2:43 pm",
+            "content": "A nice dram for in between. Good PLV. But where has the white pepper gone, which characterized earlier bottlings and made them interesting?",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Damek",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "12 oct 2023 12:10 pm",
+            "content": "Nose: salty sea wind, campfire smoke, spices, pepper and alcohol hit the nose, citrus fruits, orange peel, grapefruit, after a while it becomes even more marine. Taste: Smoky, salty, coal, herbal, dirty, vanilla, burnt caramel, tart and bitter, spices. Finish: short, vanilla, tart wood, bitter, tart nuts, a bit of smoke and grating in the throat, some slightly noticeable smoke somewhere in the background.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "spigray",
+            "user_rank": "Connoisseur",
+            "rating": "88",
+            "review_date": "16 nov 2021 11:38 am",
+            "content": "Still very good value for your money!!!",
+            "nose": "Ok, seems they only changed the lable. Same profile as I remembered it, a bit youngish but it has a solid backbone of smoke, sea water, sea breeze and iodine. Pepper, of course, leather, a drop of linseed oil.",
+            "taste": "Ok, the palate has always been better than the nose and this batch does not make a difference.Nice, medium sweet and salty arrival and then the pepper which has always been most prominent in the 10 yo (imho)The leathery notes are stronger on the palate and there is also a hint of salted caramel.",
+            "finish": "Smoky, leathery, a bit dry perhaps."
+        },
+        {
+            "user_name": "Cask1988",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "13 nov 2022 4:17 pm",
+            "content": "New packaging (since I bought a bottle for the last time), new recipe? I’ve been offered two 2cl samples that I took some serious time with at 2 completely different moments. Here’s my thoughts…",
+            "nose": "Instantly Talisker characteristics with smells of salty seaweed and light peat. Something I almost always get with Talisker expressions. Pleasant salty flavors and sweet peat. On top of it there’s a certain fruitiness that I associate with gold berries, Elstar apple and dried apricot. There’s also something like green tea and freshly jacked up black pepper. It gives this nose a certain depth. Although an entry Talisker I think it’s just a lovely nose. Not overly complex but tasteful and with pleasant balance. First or second time didn’t really change anything in terms of the nosing.",
+            "taste": "Tastewise this offers quite some sweetness with honey, malted barley and subtle fruitiness. Kid palate I get a clear hint of coastal peat that increases in dominancy while swallowing. During the second time I had the feeling it gave a little more spices on the palate which is a good thing.",
+            "finish": "Medium length and with. Very pleasant smokiness that’s covering the mouth. It’s like chewing on a sweet cloud of soft and gentle peatsmoke. Smoky barley, sweet earthy flavors and some subtle black peppers are calling the shots here. There’s not a lot of fruitiness in the finish. The second time I got a wee more barley-like flavors. It’s pleasant and lingers on for quite a while but in a subtle way of speaking. And that’s fine since it’s a lightly peated 10yo aged in not to dominante casks. Since the rebranding took place and it all looked quite ‘cosmetic’ I was afraid that the flavor and smell would also have been affected. But I have to admit that this is still unmistakably Talisker. The seaweed, the saltiness and the peaty flavors are all still there. The last bottle of Talisker I had was around 2020 in the old label. What does pass my mind is that the peat level seems to be a little more subtle, but then again, that could be a batch difference. Wat me wel opvalt is dat in vergelijking met toen, het turflevel iets minder lijkt te zijn. It has never been a peatbomb. It seems to be a little less fruity and a little more spiced in the finish but other then that I can’t really find big differences that suggest a lot of change. I guess I’ll have to buy one or two now there’s a big discount here in the Netherlands at the moment of writing!"
+        },
+        {
+            "user_name": "domani",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "25 may 2022 9:33 pm",
+            "content": "The newer bottling has increased for me in terms of smoke, I also find it more maritime and pleasing. The aromas run through like a red thread. Always good the Talisker 10, shouldn't be missing in the bar - 05/25/2022",
+            "nose": "Sweet, warm smoke, the smoke seems more intense to me, that's my final impression, maritime, salted caramel, ripe fruit flesh in the background, lemongrass, mint, freshly ground pepper",
+            "taste": "Malty and creamy, buttery avocado, subtle citrus aroma, more like lemongrass, here too the smoke seems more intense to me than in the older bottlings, maritime, salty caramel, the chili heat remains at the end",
+            "finish": "Medium length, smoky, fading sharpness, smoky oak aromas"
+        },
+        {
+            "user_name": "Phalat",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "16 mar 2022 8:27 am",
+            "content": "different than the old one, it doesn't taste good yet, but then when I drink it again I'll put on the taste notes",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Dionysus",
+            "user_rank": "Connoisseur",
+            "rating": "87",
+            "review_date": "11 oct 2021 5:44 pm",
+            "content": "The mother of all classics in a new jacket. But still just as tasty, the traditional pepper and maritime flavors. It is the whisky that adorns almost every menu, but it is and remains a topper.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Whiskylifestyle",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "06 jul 2022 4:15 pm",
+            "content": "",
+            "nose": "Sweet smoke. Red apples and a hint of honey. A lovely sea breeze and a mineral note. Liquorice in the back. Caramel fudge and a little bit of pepper.",
+            "taste": "Smoke again, mixed with salted caramel. Some milk chocolate. A hint of lemons, which is followed by a pinch of sea salt and a little bit of pepper.",
+            "finish": "Mid-long with a touch of smoke, pepper and sea salt. Caramel too."
+        },
+        {
+            "user_name": "VLG",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "24 dec 2023 6:26 pm",
+            "content": "Batch: L3004CM031 00003564I bought it around June 2022, probably one of the first bottlings under the new label. Despite the new label, this specific batch still feels pretty much the same as the old label. I've heard that is not the case anymore, as newer batches have changed the liquid quite dramtically and now it resembles the NAS releases. RIP Talisker 10. At this point in time, there is literally no Talisker that I actually like. What a disaster.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "YD84",
+            "user_rank": "Expert Senior",
+            "rating": "88",
+            "review_date": "18 nov 2021 9:18 pm",
+            "content": "Fishy, salty, briny, mineralic, malty. Black pepper, more spices, barley sugar, chocolate, earthy peat, oranges, apples. A touch more savoury than older bottlings, but excellent as ever.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Barney9359",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "25 oct 2025 10:19 pm",
+            "content": "Talisker tasting 20.09.2025Talisker 10-year-oldhttps://www.whiskybase.com/whiskies/whisky/18281584-Talisker 57° Northhttps://www.whiskybase.com/whiskies/whisky/3967282Talisker Port Ruighehttps://www.whiskybase.com/whiskies/whisky/4058384+Talisker 18year-oldhttps://www.whiskybase.com/whiskies/whisky/21778585+Talisker 25-year-oldhttps://www.whiskybase.com/whiskies/whisky/12395687+",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "ZLako",
+            "user_rank": "Expert Senior",
+            "rating": "88",
+            "review_date": "10 apr 2022 11:52 pm",
+            "content": "N: Fresh sea breeze, lots of salt, pleasant smoke, vanilla, citrus, pearsP: Salty, caramels, lots of pepper, citrus notes, vanilla, smokeF: Long, lots of pepper, roasted coffee, some dark chocolate, mouth watering",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "kawhi",
+            "user_rank": "Expert Senior",
+            "rating": "75",
+            "review_date": "15 feb 2024 4:34 pm",
+            "content": "The epitome of introduction to pit. I think it's good to feel the peat because it has not too much iodine, salty peat and smokiness together.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "bl0wb4ck",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "14 may 2023 3:58 pm",
+            "content": "More smoke than expected. Maritime, intense. I only notice the \"chili catch\" mentioned everywhere in the background.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "The_Osprey",
+            "user_rank": "Expert Senior",
+            "rating": "81",
+            "review_date": "23 jun 2025 10:43 pm",
+            "content": "Talisker Aged 10 Years, SMSW, 45.8%. 50ml sample from a Diageo tasting set, consumed June 2025. I had assumed this would be a recent bottling but it states “The only distillery on the Isle of Skye” on the label, which places this around 8 years old in theory. Lot coded L1292IW002 016799. Dull orange and declared to be “mit farbstoff”. Aroma of rust, some bacon frazzle crisps at times – showing up then disappearing again. Lots of rust. Maybe purple/brown seaweed. Body is lightly oily. Taste is old wood, hints of rock salt, becoming hot and spicy into the finish and a little tart – again rusty and dry, tangy redcurrant and the distinctive chili pepper note. The chili note in Talisker 10 and the DE is just not for me but I did get on with this a bit better than I normally do this time. 3.4/81",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Ozzyosbourne007",
+            "user_rank": "Expert Senior",
+            "rating": "83",
+            "review_date": "24 aug 2025 2:15 pm",
+            "content": "Very soapy this bottle I had… can’t be normalLavender and so on",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "SingleMaltRussell",
+            "user_rank": "Expert Senior",
+            "rating": "83",
+            "review_date": "17 mar 2024 8:02 pm",
+            "content": "",
+            "nose": "Forward farmy peat, salty smoking and charred driftwood, umami yeast extract, lemon juice, motor oil",
+            "taste": "Mild sweet malt approach, building to stronger smoke, cooked lemons, dark honey-caramel malt, medjool dates, olive oil",
+            "finish": "Weak grey pepper, ginger, malt, turning more savoury, not-quite-bitter olive oil remains"
+        },
+        {
+            "user_name": "aquataste",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "25 feb 2024 8:38 pm",
+            "content": "",
+            "nose": "Fresh peat smoke combined with sea breeze, a pinch of black pepper, earthy and grassy, a pinch of fresh and dried herbs, fresh sweet vanilla, a bit of caramel and toffee, a bit of citrus, green apples, a bit of old leather and dry old boards, notes of ash and iodine",
+            "taste": "Peat smoke and sea breeze combined with a slight bitterness of oak and a pinch of pepper, salt, green fruits with a hint of citrus, fresh and dried herbs, fresh buttery tones, vanilla, a bit of caramel and toffee, a bit nutty, iodine, a bit earthy and grassy, notes of ash and old leather and dry old boards",
+            "finish": "Light bitterness of oak with peat smoke and sea breeze, iodine, earthy, dried herbs, a pinch of pepper, delicate notes of old leather and dry old boards at the end"
+        },
+        {
+            "user_name": "BarleyMail",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "06 oct 2022 5:39 pm",
+            "content": "",
+            "nose": "Sweet peat smoke, oranges, something dusty, red apples, oysters and smoked fish.",
+            "taste": "Smoky oranges, pepper, salt, lemon, red apples and oysters.",
+            "finish": "At least medium. The herbs with orange and lemon remain behind. Good price/quality. I had a bit of a hard time opening the bottle, there was something disturbing that seemed like an excessive amount of paprika. But that completely disappeared after a while in the bottle."
+        },
+        {
+            "user_name": "Peatyjohn",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "09 may 2025 5:26 pm",
+            "content": "Sweet peat smoke with maritime notes, salty, sea spray, orange oils, lemon grass, touch of smoke, peaty, honey malt, vanilla, peppers . Classic Talisker.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Nomorewh",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "14 feb 2024 8:13 am",
+            "content": "maritime, peat - not my dram",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Louisvandermeer",
+            "user_rank": "Expert Senior",
+            "rating": "86",
+            "review_date": "18 oct 2025 3:43 pm",
+            "content": "A delicious, soft, smoky whisky with predominantly sweet flavors. Excellent value for the price!",
+            "nose": "A delightful sea breeze greets you, complemented by licorice, tobacco, campfire, and a hint of spice. A hint of leather and citrus lingers in the background.",
+            "taste": "Fruity, primarily apples and pears, along with caramel, sea air, and citrus. A pleasant peppery note, along with burnt sugars, is beautifully rounded out by a very soft but ever-present peat undertone.",
+            "finish": "Medium length, with dominant flavors of salted caramel and licorice. There's also a hint of spice and the ever-present peat smoke."
+        },
+        {
+            "user_name": "coldsun",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "09 jan 2022 11:01 pm",
+            "content": "New version of Talisker 10 is not worse then its ancestor. Still marine, rich and tasty!",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Mugis",
+            "user_rank": "Expert Senior",
+            "rating": "86",
+            "review_date": "09 nov 2025 11:47 pm",
+            "content": "",
+            "nose": "Sweet and sour fruit (purple gooseberry?), mineral smoke, wet stones, rope.",
+            "taste": "Mineral smoke, honey, tingling pepper, sweetness in the background.",
+            "finish": "A wave of smoke, lemons, wet stones, oak."
+        },
+        {
+            "user_name": "MarcelWhiskyPanda",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "16 dec 2024 8:00 pm",
+            "content": "In a short time I had all the standards of Talisker in the glass and you can recognize the classic smell/taste of Talisker directly For me the price/performance ratio is unbeatable",
+            "nose": "Very Salty / Maritime Smoky Strong citrus notes A little vanilla Cookies caramel alcohol perfectly matched Fortunately not 40 or 43%",
+            "taste": "Sweet Slightly viscous Salty/Peppery (no chili) Smoky Then it becomes creamy caramel vanilla / honey Then finally add some sour lemon",
+            "finish": "Long White pepper with tingling in the mouth A little sweet smoke salted caramel milk chocolate Smoke stays in the mouth"
+        },
+        {
+            "user_name": "Whiskopij",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "18 jun 2025 10:42 am",
+            "content": "",
+            "nose": "The first sensations are fruit, smoke and salt. The fruit is apple, pear - fresh and roasted over the fire. Campfire smoke, grill smoke, smokehouse smoke, complemented by sea salt, shells and seaweed. Only later does the scent of vanilla, salty caramel appear. As you smell and swirl the glass, more and more salt and fruit, the smoke moves to the back, complementing the fruity and sea aromas.",
+            "taste": "In the foreground the sea: Salt, iodine, as if the sea after a storm, shells, wet sand and seaweed. Then there is campfire-grill smoke and fruit: roasted pears, apples in cinnamon. Salted caramel. Vanilla. Honey. Pepper.",
+            "finish": "The aroma and taste are consistent with the finish. Fruit, sea and smoke."
+        },
+        {
+            "user_name": "plutoes",
+            "user_rank": "Expert Senior",
+            "rating": "83",
+            "review_date": "18 aug 2023 6:20 am",
+            "content": "",
+            "nose": "smoke, iodine, salty, overripe apples, tangerine, orange",
+            "taste": "seaweed, iodine, salty, unrefined sugar simple syrup, overripe apples, tangerine, coffee beans, pepper",
+            "finish": "overripe apples, coffee beans, pepper"
+        },
+        {
+            "user_name": "Collegiate",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "22 aug 2022 1:50 pm",
+            "content": "Feels a bit peatier than past bottlings of Talisker 10. The typical peppery notes are there. But there is also something rougher about this one, like the casks are tired and it’s coming up bland for me now. I’ve always liked the Talisker variation on Islay peat, but I don’t think this is a bottling I’ll be getting anymore.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Dramrunner",
+            "user_rank": "Expert Senior",
+            "rating": "88",
+            "review_date": "26 jun 2025 2:37 pm",
+            "content": "Lovely coastal whisky with seaweed and saltiness. Really well balanced with smokiness, fruitiness and saltiness",
+            "nose": "Warm, slightly trapped, light smokiness. seaweed and citrus",
+            "taste": "Dried fruit, smoke, pepper, salt",
+            "finish": "Not so strong and clear, short"
+        },
+        {
+            "user_name": "Dramrunner",
+            "user_rank": "Expert Senior",
+            "rating": "88",
+            "review_date": "27 dec 2024 2:00 pm",
+            "content": "Exciting whisky with great shifts",
+            "nose": "Peat - tar, fire smoke, fruitiness",
+            "taste": "Peat, tar and smoke, saltiness, nuttiness",
+            "finish": "Long and with a clear peat taste"
+        },
+        {
+            "user_name": "Jolemann",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "13 sep 2025 7:08 pm",
+            "content": "",
+            "nose": "Fruity, metallic, menthol, a little peat smoke",
+            "taste": "Fruity and metallic, peat smoke now stronger",
+            "finish": "Rather short, only slightly smoky, the metallic fear notes remain until the end"
+        },
+        {
+            "user_name": "Moomin",
+            "user_rank": "Expert Senior",
+            "rating": "83",
+            "review_date": "05 mar 2024 5:52 am",
+            "content": "Short finish, Fishy",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "niggy1813",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "14 mar 2023 6:54 am",
+            "content": "Definitely a good whisky. Medium smokey with maritime notes and its typical pepperiness. But in the with its good but few flavours only two dimensional.",
+            "nose": "Light smoke aroma, subtle sea salt, chilli chocolate. But not as mature as in former times. It's hard to find out much more.",
+            "taste": "More smoke than in the nose, maritime again, peppery, a little of the cask is noticeable",
+            "finish": "Pleasant, but still sufficiently powerful. Stays like that for a while, but when it's gone then, then it's gone."
+        },
+        {
+            "user_name": "wannacoconut",
+            "user_rank": "Expert Senior",
+            "rating": "83",
+            "review_date": "16 nov 2024 8:14 am",
+            "content": "Sea breeze, oysters, gentle peat, smoke",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Acetate",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "24 jan 2023 10:14 pm",
+            "content": "Still the best standard bottling for less than 30€ on the market",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "RichardPsmith",
+            "user_rank": "Expert Senior",
+            "rating": "86",
+            "review_date": "29 feb 2024 8:24 pm",
+            "content": "The aroma is powerful, smoky, pungent, fire (burnt match), sea, minerals, salt, fish scales.Taste - sea, salt, minerals, fish/oysters, notes of peat, ash,As usual, upon opening the bottle the drink is very bright and distinctive. After standing for a while it will become smoother and more drinkable. Both conditions are very good!An excellent whisky, typical and indicative of the distillery. Its notes are found in almost all of the distillery's other releases.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "SEN68",
+            "user_rank": "Expert Senior",
+            "rating": "83",
+            "review_date": "21 jul 2023 9:40 pm",
+            "content": "",
+            "nose": "Shoe leather, meat, seaweed",
+            "taste": "Pepper, fruit",
+            "finish": "More fruit, a little bit of smoke, a hint of medicin"
+        },
+        {
+            "user_name": "hanna1012",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "23 aug 2025 10:45 pm",
+            "content": "A great whisky for this price",
+            "nose": "Melon peel, mineral, leaf of a fruit tree",
+            "taste": "Spicy, sweet chili, melon, rock",
+            "finish": ""
+        },
+        {
+            "user_name": "CST1986",
+            "user_rank": "Expert Senior",
+            "rating": "86",
+            "review_date": "13 sep 2025 1:52 am",
+            "content": "Still a very competent and flavorful ambassador of Skye, even though there's a bit of character lost through the years. Dry, peaty and fresh nose with some honey blossom, gentian, white pepper and a hint of strawberry and muscovado sugar in the background. Spicy attack on the palate, not really the famous chilli catch but rather ginger, vanilla and some clove from active wood. Not sure if Talisker really needs that, I could do without it and just enjoy the characterful distillate with its peppery vegetability, flinty minerality and salty sea shore profile with whelks and citrus fruits. Medium finish. Still good and still a steal for 30 EUR, but the times they are a-changin'...",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "nick_wolf1",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "28 may 2023 8:51 pm",
+            "content": "Decent dram. A perfect example of \"engineered\" malt. The character is not ironed to be absolutely forgettable, but it is not too exciting either.",
+            "nose": "Smoke, sweetness, a little oak spice, vanilla, distant maritime notes.",
+            "taste": "Sweetness like yellow fruits or light honey. A little vanilla and oak spices, sea spray. Some light caramel and dark chocolate. Spicy and nippy, chilly pepperiness on the mid palate.",
+            "finish": "Medium in length. Sweet with some smoke and a little chilly pepper."
+        },
+        {
+            "user_name": "TipsyBoy",
+            "user_rank": "Expert Senior",
+            "rating": "82",
+            "review_date": "05 may 2025 6:20 pm",
+            "content": "Good little peaty dram.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "effective_frame",
+            "user_rank": "Expert Junior",
+            "rating": "85",
+            "review_date": "20 aug 2022 1:31 am",
+            "content": "It's a classic for a reason - those salty coastal notes are just so unique and characterful. This is a great intro to peat as well, since it lacks so many of those \"off-putting\" tarry, industrial notes that a lot of Islays have and some find challenging. Nice clean and mild smoke. It’s not overly complex and the bottle hasn’t changed much in the year it’s been open, but the flavors that are there are punchy, fun, and complimentary. Great whisky that’s carved out its own little flavor niche, readily available at a fair price to boot.",
+            "nose": "Very coastal. Briny sea air with some light and dry peat smoke. Quarry dust. Cracked pepper toasting in a pan. Faint fruitiness, red apples and some banana? Powdery chocolate shavings.",
+            "taste": "Enlivening and spicy on the front of the palate. New forms of pepper showing up - fruity chilies and mouth-watering Szechuan peppercorn. Tangy and salty with a deep, chocolate-caramel sweetness looming.",
+            "finish": "Tingly pepper notes hang around for some time, the briny sea flavors turn slightly halogen-y (iodine, chlorine). Dry finish, leathery."
+        },
+        {
+            "user_name": "KacperSo93",
+            "user_rank": "Expert Junior",
+            "rating": "83",
+            "review_date": "12 dec 2024 11:10 pm",
+            "content": "",
+            "nose": "Salt, seaweed, then a noticeable smell of alcohol, followed by citrus, orange peel, smoke and earth.",
+            "taste": "Salt, seaweed, campfire smoke, ash, dry earth, some herbs, honey and caramel, then a bitter and tart citrus flavor appears, and in the background you can feel fruitcake and pears.",
+            "finish": "Salt, wet wood, seaweed, bitter citrus, some earthiness and smoke, bitterness, citrus albedo"
+        },
+        {
+            "user_name": "slavo",
+            "user_rank": "Expert Junior",
+            "rating": "84",
+            "review_date": "18 may 2023 8:42 pm",
+            "content": "Lots of sea, smoke, peat and brine, all balanced with fresh fruit.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        }
+    ]
+}

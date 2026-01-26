@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Talisker 10-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Talisker",
+        "ws_age": 10,
+        "ws_abv": 45.8,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/1/8/2815/320857-normal.png",
+        "ws_rating": 84.07,
+        "ws_vote_cnt": 1275,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/182815/talisker-10-year-old",
+        "ws_id": "182815",
+        "collected_count": 57,
+        "flavor_profile": {
+            "fruity": 3.1,
+            "sweet": 3.6,
+            "peaty": 3.9,
+            "spicy": 4.3,
+            "woody": 2.2,
+            "malty": 1.7
+        },
+        "top_keywords": [
+            "peaty",
+            "lemon",
+            "iodine",
+            "sweet",
+            "maritime"
+        ],
+        "ws_name_kr": "탈리스커 10년",
+        "ws_distillery_kr": "탈리스커"
+    }
+}

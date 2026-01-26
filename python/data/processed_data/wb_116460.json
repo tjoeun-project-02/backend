@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Old Pulteney 15-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Old Pulteney",
+        "ws_age": 15,
+        "ws_abv": 46.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/1/1/6460/215131-normal.png",
+        "ws_rating": 85.22,
+        "ws_vote_cnt": 695,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/116460/old-pulteney-15-year-old",
+        "ws_id": "116460",
+        "collected_count": 56,
+        "flavor_profile": {
+            "fruity": 5.2,
+            "sweet": 6.2,
+            "peaty": 1.3,
+            "spicy": 4.3,
+            "woody": 3.2,
+            "malty": 2.4
+        },
+        "top_keywords": [
+            "wine",
+            "peach",
+            "cinnamon",
+            "smooth",
+            "nutty"
+        ],
+        "ws_name_kr": "올드 풀트니 15년",
+        "ws_distillery_kr": "올드 풀트니"
+    }
+}

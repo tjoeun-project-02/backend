@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Dalmore 12-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Dalmore",
+        "ws_age": 12,
+        "ws_abv": 40.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/3/6/685/171874-normal.png",
+        "ws_rating": 80.8,
+        "ws_vote_cnt": 1239,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/36685/dalmore-12-year-old",
+        "ws_id": "36685",
+        "collected_count": 52,
+        "flavor_profile": {
+            "fruity": 4.9,
+            "sweet": 5.4,
+            "peaty": 0.6,
+            "spicy": 3.7,
+            "woody": 3.4,
+            "malty": 1.8
+        },
+        "top_keywords": [
+            "cinnamon",
+            "malty",
+            "nutmeg",
+            "prune",
+            "sweet"
+        ],
+        "ws_name_kr": "달모어 12년",
+        "ws_distillery_kr": "달모어"
+    }
+}

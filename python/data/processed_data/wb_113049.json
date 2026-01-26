@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Macallan 12-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Macallan",
+        "ws_age": 12,
+        "ws_abv": 40.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/1/1/3049/187234-normal.png",
+        "ws_rating": 84.36,
+        "ws_vote_cnt": 947,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/113049/macallan-12-year-old",
+        "ws_id": "113049",
+        "collected_count": 22,
+        "flavor_profile": {
+            "fruity": 4.9,
+            "sweet": 5.8,
+            "peaty": 0.3,
+            "spicy": 3.9,
+            "woody": 4.3,
+            "malty": 1.6
+        },
+        "top_keywords": [
+            "sherry",
+            "cask",
+            "oak",
+            "cocoa",
+            "floral"
+        ],
+        "ws_name_kr": "맥캘란 12년",
+        "ws_distillery_kr": "맥캘란"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "BenRiach 10-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "BenRiach",
+        "ws_age": 10,
+        "ws_abv": 43.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/1/6/5510/284424-normal.png",
+        "ws_rating": 81.41,
+        "ws_vote_cnt": 482,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/165510/benriach-10-year-old",
+        "ws_id": "165510",
+        "collected_count": 53,
+        "flavor_profile": {
+            "fruity": 5.7,
+            "sweet": 5.7,
+            "peaty": 0.5,
+            "spicy": 3.8,
+            "woody": 3.8,
+            "malty": 2.6
+        },
+        "top_keywords": [
+            "wine",
+            "cedar",
+            "cocoa",
+            "custard",
+            "nutty"
+        ],
+        "ws_name_kr": "벤리악 10년",
+        "ws_distillery_kr": "벤리악"
+    }
+}

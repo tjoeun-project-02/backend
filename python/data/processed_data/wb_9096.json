@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Glendronach 12-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Glendronach",
+        "ws_age": 12,
+        "ws_abv": 43.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/9/0/96/353279-normal.png",
+        "ws_rating": 84.09,
+        "ws_vote_cnt": 3737,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/9096/glendronach-12-year-old",
+        "ws_id": "9096",
+        "collected_count": 157,
+        "flavor_profile": {
+            "fruity": 5.6,
+            "sweet": 6.3,
+            "peaty": 0.4,
+            "spicy": 4.5,
+            "woody": 4.0,
+            "malty": 2.0
+        },
+        "top_keywords": [
+            "wine",
+            "malt",
+            "cinnamon",
+            "heather",
+            "nutmeg"
+        ],
+        "ws_name_kr": "글렌드로낙 12년",
+        "ws_distillery_kr": "글렌드로낙"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Macallan 18-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Macallan",
+        "ws_age": 18,
+        "ws_abv": 43.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/1/5/8760/504324-normal.png",
+        "ws_rating": 88.61,
+        "ws_vote_cnt": 221,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/158760/macallan-18-year-old",
+        "ws_id": "158760",
+        "collected_count": 34,
+        "flavor_profile": {
+            "fruity": 5.3,
+            "sweet": 5.2,
+            "peaty": 0.6,
+            "spicy": 4.1,
+            "woody": 4.4,
+            "malty": 1.3
+        },
+        "top_keywords": [
+            "sherry",
+            "leather",
+            "cocoa",
+            "date",
+            "earthy"
+        ],
+        "ws_name_kr": "맥캘란 18년",
+        "ws_distillery_kr": "맥캘란"
+    }
+}

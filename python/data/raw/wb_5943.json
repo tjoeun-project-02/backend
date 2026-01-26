@@ -1,0 +1,536 @@
+{
+    "info": {
+        "ws_name": "Balvenie 12-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Balvenie",
+        "ws_age": 12,
+        "ws_abv": 40.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/5/9/43/59987-normal.png",
+        "ws_rating": 81.86,
+        "ws_vote_cnt": 2014,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/5943/balvenie-12-year-old"
+    },
+    "collected_count": 52,
+    "reviews": [
+        {
+            "user_name": "Erik Elixir",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "09 mar 2013 11:34 am",
+            "content": "N: sweet malt, some syrup, vanilla, chocolate and mintT: medium spices, sweet apple and candyF: spices and coconut",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "WhiskyLovingPianist",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "14 may 2020 10:56 pm",
+            "content": "https://whiskylovingpianist.wordpress.com/2020/05/14/on-location-balvenie/Now situated inside Balvenie's tasting room we try the core range, a range which shows off the wood finishes that Balvenie's master distiller Dave Stewart has been utilising for decades. These were initially tasted blind, revealed one at a time. First up, a classic.N: This has to be the Doublewood, one of the most consistent malts around. It smells as always, like a soft fluffed-up malty pillow with a soft sour-sweet yeasty citrus profile.T: Sweet and floury-fluffy popcorn-like honey malt with a super-soft [Egyptian] cotton mouthfeel.F: Soft comforting dry and not a hint of astringency.C: This is right up there with the best batches I've had in the last 15 years. This is my benchmark for Balvenie's contemporary distillery profile.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "90ClubWhisky",
+            "user_rank": "Connoisseur",
+            "rating": "80",
+            "review_date": "27 aug 2021 7:49 pm",
+            "content": "",
+            "nose": "Sweet. Lots of caramel. Lots of orange fruit. Peaches. Burnt sugar. Vanilla.",
+            "taste": "Sweet. Caramel. Vanilla. Spices. Black pepper. Roasted brown sugar. Creamy.",
+            "finish": "Sweet. Creamy. Caramel. Vanilla. Sweet cream. Little spices."
+        },
+        {
+            "user_name": "KB201",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "19 jan 2022 4:32 pm",
+            "content": "Suitable for beginners and experts.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "LiquidThoughts",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "27 apr 2016 2:44 pm",
+            "content": "Well, 40% are just weak ...",
+            "nose": "Malt, hazelnut, honey, vanilla, sherry accents",
+            "taste": "Light, vanilla, sweetness, light oak, some malt, nuttiness, some cinnamon & orange from sherry",
+            "finish": "short to medium long, sherry-tinted malt, sweetie"
+        },
+        {
+            "user_name": "Tom na Gruagaich",
+            "user_rank": "Connoisseur",
+            "rating": "80",
+            "review_date": "30 jan 2019 11:04 pm",
+            "content": "Round, fruity, balanced sherry whisky with strong wood tannins. Not bad.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Sweetspot",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "27 feb 2023 10:40 am",
+            "content": "nice entry whisky",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "karloff",
+            "user_rank": "Specialist",
+            "rating": "77",
+            "review_date": "21 dec 2015 3:15 pm",
+            "content": "This was a nice whisky, but given it's reputation, I was expecting a lot more. I thought it was rather overrated.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "karloff",
+            "user_rank": "Specialist",
+            "rating": "77",
+            "review_date": "29 sep 2010 5:23 pm",
+            "content": "A nice malt for anyone wanting to start out. This was a gift off a mate and he was given it as a gift. His loss my gain.",
+            "nose": "Nutty with hints of vanilla and Honey",
+            "taste": "Sweet sherry",
+            "finish": "Long and smooth"
+        },
+        {
+            "user_name": "Izzino",
+            "user_rank": "Connoisseur",
+            "rating": "87",
+            "review_date": "20 feb 2025 10:41 pm",
+            "content": "Aroma: For a whisky this dark, the nose is distinctly malty, clean, herbal, grassy, bready, rye - like our rose wine. Taste: however, it is pleasant, slightly bitter, sweet, with orchard fruit. The aftertaste is slightly bitter - amygdalin.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "HammerHead",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "15 mar 2015 1:45 pm",
+            "content": "Nose: mild sherry sweetness, honey, ripe citrus fruits, oranges.Taste: medium bodied, well rounded, citrusfruits, fruitcake, some mild chocolate and sherry notes.Finish: medium length, warming sweetness, walnuts, honied liquorice.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Allandale",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "16 mar 2017 8:37 am",
+            "content": "A rich medium body.",
+            "nose": "Sherry anf orange skins.",
+            "taste": "Beautifully combined mellow flavours: nutty,sweet, sherry, very orange fruitiness, heather, cinnamon spiciness.",
+            "finish": "Long, tingling, Very warming."
+        },
+        {
+            "user_name": "Issie",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "21 feb 2021 4:53 pm",
+            "content": "",
+            "nose": "Strawberry, a little earth, blackberries, a few grasses, honey, caramel, some wood, nuts, blackberries, dried fruits",
+            "taste": "Strawberries, blackberries, some chocolate, some lime, some grapefruit, a little pepper",
+            "finish": ""
+        },
+        {
+            "user_name": "Issie",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "04 dec 2020 12:59 pm",
+            "content": "",
+            "nose": "Orange, apple, honey, strawberry, very light earth, a few grasses, peach, every now and then a little older wood comes through",
+            "taste": "Peach, apple, strawberry, lemon, lime, very minimal coffee",
+            "finish": ""
+        },
+        {
+            "user_name": "tribe",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "07 jun 2021 9:50 pm",
+            "content": "Solid standard paint. It was once my bang for the bug. Silky to drink, hardly edgy and very round. Sherry share is clearly noticeable, something was still possible on the finish",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "hsmithjr",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "24 oct 2011 2:11 pm",
+            "content": "",
+            "nose": "Sherry.  Honey and vanilla.  Orange zest.  Sugar cookies.  Rather light.",
+            "taste": "Fruity.  Sweet and spicy.  Honey again.  Sherry and some floral notes (heather).",
+            "finish": "Long and spicy.  Vanilla and ripe fruit."
+        },
+        {
+            "user_name": "Albaron",
+            "user_rank": "Specialist",
+            "rating": "82",
+            "review_date": "26 nov 2016 1:17 am",
+            "content": "An ex-bourbon barrel aged whisky, not strong alcohol, probably 40 or at most 43% alcohol. Delicious, could be a Glenlivet. At least it goes in the direction of the aroma, of the Glenlivets I had so far. Estimate times middle age so about 15 years.  Notes created during a blind tasting",
+            "nose": "Malty, oranges, a little vanilla, a touch of herbs",
+            "taste": "Malty, fresh oranges, the herbs are stronger, very little vanilla, some toffee cream and honey, very mild",
+            "finish": "The herbal spice changes into oak tannins"
+        },
+        {
+            "user_name": "Lorion",
+            "user_rank": "Connoisseur",
+            "rating": "78",
+            "review_date": "17 oct 2017 3:41 pm",
+            "content": "Okay, nice for beginners. It's nice to smell the bourbon and sherry character. 78th",
+            "nose": "Vanilla and subtle sherry aromas are pleasantly interwoven. Honey, subtle oak.",
+            "taste": "Soft, a bit thin. Light sherry appeal, honey sweetness, vanilla.",
+            "finish": "Not very long."
+        },
+        {
+            "user_name": "Falnor",
+            "user_rank": "Connoisseur",
+            "rating": "74",
+            "review_date": "21 may 2018 12:50 pm",
+            "content": "It's a nice and easy to please entry to Balvenie. Still a good one.",
+            "nose": "Quite easy and an inviting nose. Light and sweet. Honey, a malt core with citrus fruits. More towards orange than lemons.",
+            "taste": "Well honey remains big. With gingerbread, cornflakes, brioche and lots of cake. Some milkchocolate and orange. Can get a little nutty in the end.",
+            "finish": "Short on hay, walnut, cinnamon and citrus."
+        },
+        {
+            "user_name": "drkrylov",
+            "user_rank": "Connoisseur",
+            "rating": "87",
+            "review_date": "21 dec 2011 12:28 pm",
+            "content": "Delicious. One of my favourite whiskies!!!",
+            "nose": "The skins of Seville oranges. The apricot note of Oloroso sherry.",
+            "taste": "Beautifully combined mellow flavours: nutty, sweet, juicy sherry, very orangey fruitiness, heather, cinnamon. Very spicy.",
+            "finish": "Long, tingling. Very warming."
+        },
+        {
+            "user_name": "Damek",
+            "user_rank": "Connoisseur",
+            "rating": "80",
+            "review_date": "20 nov 2023 11:26 am",
+            "content": "",
+            "nose": "Nose: Light, fresh, floral, vanilla, toffee, buttery, honey, baked apples, sweet citrus, orange, wood, slightly tart, cinnamon, spices. 82.00",
+            "taste": "Taste: Surprisingly, exceptionally velvety, vanilla, large influence of wood, very tart, as if licking wet wood, even bitter, bitter citrus fruit, grapefruit, pomelo, grapefruit peel, bitter caramel, cocoa, a lot of pepper, a bit of smoke and it's only 40%. 80.00",
+            "finish": "Finish: medium short, similar to the taste, it is tart, bitter, cocoa, some bitter citrus in the background. Well, it's not nice. 79.00"
+        },
+        {
+            "user_name": "mmaclean",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "17 dec 2011 4:35 am",
+            "content": "This is one of the scotches you bring to a tasting party for the 12 year class. Its nice and gives you a sense of the barrel types and flavors that go with them.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "kikist",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "11 jun 2023 11:46 pm",
+            "content": "Shame this doesn't sell at higher ABV",
+            "nose": "Creamy, light, slightly plastic, perfume, fresh cream cake, window cleaner (really like it), malty",
+            "taste": "Light oily, slightly herbal, little bitter, alcohol is there",
+            "finish": "coconut, tea biscuit, old oak is there"
+        },
+        {
+            "user_name": "domani",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "22 feb 2016 10:05 pm",
+            "content": "A round and balanced Single Malt - 17.04.2014",
+            "nose": "A light touch of sherry, roasted aromas, nuts, honey sweetness, bright fruits, lemon",
+            "taste": "Full, very oily, slightly fruity, some honey",
+            "finish": "medium"
+        },
+        {
+            "user_name": "DannyDram",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "05 dec 2020 1:07 pm",
+            "content": "Easy, pleasing. Malt, fruit, roasted aromas, spicy.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Sandman",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "03 jan 2016 12:09 pm",
+            "content": "My notes from 27-8-2014",
+            "nose": "Raisins, sherry, sweet fruit, honey and vanilla",
+            "taste": "Honey, fruitcake, slightly spicy and geoiled oak",
+            "finish": "Medium, dry and spicy"
+        },
+        {
+            "user_name": "boy_genius_ck",
+            "user_rank": "Connoisseur",
+            "rating": "77",
+            "review_date": "17 feb 2017 3:21 am",
+            "content": "overhyped and overpriced ($56) herein my country yet overall it’s nothing special",
+            "nose": "aromatic wood, sherry, light fruits, darkhoney, nuts, some citrus",
+            "taste": "vanilla, caramel, syrupy lightfruits, wood spice with a touch of cinnamon",
+            "finish": "short-medium, light, nutty,oranges, peach, light woodsy caramel at the back"
+        },
+        {
+            "user_name": "Goethe",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "25 apr 2015 10:35 pm",
+            "content": "Honey-vanilla-malt-a-touch-of-sherry-mix.Concerning price/performance ratio: 7/10",
+            "nose": "Orange, vanilla, caramel, a touch of sherry, cinnamon.",
+            "taste": "Oak, almond, bitter honey, honey melon, vanilla, cinnamon, floral, a touch of sherry covers it all.",
+            "finish": "Medium. Sweet honey und vanilla."
+        },
+        {
+            "user_name": "Master Quill",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "11 oct 2015 11:44 pm",
+            "content": "Score is a mean of two batches:2012: 82 Points2014: 83 Points",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Alex",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "03 oct 2012 2:51 pm",
+            "content": "One of the better entry level drams!",
+            "nose": "Sweet and mellow, on dried fruits and honey. Also a floral edge.",
+            "taste": "Honey sweet, cereals and sweet malty notes. Ripe apples. Nice mouthfeel and tasty.",
+            "finish": "Medium long, half sweet and very pleasant."
+        },
+        {
+            "user_name": "[2stoned] aKu",
+            "user_rank": "Expert Senior",
+            "rating": "79",
+            "review_date": "25 feb 2015 9:03 pm",
+            "content": "*) In the first time, the freshly opened bottle, the alcoholic note was too strong for me. Only after I allowed him to breathe in the glass for about 20-30 minutes, this strong alcohol note was gone. Now towards the end and with decreasing fill level this got better.  Otherwise, the Double Wood is a pleasant entry-level whisky treat.",
+            "nose": "first a slightly alcoholic note *, a little new oak furniture, orange oil, creamy honey, a trace of caramel pudding that becomes more and more clear over time, always accompanied by some sherry in the background",
+            "taste": "sweetish, slightly tingling on the tongue, bitter almond easily passes through, dark caramel and subliminal orange",
+            "finish": "medium-long, slightly sweet at first and gets a little drier, also here is a slight bitter almond noticeable, the sherry comes through a bit"
+        },
+        {
+            "user_name": "DramRol",
+            "user_rank": "Expert Senior",
+            "rating": "82",
+            "review_date": "10 feb 2021 4:31 pm",
+            "content": "Basic daily dram, honey and vanilla on the nose, herbal and grassy on the palate",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "DrunkDude",
+            "user_rank": "Expert Senior",
+            "rating": "79",
+            "review_date": "07 jul 2020 6:21 am",
+            "content": "don't like the wine cask finish. In chinese we call it YOU NI!!!",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "ZLako",
+            "user_rank": "Expert Senior",
+            "rating": "82",
+            "review_date": "13 sep 2022 9:38 am",
+            "content": "This is a quite nice beginners or everyday dram for people who like quality but wouldn't want to overspend.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "PunxsutawneyPhil",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "24 jan 2014 4:40 pm",
+            "content": "S: Caramel smell with vanilla mixed in and some green/fresh fruit. Also some spices.T:More caramel/vanilla. Less then the Signature, though. Somewhat thick and oily. Some sweet honey as well. Lovely!F: The caramel/vanilla continues. More honey now and the spices return. Medium long.An excellent whisky! Different enough from the Signature to justify buying it, too.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "claymore84",
+            "user_rank": "Expert Senior",
+            "rating": "80",
+            "review_date": "25 feb 2020 5:19 pm",
+            "content": "Tasted in 2016",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Gloin",
+            "user_rank": "Expert Senior",
+            "rating": "81",
+            "review_date": "20 dec 2014 2:12 am",
+            "content": "",
+            "nose": "very fruity, red apple, orange, maybe raspberry, caramel, sweet, cinnamon",
+            "taste": "Orange and caramel, very sweet, sweet, again cinnamon, no oak and no bitterness",
+            "finish": "medium long, sweet, honey"
+        },
+        {
+            "user_name": "Shane_IL",
+            "user_rank": "Expert Senior",
+            "rating": "81",
+            "review_date": "03 jan 2015 8:05 pm",
+            "content": "In some markets this whisky can be over priced due to the brand popularity, but a good speyside malt nonetheless. Not my favourite, but a great daily dram is you're into this type of whisky.",
+            "nose": "A strong malt note, some woods supporting it. Some fruitiness behind that. Cinnamon, apples, pears stewed in red wine.",
+            "taste": "A hit of oakiness right off the bat, spicy vanilla toffee, something else that I can't put my finger on, possibly maple syrup.",
+            "finish": "Deep, sweet, metallic finish  More stewed fruits, a hint of pepper or nutmeg."
+        },
+        {
+            "user_name": "kawhi",
+            "user_rank": "Expert Senior",
+            "rating": "81",
+            "review_date": "01 jun 2024 4:11 pm",
+            "content": "soft.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Koalafant",
+            "user_rank": "Expert Senior",
+            "rating": "60",
+            "review_date": "10 jul 2016 4:10 pm",
+            "content": "For me a disappointment!",
+            "nose": "Apricot, peach, flowery, light oak",
+            "taste": "Subtle note of dry sherry, fruity, fresh, light sweetness",
+            "finish": "slightly peppery, medium long"
+        },
+        {
+            "user_name": "Finn2206",
+            "user_rank": "Expert Senior",
+            "rating": "82",
+            "review_date": "23 mar 2021 1:17 pm",
+            "content": "Easy drinking whisky, floral, fresh fruits and a bit of sherry",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "tomy63",
+            "user_rank": "Expert Senior",
+            "rating": "83",
+            "review_date": "14 may 2011 2:03 pm",
+            "content": "Bourbon casks, then oloroso 6 to 12 months.",
+            "nose": "sherry, citrus, honey and oranges",
+            "taste": "sherry, orange, spices (walnut, cinnamon)",
+            "finish": "long"
+        },
+        {
+            "user_name": "riegerjonas",
+            "user_rank": "Expert Senior",
+            "rating": "83",
+            "review_date": "11 apr 2021 4:20 pm",
+            "content": "2021-01-02",
+            "nose": "bread, marzipan, caramel, sherry sweetness",
+            "taste": "pleasant sweetness, very tasty, light spiciness, maybe a bit thin",
+            "finish": ""
+        },
+        {
+            "user_name": "Magnus Hillman",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "16 jul 2014 4:52 pm",
+            "content": "Loads of flavors in this one, a true speyside character malt.",
+            "nose": "Sweet honey, honey melon, sweet pears, vanilla, vanilla fudge, creme brûlée.",
+            "taste": "Honey all over again, with subtle spices, some fresh and dried fruits. Melon and pears again, vanilla and maybe some overripe golden delicious apples? the sherry influences are definitely in the background when it comes to flavor.",
+            "finish": "Medium in length, quite sweet vanilla and honey and a hint of smoke in the finish with some black pepper. Not far from the Cragganmore 12 year old finish. This is a good entry level malt."
+        },
+        {
+            "user_name": "Ikkakumon",
+            "user_rank": "Expert Senior",
+            "rating": "80",
+            "review_date": "01 aug 2012 10:22 am",
+            "content": "Very good malt.",
+            "nose": "Fruity nose (apple and pear), honey, sweet spices",
+            "taste": "Creamy palate, with honey, fruits (apple, pear, citrus), nuts, quite spicy (pepper, cinnamon); Net influence of sherry",
+            "finish": "Long and spicy, warm and woody finish. The malt dries a little at the end of the mouth."
+        },
+        {
+            "user_name": "ducksingel",
+            "user_rank": "Editor",
+            "rating": "81",
+            "review_date": "09 feb 2014 6:35 pm",
+            "content": "The body is too thin. But a good whisky to serve to your not whisky adept friends.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "malthead-sven",
+            "user_rank": "Expert Senior",
+            "rating": "80",
+            "review_date": "29 nov 2015 2:55 pm",
+            "content": "very balanced, lovely aroma, but the finish is its strength",
+            "nose": "The much-cited oranges are immediately there, to vanilla, a little peach, if you go further away from the glass is later sweet pastries",
+            "taste": "first sweet and full-bodied, but stronger on the tongue",
+            "finish": "wonderfully warm and long, clear oak"
+        },
+        {
+            "user_name": "aquataste",
+            "user_rank": "Expert Senior",
+            "rating": "80",
+            "review_date": "24 mar 2024 7:36 pm",
+            "content": "",
+            "nose": "Fresh, bourbon, floral, fresh vanilla, toffee and caramel, fresh ripe oranges, a bit citrus, a note of fresh oak, a pinch of spices, milk chocolate, delicate tartness with notes of dried fruit in the background",
+            "taste": "Fresh and bourbon, floral, slightly tart, slightly malty, typical bourbon butter tones (fresh vanilla, toffee and caramel), milk chocolate, slightly citrus, sour green fruits, apples, a pinch of spices, slight bitterness of fresh oak, a bit of hazelnuts , a whiff of dried fruit in the background",
+            "finish": "Medium length, dark chocolate with delicate tartness, slight bitterness of fresh oak, a pinch of spices at the end"
+        },
+        {
+            "user_name": "Gonathras",
+            "user_rank": "Expert Senior",
+            "rating": null,
+            "review_date": "16 feb 2016 1:18 pm",
+            "content": "Note by Serge Valentin from whiskyfun.com:Balvenie 12 yo 'DoubleWood' (40%, OB, +/-2015) An expression that we like to follow every two or three years. Now’s the time. Colour: gold. Nose: fine, easy, relatively earthy, with raisins, malt, a touch of PX, and drops of cough syrup. A little honey as well, high-honey-content gingerbread, but rather less oranges than usual. Mouth: very malty, then raisiny, with a little earthy oak and natural chocolate (no supermarket junk by multinationals… err… excuse me). Enjoy this leafiness as well. Finish: short, but pleasantly grassy/oaky and malty. Ovaltine and green tea. Coffee in the aftertaste. Comments: strictly nothing to complain about, and last time I checked, the price was fair. Perhaps is this expression becoming a little drier, having said that. SGP:451 – 80 points.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Peatyjohn",
+            "user_rank": "Expert Senior",
+            "rating": "80",
+            "review_date": "04 dec 2025 4:54 pm",
+            "content": "No power flavour hits and as expected the low ABV presents a low profile, bland, watery but not too unpleasant sherried cask finished whisky. Apples, cinnamon, stewed fruits, caramels, nuts. Good budget quality entry level whisky for beginners. Unfortunately not an integrity whisky as I almost taste the caramel coloring however a well made mass marketed whisky.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "KyleRiemen",
+            "user_rank": "Expert Senior",
+            "rating": "79",
+            "review_date": "22 nov 2025 6:33 pm",
+            "content": "I found the Balvenie 14 Rum Cask to be something special, even though, in my opinion, it lacked the rum character. Therefore, my expectation for the 12-year-old was a whisky that would taste similar. Unfortunately, I didn't look closely enough again; I probably thought that a whisky selling for an average of just under 60 euros would surely have an alcohol content of 43% to 46%. How much expectations and reality can diverge... So it has 40% ABV, well, Kavalan can produce a decent whisky with these specifications... Balvenie unfortunately can't with this one. With an average rating of 83, I wasn't expecting a flavor sensation, but in my opinion, it doesn't even come close to that score. You also can't really tell it's 12 years old, even though it doesn't taste young.",
+            "nose": "Lemon, sour, strongly malty, a hint of vanilla, a subtle perfumed note in the background, the opposite of complex, the alcohol dominates throughout.",
+            "taste": "Not bad for 40%, but unfortunately borderline too watery, nothing special, sour, bitter, malty.",
+            "finish": "One of the best things about the whisky, although boring, but with hardly any off-notes, lots of vanilla and malt."
+        },
+        {
+            "user_name": "dissonance",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "06 jul 2021 12:27 pm",
+            "content": "RATING: 84pts – |83 – 86 (B) → Good| — Not a “must”, but a nice-to-have.",
+            "nose": "The nose has a profile of soft sherry sweetness with notes of ripe red apples, vanilla bakery and dried bananas.",
+            "taste": "The taste is well balanced and quite sweet with notes of sugary citrus fruits, caramel, spicy oak and apricots.",
+            "finish": "The finish is medium lenght and has a nice lingering fruitiness with notes of vanilla and dried fruits."
+        }
+    ]
+}

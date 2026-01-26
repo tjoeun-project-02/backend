@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Balvenie 12-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Balvenie",
+        "ws_age": 12,
+        "ws_abv": 47.8,
+        "ws_image": null,
+        "ws_rating": 85.47,
+        "ws_vote_cnt": 51,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/82142/balvenie-12-year-old",
+        "ws_id": "82142",
+        "collected_count": 10,
+        "flavor_profile": {
+            "fruity": 4.0,
+            "sweet": 6.5,
+            "peaty": 0.5,
+            "spicy": 2.7,
+            "woody": 2.9,
+            "malty": 2.5
+        },
+        "top_keywords": [
+            "cinnamon",
+            "fruity",
+            "oak",
+            "anise",
+            "maritime"
+        ],
+        "ws_name_kr": "발베니 12년",
+        "ws_distillery_kr": "발베니"
+    }
+}

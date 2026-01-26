@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Glenlivet 18-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Glenlivet",
+        "ws_age": 18,
+        "ws_abv": 40.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/1/4/5758/269498-normal.png",
+        "ws_rating": 84.14,
+        "ws_vote_cnt": 404,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/145758/glenlivet-18-year-old",
+        "ws_id": "145758",
+        "collected_count": 33,
+        "flavor_profile": {
+            "fruity": 6.0,
+            "sweet": 6.0,
+            "peaty": 0.3,
+            "spicy": 4.5,
+            "woody": 3.5,
+            "malty": 1.8
+        },
+        "top_keywords": [
+            "spice",
+            "apricot",
+            "hay",
+            "oak",
+            "sweet"
+        ],
+        "ws_name_kr": "글렌리벳 18년",
+        "ws_distillery_kr": "글렌리벳"
+    }
+}

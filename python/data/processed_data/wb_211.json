@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Cardhu 12-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Cardhu",
+        "ws_age": 12,
+        "ws_abv": 40.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/2/1/1/340555-normal.png",
+        "ws_rating": 76.6,
+        "ws_vote_cnt": 426,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/211/cardhu-12-year-old",
+        "ws_id": "211",
+        "collected_count": 53,
+        "flavor_profile": {
+            "fruity": 3.7,
+            "sweet": 4.6,
+            "peaty": 0.6,
+            "spicy": 2.1,
+            "woody": 2.5,
+            "malty": 2.9
+        },
+        "top_keywords": [
+            "spice",
+            "syrup",
+            "balanced",
+            "oak",
+            "sweet"
+        ],
+        "ws_name_kr": "카두 12년",
+        "ws_distillery_kr": "카두"
+    }
+}

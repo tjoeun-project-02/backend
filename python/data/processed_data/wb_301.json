@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Dalwhinnie 15-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Dalwhinnie",
+        "ws_age": 15,
+        "ws_abv": 43.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/3/0/1/326694-normal.png",
+        "ws_rating": 81.12,
+        "ws_vote_cnt": 2585,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/301/dalwhinnie-15-year-old",
+        "ws_id": "301",
+        "collected_count": 50,
+        "flavor_profile": {
+            "fruity": 4.2,
+            "sweet": 5.5,
+            "peaty": 1.0,
+            "spicy": 3.6,
+            "woody": 3.1,
+            "malty": 2.8
+        },
+        "top_keywords": [
+            "cinnamon",
+            "pear",
+            "malty",
+            "smooth",
+            "nutmeg"
+        ],
+        "ws_name_kr": "달위니 15년",
+        "ws_distillery_kr": "달위니"
+    }
+}

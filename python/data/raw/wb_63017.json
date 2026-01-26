@@ -1,0 +1,546 @@
+{
+    "info": {
+        "ws_name": "anCnoc 18-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "anCnoc",
+        "ws_age": 18,
+        "ws_abv": 46.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/6/3/017/397016-normal.png",
+        "ws_rating": 85.98,
+        "ws_vote_cnt": 669,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/63017/ancnoc-18-year-old"
+    },
+    "collected_count": 53,
+    "reviews": [
+        {
+            "user_name": "Malzbrenner",
+            "user_rank": "Photo Moderator",
+            "rating": "87",
+            "review_date": "12 aug 2020 8:31 pm",
+            "content": "The An Cnoc 18 is still available at an attractive price in 2020, with its key data it seems to be an exciting whisky. In the glass it also fulfills the expectations placed in it in my opinion, which makes it a potential purchase for me.",
+            "nose": "At first, a little alcohol is noticeable on the nose, but at the same time ripe fruits and a slightly sour note follow. Pleasant cedar wood, buttery vanilla, ripe strawberries, peach, banana, orange ice cream pour out of the glass.",
+            "taste": "Full of fruit on the palate with an astonishingly lively acidity, warm notes of sherry, some mint with an invigorating effect. Nuts, spices and chocolate can be found as well as hints of raisins and dates. The whisky has a complex effect with an exciting field of aromas.",
+            "finish": "In the medium-long finish, the An Cnoc offers fresh mint paired with chocolate aromas and a selection of dark fruits. Slightly astringent towards the end, before vanilla finally closes the door."
+        },
+        {
+            "user_name": "lincolnimp",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "01 may 2022 9:21 pm",
+            "content": "White fruits and pepper spice on the nose, nothing too exciting but nothing wrong with it either.The palate is a little thin and a little bitter a first and time in the glass does it does sweeten up a little but in truth this is a little bland at times, but still worth trying.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Slàinte Mhath",
+            "user_rank": "Super Administrator",
+            "rating": "85",
+            "review_date": "16 dec 2022 6:17 pm",
+            "content": "Quick hit review. Whisky calendar - Day 16.High expectations are a tricky thing, more often than not you end up disappointed. On the nose, this anCnoc 18 presents orange zest, cloves and hints of eucalyptus. Appealing, but not very complex. Peppery spices, lemons and marmalade build up on the palate before it turns slighly dry and bitter. The finish emphasizes strawberries with a grassy twist, and the European oak raises its voice. A very decent performance, but I am missing that little extra.RATING: 3.7/5.0 stars ≙ 85 pts → ABOVE AVERAGE [+]",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "peatbogger",
+            "user_rank": "Specialist",
+            "rating": "86",
+            "review_date": "16 dec 2022 11:10 pm",
+            "content": "Quick review. Advent calendar 16.12.A revisit to a dram I really enjoyed. Can it defend it's position?Not sure if I had a senior moment when I reviewed this over three years ago, or if it's all down to batch variation and composition changes over time.But this is not the same as I had back then. The nose is a shadow of what I remember, although I still enjoy the taste and for some reason find the finish have not changed that much.",
+            "nose": "The juicy strawberries I remember is barely noticeable.Everything else, sherry, nuts and chocolate are pretty dulled down too.It's not bad, but it's not a 90 nose like I gave the older one.",
+            "taste": "The palate is a lot better and carries more than the nose.I described the older version as having a slightly thin arrival, but this is OK with spice and dark roasted flavours from the get go.I like the sherry notes on this one as they play well with both chocolate, coffee and light nuts.",
+            "finish": "Slight woody bitterness which I don't mind. Lightly drying, and again I get that tiny pinch of salt with it. And hey, the strawberries came back for a shine when everything else had faded."
+        },
+        {
+            "user_name": "peatbogger",
+            "user_rank": "Specialist",
+            "rating": "86",
+            "review_date": "31 aug 2019 1:12 am",
+            "content": "This was a sample from karloff.I really like the gentle nature of the 12YO, which I've earlier refered to as my \"Sunday breakfast whisky\".This is a lot darker, so I'm expecting a lot more sherry influence and something quite different from the gentle 12YO.At the current price, would I buy one? If I only could find it I would buy several.",
+            "nose": "Oh yes, this is heavy on sherry, very nice and clean sherry.Plums, chocolate, walnuts, strawberries. Norwegian strawberries, the ones that are grown in fields and are maroon red and juicy all the way through, not the pale Belgian greenhouse type that are hard and white in the middle.Soft quality sherry oak.Love the nose of this one. I only got a sample and I find myself not wanting to finish it, just keep nosing.",
+            "taste": "Texture on arrival initially feels a little thin, but it quickly catches up as there's a rapid arrival of spice.Dominated by sherry notes, dark chocolate, black coffee and licorice.Quite a bit of wood spice giving volume and some bite to the body.Lovely stuff. If the 12YO is the Sunday breakfast whisky I would like to make this my Sunday night cap.",
+            "finish": "This stays a while.Maybe a tiny bit too dry.I find it actually has a pinch of saltyness, which does no harm, just makes it more interesting."
+        },
+        {
+            "user_name": "alex..w..fan",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "15 oct 2019 12:02 am",
+            "content": "20 20 20 20 80",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "KayMeertens",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "06 dec 2018 11:01 pm",
+            "content": "Blind tasting of a sample. An obvious OB with a mix of sherry and bourbon influences, but not a recognisable distillery for me.",
+            "nose": "Starts off with honey, almond, soft malt, a little banana and a floral touch. Then shifting towards the sherry influence: Caramel and pecan nut.",
+            "taste": "Honey, almond, malt, caramel, milk chocolate, cranberry and light smoke.",
+            "finish": "More of that soft maltiness. Almond, caramel and peanut. Chocolate and a little honey."
+        },
+        {
+            "user_name": "Dre73",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "01 jan 2021 4:32 pm",
+            "content": "Had this one in a mini-lineup with the 12 and 24 yo.Funny to experience kind of 'line of development' in these drams:12yo is the lightest, with fruits and vegetal notes and a spicy edge.18yo already heavier nose, more spice and darker vegetal notes towards wood24yo pretty heavy on dark vegetal/wood notes and very spicy.This heavier vegetal and spicy comes along with a smoke-like edge to it.The same goes for the taste of them, they're all smooth, round, pretty full bodied and thick.Whereas the 18- and 24yo have some more power and longer finishes, also because of the higher Abv (46% vs 40%).As for this 18yo: a solid whisky, nice mixture of fruits and spices, pretty some power but still pretty smooth and drinkable. Very pleasant.",
+            "nose": "Fruity, orange, some honey, vegetal notes, forest, wood. Some spicy note, with a little smoky note.",
+            "taste": "Pretty some power, fruity and spicy, some orange and peach, some pepper, vegetal notes, full body.",
+            "finish": "Still some power, spicy, pepper, fruity, peach but also some cherry-like taste, like Haribo cherries. Pretty long finish."
+        },
+        {
+            "user_name": "holborndrinker",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "05 may 2022 10:18 pm",
+            "content": "Quotidian - middle of the road - nice.",
+            "nose": "Grapes, raisins, black tea.",
+            "taste": "Woody notes, curls up at the edges, fruit pie, some cinnamon or nutmeg.",
+            "finish": "Fairly short but pleasant."
+        },
+        {
+            "user_name": "maltaholic",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "15 may 2016 8:50 am",
+            "content": "Pretty dark in the color, very appetizing.  Also smells great, fruity, but also slightly spicy, almost chocolaty.  A nice classic malt, but I have to admit, the 16er I liked even better ...",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "ctu",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "06 may 2017 12:39 pm",
+            "content": "Very pleasant sweet / spicy effects.",
+            "nose": "Creamy vanilla, flowers, spicy oak and fruit basket. Very nice.",
+            "taste": "Powerful. Spicy oak, fruits, pepper, vanilla, caramel, cinnamon and anise",
+            "finish": "Medium length, spicy and fruity"
+        },
+        {
+            "user_name": "Andytka3",
+            "user_rank": "Connoisseur",
+            "rating": "87",
+            "review_date": "20 jun 2017 4:47 am",
+            "content": "N- Citrus zest, fresh juicy small stone fruits (lychee, longan) comes in abundance, perfectly sits on the layer of chocolate, cardboard notes that derived from the old wood. Solid on nose and balanced.P- Sherries, good strength, plenty of boiled fruits with sweet spices. Get jammy and marmalade overtimes with a touch of curious salts, no harm done, interestingly complex with a lot going on.F- Long, liquorice, dried fig, hawthorn (has been a while since I last got this), Full and pleasantly spicy with pinch of bitters at the tail. However, would rather end without it the returns of plain sugary taste. — at The Whisky Bar, Kuala Lumpur.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "WhiskyLovingPianist",
+            "user_rank": "Connoisseur",
+            "rating": "87",
+            "review_date": "19 sep 2016 8:43 pm",
+            "content": "Take 2C: Excellent stuff really, only today it’s overshadowed by the 22yo WB. So in direct comparison, it has almost exactly the same profile but with everything appears turned down a notch. Depends on your tolerance to wood i would imagine. I found this as good as before.Scores a B",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "WhiskyLovingPianist",
+            "user_rank": "Connoisseur",
+            "rating": "87",
+            "review_date": "27 aug 2016 2:25 pm",
+            "content": "A showdown between Colin Dunn vs Joe Clark. Three drams each, blind. Colin's no.#3N: For me, a little like the Singleton 18yo WB but with more raisins, fruitier,.. and stronger. A little peat? Maybe not.T: Ooh, check that mouthfeel, and taste - just fine thank you very much. Like a naked, aged single cask [bourbon 2nd refill] Dalmore [found at the SMWS].F: So dry, jeez! - but there's a small yet lovely sweet spot too.C: The magic of Ancnoc is it has a secret heart which hits the spot most subtly. For me the best of the bunch so far but can Joe snatch it at the last? WBScores a B",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "thijs100",
+            "user_rank": "Connoisseur",
+            "rating": "88",
+            "review_date": "17 dec 2019 2:21 pm",
+            "content": "A very good whisky that deserves a bigger audience. Go out there and give anCnoc a chance!",
+            "nose": "Earthy at first, highlighted by a subtle mushroom aroma, but also hints of polished leather, followed by honey-glazed almonds and smoked paprika powder. There's a touch of banana custard and menthol as well.",
+            "taste": "Lovely stuff and very well-rounded. There's a hint of dark caramel, honey and chocolate, accompanied by soft spices. Some dried apricots and dates as well. Impressive.",
+            "finish": "Notes of charred oak and a whisper of smoke. Medium in length."
+        },
+        {
+            "user_name": "Totoro",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "03 oct 2019 10:28 pm",
+            "content": "Pretty nose, but the palate leaves something to be desired.",
+            "nose": "Pretty nice actually, especially after some air has gone into the bottle. Very earthy and leathery, with warm wood tones and plenty of herbal aspects, but also enough sprightly ex-bourbon character to keep it from becoming fusty.",
+            "taste": "More zingy and fresh than the nose would have you suspect, almost a bit punchy. Bristling tannins and juicy acidity throughout, and one can't help but wish that the mouthfeel would be thicker or oilier. Feels somewhat thin / watery. Lemon, fennel, soy sauce / umami, red berries: there are some nice and pretty clear-cut flavors in here. Perhaps it's just that the whole feels less impressive and singular than the nose.",
+            "finish": "Wood and lime, with a tinge of leathery sherry. Nice enough."
+        },
+        {
+            "user_name": "ThorstenH",
+            "user_rank": "Connoisseur",
+            "rating": "74",
+            "review_date": "23 dec 2023 7:28 am",
+            "content": "Round and soft. Sit down and you realize it's not a young whisky. Pleasant fruitiness, some vanilla, some wood. The barrels haven't pushed themselves too much into the foreground. 71-80 – Fine, like to drink by time",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Tom na Gruagaich",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "11 jun 2020 10:30 pm",
+            "content": "Nice 18er OA, has everything in it, looks a bit out of round in my mouth, but fits well overall and is very tasty without calling out the final storms of enthusiasm. A positively solid whisky.",
+            "nose": "Sweet, honey, vanilla, nutty sherry flavors, strong oak, spices, licorice, maybe a few yellow fruits, classic Speyside nose.",
+            "taste": "surprisingly restless, after the nose. Strong, sparkling, a few fears, a little sherry, but otherwise a lot of tart oak, a little pepper.",
+            "finish": "Liquorice, oak, vanilla, a little sherry, even more oak, bitter-sweet."
+        },
+        {
+            "user_name": "Georges",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "19 mar 2015 10:53 pm",
+            "content": "",
+            "nose": "Fresh, fruity (apples), sherry, honey, nutty",
+            "taste": "Spicy, fruity, honey, vanilla",
+            "finish": "Medium long, vanilla, fresh, only a liitle bit of oakness"
+        },
+        {
+            "user_name": "karloff",
+            "user_rank": "Specialist",
+            "rating": "83",
+            "review_date": "28 jul 2019 12:58 am",
+            "content": "Always been a fan of this distillery so I was looking forward to cracking it open. I must say I was expecting something more but finishing the bottle, I still quite enjoyed it. Plus it was a great price for an 18 year old which is rare these days.",
+            "nose": "Strawberries and cream, glazed cherries, red toffee apple, fruit summer pudding, dark plums or even tinned prunes. Coming in late are honey and sarsaparilla.",
+            "taste": "Those dark fruit notes are tamed down somewhat which allows the spice to come through. The 46% is just about right, any higher would have killed it. I am getting more of the sarsaparilla but this time in the boiled sweet version and more of the red toffee apple. Those natural fruits are just not there.",
+            "finish": "A medium finish that is quite hot and spicey and just about smothers everything else. Some dryness on the death."
+        },
+        {
+            "user_name": "Izzino",
+            "user_rank": "Connoisseur",
+            "rating": "91",
+            "review_date": "07 aug 2025 9:27 pm",
+            "content": "Aroma: I would expect a completely different profile based on the color. The whisky is surprisingly interestingly clean, malty, with a sweet and bitter profile. However, when it opens up, the whisky is more red, fruity with dark fruit, jam, Taste: has a sweet, spicy, fruity profile, also a subtle bitterness * overall it is a very pleasant and interesting, full and well-balanced dram",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Astrid",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "19 mar 2022 9:30 pm",
+            "content": "Smooth and almost old school - a nice change from the modern style. For the full review, go here: https://keinehalbendrinks.de/2022/03/19/18-jaehrige-standards-aus-der-zweiter-reihe/",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Rosebank88",
+            "user_rank": "Connoisseur",
+            "rating": "88",
+            "review_date": "13 feb 2021 2:16 pm",
+            "content": "",
+            "nose": "Wonderfully complex. Flowery-fruity tones wrestle with malt and hard toffee for the upper hand. This is followed by a trace of wax, forest honey, pickled fruits, dark bananas, beautiful sherry tones and candied citrus fruits. With water: fresher and malty, lots of honey (especially heather honey and forest honey), delicate flowery tones, seasoned walnuts and beautiful European oak. Really very nicely balanced",
+            "taste": "Soft sherry tones, spicy European oak, nuts, tart herbs, floral accents, beeswax, firm citrus tones and a hint of smoke. With water: more floral and fresher. Clear oak and caramel malt.",
+            "finish": "Long, gentle sherry accompanied by flowery tones."
+        },
+        {
+            "user_name": "DistiLesha",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "05 may 2023 10:36 pm",
+            "content": "This whisky is also a pleasure to write about. how to enjoy his company. Excellent whisky with a pleasant strength! N:21 T:23 F:21 B:22",
+            "nose": "Sweet and fresh, peanut butter, spices, cloves, ginger, nutmeg, lemon candy, air-oxidized tannins. Bananas remained from the 12-year-old, but the mash is gone.",
+            "taste": "Difficult, complex, very tasty, sweet, croutons, sweets, creamy caramel, distillery sourdough or yeast, bread tones, vanilla, salted caramel, honey with lemon. Very bright, viscous, fresh and light, woody-fruity.",
+            "finish": "Excellent viscous woody-fruity finish."
+        },
+        {
+            "user_name": "Boletus",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "25 dec 2022 11:10 pm",
+            "content": "2016 bottling: What is announced in the smell is continued confidently and without surprises in the further course. Really nicely balanced with just the right amount of oak flavors to show the 18 year aging period and enough fruity moments not to bite the wooden board. In my opinion, this adult standard is a recommendable, tasty drop.",
+            "nose": "Tobacco and leather, together with an appropriately roasted oak spiciness, indicate the maturity of this malt, juicy oranges and fine berries such as raspberries and strawberries counteract this rather dry orientation, sour cherries and \"Red Delicious\" apples, as well as hints of light tropical fruit, join in Lychees as well as pineapple and a hint of passion fruit noticeable, peaches, the wood spectrum expands with toasted notes and a distant varnish, vanilla and a small hint of coconut are added, almonds with skin, a hint of marzipan, a hint of cocoa indicates a chocolaty one Sideways, recognizable malty distillate, in the background there are a few more spices, nutmeg, a pinch of clove powder, minimal cinnamon and allspice, the interplay of the individual aromas is really delicate and almost makes my mouth water",
+            "taste": "Completely devoid of alcoholic spiciness, a lively interplay of ripeness and fruitiness begins, dry rolling tobacco crumbs on a leathery basis are tightly interwoven with juicy oranges and peaches, ripe red apples, the cherries and red berries directly behind them, the short-term dryness is replaced by a consistently building up Creaminess replaced, dark chocolate mousse with candied blood orange slices, roasted malt, ground almonds, some marzipan, then the spices bloom at the back, but are permeated again and again by the ever-present fruit aromas, especially the beautiful lychee note flashes again and again through the subtle traces of nutmeg and Allspice, and the oak shows its double face again, toasty-vanilla on the one hand and spicy-robust on the other",
+            "finish": "Significantly medium length, now noticeably drier in the basic orientation than in the taste, strong oak transitions into dark chocolate with spices, a little cinnamon and allspice, some coriander seed and nutmeg, again a tiny pinch of clove powder, but this wears off relatively quickly The fruity memories of ripe apples and peaches with a hint of lychee and a malty trail of vanilla, a late-arriving almond-marzipan mixture, rise in the throat for a fine finish"
+        },
+        {
+            "user_name": "glen efze",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "31 mar 2022 10:18 am",
+            "content": "Knockdhu Distillery in the Highlands is part of Inver House and names its single malts anCnoc to avoid confusion with Knockando Distillery. These single malts have been appearing since 2003, this one is 18 years old, undyed, not chill-filtered. The color is golden yellow. www.glen-efze.de",
+            "nose": "Knockdhu produces a lot of whisky for blends. The single malt smells like a fruity, classic whisky. It combines the fruitiness of the sherry cask with the vanilla of the bourbon, has some wood but remains mild. Ripe pears, some mango and a dash of tart grapefruit, with sweet vanilla sauce. Alcohol is not felt.",
+            "taste": "Fruit and custard are carried on the palate by powerful wood that complements and completes the flavors at the end. However, the wood is not dominant, but underlines the age of the whisky and gives it a certain depth to the fruitiness. The sherry is not dominating either, but fits into the spectrum of aromas of a balanced, fruity-strong whisky. In between there are chocolate cups with peanut butter without salt.",
+            "finish": "The aftertaste is normal, some vanilla, volatile wood remains. The whisky is unspectacular, a whisky that you can drink and enjoy without looking for special highlights. But it is not boring, but offers a nice potpourri of aromas with fruits, chocolate and pleasant oak. Nice whisky."
+        },
+        {
+            "user_name": "DramALife",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "28 mar 2023 10:06 pm",
+            "content": "Had it in a vertical tasting with anCnoc 12, 18, 24.This is 13 ref bourbon 5yr ref Sherry.S 7rather simple considering the age.it gets the bourbon and sherry influences but it’s not working very well with the distillate. It just feels younger than 18yo. Not my cup of whisky.81-85 - Another dram welcomed",
+            "nose": "Again light touch of chemical oil. A bit more honey than 12, but still sharp. Autumn oak.",
+            "taste": "Rich stone fruits. Juicy, peppery oak. Diluted honey. Vanilla. astringent spices.",
+            "finish": "Short finish. Just a touch of juicy bitter oak lingering"
+        },
+        {
+            "user_name": "Spoerkel",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "18 dec 2022 12:56 pm",
+            "content": "Well, what can I say? This malt exists. It's not good and not bad for my taste, just without any salient features. At the age of 18 I had hoped for more.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "checkpointuk",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "24 jan 2020 11:53 am",
+            "content": "https://kaypingers-whiskyblog.de/frontend/fullarticle.php?id=397  Colour:  Full gold / slightly reddish  Nose:  Sweet fruits, fruit gums, some glue, honey, cotton candy, vanilla flakes and a little chamois, as well as mocha. The nose is slightly acidic.  Taste:  Light and spicy on the tongue. Fruit sweetness combined with salt, coarse pepper, a lot of \"good\" wood, which is paired with notes of dark chocolate, mocha and nuts. The palette is covered with a green and rather unsuitable mint freshness, which we wouldn't have to have here.  Finish:  Medium length - minty-fresh and spicy. Unfortunately, the darker notes no longer dominate here - fresh and slightly woody  86 points  N: 86P / G: 86P / F: 85P",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "kikist",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "15 feb 2023 11:53 pm",
+            "content": "For some reason this whisky has something off to me, at palate it reminds me of cheap blend... Definitely good quality whisky nose is really interesting but unfortunately palate doesn't fit to me.",
+            "nose": "Sweet, yarrow, grassy, slightly herbal, young wine, touch of nuts, toasted oak, strawberry, artificial banana, choco banana",
+            "taste": "reminds me of \"Ballantine's finest\", cereals, alcohol spice, lemon",
+            "finish": "alcohol spice, coconut, oak bitterness, bready, traces of nuts, berries"
+        },
+        {
+            "user_name": "RL_whisky",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "30 jul 2017 11:58 pm",
+            "content": "Full on the nose, hint of bitterness behind the sweetness. Nice indeed.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "LukeFive",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "11 may 2016 11:33 pm",
+            "content": "Single dram note",
+            "nose": "Caramel, oak, dark chocolate, vanilla ice cream, stone fruits, chocolate sauce, touch of spices, cinnamon stick, full nose",
+            "taste": "Fresh arrival, fruits, chocolate, vanilla, spicy, white pepper, creme brulle, tannins",
+            "finish": "long, spicy, salty fudge, dark chocolate"
+        },
+        {
+            "user_name": "2ndSip",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "24 apr 2021 12:40 pm",
+            "content": "Tip: give it enough time to breathe, the aromas vary greatly with more air, which becomes more and more complex the more time you spend with it. fruity, sweet, floral, spicy; everything is there - but you have to concentrate on the individual aromas. Then again quite complex in taste. But then somehow I miss the floral component from the nose ... in the finish it decreases a lot. This is not a bad whisky, but there are too many \"inharmonious\" differences between nose and taste that rule out a higher score. From my point of view, the sherry portion is only available in homeopathic doses. You should \"break down\" the whisky into its components yourself in a quiet minute, which is a shame in the company of sipping away. [86 - 82 = good whisky -> get a second bottle? Maybe...]",
+            "nose": "Alcohol stings a bit in the nose, but is not too extreme and then subsides quite quickly. Light and dark fruits; the sherry comes through, but does not appear: sour cherries, dried plums / dried fruit along with fruity apples, pears and oranges. Sugar sweetness, toffees / caramel notes and a slight acidity (orange and lemon notes). Spicy aromas of cinnamon and cloves are added as well as herbaceous-floral notes of heather (but tend to stay in the background); so strong that I thought of Highland Park first. Nut flavors of hazelnut and walnut can also be heard somewhat hidden, but you have to concentrate very much on them.",
+            "taste": "fruity and spicy in the beginning, becoming creamy and oily; Orange oil, again fruity, but rather light-fruity. In the taste I only have nuances of the sherry tones, the bourbon character comes through to me stronger, although the sherry is somehow tangible. Second sip: more sweetness, more spice from cinnamon, cloves, becoming drier and still creamy. Tart notes of dark chocolate.",
+            "finish": "Oak tannins cover the tongue; Nut flavors of hazelnut and walnut reappear; slightly malty / hoppy in the last third. The fruit components are gone very quickly; here the barrel character contributes more to the general profile. A \"green\" moment of fresh wood comes through for me - but I find it somehow out of place for an 18-year-old. The dark chocolate moment swings in a more distinct bitterness (walnut skin). Medium to long finish."
+        },
+        {
+            "user_name": "Kensay",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "21 apr 2020 6:55 am",
+            "content": "Calm nose, honey wax, vanilla, field herbs, a little wormwood, malt, yeast dough Taste Young wood, lemon juice, green apple Finish Green fruits, wood, unripe grapefruit, some spices",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Beaker65",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "02 nov 2019 3:12 pm",
+            "content": "A beautiful An Cnoc. Certainly more depth than his 12-year-old sister.",
+            "nose": "Sweet, honey and blood orange",
+            "taste": "Honey and spicy, figs, vanilla, lime.",
+            "finish": "Long finish, sherry."
+        },
+        {
+            "user_name": "OldStyle",
+            "user_rank": "Connoisseur",
+            "rating": "87",
+            "review_date": "15 jul 2021 8:03 pm",
+            "content": "16yo vs 18yo looks like neighbour, but reality is far of it.Younger sister is in white bourbon oak only matured, so light colour, clear grassy and vanilla character, soft taste without spice.Older sister is matured in european oak and sherry effluence is combinated with bourbon attack in very balanced way, colour is darker and spice hits are easy recognized. Fruity, soft toffee notes. In finish peppery and drying effect is winning, some leather, sherry notes is failed to remember.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "cfosterk",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "21 mar 2016 9:31 pm",
+            "content": "It's official anCnoc 18yo has been crowned World’s Best Highland Single Malt in the 13 – 20 Years category in this year's World Whiskies Awards.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "YD84",
+            "user_rank": "Expert Senior",
+            "rating": "86",
+            "review_date": "29 apr 2022 8:49 pm",
+            "content": "A touch of vegetal sulphur, followed by burnt sugar, caramel, rich toffee, butter, leather, mustiness, wood smoke, cinnamon. A little astringent. Water tones down the sulphur. The mouthfeel is lighter than I expected. The finish is long and lingering, but drying. There are one or two elements that don't particularly cater to my personal taste but this is a complex, challenging and enjoyable whisky.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "SwiftyMcVeigh",
+            "user_rank": "Expert Senior",
+            "rating": "88",
+            "review_date": "02 may 2020 10:24 pm",
+            "content": "Sherry embossed 18 year old with good value for money. The whisky is on the dry-dry taste scale, which suggests Oloroso Sherry barrels.",
+            "nose": "Red berries (raspberry, currant, strawberry), raisins, oak flavor, tannins, honey sweetness in the background. Almond oil, dried fruits; Vanilla and some citrus. Cocoa. malt",
+            "taste": "Oily, first red berries, tart, tannins, then light sweetness, almonds. Malt, herbs and vanilla, dried fruit",
+            "finish": "Citrus and grapefruit, cocoa and dark chocolate, oak seasoning, becoming dry"
+        },
+        {
+            "user_name": "Brunobaer1887",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "19 jun 2024 8:13 pm",
+            "content": "Today I'm tasting this AnCnoc 18 in comparison with the 24y, after I got myself 2 samples so that I could keep the big bottle of the 24y corked.",
+            "nose": "The nose is a bit more sherry-heavy compared to the 24y, but this is also more of a modern sherry profile. Superficial and overshadowing the fine nutty aroma. It's a shame, I was hoping for a bit more...",
+            "taste": "...but the taste is a bit disappointing, slightly sour, a little white pepper and then at some point...",
+            "finish": "…the spicy fruits from the still-barrel combination. But you need patience and spit for this ;)"
+        },
+        {
+            "user_name": "Barney9359",
+            "user_rank": "Expert Senior",
+            "rating": "86",
+            "review_date": "20 oct 2025 9:36 am",
+            "content": "AnCnoc retaste + some new OB bottles 18.10.2025anCnoc 12-year-oldhttps://www.whiskybase.com/whiskies/whisky/23981anCnoc 18-year-old (2019)https://www.whiskybase.com/whiskies/whisky/17163386anCnoc 18-year-oldhttps://www.whiskybase.com/whiskies/whisky/6301786+anCnoc 2007https://www.whiskybase.com/whiskies/whisky/25278387-anCnoc 2005https://www.whiskybase.com/whiskies/whisky/8703687+anCnoc 24-year-old (B: 08.02.2022)https://www.whiskybase.com/whiskies/whisky/20720587+anCnoc 24-year-old (B: 10/11.11.2022)https://www.whiskybase.com/whiskies/whisky/22586687+",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Barney9359",
+            "user_rank": "Expert Senior",
+            "rating": "86",
+            "review_date": "15 oct 2025 7:26 am",
+            "content": "AnCnoc OB 14.10.2025anCnoc 2001https://www.whiskybase.com/whiskies/whisky/8053284+anCnoc 16-year-oldhttps://www.whiskybase.com/whiskies/whisky/136085+anCnoc 18-year-oldhttps://www.whiskybase.com/whiskies/whisky/6301786+anCnoc 24-year-oldhttps://www.whiskybase.com/whiskies/whisky/22586687+anCnoc 2005https://www.whiskybase.com/whiskies/whisky/8703687+anCnoc 2007https://www.whiskybase.com/whiskies/whisky/25278386+",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "massel",
+            "user_rank": "Expert Senior",
+            "rating": "86",
+            "review_date": "14 may 2022 2:03 pm",
+            "content": "Fruit notes with peach, grapes, oranges, spicy notes, nut, coconut, forest honey, slightly creamy and sweet. No alcoholic notes whatsoever, neither in the aroma nor in the taste, the 46% suits it well. Medium to long, slightly sweet and spicy finish. What I can say for myself after a 5cl sample, it is a very pleasing and drinkable malt without rough edges, some might find it too pleasing.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "PunxsutawneyPhil",
+            "user_rank": "Expert Senior",
+            "rating": "87",
+            "review_date": "08 dec 2018 4:36 pm",
+            "content": "Tasted a blind sample on day one of the US Blind Tasting Competition 2018.A decent sample, but somewhat dull.My guess was a Glenfiddich (Speyside), 18-yo @ 46%.",
+            "nose": "Tropical fruit, banana, grapes, pear candy, minty, vanilla, honey, oak",
+            "taste": "Sweet, yellow fruit, hay vanilla, mint",
+            "finish": "Medium long, slightly bitter, quite drying. Minty hay fades away."
+        },
+        {
+            "user_name": "Alex Fridays",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "28 nov 2018 7:37 pm",
+            "content": "Colour: amberNose: sweet, dried fruits, berries, pepper, red apples, caramel, vanilla and light oak notes.Mouth: spices, dried fruits, pepper and caramel.Finish: middle, spices, caramel, dried fruits, oak.anCnoc 18YO is a good balanced, smooth, but very simple whisky for 18 years maturation. I expected more from it.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "claymore84",
+            "user_rank": "Expert Senior",
+            "rating": "87",
+            "review_date": "02 mar 2022 4:23 pm",
+            "content": "Blind tasted on 03-02-2022.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "claymore84",
+            "user_rank": "Expert Senior",
+            "rating": "87",
+            "review_date": "25 feb 2020 11:20 am",
+            "content": "Tasted on May 6th, 2019 in the Knockdhu Distillery during the Spirit of Speyside Festival.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Shane_IL",
+            "user_rank": "Expert Senior",
+            "rating": "87",
+            "review_date": "18 nov 2017 3:46 pm",
+            "content": "Lovely whisky. This is really a Goldilocks whisky, well balanced and flavorful. The whisky is also easy to drink but with no sacrifice in complexity, and at a low price to boot.Reviewed in my blog:iwriteaboutstuffilike.com/2017/11/18/ancnoc-and-balblair-tasting/",
+            "nose": "Strawberry shortcake. Brown glue. Cinnamon. Cashew. Maple. New leather.",
+            "taste": "Woodspice. Candied orange peel. Salty toffee. Plums. Tobacco. Milk chocolate.",
+            "finish": "Long. Spicy. Honey. Candied ginger. Leather."
+        },
+        {
+            "user_name": "Wtrstrnghlt",
+            "user_rank": "Expert Senior",
+            "rating": "87",
+            "review_date": "04 oct 2025 2:02 pm",
+            "content": "",
+            "nose": "Less pronounced sherry influence than the aberlour",
+            "taste": "Fuller and less sweet than the aberlour 18 Tends to 89 points",
+            "finish": "Actually too short. No offnotes."
+        },
+        {
+            "user_name": "Erik1908",
+            "user_rank": "Expert Senior",
+            "rating": "88",
+            "review_date": "13 feb 2022 3:31 pm",
+            "content": "AnCnoc; a not that well known distillery. I tasted the 12y as well as the 24y so far. The 12y was not bad but not memorable. The 24y was excellent. Let's see if this 18y old fits in the great list of 18Y OB's from distilleries around Scotland.",
+            "nose": "The nose gives an excellent start. Elegant; that's the word I was looking for. An overripe fruit basket on a plate of mild sherry and bourbon notes. Hints of raisins, vanilla and milk chocolate.",
+            "taste": "Wow, what a great continuation of the nose! Not extremely full body, but still very ok on 46% abv. The sweet fruitiness continues, but it is now accompanied by hits of honey and mild pepper spices. Nice oaky notes. All again well balanced.",
+            "finish": "Medium long finish. Oaky flavors are slightly dominant. Dry in the very end. Conclusion: The AnCnoc 18y stands its ground in the lineup of great 18y old expressions such as Ledaig, Springbank and inchmurrin."
+        },
+        {
+            "user_name": "erwinnlim",
+            "user_rank": "Expert Senior",
+            "rating": "86",
+            "review_date": "06 may 2020 9:14 pm",
+            "content": "As far as 18 year old single malts go, this is presented well at 46% and NCF, it's very good value for money too so a definite must try. Value (£65) : 6/10",
+            "nose": "Toffee, light brown sugar, orange and lime peels. A slight nip of alcohol along with loads of Spanish oak spice influence. A gentle touch of cinnamon, cloves, ginger and white pepper. Some dried plums and sour red cherries. Crisp green apple. Fragrant citrus oils. Walnuts and some dark chocolate. Earl grey tea. Very light peat smoke as well.",
+            "taste": "Silky mouthfeel. Some honey sweetness and vanilla with a distinct waxiness. More green apple. Develops into darker sherried notes as you search, some red berry and juicy plums. Christmas cake. Marzipan and wood chips. More cloves and drying oak tannins. Ginger spice. Candied orange peels and bittersweet dark chocolate or cocoa notes as well. As you take more sips of this dram the spicy character of the European oak mellows slightly and more caramel sweetness shines through.",
+            "finish": "A medium-long finish. Again drying and spice felt around the back of the tongue. After some time to pepper spice turns into more of those dried fruits. Chocolate orange. More leather and some peppermint."
+        },
+        {
+            "user_name": "rich_93",
+            "user_rank": "Expert Senior",
+            "rating": "87",
+            "review_date": "21 nov 2021 2:47 am",
+            "content": "Takes a very long time to open up. The tasting notes below are based on the bottle being open for over a month, half empty. Before that point, the whisky was very cask-heavy, and took about 30 mins in the glass to open, even then it was too woody and spicy. Oxidises pretty rapidly beyond the half-way point Therefore, you’ll find that this dram has a narrow goldilocks zone where it’s just perfect and behaves like an old cognac. I think it is this capriciousness that kept me returning it - a puzzle in a bottle!",
+            "nose": "Nose: A wonderful candied nose of red apple, cognac and cherry compote. Dried pears. Herbal honey and a tinge of sweet mint. A complex spice note, to me mainly clove and cinnamon.",
+            "taste": "Palate: Lots of honey, very candied and fruity - the brandy is here again and we like brandy! A bit of walnut and dark chocolate. Clove and cinnamon again. Sometimes, a quite intense medicinal herbal note pops up, spearmint as well. Brandy notes and dried fruits show themselves in the long and spicy finish.Both the nose and the palate are real shapeshifters, switching between highlighting different aspects of the whisky.",
+            "finish": ""
+        },
+        {
+            "user_name": "The_Osprey",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "16 aug 2022 8:31 pm",
+            "content": "anCnoc 18 year old HSMSW, 46%, 30ml sample, Aug 2022. Impressively dark amber. A darker-than-amber matte orange even. They advertise this as natural colour. Aroma is closed, shy, minerally. Slowly, slowly the red apple comes out. Like waiting for a bus. Even when it arrives it never builds an intensity. Airy with suggestions of red berries and char and dates but always extremely shy with a focus on the burnt red apple peel. Yes, if you wait and wait and wait the sugars extracted from the cask will eventually dry on the glass and you'll start to get stronger aromas, but by then it’s too late - the liquid is practically gone. Body is watery. Taste is pointed on impact but not even slightly rough. Indistinct red fruits. Vaguely meaty and medicinal. Maybe a touch on the watery side. Moves to chilli spice on the swallow but not a harsh chilli. There's a light spattering of chilli flakes that is good and needed to offset the watery palate. Very easy to drink. Limited complexity. No off notes. A bit underwhelming up front but this is not a bad dram at all, and it grew on me when given lots of time (I’m beginning to see a trend: anCnoc whiskies need time). In some ways I find this similar to the Bunnahabhain staples. Fans of Glenallachie may also be interested. 3.5/84",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        }
+    ]
+}

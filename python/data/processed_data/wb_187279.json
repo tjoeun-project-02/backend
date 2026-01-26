@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Royal Brackla 12-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Royal Brackla",
+        "ws_age": 12,
+        "ws_abv": 46.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/1/8/7279/374106-normal.png",
+        "ws_rating": 85.02,
+        "ws_vote_cnt": 729,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/187279/royal-brackla-12-year-old",
+        "ws_id": "187279",
+        "collected_count": 51,
+        "flavor_profile": {
+            "fruity": 5.2,
+            "sweet": 5.7,
+            "peaty": 0.4,
+            "spicy": 3.8,
+            "woody": 3.8,
+            "malty": 1.9
+        },
+        "top_keywords": [
+            "sherry",
+            "toffee",
+            "licorice",
+            "cocoa",
+            "sweet"
+        ],
+        "ws_name_kr": "로열 브라클라 12년",
+        "ws_distillery_kr": "로열 브라클라"
+    }
+}

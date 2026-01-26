@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Glen Grant 15-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Glen Grant",
+        "ws_age": 15,
+        "ws_abv": 50.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/1/9/3720/349646-normal.png",
+        "ws_rating": 84.08,
+        "ws_vote_cnt": 274,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/193720/glen-grant-15-year-old",
+        "ws_id": "193720",
+        "collected_count": 41,
+        "flavor_profile": {
+            "fruity": 4.7,
+            "sweet": 5.4,
+            "peaty": 0.2,
+            "spicy": 3.5,
+            "woody": 2.9,
+            "malty": 2.0
+        },
+        "top_keywords": [
+            "spice",
+            "syrup",
+            "nutty",
+            "oak",
+            "sweet"
+        ],
+        "ws_name_kr": "글렌 그랜트 15년",
+        "ws_distillery_kr": "글렌 그랜트"
+    }
+}

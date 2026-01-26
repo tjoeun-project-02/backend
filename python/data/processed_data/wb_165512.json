@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "BenRiach 12-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "BenRiach",
+        "ws_age": 12,
+        "ws_abv": 46.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/1/6/5512/289390-normal.png",
+        "ws_rating": 83.55,
+        "ws_vote_cnt": 574,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/165512/benriach-12-year-old",
+        "ws_id": "165512",
+        "collected_count": 50,
+        "flavor_profile": {
+            "fruity": 5.5,
+            "sweet": 5.6,
+            "peaty": 0.5,
+            "spicy": 4.5,
+            "woody": 3.7,
+            "malty": 2.1
+        },
+        "top_keywords": [
+            "cask",
+            "tannin",
+            "mint",
+            "malty",
+            "nutmeg"
+        ],
+        "ws_name_kr": "벤리악 12년",
+        "ws_distillery_kr": "벤리악"
+    }
+}

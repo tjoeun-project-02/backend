@@ -1,0 +1,536 @@
+{
+    "info": {
+        "ws_name": "Glenmorangie 18-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Glenmorangie",
+        "ws_age": 18,
+        "ws_abv": 43.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/3/2/29/439016-normal.png",
+        "ws_rating": 85.71,
+        "ws_vote_cnt": 1504,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/3229/glenmorangie-18-year-old"
+    },
+    "collected_count": 52,
+    "reviews": [
+        {
+            "user_name": "peatbogger",
+            "user_rank": "Specialist",
+            "rating": "85",
+            "review_date": "08 jun 2019 10:29 am",
+            "content": "After many disappointing Glenmorangies with fancy names, experimental cask finishes and no age statements I was happy to find this one very satisfying.\"Extremely Rare\" is an exageration, it's an easy drinking basic sherry finish with a price tag not too inflated.",
+            "nose": "Pleasant and inviting.Honey sweet with a subtle sherry caracter.Oranges, an apple, chocolate shavings.",
+            "taste": "Just about what you expect from the nose.Sweet honey and vanilla arrival.Oranges and a little spice comes along nicely.Quite bright fruityness, apricot, pears?",
+            "finish": "Medium lenght.Some chocolate and nuts."
+        },
+        {
+            "user_name": "KayMeertens",
+            "user_rank": "Connoisseur",
+            "rating": "87",
+            "review_date": "12 may 2015 8:08 pm",
+            "content": "",
+            "nose": "Peach, ripe banana, strawberry, yellow raisin, honey, caramel and vanilla. Eventually a little nutmeg.",
+            "taste": "Apricot, banana, caramel, vanilla, honey and nuts.",
+            "finish": "Caramel, banana, plum, vanilla, apple and peanut."
+        },
+        {
+            "user_name": "Dre73",
+            "user_rank": "Connoisseur",
+            "rating": "88",
+            "review_date": "09 feb 2018 1:29 pm",
+            "content": "Delicious fruity whisky, surprisingly full taste for 'only' 43% Abv.",
+            "nose": "Fruity! Tropical fruits, pineapple, banana. Citrus too. And now also clear vanilla sweetness. And floral. A lot of smell. Now also what Dreft. And mango, orange juice",
+            "taste": "Fruity, slightly tingling / peppery, citrus, orange (zest). Sweet, honey, peach, tropical fruits again.",
+            "finish": "Also some clear bitterness now, grapefruit. Also sweet, peach and honey. Pretty long finish. Light pepper still."
+        },
+        {
+            "user_name": "Andytka3",
+            "user_rank": "Connoisseur",
+            "rating": "91",
+            "review_date": "18 dec 2016 10:04 pm",
+            "content": "Nose:- Perfumed olorosso sherry and pickled young mango, boiled mixed spices and peppery pungent, nose heating and bold. Palate:- Creamy pear and peach syrup, mature sherry flavours whirl around ripe plum, vanilla and clove.  Elegant and full of authority. Double cask at its best. Finish:- Long and chewy. Sweet dates and intense. Warming. Clear cut and forward character, easy to understand. — at The Whisky Bar, Kuala Lumpur.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Kantenmechaniker",
+            "user_rank": "Connoisseur",
+            "rating": "87",
+            "review_date": "12 feb 2020 12:30 am",
+            "content": "Very tasty, definitely not a sherry bomb, the Oloroso has problems on all levels with the ex-bourbon influence to create some space, but if he can do that, then it is a good addition. Otherwise, I really like the basic tangerine tone.",
+            "nose": "Very fruity, apple, malt, strawberry, vanilla, some acid, citrus, tangerine, sweet, with spice, slightly leathery, almonds, after some time in the glass it becomes creamier and there is also some grated dark chocolate, but the ex-bourbon influence dominates in my opinion in the nose, but time brings the sherry a bit forward, now something like grape-nut-chocolate",
+            "taste": "sweet, fruity, tangerine, creamy, vanilla, good start, intense, juicy, some salt, now bittersweet on the palate, with the second sip I find some oloroso, liquorice, raisins in the start, but then it gets a good deal of the tangerine again suppressed, good mouthfeel, even if it does not appear quite as viscous",
+            "finish": "almost as if you had drunk the mandarin juice out of the can, sweet, slightly tart, fruit bowl, very slightly hinted at some oak on the tongue"
+        },
+        {
+            "user_name": "WhiskyLovingPianist",
+            "user_rank": "Connoisseur",
+            "rating": "87",
+            "review_date": "27 aug 2016 12:23 pm",
+            "content": "N: That ‘light’ presentation is the distillery profile as far as I’m concerned, almost fluffy (a la Balvenie double wood) especially in the 12yo, but with more elegance that comes with maturity at 18 years. Malty cereals, oranges and lemons (dry enough), a malty sour note. Really has all the major corners covered.T: Continues along similar lines. Reminiscent almost of those 1950's oily out-turns, but mainly suggestive. Really malty, quite sweet with a touch of sour and a little salty .F: ,… then a little pepper, really just a sprinkle with many vanilla waves and dry [vanillin] oak. Tasty casks.C: Yeah, good stuff, Glenmorangie really have consistency down. The strength is a real factor though, but golly this is good. Then again I've had cask strength versions of low powered core-range-malts that loose more than they gain from that extra abv boost. I see this is the third time I’ve scored the 18yo the same mark - there’s me showing some consistency too, who’d have thought?Scores a B",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "90ClubWhisky",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "15 jul 2022 11:40 pm",
+            "content": "Straw color. Rare structure.",
+            "nose": "Sweet and sour aromas. Ripe fruit. Oranges, peaches. Ripe apples. Caramel, vanilla. Cream, sweet cream.",
+            "taste": "Cream. A delicate barrel. Dark chocolate. Spices. Cinnamon. Light oily.",
+            "finish": "Dessert chocolate. Cinnamon. Cocoa. Medium-long finish."
+        },
+        {
+            "user_name": "robain",
+            "user_rank": "Specialist",
+            "rating": "83",
+            "review_date": "06 oct 2016 5:09 pm",
+            "content": "",
+            "nose": "Villa, sweet, honey,",
+            "taste": "sweet fruits, honey, its really sweet and pleasant,",
+            "finish": "not much going on im afraid, although some spices and honey is still there."
+        },
+        {
+            "user_name": "Totoro",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "28 may 2019 10:09 pm",
+            "content": "So this is either a case of batch variation or of some serious oxidization. I've had this one before and remember it as much \"darker\" and more Oloroso-influenced. The sample I'm working with here is considerably brighter, fruitier, and lighter.Still very solid, though, and the only core-range Glenmo I'd consider buying again.UPDATE: Having recently opened a bottle of my own, my suspicion is confirmed: the sample I had was a bit weak (perhaps from the last third of an open bottle, something like that). This is much better - darker, stronger, more to the point - and I'm raising my overall score from 84 to 86.",
+            "nose": "Grassy, floral, fruity. Pineapple, peaches and hay. Marzipan, white chocolate, vanilla. Seems younger than 18 initially. But wait: after some time, the wood begins to make its presence felt on the nose as well. Really hits its stride once it has wet the gullet. After the first sips, a herbal / spicy component kicks in that is highly reminiscent of some good-quality European-oak ex-sherry casks.",
+            "taste": "Ah, here's where the age comes through. Immediate oak presence with creamy tannins and a good body for the strength. Plenty of Oloroso / umami flavors. Sweet, spicy and luscious, with enough substance to serve as an after-dinner dram. The Glenmo fruits are present, but they're counterbalanced by a nicely measured tannic bitterness. There may be some (small measure of) European oak in here after all.",
+            "finish": "Medium length, with a nice, slow fade, mainly on fruit and pepper. Seems more like 46 than 43 percent, which doesn't happen to often. A bit fizzy, with acidity and bitterness playing off each other. The sweetness recedes quite a bit at this point. Nothing crazy special, but also nothing unpleasant."
+        },
+        {
+            "user_name": "LiquidThoughts",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "08 apr 2017 3:15 pm",
+            "content": "Very pleasing, round and noble standard",
+            "nose": "Sweet aromatic, sherry and brown sugar, walnut, light oak and flowers, orange / date",
+            "taste": "Sherry with citrus, floral, malt, spice of cinnamon / nutmeg, in the back dates, figs, some oak but everything very round and drinkable, typical Glenmorangie",
+            "finish": "Mitellang, nut, citrus, dry"
+        },
+        {
+            "user_name": "3_243F6",
+            "user_rank": "Photo Moderator",
+            "rating": "85",
+            "review_date": "02 jan 2025 6:57 pm",
+            "content": "I think my sample is from a 2018 - 2022 batch, but I don't remember.Quite nice. I find the finish to be the best part. Fruity, sweet, a bit oaky, floral honey, lots of vanilla, citrus.",
+            "nose": "Fruity and floral with cider apples and candyfloss grapes. Floral honey, pencil shavings, a slight note of white chocolate, and spice. New oak and vanilla. Lemon flavoured water. Not bad.",
+            "taste": "Light fruitiness - white fruits, apples, green fruits. Lots of vanilla, some oak, honey. White flowers, almonds, some orange. Really simple and a bit oaky, but quaffable.",
+            "finish": "A little spice, vanilla, fresh apples, white fruits, apricots. Creamy and really sweet. Floral honey again, orange blossom, ice cream, barley sugar, a little oak. Hints of lemon, some gentle citrus. Good length. Nice."
+        },
+        {
+            "user_name": "Tom na Gruagaich",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "27 jun 2021 10:42 pm",
+            "content": "Nice dram. Sweet, coconut, oak, vanilla on the nose. Discreetly peppery in the mouth, but the sweet oak remains present. Unfortunately, the finish is rather shorter but nice and aromatic with woody notes. The age shows, everything is nevertheless very pleasing. Good standard.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "LeChiffre",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "20 jan 2019 6:59 pm",
+            "content": "Dangerously tasty and well-balanced single malt with a great nose. The nutty-spicy notes in combination with the honey sweetness in the taste are very pleasing and interesting. Overall, a beautiful malt, which may still be minimal less dry / dry finish. Recommended.",
+            "nose": "balanced; fresh-fruity intense sweetness (bright fruits with a tropical touch - including orange, citrus, peach); nutty (towards walnut); Honey; floral aromas; light oak in the background",
+            "taste": "mouth-filling and oily; fruity sweetness; Honey sweetness; slightly malty; floral; in addition beautiful Nussigkeit (direction walnut); pleasant tingling spiciness; in the background oak; getting bitter",
+            "finish": "medium; slightly dry; further nutty note (walnut); with fruity sweetness; Oak (pleasant light bitterness) increasingly comes to the nuttiness clearly in the foreground"
+        },
+        {
+            "user_name": "Noface83",
+            "user_rank": "Specialist",
+            "rating": "85",
+            "review_date": "08 sep 2017 8:28 pm",
+            "content": "Nose: great aroma with many fruits, lemon and juice orange are prominent, some mango and other exotic are also present, brown sugar and a pinch of vanilla, light and flowery with a breath of old wood. Very round and pleasing, which in this case is nothing bad.  Taste: softer onset but always \"sparkling\" is. Lots of citrus, orange peel and honey sweetness, dried apricots and a hint of ecotic fruit and spices, the finish shows next to some Nimm2 fruitiness and sweetness especially the oak. Since the 18 years Fassreifung are properly present.  Great taste and nice wood on the finish, but seems a bit too styled.  I'm surprised - I think it's really alright even if it was obviously created as a pleasing malt for the masses.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Luigisim",
+            "user_rank": "Connoisseur",
+            "rating": "87",
+            "review_date": "10 feb 2018 9:20 am",
+            "content": "Nose: strong smell of orange, red orange not fully maturedMouth: pulp of passion fruit, very sweet and nice balancedFinish: medium and not intense",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Malthead19",
+            "user_rank": "Connoisseur",
+            "rating": "88",
+            "review_date": "13 apr 2022 11:35 am",
+            "content": "- incredible nutty whisky - very cute, light, just great - very harmonious soft Gentleman Malt",
+            "nose": "sweetish malt, vanilla, typical mild Glenmorangie note",
+            "taste": "mild start, sweetness, toffee, walnuts",
+            "finish": "mild, medium-length finish; medium-long finish with lots of walnut notes and a sweetish fruity note"
+        },
+        {
+            "user_name": "pianoman",
+            "user_rank": "Connoisseur",
+            "rating": "87",
+            "review_date": "16 feb 2018 9:23 am",
+            "content": "",
+            "nose": "Vanilla sugar, lemons, yellow plums, hay. Fresh sawdust, apples, olive oil.",
+            "taste": "Malty with bright fruits. Pleasant bitterness of oak and chocolate. Vanilla, nuts.",
+            "finish": ""
+        },
+        {
+            "user_name": "schengel10",
+            "user_rank": "Connoisseur",
+            "rating": "88",
+            "review_date": "13 mar 2019 9:49 am",
+            "content": "My dearest Glenmorangie - a mature, noble and very good Highland Malt, high-quality bottle, nice packaging and a very acceptable price!",
+            "nose": "subtle, sweet, flowery, malt, caramel, some oak;",
+            "taste": "sweet, harmonious onset, spice (oak), spices, walnuts, dried fruit, sherry, caramel, ripe, balanced, complex;",
+            "finish": "long, warm finish; in the end clearly walnuts;"
+        },
+        {
+            "user_name": "Calmar",
+            "user_rank": "Connoisseur",
+            "rating": "89",
+            "review_date": "10 oct 2017 8:32 am",
+            "content": "Good, somewhat restrained, but very rich in shades and semitones of silence, is no longer young, calm, finding depth, perfectly balanced, saturated.",
+            "nose": "Warm, dry, flowery-honey, mineral notes, lemon, dried fruits in the background, the main constituents are few, but the fragrance is rich in halftones and shades, it sparkles, pours.",
+            "taste": "Sweet-oily, confectionery tones - shortbread, cake with jam, sugar icing; raisins, dried apricots.",
+            "finish": "Spicy, ginger-orange, creamy notes, apple jam, herbs, rhubarb, weak astringent oak tones, creamy cream."
+        },
+        {
+            "user_name": "granella2003",
+            "user_rank": "Connoisseur",
+            "rating": "87",
+            "review_date": "22 dec 2012 1:04 am",
+            "content": "15 years maturation in ex-bourbon casks of American amusing box and use quality ingredients. After this period of maturation gives the whisky a Oloroso finish in sherry casks for 3 years",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "granella2003",
+            "user_rank": "Connoisseur",
+            "rating": "87",
+            "review_date": "22 dec 2012 1:01 am",
+            "content": "",
+            "nose": "Sweet aromas of sherry, creamy vanilla, juicy oranges and walnuts with hints of mint, jasmine and oak",
+            "taste": "Full and rich flavors of sherry, honey, grapefruit, figs, nuts and caramel",
+            "finish": "Long and seductive finish with subtle sweetness of gedroofd fruit and nutty sherry"
+        },
+        {
+            "user_name": "ffmdino",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "28 sep 2020 8:19 pm",
+            "content": "like it a lot  a gentle sherry malt,  has great, is dignified",
+            "nose": "gently sherry becomes more, slightly raisins, old oak, red apple turned slightly brown, gently raspberry, poppy seed cake, becomes nutty, red haribobear  later light vanilla and dark caramel",
+            "taste": "full and strong on the palate  Sherry, spicy, oak is coming, dark caramel, berries, such a liquorice note, chocolate so 70%, becomes tart / bitter, slightly brown apple and a note that I can't name",
+            "finish": "medium to long  warm, oak, sherry, spicy, slightly tart, slightly more coffee, slightly chocolate about 65%, floury apple, slightly astringent"
+        },
+        {
+            "user_name": "Issie",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "08 nov 2020 12:10 pm",
+            "content": "blind",
+            "nose": "Melon, grapes, apple, peach, honey, a few grasses",
+            "taste": "Peach, honey, tangerine, very light lime, a little milk coffee, very light pepper",
+            "finish": ""
+        },
+        {
+            "user_name": "Boletus",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "18 dec 2022 10:59 am",
+            "content": "I doubt whether \"extremely rare\" is really true, but it is definitely \"extremely delicate\". Unmistakably \"Glenmorangie\", it also gives a spicy and extremely lasting impression of this distillery thanks to its strong oak aromas. Very tasty and easy to drink, but in no way subtle, but really expressive. I'm excited!",
+            "nose": "Juicy blood oranges start, rich variety develops, vanilla and mint, dark chocolate, deep down there is an underlying mood of toasted oak, some dried dates and figs, tangerines, almonds, perfumed sweet spiciness, orange blossom honey, cedar wood, freshness Leather and Tobacco (with vanilla flavor)",
+            "taste": "Creamy and creamy, orange biscuits, vanilla cream, honey and almond biscuits, milk chocolate, cinnamon, herbal sweets, cardamom, lemon zest, mint sauce, the spicy oak blends in nicely and creates a very harmonious and powerful overall picture",
+            "finish": "Really long, marzipan, malt, tingly pleasant oak, milk coffee, mint chocolate, tangerine, apricot-vanilla cream cake, brittle, jasmine blossom tea, toasted vanilla-coconut aroma stays for a long time"
+        },
+        {
+            "user_name": "Moses",
+            "user_rank": "Connoisseur",
+            "rating": "87",
+            "review_date": "12 dec 2018 12:44 pm",
+            "content": "Here's another controversial bottle. From the point of view of PLV a clear buy recommendation from me. Why? He is certainly not in the front but for this money you get relatively easy a rich and very mild mouthfeel. Also a really great finish. House whisky.",
+            "nose": "He needs time in the glass. Then it goes with pleasure through the sweet nutty drying meadow. Behind it are small vanilla sticks in lemon water. Nose is a little too sharp. Peppery oak? Another peppermint? Nose ok. but hopefully the main part will be better.",
+            "taste": "Oily and smooth with appropriate spice freight you go. Light vanilla with fresh mowed flower meadow. Now it gets a bit woodier in the direction of peat and pepper. A still mild and also full mouthfeel. Balanced as it should be. Good choice of barrel.",
+            "finish": "He sounds long and very friendly. ! The best part.! Drying oak, nutty to malty with floral notes.  Glorious. Now getting drier but wonderfully rounded. He goes and goes and goes. Wow. Refill is announced. class"
+        },
+        {
+            "user_name": "drkrylov",
+            "user_rank": "Connoisseur",
+            "rating": "90",
+            "review_date": "12 dec 2012 12:12 pm",
+            "content": "A wonderfully creamy and thick 18 year old dram, matured for 15 years in ex bourbon casks before being finished in Oloroso sherry casks.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "drkrylov",
+            "user_rank": "Connoisseur",
+            "rating": "90",
+            "review_date": "04 nov 2012 7:00 pm",
+            "content": "A rich, mouth-filling dram that offers surprising length and depth to the finish.",
+            "nose": "Some oak. More vanilla. Lots of walnuts. Touch of peppermint.",
+            "taste": "Fleshier. Good wood-extract and esters. Some peatiness emerging. The whole potpourri of spiciness.",
+            "finish": "Firm, dry, rounded. Nutty. Hint of peat."
+        },
+        {
+            "user_name": "Achany",
+            "user_rank": "Connoisseur",
+            "rating": "88",
+            "review_date": "27 sep 2016 10:23 am",
+            "content": "incredible sweet and fruity, honey, vanilla and some spices too. what a wonderful dram. just nice to get an older glenmorangie without fancy cask finishes - allthough I do love them as well.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "mmaclean",
+            "user_rank": "Connoisseur",
+            "rating": "88",
+            "review_date": "05 feb 2012 5:14 pm",
+            "content": "\"Producer`s Tasting NotesAroma: The cornucopia of an autumn harvest festival table describes the overflowing abundance of arresting aromas that tantalise at the first nose of Glenmorangie 18 Years Old. The rich, resinous quality of nuts cascades into a crisp toffee sweetness of crème brulée, merging with caressingly smooth, creamy vanilla. Hints of vibrant oranges & lemons are found. Crunchy textured walnuts follow, oozing into golden honeycomb that trickles over sun-ripened sticky dates. Then sparkling floral tones emerge, taking the edge off any cloying sweetness, with the green, almost herbal bouquet of geranium, tempered with musky jasmine and the bright, sharp clarity of narcissus.With water, 18 Years Old reveals a rich oaken, balsamic character that yields to soft vanilla. At this moment, the signature Glenmorangie fruity complex reveals itself in golden apricots and dates mingled with hazelnuts. Taste: Glenmorangie 18 Years Old slips like silk over the tongue with a full, rounded flavour, starting with grapefruit & orange. The palate is then entranced with an accord of melting honey, creamy malt and aromatic florals that segue into the warm, syrupy nuttiness of hazelnuts and walnuts from the Oloroso sherry casks in which the whisky is matured. Savour the rich, sticky date and fig flavours as they are heightened by the unexpected caress of woodsmoke. Finish: Lingering and enticing with the subtle sweetness of dried fruit and the nutty dryness of sherry.\"TWE",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "mmaclean",
+            "user_rank": "Connoisseur",
+            "rating": "88",
+            "review_date": "12 nov 2010 5:26 am",
+            "content": "I love th display and cant wait to open and drink some. It is on sale at BevMo Here in the States for 99.99$ and they also have a 5% coupon online for signing up. You have to love this deal!",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "spigray",
+            "user_rank": "Connoisseur",
+            "rating": "87",
+            "review_date": "22 may 2017 1:14 pm",
+            "content": "goes into the signet direction but cannot really compare with it. but it is good whisky for sure.very quaffable stuff.",
+            "nose": "very typical glenmo-nose, light, fruity, slightly floral and very harmonious, perhaps even a tad too round.but of course good quality stuff.oranges, and apricots, hazelnuts and milk chocolate, very light caramel. light honey. everything is well matured. good so far!",
+            "taste": "starts typically glenmorangish with these fruity, floral components but after two seconds there´s a wave of mandarines which I didn´t get anymore after the second sip.other than that it´s quite the nose, perhaps add a bit more honey and traces of vanilla",
+            "finish": "medium to long, spicy"
+        },
+        {
+            "user_name": "gallfux",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "10 oct 2019 11:39 pm",
+            "content": "Certainly not too complicated. It leans more toward the fruity and fresh side, but not too youthful. For this standard, I think it's perfectly acceptable.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "The Macallan",
+            "user_rank": "Connoisseur",
+            "rating": "73",
+            "review_date": "02 sep 2012 5:26 pm",
+            "content": "It's quite allright this morangie and the longer you leave it in the glass, the more it devellops to a gentle, spiced dram.",
+            "nose": "Gentle vanilla notes, grassy (like the meadows on the scottish hills), some cereal notes - weetabix, fruity and perfuming (reduced: more floral notes, light citrus with some flowery notes).",
+            "taste": "Slightly sweet, spicy, pungy/stimulating and liquorice wood (reduced: slightly floral with mediterinian spices).",
+            "finish": "Dry, warm with some herbal tea."
+        },
+        {
+            "user_name": "Goethe",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "27 jan 2017 9:54 pm",
+            "content": "Quite straightforward in its character. Quite easy to enjoy. In the long term not very convincing for 18 years in the cask, to spicy.Concerning price/performance ratio: 7/10",
+            "nose": "Honey, floral, some sherry, vanilla, ripe apples, oranges, faints of tropical fruits.",
+            "taste": "Honey, vanilla, nuts, a bit dry, some spices.",
+            "finish": "Short to medium. Oak and spices."
+        },
+        {
+            "user_name": "craide",
+            "user_rank": "Connoisseur",
+            "rating": "87",
+            "review_date": "26 mar 2019 11:16 pm",
+            "content": "A wonderfully fresh light whisky. Not too complex and the sherry ripening brings the fruity dark component.  He is worth his money.",
+            "nose": "Sweet pleasantly soft nose, light peach and citrus notes, lemon balm,  Transition into a freshly smelling summer meadow, hints of marzipan",
+            "taste": "Fruity sweet, apple, cherries,  Followed by floral notes, slightly spicy at the back with slight bitter notes, almonds,  Well balanced, alcohol almost too little.",
+            "finish": "Medium long, first fruit, apples becomes less subtle sherry sweetness penetrates, drier towards the end, oak with some vanilla"
+        },
+        {
+            "user_name": "KIMCHIBaby",
+            "user_rank": "Expert Senior",
+            "rating": "87",
+            "review_date": "28 aug 2025 6:37 pm",
+            "content": "Vanilla, vanilla ice cream, floral, honey, milk chocolate, apple, pear. A sweet vanilla note reminiscent of ice cream, with elegant floral tones. Rich honey and milk chocolate sweetness follow, brightened by crisp apple and pear freshness. On the palate, vanilla is joined by the fruit sweetness of apple and pear, creating a delightful balance.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Montezuma",
+            "user_rank": "Expert Senior",
+            "rating": "79",
+            "review_date": "13 mar 2024 11:00 pm",
+            "content": "03/03/2024 - 30 ml. A good typical ex-bourbon, but after being revealed in the blind test it proved to be terrible value for money, as, despite having no alcohol and being round, it is just an expensive ex-bourbon. But I'm glad I had the opportunity to meet you.",
+            "nose": "Vanilla, fresh fruit, white chocolate; a little spicy, but like a Syrian pepper. Sugar, new wood and malt. Slightly citrusy, like lemonide. With water: eliminated the remaining alcohol, increased the vanilla and sugar. Honey. Citric, but without being acidic.",
+            "taste": "White sugar, pineapple, non-aggressive alcohol, lime orange, vanilla and new white wood. That's it with water, a good fruity and sugary ex-bourbon, with notes of new wood from the barrel.",
+            "finish": "Average, pleasant, without any major surprises, but a typical round and sweet ex-bourbon, with good barrel wood."
+        },
+        {
+            "user_name": "Dottore",
+            "user_rank": "Expert Senior",
+            "rating": "81",
+            "review_date": "27 aug 2018 3:50 pm",
+            "content": "After the Glenmorangie 18 with me now for a long time, yes I admit it, a little disdained and dusty standing around in the corner, but now has settled in the leftovers something like old botttle flavor. The nose is now clearer, nuttier and more complex compared to previous years. The cereal notes are dominant, but are accompanied by quite pleasant dried fruits and floral scent. In the mouth, however, quickly dominates the boring oak dryness, which is why I'm not warm with this whisky and unfortunately will not. Here I lack fruit, spice and complexity. The finish is short and dry. Ordinary standard paint.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Alex Fridays",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "24 jun 2018 9:53 am",
+            "content": "Dried fruits, spices, oak cask, floral, fresh grass, apples, vanilla, toffee, cream and honey notes on nose.Caramel, fruits, apples, oak, cream, toffee and honey notes on taste.Long finish with spices, vanilla, oak, a little bit ginger notes.Sweet and easy to drink whisky.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Kaleva",
+            "user_rank": "Expert Senior",
+            "rating": "88",
+            "review_date": "28 jan 2019 2:49 pm",
+            "content": "Great whisky, very smooth and with excellent balance. Not very complex but highly enjoyable even without that. The cost of 70-80 euros makes it one of the best purchases in this price category.",
+            "nose": "Mild, floral, a bit perfumery, honey, red apples, pear, nougat, vanilla, light sherry notes, yellow plums, sweet oranges",
+            "taste": "Spicy (peppers and cinnamon), dried fruits, walnuts, butter, oranges and grapefruit (bitter notes), canned pineapple, figs, slightly drying oak at the end",
+            "finish": "Medium-long, nutty, floral notes, dried pears, hint of white pepper"
+        },
+        {
+            "user_name": "pilgrim77",
+            "user_rank": "Expert Senior",
+            "rating": "88",
+            "review_date": "17 oct 2012 3:09 pm",
+            "content": "Fruity and smooth. Responds very well to a couple of drops of water and being left in the glass for a short while before sampling.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Pollenflug",
+            "user_rank": "Expert Senior",
+            "rating": "87",
+            "review_date": "17 jan 2017 4:46 pm",
+            "content": "More on: https://tomtrinkt.blog/",
+            "nose": "Very vanilla, forest honey, slightly flowery, red apples, oranges and dark fruits thanks to the partial sherry cask maturation. Then a bit nuttier and spicier with fine oak notes. An alcoholic note is imperceptible.",
+            "taste": "Very oily / creamy, honey sweet, crème brûlée, fine sherry notes, dates, raisins and oranges. The nuttiness and spice increase noticeably and form a nice contrast to the initial sweetness, without becoming too dominant. The whisky has an absolutely harmonious, complex and well-balanced overall picture. Almost dangerously tasty with 43% by volume!",
+            "finish": "Medium to long, some honey, still pleasantly nutty, spicy and slightly drier. The fine sherry aromas are gradually leaving. Some bittersweet chocolate."
+        },
+        {
+            "user_name": "Raistlinmejere",
+            "user_rank": "Expert Senior",
+            "rating": "88",
+            "review_date": "24 nov 2025 4:11 pm",
+            "content": "This tasting sample is from the version bottled on September 5, 2018. It performed very well for a daily diet, but unfortunately it's discontinued. It's unclear whether the new packaging will maintain this level of quality. Also, it might not be very breathable, and it might not be suitable for sipping too much. Rating reference price: CNY 500",
+            "nose": "The aroma is quite expansive, but carries a slightly undeniable alcohol note. It's a blend of corn, popcorn, banana, cream, and small amounts of dried lime, cinnamon, nutmeg, pepper, and a trace of dried chili. However, all the aromas have a subtle, unnatural quality and aren't particularly strong, so while the alcohol note is weak, it's not overwhelming either.",
+            "taste": "The alcohol content is well-controlled. The fruit flavors are rich and juicy, a blend of apple, orange, cherry, yellow peach, mulberry, and grape juice, mixed with toffee and a touch of tannins. In the mid-to-late stages, there are distinct warm mixed spices, mulled wine, and a hint of sweet stewing. It is very smooth and easy to drink, but the flavor is not overpowering.",
+            "finish": "A touch of candied fruit with peel and chocolate, with dry woody notes and some tannins. Almost no bitterness. On the weaker side, with a moderate length. Slightly burning sensation in the stomach."
+        },
+        {
+            "user_name": "aquataste",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "23 oct 2022 2:13 pm",
+            "content": "",
+            "nose": "Delicate with notes of sherry, floral, notes of lavender, yellow mirabelle plums, some ripe fruit (mainly apples), prunes, orange peel, raisins, vanilla, honey, a pinch of spices and dried herbs, dried fruit, old dry oak in the background",
+            "taste": "Smooth and sweet after a while there are wine notes with a pinch of white pepper, creamy and buttery with lemon zest, a little floral, ripe oranges, prunes, dark chocolate, vanilla, honey, spices, dried herbs, a handful of nuts, oak bitterness",
+            "finish": "Long, oak bitterness with spices, a handful of nuts, bitter chocolate at the end"
+        },
+        {
+            "user_name": "Peatyjohn",
+            "user_rank": "Expert Senior",
+            "rating": "88",
+            "review_date": "01 dec 2025 4:48 pm",
+            "content": "Lovely nose, a fruity , peaches , barley sugar, apricot, oranges, touch of spice. An easy sipper. Quality mature gentle dram.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Hupsende Hippie",
+            "user_rank": "Expert Senior",
+            "rating": "87",
+            "review_date": "30 oct 2019 4:23 pm",
+            "content": "",
+            "nose": "Orange, peach, floral. A very light scent ..",
+            "taste": "Soft, sweet, layered and balanced. Especially tangerine, but also peach and apricot. Floral (lavender?) And wood.",
+            "finish": ""
+        },
+        {
+            "user_name": "PatSch23_12",
+            "user_rank": "Expert Senior",
+            "rating": "83",
+            "review_date": "07 mar 2018 8:24 pm",
+            "content": "Reminiscent reminiscent of Old Pulteney, but missing here as I said the fruit. A pity ..",
+            "nose": "Sweet vanilla cream, creme brulee and pickled orange fillets, as well as mango from the tin. These are joined by mild nuts, such as almonds and hazelnuts, possibly greasy macadamia. Flowery-fresh tea with tender hay.",
+            "taste": "comparatively dry, much drier at least than the 10-year-old and the three wine finishes. Less fruit, more nuts, more spice. Cinnamon and pepper, but also lemony-spicy ginger and chilli powder (which does not quite suit my picture of Glenmorangie).",
+            "finish": "Dry, warm wood, tart sencha tea and spicy-dark caramel."
+        },
+        {
+            "user_name": "Nomorewh",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "03 dec 2023 8:04 am",
+            "content": "",
+            "nose": "Sweet and fragrant.Fruits such as apples or pears, bright flowers, and cinnamon.",
+            "taste": "Lighter than expected.Honey mixed with water, cinnamon, chocolate, vanilla and spice.Leans more toward the bitter & spicy, rather than the sweet side.",
+            "finish": "Subtle yet fairly long finish. Dark chocolate and almonds. Powdery and bitter."
+        },
+        {
+            "user_name": "Louisvandermeer",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "09 dec 2023 10:32 pm",
+            "content": "Beautiful whisky that is worth the price if you want to spend such an amount for it without getting too complex flavors.",
+            "nose": "Pleasant fresh scent with notes of honey, vanilla and a hint of apple.",
+            "taste": "The taste is fairly short, but extremely smooth. Oak, lemon, vanilla and a hint of spice fill your mouth.",
+            "finish": "The finishis quite long with wood tones that emerge, supported by the bitter taste of chocolate and a hint of honey."
+        },
+        {
+            "user_name": "hogsheadwhisky",
+            "user_rank": "Expert Senior",
+            "rating": "86",
+            "review_date": "07 jul 2020 2:19 pm",
+            "content": "The 18 year old from Glenmorangie is very easy to drink and pleases as a beautiful mature malt that can be a nice companion on a summer day / evening. The sweet-fruity base with this nice cake association is appealing. He can't deny his kinship with the 10y. He doesn't have to either. You can clearly see his longer ripening time. For the current price of an average of less than € 90, you can already put a bottle on the shelf.",
+            "nose": "Sweet vanilla aromas with ripe yellow apples are immediately present in the nose. There are also other fruits such as mango and fully ripe dark grapefruit. You can also see malt or even light dough. The whole scented pourri is compressed into a light fruit cake. The alcohol is well integrated. The 43% have little to no sharp presence.",
+            "taste": "The sweet fruit cake with vanilla sauce develops into a creamy mouthfeel. Roasted almond chips also stick to the dough. After the fruit / malt mix, it becomes slightly spicy and strong in the mouth. The aromatic oak begins to show towards the finish.",
+            "finish": "The wood on tap is clear, but not really strong. Not very bitter, rather nutty, like hazelnut or maybe even a hint of walnut. The finish is medium long. The malt moves down nicely warming. In the end, fruit aromas pop out again briefly."
+        },
+        {
+            "user_name": "Dram Brigade",
+            "user_rank": "Expert Senior",
+            "rating": "86",
+            "review_date": "06 may 2022 6:39 pm",
+            "content": "Overall quite well balance with fruity notes but quite some bitterness at the end.",
+            "nose": "Sweet honey, vanilla powder, good amount of orange concentrate, fruity, some fresh wood, malty",
+            "taste": "Sweet lemon, fruity, grapefruit (bitterness), some dusty notes, some salt",
+            "finish": "Medium long, with grapefruit lingers"
+        },
+        {
+            "user_name": "AgentMunky",
+            "user_rank": "Expert Senior",
+            "rating": "77",
+            "review_date": "15 dec 2025 1:51 am",
+            "content": "7/6/8 // 7/8/7Classic. Slightly drier & leaner than the 12.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        }
+    ]
+}

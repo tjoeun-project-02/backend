@@ -1,0 +1,516 @@
+{
+    "info": {
+        "ws_name": "Glenallachie 08-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Glenallachie",
+        "ws_age": 8,
+        "ws_abv": 46.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/2/0/8069/368890-normal.png",
+        "ws_rating": 83.87,
+        "ws_vote_cnt": 362,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/208069/glenallachie-08-year-old"
+    },
+    "collected_count": 50,
+    "reviews": [
+        {
+            "user_name": "holborndrinker",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "26 nov 2022 10:08 pm",
+            "content": "A pleasant dram, but the earth hasn't moved.",
+            "nose": "Quite a big nose, but a little confusing - the main notes I get are sherry and prunes, or damsons.",
+            "taste": "Fruit jam, spice comes through, red stoned fruit, more sherry, slightly drying.",
+            "finish": "Pretty short, more jam notes come through."
+        },
+        {
+            "user_name": "90ClubWhisky",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "30 sep 2022 3:29 pm",
+            "content": "Amber color. Clear oiliness.",
+            "nose": "Sweet and pleasant. Quite intense and rich for such a young whisky. Lots of fresh green fruit from the orchard. Green apples. Maybe hints of citrus in the background. Red apples. A pinch of spices.",
+            "taste": "Pretty fresh. Fresh fruit. Lots of red apples. Caramel. A bit of a barrel. The bitterness of the barrel. Citrus in the background. A pinch of spices.",
+            "finish": "Sweet at first, then dry. Caramel. Dark chocolate. Barrelness. A pinch of spices. Cinnamon. White pepper. Then dessert chocolate comes out. Quite a long finish."
+        },
+        {
+            "user_name": "thijs100",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "28 apr 2022 2:19 pm",
+            "content": "The spices stand out, but there's a sweetness and depth that belies its age.",
+            "nose": "Soft whispers of Werther's Original and molasses with some oak shavings and spices (ginger, nutmeg) in the background. Also bright notes of orange zest, almond nougat and toffee. A whiff of mint leaves in the end. It's not lacking for balance.",
+            "taste": "Creamy mouthfeel. The oak spices (presumably from the virgin oak casks) are fairly present immediately. Thinks cloves, pepper and ginger. A little too much for my taste, but they're generally balanced out by notes of toffee, fudge and raisins. Finally a touch of cappuccino and whole grain bread.",
+            "finish": "Lingering spices and sweetness. Pretty much an encore of the palate, but more mellow and with a touch of apple peel. Medium in length."
+        },
+        {
+            "user_name": "Sporx",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "08 may 2022 9:37 pm",
+            "content": "Aroma Sweetish, notes of sherry, honey, spicy, slightly spicy ginger The taste Sweet, sherry notes, wood spice, raisins, ginger spiciness finish Medium length, sweet and spicy, acid 04.08.22 at 30 degrees almost an 86",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Noface83",
+            "user_rank": "Specialist",
+            "rating": "80",
+            "review_date": "20 aug 2022 10:21 pm",
+            "content": "Modern whisky with strong sherry influence but lacking character, maturity and depth. Tasty, tasty and full of sherry influence but no comparison to the old 12er. It's just a modern whisky but for me it's more on the level of a Glendronach Octarine. Smooth grade 3 - satisfactory with no ups and downs.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Paddy_Glen",
+            "user_rank": "Connoisseur",
+            "rating": "80",
+            "review_date": "07 jul 2023 9:36 pm",
+            "content": "4+9+12+5= 80 Perfumed Salmiak Sweet",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "dongolzo81",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "27 jul 2022 9:27 pm",
+            "content": "Where it says Billy on it, it says Billy on it. Excellent barrel management. Quite complex. Looks older. That's fun. Even if I don't really like the nose, very good work on the palate",
+            "nose": "The nose of the bottle that was opened a few minutes ago remains reserved at first. Virgin Oak present. A hint of carpentry, followed by the red and dark fruits. Becomes fruitier and sweeter as you drink. Edit: still seems a bit immature even after calming down the opened bottle. ME even a small miss. Small devaluation to the first rating Alcohol is super integrated, you don't feel much of the 46%.",
+            "taste": "On the palate immediately raspberry, strawberry, cherry, sweet, gummy bears. Alcohol is also super integrated here. Then comes seasoning. European oak imho, or are these the virgin oak casks? Neat wood pushes on. In the second sip also cocoa. The thing looks older than 8 years.",
+            "finish": "Caramel, oak and slightly more tart fruit - fruit tea. Subtle chocolate. medium length"
+        },
+        {
+            "user_name": "TomAndIngrid",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "02 apr 2023 9:41 pm",
+            "content": "A good PLV for an 8 year old.",
+            "nose": "",
+            "taste": "Nice sherry aromas, nutty, also some mint aromas from the wood",
+            "finish": "Some bitter woodiness."
+        },
+        {
+            "user_name": "JoshNRW",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "14 may 2022 5:04 pm",
+            "content": "An uncomplicated and clean whisky that appears a bit older than it is. At 40 euros, it really is a very nice dram for lukewarm autumn evenings. The nose is very beautiful and balanced for the age and at least 46 percent. The profile is a simple but dazzling sherry profile with fruity and slightly spicy flavors. There is actually a slight menthol note in the background. The old whisky phrase fits here: what is there is good. The palate corresponds one to one to the nose and the finish is short but not thin, although the red wine barrels can actually be guessed at the very back.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Jamie McDubh",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "25 mar 2023 10:32 pm",
+            "content": "The Glenallachie that has tasted the least to me so far. Unfortunately meaningless in terms of taste.",
+            "nose": "Fresh - Flowery -",
+            "taste": "Woody - Bitter",
+            "finish": "medium length"
+        },
+        {
+            "user_name": "DramALife",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "31 jul 2023 7:28 pm",
+            "content": "S 6.5This is more harmonic than the Rye finish in Glenallachie’s Wood Finish Series (WB133093). On the other hand, as there are so many cask types vatted into the final product, no cask and no distillate that particularly stands out, almost feels like a blend. To me, it’s a plus, if this is a £30 blend. There’s a lot going on in here but at the same time, it’s very much playing on the safe side.81-85 - Another dram welcomed",
+            "nose": "Very fresh. Juicy oak brings out a lot of crispy apples and melon notes. Somehow reminded me of Green Spot. Mildly floral. Then a whiff of bitter herbs and cinnamon powder came through. Midway through and I’ve arrived at the domain of sweetness, toffee, honey, more fruits. In the bottom, I find roasted coffee beans, milk chocolate, all mixed with a bowl of toasted cereals. A dash of maple syrup on prunes. Subtle spices that are almost neglectable.",
+            "taste": "Spicy and dry landing, sharing similarities with the Rye cask finish (WB133093). Then viscous and sweet. More dry fruits here. Dried red dates (紅棗). The oaky spices integrated well with the heavier malt here. Cloves, star anise, cinnamon, ginger root. I like it better when I can taste the malt.",
+            "finish": "Short finish. Drying oak lingering with a touch of thyme and ripen red fruits."
+        },
+        {
+            "user_name": "domani",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "14 oct 2023 8:35 pm",
+            "content": "As already written, a whisky with a modern profile created under the pronounced influence of the barrels. Basically not bad and tasty, but on the other hand also meaningless without glamor and misery - October 14th, 2023",
+            "nose": "Fresh, fruity, spicy, sherry and wine notes are interwoven, a very modern profile to convey maturity and age to the whisky",
+            "taste": "Soft, silky, fruity sweet and fruity bitterness, bitter chocolate, some barrel spice, the alcohol is not spicy but I find it unbalanced and not well integrated",
+            "finish": "Medium length with wine aroma, slightly spicy, dark chocolate"
+        },
+        {
+            "user_name": "2ndSip",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "10 may 2022 6:10 pm",
+            "content": "Nice sherry malt. But the youth notices it in the taste. Nonetheless, it fits quite well. The aroma for the nosing is really well developed, the taste is remarkable, unfortunately relatively weak finish. But you can still recommend it. [86 - 82 = good whisky -> get (second) bottle? Perhaps...]",
+            "nose": "Pickled plums and raisins, figs, dates, typical sherry notes. Forest honey, caramel, some vanilla. Nutmeg, Cinnamon, Spice. Milk chocolate with dark chocolate pieces.",
+            "taste": "peppery-spicy start, sherry spices. Bitzelt on the tongue and on the palate (you clearly notice the youth). Dried Fruits, Honey Flavor, Chocolate. Second sip: more spiciness and spices, dark fruits, sherry, pleasant honey sweetness, dried fruits come through again. Juicy orange. Slightly bitter transition.",
+            "finish": "gone relatively quickly. Nut aroma (the Oloroso comes through well). Dark chocolate/sweet chocolate. oak seasoning."
+        },
+        {
+            "user_name": "aw-home",
+            "user_rank": "Connoisseur",
+            "rating": "80",
+            "review_date": "21 jan 2023 6:17 pm",
+            "content": "",
+            "nose": "Floral notes with cereals, sherry and citrus, honey and heather.",
+            "taste": "Floral notes with cereals, sherry and citrus, honey and heather.",
+            "finish": "Long with heather, sherry and citrus and floral notes."
+        },
+        {
+            "user_name": "Bembel",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "17 jan 2024 1:58 pm",
+            "content": "Tasting: 01.2024",
+            "nose": "For me, the wine barrel is very dominant! Behind it first some wood and finally the fruit of PX and Olorosso. Dry. Dried grapes. Light syrupy sweetness and vanilla. Cherry (fully ripe) and generally lots of dark fruit. Malt. Toffee. Everything is quite harmonious.",
+            "taste": "Fully fruity and intense. Rich oak with accompanying pepper. vanilla sweetness. Then negative barrique impact (I'm not a fan of that). Clove. Metallic? No. But impetuous and young.",
+            "finish": "Medium length. Malty-sweet. Pepper. Strong wood with bitter chocolate. Little to almost no fruit left."
+        },
+        {
+            "user_name": "SwiftyMcVeigh",
+            "user_rank": "Expert Senior",
+            "rating": "87",
+            "review_date": "06 may 2022 9:22 pm",
+            "content": "I personally like it better than some older Glenallachie bottlings. Looks older than 8 years. Has that eucalyptus/mint note that really suits him.",
+            "nose": "maple syrup. honeycomb. Light dried fruits. caramel and vanilla. orange and raisins. Oak seasoning and spices. nutmeg and cinnamon. Dark chocolate. Eucalyptus. Oak.",
+            "taste": "Syrupy start. Orange. caramel and honeycomb. butterscotch Light fruity. Mint. Ginger. raisins. cinnamon, oak spice. A nice interplay between sweetness, dryness and spices.",
+            "finish": "Gets drier while staying sweet. Ginger, pepper, oak spice and cocoa. mid-length."
+        },
+        {
+            "user_name": "Schusti_94",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "28 dec 2025 6:37 pm",
+            "content": "",
+            "nose": "Raisin and plum notes are prominent due to the strong cask influence. However, some new make spirit characteristics, reminiscent of pear brandy and grain, also come through. Good for its age and price.",
+            "taste": "The smell persists. Now, for the first time, there's a good amount of pepper and a touch of alcohol.",
+            "finish": "The finish reveals notes of cocoa and plum. It's short but has a pleasant intensity."
+        },
+        {
+            "user_name": "molpet",
+            "user_rank": "Expert Senior",
+            "rating": "82",
+            "review_date": "15 jun 2023 9:01 pm",
+            "content": "Sharp, spicy (ginger and black pepper), very woody (think oak shavings), sweet (honey and caramel). Some fruits - mostly raisins. Not quite bad, but not very interesting either. Too young and inmature for me...",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "ZLako",
+            "user_rank": "Expert Senior",
+            "rating": "87",
+            "review_date": "10 oct 2022 10:26 pm",
+            "content": "I was very fond of the 12-year-old I gave it a solid 87 pts / 100. Let's see how the new little brother performs. Generally I like GA flavor profile so expect some good stuff here. I am very happy that they came out with such a young age-stated whisky. What's an extra is that it's an integrity bottling. Natural color and no chill-filtration. 46%. Let's get to it. N: Wow, wow, wow...Extremely inviting. Very thick sherry aromas. Very intense for an 8-year-old. Red fruits, dark caramelized orange, figs and dates. Lots of raisin. Chocolate and a red grape note. Going over these notes you can find some orchard fruits and fresh wood. Quite nice and complex. Alcohol is very well integrated here. (90)P: Oily, and thick. Quite fresh! Lots of red apples with pears and vanilla. Then you are getting those lovely sherry aromas. There is a bit of a bite if you don't give this some time and air in the glass. Once you do that it goes away. No metallic note here! It's very well balanced. Great sipper. (87)F: Medium finish. Honey with sherry and tannins from the barrel. A small pepper rush with some bitterness. (85)Lovely. For the price of 30-35 Euro you just can't go wrong. It's a great sipping whisky. I liked the nose the most defintiely. But overall it's great. Nice balance between sherry and freshness, fruitiness. 90 / 87/ 85 = 87.3333 --> 87 pts / 100Seems like it gets the same score as I gave the 12. But shhhh I actually prefer this to the 12.Slainte Mhath everyone!",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "claymore84",
+            "user_rank": "Expert Senior",
+            "rating": "83",
+            "review_date": "05 aug 2022 10:44 pm",
+            "content": "Tasted on 08-05-2022.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Eike",
+            "user_rank": "Expert Senior",
+            "rating": "73",
+            "review_date": "20 feb 2023 12:21 am",
+            "content": "unfortunately very disappointing in the blind tasting has a balsamic/raspberry vinegar note, is floral and very woody, but the dark notes from the nose are no longer there in the taste.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "bl0wb4ck",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "17 oct 2023 9:12 pm",
+            "content": "Great standard. Quite complex for just 8 years. A bit of youth shines through in the finish.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "RJKrueger",
+            "user_rank": "Expert Senior",
+            "rating": "86",
+            "review_date": "30 may 2022 10:49 pm",
+            "content": "A nice daily dram. Rounder than many other older (and more expensive) Glenallachie. You can still see his youth, even if the cask blend is supposed to cover it up.",
+            "nose": "It radiates boiled fruit, wine gums, nuts, orange marzipan and a herbal freshness.",
+            "taste": "Sweet, dark fruits and dry notes of sherry, some tart chocolate, some leather and tobacco. Very pleasant and round with a pleasant drinking strength.",
+            "finish": "Quite a lot of sweetness and sherry notes in the medium-length finish. It then becomes drier and more mineral."
+        },
+        {
+            "user_name": "SingleMaltRussell",
+            "user_rank": "Expert Senior",
+            "rating": "79",
+            "review_date": "28 sep 2023 6:25 pm",
+            "content": "I think it's decent. Possibly a bit woody in the finish for some, but I didn’t find it off putting and enjoyed both sittings of this 5ml mini.The nose is really good, probably the best bit, although it does need time to open up. I got nothing but acetone burn straight out of the bottle, but it came alive after about 30 minutes resting and was happy to immediately put out sticky caramel, sweet glazed bread and beeswax. Following only with a slight lag, was the fruit: dried red berries, medjool dates, red toffee apple and touch of citrus. All juicy and not at all unexpected considering the variety of aging vessels this has lived in. A little of the spirity nature remains but is now mostly crowded out by its surroundings.For all the nose's complexity, the palate is comparatively simple, touching down with more languid caramel, candied red fruit and plum jam spiked with orange zest. After a while, fairly gentle shredded ginger builds and peaks revealing some very fresh oak.The tail starts with a lot of drying peppermint driven by that oak, and the astringency has a peanut skin quality to it, but as powerful as the woodiness is, spiced Ovaltine-Malt and dark jammy fruit hold their nerve keeping the sweetness present as herbal and cocoa bitterness try to get the upper hand.So, yes this is absolutely dominated by the casks, but it’s still good whisky and despite all of the action it has seen, the malt is still a tangible presence.",
+            "nose": "Caramel, toffee apples, sweet chala bread, malt loaf, bees wax, fruity lip balm, a jammy amalgam of red and brown fruit, maple, little spirit",
+            "taste": "Caramel and glace cherries, terpenes, plummy raspberries, clementine, little shredded ginger, fresh oak",
+            "finish": "Peppermint, woody astringency, peanut skin, Ovaltine, herbal bitterness, bitter chocolate, damson jam"
+        },
+        {
+            "user_name": "Erik1702",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "07 oct 2023 9:01 pm",
+            "content": "Nose: sweet, oak, cherry, some plum, spices •• Taste: sweet, oak, cherry, briefly slightly sour in the background •• Finish: medium to long, spicy oak with cherry remains •• Conclusion: warm cherry notes on the nose Oak and the oak is also well present on the palate. Very well done for 8 years. An intense whisky for age.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "KyleRiemen",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "04 dec 2023 8:59 pm",
+            "content": "Quite good for an eight-year-old whisky, but in my opinion quite overpriced If you like sherry, I think the Hielan from GlenDronach would be a better choice, as it sometimes goes on offer for a good 20 euros.",
+            "nose": "Caramel, toffee, vanilla, old, slightly musty wood, light rum associations, sweet, cola, young, green apple. If it stands, which I would definitely recommend, the wood comes through stronger and more pleasantly, the mustiness, the apple and the rum aroma disappear.",
+            "taste": "Strong, round, vanilla, caramel, malt, sherry, fruity fresh",
+            "finish": "Medium to long finish, a light pleasant wine aroma joins the notes already mentioned in the taste, at the end a slight banana comes through"
+        },
+        {
+            "user_name": "Louisvandermeer",
+            "user_rank": "Expert Senior",
+            "rating": "81",
+            "review_date": "11 jun 2024 11:47 pm",
+            "content": "For an 8 year old whisky, the price-quality ratio is good. Just lovely to enjoy, but nothing special.",
+            "nose": "Wonderful scent that is typical of whisky that has been in sherry casks. You smell the sweetness of syrup and caramel. Then raisins and dried fruit come to the fore. All in all very inviting and delicious.",
+            "taste": "Strong and present, yet round. Lots of vanilla, caramel and sherry. But also the bitterness of chocolate and the dryness of oak. In addition, it has quite a bit of spice and some sharpness.",
+            "finish": "Medium long. Dry, bitter and a hint of spice"
+        },
+        {
+            "user_name": "M_A_S_K_A",
+            "user_rank": "Expert Senior",
+            "rating": "83",
+            "review_date": "17 dec 2023 2:54 pm",
+            "content": "",
+            "nose": "sherry, dried fruit, wood, apple, chocolate",
+            "taste": "dried fruits, red berries, pepper,",
+            "finish": "short, woody-peppery"
+        },
+        {
+            "user_name": "wbarchive_879608",
+            "user_rank": "Expert Senior",
+            "rating": "87",
+            "review_date": "13 may 2022 6:29 pm",
+            "content": "Wonderful addition to the core range of Glenallachie, the price betrays the good barrels that have been used and you can taste it",
+            "nose": "A multitude of scents, in terms of fruit smell banana, plums, blackberries but also tropical notes such as lemon mango, all topped with a good dose of honey, in addition chocolate coffee and cinnamon",
+            "taste": "Chocolate, coffee and behind that tropical fruit such as peach mango banana covered with a good dose of mint",
+            "finish": "Nicely mouth-covering, sweet and later quenched with mint.. wow!"
+        },
+        {
+            "user_name": "whisky_knight",
+            "user_rank": "Expert Senior",
+            "rating": "49",
+            "review_date": "19 jul 2023 9:07 am",
+            "content": "I tried this new Glenallachie 8 year old (released 2022) at a tasting with their full lineup. It had been awhile since I tried a Glenallachie and I was hoping that an extra 1.5 years might have helped improve the liquid. Unfortunately not. The reality is that Billy Walker bought a distillery that was primarily used for blending in 2017. That people would expect the liquid in Glenallachie to magically become a top notch single malt Scotch whisky in a matter of ~4 or 5 years is just not possible, and it shows unfortunately in this new 8 Year Old bottle released to the market (and it was the same for the rest of the lineup we tried this night).The brand ambassador confirmed that this 8 year old is mainly refill Bourbon, then recasked and finished in PX, Oloroso Sherry, Rioja red wine, American virgin oak for about 2.5 years. Why would he need to try that many different casks if not to hide the weak distillate?",
+            "nose": "A shy nose. There are weak notes of dark stone fruits, plums, raisins, maybe raspberries.",
+            "taste": "Medium coating mouthfeel. It's immediately spicy, with hot ginger and an unpleasant ABV burn on the front palate. Then some light plums, generic fruitiness, new wood, dark chocolate (weak).",
+            "finish": "There's a medium length finish. It clearly tastes too young, with more ginger and some faint dark chocolate notes on the finish."
+        },
+        {
+            "user_name": "Rudeboi5000",
+            "user_rank": "Expert Senior",
+            "rating": "81",
+            "review_date": "13 sep 2023 5:28 pm",
+            "content": "",
+            "nose": "Sherry bomb, dark fruits, dried fruits , dried sweet berries, musky sherry wood, subtle tea-like, figs/apricots/plums, stale wood",
+            "taste": "Fruity, sweet, toffee, vanilla, cinnamon, dark fruits, sherry wood, dried fruits, fig or apricot or plum, lingering mild px sweetness,",
+            "finish": "Mid, spicy, sherry bittersweet lingering, dried sweet raisins, lingering mild px sweetness,"
+        },
+        {
+            "user_name": "JG76",
+            "user_rank": "Expert Senior",
+            "rating": "86",
+            "review_date": "30 jun 2023 8:49 pm",
+            "content": "",
+            "nose": "Fruit cake, sherry, vanilla",
+            "taste": "Sherry, russin",
+            "finish": "Sherry, raisins, bitter chocolate"
+        },
+        {
+            "user_name": "hanna1012",
+            "user_rank": "Expert Senior",
+            "rating": "82",
+            "review_date": "12 nov 2025 7:17 pm",
+            "content": "",
+            "nose": "Wood, mandarin, grape, melon, toffee",
+            "taste": "very very light, shallow, lime, wet cardboard",
+            "finish": ""
+        },
+        {
+            "user_name": "CST1986",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "13 sep 2025 1:13 am",
+            "content": "Sweet and winey youngster with a lot of wet px and red wine cask influence. I would have prefered a more natural dram of young fresh Glenallachie but it seems the owners under Billy Walker don't trust the distillate made by the old regime too much. Anyways, you still get a clean, fresh cask-driven malt with cola candy, some Pineau associations, raspberries, milk chocolate and some indian curry spices working well together. On the palate it's quite sweet with raspberries, rum raisins, candied figs, plums, brown sugar and old balsamico leading to a medium finish. Money well spent if you're looking for a sherried session starter that pleases almost everybody, but don't look for distillery character...",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "naverpooh",
+            "user_rank": "Expert Junior",
+            "rating": "84",
+            "review_date": "23 jul 2023 2:04 pm",
+            "content": "Very sweet and delicious, but it's hardly a whisky. More like Cognac added with sweet wine.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Bodelude",
+            "user_rank": "Expert Junior",
+            "rating": "80",
+            "review_date": "25 may 2023 10:22 pm",
+            "content": "Pretty young Glenallachie and a bit disappointing. Somehow it is irritating to get so much virgin oak notes and the dram is not balanced. Unfortunately the first Glenallachie that I don't have to try again.",
+            "nose": "The nose is quite spicy. Cinnamon, wood and floral notes. Sherry and ripe fruits. Caramel, honey, toffee and Cocoa. After some time orange notes. But all in all it appears a bit unbalanced to me.",
+            "taste": "Sweet, fruity and gentle start which develops very fast to very woody and spicy flavors. After that dark chocolate, cocoa and however not that much of fruit. Bitter and even more wood.",
+            "finish": "Rather short, dark chocolate, very bitter and maybe a bit nutty."
+        },
+        {
+            "user_name": "JohnWhisky",
+            "user_rank": "Expert Junior",
+            "rating": "82",
+            "review_date": "12 nov 2025 7:23 pm",
+            "content": "Very light on the nose, but very balanced.",
+            "nose": "Honey, grape, apricot, soap, slightly woody, light caramel, fruity sweetness",
+            "taste": "Apricot, very sweet, a little honey",
+            "finish": ""
+        },
+        {
+            "user_name": "Eug300",
+            "user_rank": "Expert Junior",
+            "rating": "83",
+            "review_date": "29 jun 2023 12:50 pm",
+            "content": "B: 46%, ucf, nc, thick. 21N: red fruits, cinnamon, ginger, honey, wood, some cherry. 22P: wood, spice, vanilla, cinnamon, mint. 20F: wood, spice, vanilla, mint. 20Bottled 18.3.22. The youngest whisky of Billy Walker's fabellous line. The same aging in two types of sherry and virgin oak casks, but in this case, wine casks are also added. Exellent intense nose, sweet palate reveals its young age with spice and slight bitterness of wood. The finish has medium length, minty and bitter. Reviewed 16.3.2023",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Antifrost",
+            "user_rank": "Expert Junior",
+            "rating": "83",
+            "review_date": "06 apr 2025 1:54 pm",
+            "content": "Aroma: buckwheat honey, dried apricots, barberry, light fermentation, revealing the youth of the spirits, meadow herbs and a slight hint of lacquer Taste: bitterness of fruit pits, pepperiness, sourness Aftertaste: long, with a slight bitterness and woodiness Balance: slightly above average, balanced",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "MrFlopphope",
+            "user_rank": "Member Senior",
+            "rating": "86",
+            "review_date": "08 nov 2023 7:26 pm",
+            "content": "",
+            "nose": "Rasins, some bananas, soft and ripe. Some oak. Fruity lip balm, perhaps delivered with a sweet kiss on a summer evening.",
+            "taste": "Amazing body and mouth feel. Pleasant sherry and toffee. butterscotch. Chocolate. Something a little dark and serious in the background. A little sting.",
+            "finish": "Soft candy with berry and fruit taste. A little oak. So nice."
+        },
+        {
+            "user_name": "Broichian_Malthead",
+            "user_rank": "Member Senior",
+            "rating": "87",
+            "review_date": "17 oct 2022 8:21 pm",
+            "content": "as noted by one or the other pre-writer, the current 12-year-old is already a board. Well then ..... also here the 46% torn open. left to stand for 5 minutes. ... after the tasting ... This balance between the sweetness and the freshness...very, very successful, Mr. Walker.",
+            "nose": "a little sherry explosion ensnared with caramel....brown burnt caramel. Here, in direct comparison with the 12.. not intrusive. GREAT. At the back, in a small corner, the citrus fruit beckons. But she's holding back. This balance, perfect. This sherry note is already .... really good.",
+            "taste": "Yeah ...... red fresh fruit. Accompanied with dark but dry chocolate ......after a short time the chocolate gives way to the wood. But not unpleasant....you get involved well with the wet Virgin Oak....",
+            "finish": "Virgin Oak in taste wants to pick up speed first. Oops, dark chocolate is making a comeback here too. Dark....the sweet caramel nose swims down with it.... Mega"
+        },
+        {
+            "user_name": "Sajmon",
+            "user_rank": "Member Senior",
+            "rating": "82",
+            "review_date": "19 oct 2022 5:50 pm",
+            "content": "tasting again, it's better and better..",
+            "nose": "spicy, sherry, cinnamon, hints of caramel",
+            "taste": "Caramel, sherry, wood, dried fruit, litlle bit spicy",
+            "finish": "Short, honey, dark chocolate, very pleasant"
+        },
+        {
+            "user_name": "Sajmon",
+            "user_rank": "Member Senior",
+            "rating": "82",
+            "review_date": "11 oct 2022 8:45 am",
+            "content": "Expressive young single malt whisky, broad flavor profile. Only 8 years old, but very gentle.",
+            "nose": "Dark chocolate, dried fruit, hints of sherry, litlle bit honey, caramel.",
+            "taste": "Very intensive dried fruit, hints of sherry, caramel, dark chocolate is dominant here, honey in backround in taste. Littlle bit spicy ( cinnamon ), ginger.",
+            "finish": "Short finish ( 3,5/10 ) , rest of the dark chocolate and dark fruit. hints of spicy"
+        },
+        {
+            "user_name": "MetalWarrior",
+            "user_rank": "Member Senior",
+            "rating": "83",
+            "review_date": "19 nov 2022 9:48 am",
+            "content": "Very concentrated flavors.Needs a lot of water to open up, to my taste.3/4th of the bottle, I really liked it; would have given it 84.Then maybe it oxidised too much - or my taste changed.The rating is for the whole experience over the course of the bottle.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "socl_the_slice",
+            "user_rank": "Member Senior",
+            "rating": "84",
+            "review_date": "14 apr 2023 3:41 am",
+            "content": "Tasty well balanced",
+            "nose": "Strong aroma, fruity, wood, citrus, sweet",
+            "taste": "Sherry, chocolate, ripe fruits, wood, malt",
+            "finish": "Medium-long fresh, nutty, spicy (mint & pepper), sweet honey aftertaste"
+        },
+        {
+            "user_name": "pepsi",
+            "user_rank": "Member Senior",
+            "rating": "78",
+            "review_date": "02 oct 2023 9:17 pm",
+            "content": "At first, I was not fond of it because the red wine aroma and grain aroma from the low-aged sherry cask did not go well together, but as time passed, I was satisfied with the fresh aroma of honey and orange fruit.",
+            "nose": "It has refreshing notes of honey and orange, dried fruit and sherry, a fairly strong oak aroma, and the characteristic bitter grain aroma of a young whisky. After some time, a cinnamon scent reminiscent of cola is produced.",
+            "taste": "The rich taste, sweetness of fruit, and sweetness of honey",
+            "finish": "The finish is medium, starting off sweet and ending with a bitter aftertaste."
+        },
+        {
+            "user_name": "physeter",
+            "user_rank": "Member Senior",
+            "rating": "76",
+            "review_date": "09 apr 2023 9:56 pm",
+            "content": "This whisky goes forward! Very fruity aroma, the sherry is easy to remember, a bit fruity, a little honey. In the taste then full attack on the taste buds, the 46% are easy to remember. The sherry flavor remains, but like a 1-2 punch, pepper follows. The fruit still lingers.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "bubbaq",
+            "user_rank": "Member Junior",
+            "rating": "82",
+            "review_date": "24 oct 2023 12:35 pm",
+            "content": "",
+            "nose": "Dark fruit, Sherry-raisin, hint of oak/vanilla and apple-cinnamon",
+            "taste": "Fruity, fresh wood, spiced oak with hints of cinammon",
+            "finish": "short-mid, caramel, spicy-maple and malty"
+        },
+        {
+            "user_name": "ppeti013",
+            "user_rank": "Member Junior",
+            "rating": "88",
+            "review_date": "11 oct 2024 10:57 pm",
+            "content": "88",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "dennislenders",
+            "user_rank": "Newbie",
+            "rating": "90",
+            "review_date": "15 jul 2025 10:39 pm",
+            "content": "I really adore this whisky for its rich and harmonious taste!",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        }
+    ]
+}

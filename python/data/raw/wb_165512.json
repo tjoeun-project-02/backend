@@ -1,0 +1,516 @@
+{
+    "info": {
+        "ws_name": "BenRiach 12-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "BenRiach",
+        "ws_age": 12,
+        "ws_abv": 46.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/1/6/5512/289390-normal.png",
+        "ws_rating": 83.55,
+        "ws_vote_cnt": 574,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/165512/benriach-12-year-old"
+    },
+    "collected_count": 50,
+    "reviews": [
+        {
+            "user_name": "LukasJakubDrabek",
+            "user_rank": "Shoplink Moderator",
+            "rating": null,
+            "review_date": "03 mar 2021 4:04 pm",
+            "content": "Ralfy review 866: https://www.youtube.com/watch?v=baCXLzXBMbg (80/100).\"Now this immediately points me with the finger of suspicion at the caliber of casks used. These come across as recommissioned casks - big time! And I don't mean that as a compliment.\"",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "WhiskyLovingPianist",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "27 may 2021 11:34 am",
+            "content": "https://whiskylovingpianist.wordpress.com/2021/05/27/spotlight-on-benriach-a-world-of-flavour/N: Made up of bourbon barrels, sherry casks, and port casks, a sweeter grape-led cask commitment over the 10yo translates as even more tannins in addition to the [cask] sappiness. Descriptors of note include honey over apples, a hint of grape-y cannabis ~ camphor,…T: More fruitiness [again] in the form of milky toffee into stewed apples, cherries, [foam candy] bananas,.. but these are peripherals. In the main, we’ve more sawdusty and tannic action which makes this feel far stronger/fiercer than 46%, but let’s not forget that it’s Benriach’s ‘hit/punch’ that is the appeal,.. and not the turn-off as it might be for others like myself – one man’s opinion and all that.F: Far from ‘A World of Flavour’, it moves between just a few limited vista points, all very cask driven with a milky dry finish. Even our host talks of the spice tingles coming from the oak,… Enough from me already.C: I prefer this to the 10yo with regards to colour characteristics, but my palate already feels stripped and we are only two drams in.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "90ClubWhisky",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "19 oct 2023 8:09 pm",
+            "content": "Amber color. Oily structure.",
+            "nose": "You can immediately feel Sherry's influence. Dried fruits. Raisins. Red fruits. Powderiness. Tropical fruit underneath. Dark fruit. Forest fruits. Blueberries. Berries. On the other nose, maybe a bit of sweet coffee.",
+            "taste": "Dark fruit. Dessert chocolate. Dark chocolate. Cocoa. Oily structure. Spices. White pepper. Ginger.",
+            "finish": "Spices. Ginger. White pepper. Dried fruits. Raisins. Dark fruit. Berries, forest fruits. Oakwood. Cocoa. Black coffee. Medium-long finish. Maybe even quite long."
+        },
+        {
+            "user_name": "90ClubWhisky",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "25 jul 2022 7:28 pm",
+            "content": "Amber color. Clear oiliness.",
+            "nose": "Pretty rich nose. Yellow fruit in a sweet pickle. Peaches in syrup. Citrus. Spices. Light spices. Ginger. White pepper. Lemons, oranges. Sweet sponge cake soaked in lemon juice. Hazelnut traces. Light notes of dried fruit, quite sweet. Raisins. Some chocolate. With the next nose, more stewed fruit. Raisins and prunes. Lots of pastry. Sweet sponge cake.",
+            "taste": "Sweetness. Yellow fruit in a sweet pickle. Lots of cake. Then some oak comes in. Dark chocolate. Spices. Cinnamon and ginger. Dessert chocolate. Traces of dried fruit. Raisins.",
+            "finish": "Dessert chocolate. Coffee traces. Cocoa. Spices. Delicate spice. Ginger. Cinnamon. Pastry. Light bitterness of oak. Maybe some cedar wood. Medium-length finish."
+        },
+        {
+            "user_name": "markjedi1",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "10 oct 2020 6:45 pm",
+            "content": "Step UpNext to the new ten years old entry level malt – christened The Original Ten – there is also a new twelve years old concocted by Rachel Barrie, the master blender at BenRiach. For this whisky she married bourbon, sherry and port casks. Tidbit of knowledge: the new range is not colored.Wonderfully fruity nose with lots of blackberries, quince and blood orange. Add a good dollop of maple syrup and a hint of origin chocolate. This is very good indeed.Nicely creamy on the palate, it offers hazelnuts, rum raisins, mocha and baked apples. Quite some baker’s spices kick in and again the blood oranges surface, peel included. Rich and round.The finish is very long – surprisingly long in fact – on mocha, maple syrup and dried fruit with candied orange peel at the death.Quite a step up from The Original Ten. Around 40 to 45 EUR, which it clearly merits. This one goes into the cabinet.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "MaltVader",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "30 may 2022 7:08 pm",
+            "content": "",
+            "nose": "oak, red fruit, floral notes, a bit of citrus, spices - mainly pepper and nutmeg, apple, herbs, fashion",
+            "taste": "Spices, pepper, a lot of wood, a bit of dust, barely perceptible fruit, a bit of herbs.",
+            "finish": "short - medium, quite peppery, dominated by wood"
+        },
+        {
+            "user_name": "Totoro",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "18 mar 2023 10:11 pm",
+            "content": "For around 40 € a very solid, spicy, multi-layered and above all not at all boring \"all-purpose malt\", which can be poured for both whisky newcomers and maltheads and which may not completely knock anyone off their stool, but just as little will offend anyone. In terms of quality, I have to think of Rachel Barrie's Glendronach 15, although it was a good bit more expensive, but I didn't really like it any better. bottle empties suspiciously fast; I could imagine buying it again.",
+            "nose": "Really successful and also quite complex due to the barrel mix. Contrary to some descriptions, I don't find that the port (too) dominates the nose. Does everything fit together harmoniously or mix to form a coherent whole. Looks older and fuller to me than most entry-level 12-year-olds, which justifies the slightly higher price for me.",
+            "taste": "Proper spice and almost a bit of mustiness from the strong wine barrels, marzipan, wild berries, honey sweetness, pleasantly dense and oily body thanks to the 46%. Goes through a nice development on the palate, in which everything from acidity to sweetness and spiciness/spiciness is actually included.",
+            "finish": "Lots of spicy oak at the end, paired with notes of red fruit juice."
+        },
+        {
+            "user_name": "wisekyofcourse",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "10 jun 2021 4:58 pm",
+            "content": "spicy bourbon barrel, more fruity also with PX and Port spices, spiciness, it's fatty, stewed fruit, fresh dates, prunes a vegetal return, more pepper, tannin, vanilla and a little banana cream at the end",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "wisekyofcourse",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "05 dec 2020 10:21 pm",
+            "content": "nose: significantly more greedy than the 10, the 3 ° seems to boost this nose on pepper, dust and intense oak, more captivating mouth: silky, velvety, roundness, peppery spices, caramelized vanilla, a pastry side, baked fruit, a little banana final: short to medium, on the same scents with a PX sherry cask which gives pep for a 12 whisky, which stands out by name.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "HammerHead",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "22 aug 2024 7:15 pm",
+            "content": "Proper nosing experience with decent complexity. Gets a bit (too) dry in the development and finish, must be the port casks.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Tangtang_WhiskyYoda",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "12 jan 2021 12:38 pm",
+            "content": "The 3% more than the 10 is good for the nose and palate. I think the finish is a bit too simple",
+            "nose": "fruity, light and dark fruits, sherry notes, slightly nutty sweet, spicy oak",
+            "taste": "fruity, slightly sweet and malty, slightly acidic, slightly pepper, becoming nutty",
+            "finish": "fruity finish, slightly sweet, but very simple and rather middle course"
+        },
+        {
+            "user_name": "Robinzon25",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "12 feb 2022 8:12 pm",
+            "content": "Pleasant berry-fruity whisky, with a good combination of sour and sweet tones.",
+            "nose": "fresh pastries, vanilla, dried apricots, sour berries.",
+            "taste": "Sweet and sour, with hints of berries, dried apricots and malt.",
+            "finish": "Medium length, with a high content of shades of yellow berries and fruits, with candied fruits, spicy spices and dry tannins at the very end."
+        },
+        {
+            "user_name": "Lorion",
+            "user_rank": "Connoisseur",
+            "rating": "77",
+            "review_date": "07 sep 2022 9:05 pm",
+            "content": "Very tasty, a little more strength would be good. 77 points.",
+            "nose": "A fine nose. Porridge, a light fruit basket.",
+            "taste": "Soft, creamy. Pastries, apples and nuts.",
+            "finish": "Medium length, fruity with honey."
+        },
+        {
+            "user_name": "DramALife",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "23 may 2023 10:44 pm",
+            "content": "S 7It's not essentially an improvement from The Ten.81-85 - Another dram welcomedH2H TastingThe Original Ten - WB165510 -83The Twelve - WB165512 - 83The Smoky Ten - WB165511 - 81The Smoky Twelve - WB165513 - 81Malting Season First Edition - WB189361 - 8321yo Tawny Port Finish - WB85034 - 85",
+            "nose": "Slightly oily malt. Honey-roasted meat. Red apples. Mildly floral, lavender in particular. Getting cleaner over time.",
+            "taste": "A lot more vanilla and honey. Rich and fruity. Fairly peppery. Good strength. Fortified wine influence in this. Creamy red fruits. Some cinnamon and nutmeg.",
+            "finish": "Medium finish. Peppery and fruity."
+        },
+        {
+            "user_name": "Damek",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "16 jan 2024 3:20 pm",
+            "content": "83,50",
+            "nose": "Nose: vanilla, toffee, caramel, red fruits, cranberries, strawberries, citrus fruits, oranges, dark fruit jam, orange jam, baked apples, cocoa, oak, honey. 84.00",
+            "taste": "Taste: vanilla, honey, fruits, nuts, wood, dried red fruits, cranberries, a bit of tartness, a lot of spices, pepper, herbs. 83.50",
+            "finish": "Finish: sweet and fruity, spicy, tart, lots of pepper, spices, nuts. 83.50"
+        },
+        {
+            "user_name": "Damek",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "16 may 2023 9:48 pm",
+            "content": "Nose: vanilla, toffee, caramel, red fruit, cranberry, strawberry, citrus, orange, dark fruit jam, orange jam, baked apples, cocoa, oak, honey. Palate: vanilla, honey, fruit, nuts, wood, dried red fruit, cranberry, a bit tart, lots of spices, pepper, herbs, Finish: sweet and fruity, spicy, tart, lots of pepper, spices, nuts. Rating: 83.50",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "2ndSip",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "13 feb 2021 6:11 pm",
+            "content": "fruity and spicy on the nose. The taste is then clearly more spicy than fruit. Good standard whisky, but a few more sherry notes in the taste would have been good. He gives the impression that mainly ex-bourbon barrels were used and not quite as many sherry barrels. Somehow I don't get anything from the port. With a follow-up test I now come to 84/100; before that 82/100. [85 - 81 = delicious -> get a second bottle if price is within the range]",
+            "nose": "At first there was an alcoholic tinge in the nose, but it went away after a while. slightly floral and herbal / spicy notes together with light fruity aromas of apricot, red apple, juicy and sweet pear. Every now and then hints of a greenish banana, which gives the malt a sour touch. With a little air, darker (sherry) notes come to the fore, which also brings some nut (towards fresh hazelnut) with it. The herbaceous-spicy (oak) note dominates for me, Over time, it turns into a freshly cut grass note that looks slightly musty (leave the grass covered under a plastic tarpaulin). [Follow-up test: I have now managed to get sweet peach very clearly; it seems fruity to me]",
+            "taste": "Quite a gentle start, spice builds up, but remains elegant. It immediately becomes creamy and oily on the tongue and spicy aromas (black pepper and nutmeg). The fruit aromas are initially suppressed by this flavor. In the second sip, the fruity notes come out a little better, but the spice still predominates. A little malt and very light nuttiness (macadamia). With the third sip, the light-fruity aromas are good. But accompanied by a tingling and slightly peppery flavor. [Post-test: Notes remain largely the same; it seems a bit peppery and spicy than the first test (daily form); I also got some vanilla flavors]",
+            "finish": "the malty character remains stuck to the tongue together with the wort for a while. The spice also brings back the herbal aroma. It is getting drier in the mouth."
+        },
+        {
+            "user_name": "Koning",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "03 feb 2024 5:12 pm",
+            "content": "A step up from the Original Ten. The port casks add depth without being overpowering. The luscious nose is the best part, the finish is a bit lacklustre.",
+            "nose": "A fragant nose revealing redcurrants, cherries, vanilla, raisins and a sweet floral touch.",
+            "taste": "Opens with raisins, vanilla biscuits, apricot and strawberries. As often the case with port casks a slight muddiness develops, although it is kept in check. Black tea, cinnamon and gingerbread develop before it runs out of steam.",
+            "finish": "More fragile now. It is a bit dry, with sugared almonds, cloves and black tea. The fruits hide in the background now."
+        },
+        {
+            "user_name": "aw-home",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "03 oct 2021 10:04 am",
+            "content": "",
+            "nose": "Sherry and citrus fruits with wine notes, light cocoa and oak aromas.",
+            "taste": "Sherry and citrus fruits with notes of wine, cocoa and oak aromas.",
+            "finish": "Long with citrus, espresso, light cocoa and oak flavors."
+        },
+        {
+            "user_name": "dercaptain",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "21 sep 2022 10:42 pm",
+            "content": "Immediately fruity on the nose, apple, pear and berries, smells nice and full, grain, also wood. Nice and sweet again in the mouth, fruity, red apple, wild berries, grain, soft, nice spice at the end.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Phalat",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "02 aug 2023 9:02 am",
+            "content": "It is very similar to glendronach 12, you can feel the port barrel,46% is very good percentage",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Defeatless",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "15 aug 2025 12:52 am",
+            "content": "Decent price/quality wise. A friend to all and a good daily dram.",
+            "nose": "The sherry is here, red fruit, marmelade, little sweet and sour.",
+            "taste": "Decent splash of the sherry casks. Which give figs, leather and some dried strawberries.",
+            "finish": "Medium length. Little dry. Again the sherry is more dominant here. Yet still decent."
+        },
+        {
+            "user_name": "VLG",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "26 jun 2025 3:32 pm",
+            "content": "Batch: N1044190244 L110016661-1063 [2020?]",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Crushed_ldH",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "04 aug 2023 5:04 pm",
+            "content": "Very solid 12-year-old whisky. You can immediately notice port cask influences.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Hegu",
+            "user_rank": "Expert Senior",
+            "rating": "75",
+            "review_date": "15 dec 2024 9:05 pm",
+            "content": "Whisky matured in three different types of barrels.",
+            "nose": "Herbs, vanilla, oak, toffee, vanilla, Nuts, milk chocolate,",
+            "taste": "Sweet, milky, pleasant, ripe mango, easy but not boring.",
+            "finish": "The aftertaste is long but somehow thin, herbal and slightly bitter."
+        },
+        {
+            "user_name": "DramGoodLife",
+            "user_rank": "Expert Senior",
+            "rating": "88",
+            "review_date": "23 feb 2021 11:19 am",
+            "content": "A well balanced and complex dram. For the price and age statement, it offers something different from the other distillery options in the Speyside region.",
+            "nose": "Very sweet on first nosing. Immediately hit with sweet sugary notes, almost like caster sugar here. The sweetness remains but an added sour note begins creeping in; it turns to autumn fruits. I'm getting berries, raspberries and figs. There's also a soft citrus note in there along with pepper and ginger spice hovering in the background.",
+            "taste": "Again very sweet on arrival but quickly followed up by wood spice. Ginger and cinnamon on the first sip. Second sip is a whole new world. It becomes a dessert, I'm thinking afternoon tea with a whole array of tarts and pies. Raspberry pie, blueberry pie, lemon tart. There's a buttery and biscuity note that just works as a base layer.Those sprinkles of cinnamon ontop are not too shabby either.",
+            "finish": "Oak notes, grapes and berry skins. Medium in length, once the oak drops the tart berries remain."
+        },
+        {
+            "user_name": "ZLako",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "01 may 2022 11:05 pm",
+            "content": "N: fresh pastries, vanilla, dried apricots, sour berries, red overripe apples, grapes from the port caskP: sweet , with hints of berries, dried apricots, maltiness, christmas spicesF: long, fruity and after an initial sweet burst it gets dry",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "davidloosli",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "07 oct 2022 8:48 pm",
+            "content": "",
+            "nose": "Very buttery, sweet, ananas, a lot of vanilla, lime, peach, a bit of mint and melon",
+            "taste": "Fruity, caramel, warming, peanut, a pinch of salt, has a light maritime character",
+            "finish": "Rather dry, dried apricots, nut chocolate, sweet mint, spicy, more of the salt"
+        },
+        {
+            "user_name": "kawhi",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "30 sep 2025 4:50 pm",
+            "content": "A brief review when there is about 1/5 of a bottle left. The watery texture is a drawback, but the reduced spiciness actually improves drinkability. However, the two pros and cons combine to create a notable difference in score.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "kawhi",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "09 may 2024 6:52 pm",
+            "content": "When it first opened, it had a strong spice that made me think it was pepper-infused water. Everything from the aroma to the taste and finish was spicy, so I put it away in the warehouse after drinking a little. As time passes and the spiciness subsides, the various layers of scent and the sweetness that penetrates this bottle become stronger. Of course, the taste when just opened or after aeration is a matter of preference, but personally, I think it is a drink that requires some time. The three casks are properly mixed to diversify the layers of aroma, but the taste and finish are not as diverse. If you crave a slightly spicy whisky on a daily basis, wouldn't Benriac 12 be right for you?",
+            "nose": "I remember when it first opened, the spicy scent was quite strong. After opening, it was aerated at 80% for about 3 to 4 months, so the spicy smell was greatly reduced. - The sweet scent of maple syrup is quite strong when you first smell it. There is some honey scent mixed with a bright floral scent, but the sticky sweet scent like maple syrup is stronger. - A musty sherry scent reminiscent of dried apricots and raisins. A moderately musty sherry nuance that is not biased towards the extremes of lightness and heaviness. - Soft cacao flavor of milk chocolate. A chocolate sensation that gently melts on the tongue. - The above milk chocolate and sweetness are combined, and a slightly dusty toffee nuance is also felt. - It is difficult to choose exactly one type of berry, but it has a jam-like fruity flavor created by mixing various berries such as blueberries, strawberries, raspberries, and black currants. You can barely feel the citrus of the berries, and the scent is like a berry mix. It also feels like apple jam. - Orange citrus with almost no sour taste. - A little cinnamon spice. And a slightly charred oak nuance. : N Summary - You can feel the mixture of 3 casks from the scent. You can feel the various layers, and there is a richness that comes from the cask.",
+            "taste": "- When you first take it into your mouth, you feel a strong sweet scent like maple syrup, the oily and soft sweetness of toffee, and the soft but bitter cacao scent of dark chocolate. A feeling of cacao and a slight hint of oak are mixed together. It has a slightly dusty feel. - The sharp spice of pepper is the most dominant, and a little bit of cinnamon and clove spice add nuance. - You can feel the citrus and scent of orange with less acidity, and a fruity scent like berry mix jam. However, unlike the scent, the nuances of raspberry and strawberry are more focused, and it gives the feeling of a bit of blueberry mixed in, giving it a different berry mix jam feel than the scent. - As you can feel the vanilla scent, the mocha flavor you felt from the mocha bun comes up. There is a slight nuance of raw tobacco mixed in. It has a slightly watery texture and feels like black tea. : P Summary - Sweet and soft, but with a hint of spice that doesn't seem easy.",
+            "finish": "The finish is medium length. - The sweet scent, somewhere between oily and sweet toffee and honey with a bright floral scent, is felt strongly from the beginning. - Black tea scent with a slightly watery feel. - It still has a strong berry mix jam-like nuance, but the raspberries are slightly more emphasized. There is also a slight hint of raisin mixed in. - The spice of pepper is the main focus, with a hint of clove and cinnamon. - It leaves a slightly oily texture and has a nutty taste. At the same time, it feels like the bitter taste of dark chocolate, mixed with a little bit of okkiness. : F Summary - An extension of taste."
+        },
+        {
+            "user_name": "bl0wb4ck",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "30 aug 2024 2:56 am",
+            "content": "Really solid standard. Thanks to the maturation in three different types of barrels, it brings some complexity, and the 46% ABV is also great.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "The_Osprey",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "18 sep 2021 10:19 am",
+            "content": "BenRiach 12yo The Twelve, 46%, 'three cask matured' - sherry, bourbon and port. Consumed Jun/Jul 2021.Deep amber colour. Aroma is vanilla, soapy, honey scented hand wash, some white rose petals, some tired oak, faint raspberry, someone added too much egg to the Victoria sponge recipe. A bit of a muddled nose for me but nothing bad there. Body is fairly oily. Taste is popping candy, increasingly fruity and sherried over time, spicy-raspberry-dried fruit European oak, some chilli and raspberry on the linger along with some chocolate covered wafer biscuit. Absolutely a grower. Up front I felt like this was fairly pedestrian but that impression diminished as it started to get me drunk..I mean as the flavours developed in the glass. This seems like the sort of whisky that you'd have no problem drinking a 70cl bottle of, as it would just keep growing on you. Good. 3.55/85",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "the_muskox",
+            "user_rank": "Expert Senior",
+            "rating": "77",
+            "review_date": "13 mar 2023 8:25 pm",
+            "content": "Pretty good, but SO sweet. I tried this next to an ice-wine-finish Writer's Tears, and this was sweeter! Not an improvement on the 12 Sherry Oak that they used to bottle.",
+            "nose": "Very sweet, with lots of dark jammy and dried fruit - figs, dates, dried apple, sweet orange. Mulled wine and honey.",
+            "taste": "Medium-thin texture. Arrives with orange peel and honey, builds to loads of winey sweetness and dark red fruit. A hint of malt underneath.",
+            "finish": "Sweet, with the port casks coming through. Sugar-dusted dried fruit, milk chocolate caramels, extra-sweet black tea."
+        },
+        {
+            "user_name": "Petitcham",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "11 feb 2025 10:56 am",
+            "content": "Butterscotch, boiled stone fruits, nuts including walnuts, deep oak, and bitter taste from behind",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "BarleyMail",
+            "user_rank": "Expert Senior",
+            "rating": "86",
+            "review_date": "20 jun 2023 5:15 pm",
+            "content": "",
+            "nose": "Strawberry jam, apricots, peach, caramel, vanilla, oranges. Sweet too.",
+            "taste": "Oranges, peach, strawberries, caramel cloves, figs.",
+            "finish": "medium; dried oranges, caramel and cloves. Great dram!"
+        },
+        {
+            "user_name": "Nomorewh",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "03 dec 2023 8:21 am",
+            "content": "",
+            "nose": "Mainly chocolate. Green apple and sweet port wine.",
+            "taste": "Very sweet, like a berry chocolate. Bit of spice, and sherried.",
+            "finish": "A berry chocolate. Not complex and sweet finish."
+        },
+        {
+            "user_name": "tester1277",
+            "user_rank": "Expert Senior",
+            "rating": "83",
+            "review_date": "02 feb 2021 9:43 pm",
+            "content": "A delicious whisky that a little water helps. Somewhat weakens in the finish. Overall, however, more intense and rounder than the 10 year old original.",
+            "nose": "dark fruits, intense, banana, sherry notes",
+            "taste": "nice start, velvety, very sweet, salivation begins, becomes peppery, malty",
+            "finish": "medium length, bitter, spicy"
+        },
+        {
+            "user_name": "Svjatogor",
+            "user_rank": "Expert Senior",
+            "rating": "76",
+            "review_date": "11 jan 2021 10:06 pm",
+            "content": "n: sour, sherry, portt: light, sweet, porta: sherry, port",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Captain.Islay",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "31 aug 2022 8:57 pm",
+            "content": "Good start in Benriach, good drinking strength, alcohol well integrated, nice mouthfeel, more recommended for advanced users",
+            "nose": "Vanilla, Green Kiwi, Sawdust, Barley Grain, Green Banana, Orangeade",
+            "taste": "Cream honey, white pepper, vanilla, some mint, eucalyptus, banana",
+            "finish": "Short-Medium, Vanilla, Malt, Espresso, Orange Peel, Apricot"
+        },
+        {
+            "user_name": "plutoes",
+            "user_rank": "Expert Senior",
+            "rating": "83",
+            "review_date": "24 may 2024 8:14 am",
+            "content": "Decent dram.It's better when you sip it quick, as good notes fades away rather quickly in the palette.",
+            "nose": "Unrefined sugar syrup, maple syrup, grape pudding, blueberry, milk chocolate, roasted barley, fresh wood, hints of woodwork tape and prune.",
+            "taste": "Honey, ginger, roasted barley, cassia, orange albedo, sweet potato skin, coffee bean, hazelnut, orange pulp.",
+            "finish": "Medium in strength, short to medium in length.Orange, hazelnut, coffee bean, roasted barley, maple syrup, fresh wood."
+        },
+        {
+            "user_name": "CellarToberi",
+            "user_rank": "Expert Senior",
+            "rating": "90",
+            "review_date": "23 feb 2025 1:27 pm",
+            "content": "Speysider with some sharp edges. Matured in ex-sherry casks, ex-bourbon casks, and ex-port casks. Non-chill filtered. Not coloured. Thick slow slowly forming primary legs. Thick slow secondary legs. Trailing droplets.",
+            "nose": "Fruity: fresh fruit: quince, pear; berries: blackberry; tropical fruit: mango, pineapple; dried fruit: fig, prune, raisin; citrus: orange; stone fruit: cherry, plum. Sweet: honey, chocolate, vanilla, maple syrup. Woody: oak. Spicy: cocoa, coffee, mint note. Floral: heather, fragrant. Feints: wax, tang, farmyard. Herbal: leaves, grass, straw note. Oily: dairy note. Cereal: malt, hay. Nutty: roasted peanut, cola note. Full body: drifting. Water brings up woody and floral notes.",
+            "taste": "Sweet: honey, caramel. Fruity: dried fruit: apricot; stone fruit: cherry; citrus: orange. Spicy: ginger, liquorice, white pepper, coffee. Woody: oak, oak tannins. Cereal: malt. Herbal: straw. Nutty: almond, cola. Feints: tang. Rich: pungent. Full body. Water pushes up sweet notes.",
+            "finish": "Long. Sweet: honey, confectionery, vanilla, chocolate. Spicy: liquorice, white pepper, salt, coffee. Fruity: candied fruit, tropical fruit. Woody: oak tannins, oak. Nutty: cola, nutmeg. Cereal: malt. Herbal. Feints: farmyard. Rich. Full body: drifting. Water pushes up fruity and herbal notes."
+        },
+        {
+            "user_name": "Sanma",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "23 feb 2025 9:09 am",
+            "content": "",
+            "nose": "Honey, nuts, chocolate, dried fruit, floral, apple",
+            "taste": "Dried fruit, orange, honey, nuts, vanilla, apple, wood",
+            "finish": "Nuts, chocolate, ginger, wood"
+        },
+        {
+            "user_name": "wbarchive_864627",
+            "user_rank": "Expert Senior",
+            "rating": "81",
+            "review_date": "31 may 2024 1:44 pm",
+            "content": "81-Nice nose for a 45-euro OB, very harmonious and intense, super juicy-fruity, but also malty and woody in well-measured proportions. Both fresh and mature, you can feel the distillate but also both sherry and bourbon influence. Toffee, floral, lightly spicy, never boring.Unfortunately, the palate is a drop off in comparison (not as rich, a bit watery, spicy but lacking depth), while the finish is just borderline competent (too dry, monotone and short). No big off-notes, though. Do not add water, this is already pretty soft as is, and water just magnifies the dryness.Not a problem, I think I will nose it neat, and, when I am satisfied, most of it will be used as a mixer during summer. Semi-recommended.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "thewhiskeyjug",
+            "user_rank": "Expert Senior",
+            "rating": "86",
+            "review_date": "18 dec 2020 6:55 am",
+            "content": "Aroma is sweet and fruity with a strong malty presence and light bits of spice that slowly rise and add to the complexity; Palate is good and darkly sweet with a malty core and a richer waxier delivery than the 10; Finish is nice and easy with a touch of wax at the end.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Hsh",
+            "user_rank": "Expert Senior",
+            "rating": "79",
+            "review_date": "20 mar 2022 9:49 am",
+            "content": "Benriak 12 3.95 79 A little bit of sherry vanilla, halfway between Glenalaki 12 and Bunahaven 12 The fragrance is the most present and distinct among the three entry types. Herbs are also good for the finish. Slightly astringent and slightly light hazelnuts There seems to be some stuff in it, and the balance isn't bad, but it feels messy to me. Feels like a sample of the whisky I was drinking",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "PM_ROOT",
+            "user_rank": "Expert Senior",
+            "rating": "83",
+            "review_date": "11 apr 2025 12:31 am",
+            "content": "",
+            "nose": "Sweet oak, red fruit (fig), citrus, red pepper.",
+            "taste": "Spices, wood, slightly bitter, a bit dry, walnut. Flavor worse than on the nose, a bit watery.",
+            "finish": "Medium long, a bit spicy, tart oak, unspectacular."
+        },
+        {
+            "user_name": "niggy1813",
+            "user_rank": "Expert Senior",
+            "rating": "87",
+            "review_date": "30 sep 2022 3:00 pm",
+            "content": "A very aromatic and complex whisky considering its age. The nose presents so many flavours. The palate is so full and smooth. The finish strong and spicy. Each of its three casks do a great job, with its own character, well combined and in harmony. A great 12 years old standard Speysider.",
+            "nose": "There is a wealth of nuts, fruits like orange, figs, gooseberry, sweet pear and honey. If you focus on its maturation, you can find each of the three casks, really incredible. You could hold your nose in the glass forever.",
+            "taste": "Soft and supple with a full body. There are spices, light fruits and a little sweetness. Almost as aromatic as the nose.",
+            "finish": "Bitter, spicy, strong. Goes with a bang, but is then also gone."
+        },
+        {
+            "user_name": "Rockwell",
+            "user_rank": "Expert Senior",
+            "rating": "78",
+            "review_date": "02 nov 2023 7:23 am",
+            "content": "",
+            "nose": "Mostly not young prunes, a little sherry, a hint of custard.",
+            "taste": "Slight sherry spiciness, dry, light, and alcoholic stimulation.",
+            "finish": ""
+        },
+        {
+            "user_name": "Stouby",
+            "user_rank": "Expert Junior",
+            "rating": "72",
+            "review_date": "01 dec 2021 9:32 pm",
+            "content": "Golden. Bourbon and port wine dish. Nose dish, coconut and vanilla. Tastes great sweetness, but seems a bit grounded (sulfur) to me. The barrel online tasting.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "slavo",
+            "user_rank": "Expert Junior",
+            "rating": "83",
+            "review_date": "06 jul 2023 10:07 pm",
+            "content": "The taste is a bit of dark chocolate, lots of spices combined with fruit and slightly burnt wood.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        }
+    ]
+}

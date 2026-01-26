@@ -1,0 +1,576 @@
+{
+    "info": {
+        "ws_name": "Old Pulteney 15-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Old Pulteney",
+        "ws_age": 15,
+        "ws_abv": 46.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/1/1/6460/215131-normal.png",
+        "ws_rating": 85.22,
+        "ws_vote_cnt": 695,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/116460/old-pulteney-15-year-old"
+    },
+    "collected_count": 56,
+    "reviews": [
+        {
+            "user_name": "dram-drinker",
+            "user_rank": "Photo Moderator",
+            "rating": "86",
+            "review_date": "08 feb 2022 8:24 pm",
+            "content": "Fruity, balanced with a touch of salt and minerals",
+            "nose": "Honey, herbs, dry hay, some heather, apple, pear, some other yellow fruits, hints of vanilla, some oak spice",
+            "taste": "Oily, little punchy, fruity, subtle sweetness, honey, spices, some herbs, vanilla, peach, apple, pear, pinch of salt, little minerals",
+            "finish": "Medium long, warm, fruity, honey, spicy, more salt and minerals, some herbs"
+        },
+        {
+            "user_name": "lincolnimp",
+            "user_rank": "Connoisseur",
+            "rating": "88",
+            "review_date": "04 oct 2021 7:13 pm",
+            "content": "No notes tasted at a show.Don`t bother with the 18 year this is cheaper and better when compared side by side.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "peatbogger",
+            "user_rank": "Specialist",
+            "rating": "86",
+            "review_date": "26 may 2019 2:07 pm",
+            "content": "Maybe not quite up to 17 standard, but it's a very good whisky at an affordable price.",
+            "nose": "Noticable sherry influence.Sweet, a touch of chocolate and honey.Rich and a lot \"bolder\" than the 12yo, still with ample amounts of fruit.",
+            "taste": "Pleasant arrival of a rich body.Sweet on dark fruit cake, orange citrus, a pinch of salt.Just about the right abv to enjoy as it is.This is yummie stuff.",
+            "finish": "Would not have minded a bit more lenght, good things can't last too long, it's still a bit past the medium mark.Sweetness continues into the finish with some slightly drying spice."
+        },
+        {
+            "user_name": "Baanaanaabob",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "02 mar 2022 6:24 pm",
+            "content": "coastal notes, toffee, stewed stone fruits, quite pleasant",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "LukasJakubDrabek",
+            "user_rank": "Shoplink Moderator",
+            "rating": null,
+            "review_date": "29 sep 2020 2:02 am",
+            "content": "Ralfy review 845: https://www.youtube.com/watch?v=EhaqN8Z7nXE (86/100).\"The familiarity of the Old Pulteney signature which I'm looking for is in there but it's been blanketed by the casks that have been used for maturing this spirit.\"",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Dre73",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "24 apr 2019 10:43 am",
+            "content": "Nice sweet and fruity Old Pulteney, pretty strong and full body.",
+            "nose": "Nice and sweet, honey, some vanilla, some cinnamon too. Fruity as well, apples and oranges, and some marzipan.",
+            "taste": "Strong, pepper, sweet, honey and orange. A silty note, and some vanilla.",
+            "finish": "Still some pepper, sweet, honey, some orange. Middle long."
+        },
+        {
+            "user_name": "maltaholic",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "17 nov 2019 1:09 am",
+            "content": "Soft, aromatic.  Lemon, sparkling.  Round and ripe.  Very nice.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Andytka3",
+            "user_rank": "Connoisseur",
+            "rating": "87",
+            "review_date": "03 oct 2019 3:23 am",
+            "content": "N- Malt barn, pineapple raita, candy with savoury broth. Laid back, not too lively but well raised with plenty of coastal nuances to pleased a seaman's nose. Adequately filled with strength, tropical fruits underlay with salted caramel and black tea-ish developed. (89/22)P- Classy sweet with good strength for a balanced mouthfeel. White chocolate, lightly spicy, tinge sourness with toasted oak and cereal nuance. Nutty, almond. (87/21)F- Medium long, some burn leaf and coffee, fruits and nuts in harmony. Pleasantly dry for full and gentle finish. (89/22)B/B- 90/22. Malt and cereals oriented, well intertwined with the scents of coastal.Weighted Rate- 87ptCr-3, Fr-3, Fl-0, Pt-0, Ft-2, Sp-0, Wd-2, Wn-2, Sc-1— at The Whisky Bar, Kuala Lumpur.",
+            "nose": "N- Malt barn, pineapple raita, candy with savoury broth. Laid back, not too lively but well raised with plenty of coastal nuances to pleased a seaman's nose. Adequately filled with strength, tropical fruits underlay with salted caramel and black tea-ish developed. (89/22)",
+            "taste": "P- Classy sweet with good strength for a balanced mouthfeel. White chocolate, lightly spicy, tinge sourness with toasted oak and cereal nuance. Nutty, almond. (87/21)",
+            "finish": "F- Medium long, some burn leaf and coffee, fruits and nuts in harmony. Pleasantly dry for full and gentle finish. (89/22)B/B- 90/22. Malt and cereals oriented, well intertwined with the scents of coastal.Weighted Rate- 87ptCr-3, Fr-3, Fl-0, Pt-0, Ft-2, Sp-0, Wd-2, Wn-2, Sc-1— at The Whisky Bar, Kuala Lumpur."
+        },
+        {
+            "user_name": "WhiskyLovingPianist",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "05 nov 2018 5:07 pm",
+            "content": "https://whiskylovingpianist.wordpress.com/2018/11/05/2-by-2-miltonduff-pulteney/N: Notes of nutty hessian.T: I find it a bit tannic with an undecided mouthfeel.F: Grassy, fruity vanilla with a coastal touch.C: A very decent core range expression, sitting rather neatly in-between the 12yo and the sadly discontinued 17yo.Scores a B-",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "90ClubWhisky",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "13 dec 2021 7:05 pm",
+            "content": "It looks beautiful in a glass. Dark mahogany color. It resembles an extremely strong tea or even darker. Light oily.",
+            "nose": "At the beginning there is the influence of the maturation in Sherry Oloroso casks. Dried fruits. Raisins. Some peaches. However, raisins dominate, quite sweet. Maybe raisin yeast dough. Aromas of fresher, juicier fruit are also present. Fresh apples flashed past. There is a certain \"dryness\". Spices are also present, probably the closest to the spices. Cinnamon.",
+            "taste": "Sweetness. Dried fruits. Raisins. Maybe a prune. Some salt appears. Spices. Cinnamon. Maybe a trace of cloves. Dessert chocolate with raisins and salt.",
+            "finish": "Dried fruits. Raisins. Salt. Slightly warming up. Dessert chocolate. Cocoa. Medium-long finish."
+        },
+        {
+            "user_name": "robain",
+            "user_rank": "Specialist",
+            "rating": "86",
+            "review_date": "29 dec 2025 9:10 pm",
+            "content": "",
+            "nose": "The static from a CRT bulky TV, buttery",
+            "taste": "Sweet, fudge, fruity",
+            "finish": "Sweet, balanced"
+        },
+        {
+            "user_name": "Totoro",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "06 oct 2020 6:57 pm",
+            "content": "Wasn't crazy about the sherried aspect of this bottling initially, but after it's about halfway done, it started to improve dram-atically. Now there's more of the bourbon maturation and the maritime, sea-breezy character coming through. Still can't hold a candle to the 17-year-old it's supposed to replace, but there's certainly enough here to make me not regret buying a bottle. With enough air, the nose really is something to behold. Initial score: 85 pointsAfter some aeration: 87 points.Let's settle for the middle.",
+            "nose": "(with a lot of air, it actually reaches 88 points)",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "pianoman",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "22 mar 2019 9:51 pm",
+            "content": "",
+            "nose": "Light. Blood oranges, walnuts, some marzipan. Lakeside. Behind it are cherry sweets and a touch of powdered sugar.",
+            "taste": "Soft. Shortbread with cherry jam. Marzipan, cornflakes, a hint of honey. Woodruff.",
+            "finish": ""
+        },
+        {
+            "user_name": "Stanzeflasche",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "10 oct 2019 8:53 pm",
+            "content": "It's oily, iodized, salty, it looks like fresh fish, you think you can smell the scales. The tide, the sand, the sea spray, a little seaweed, the kelp. Behind it, the influence of bourbon and a welcome, albeit light, touch of sherry. Moist leather, almonds and walnuts, orchard fruits, Conference pears and Granny Smith apples. In the mouth, coarse salt, vanilla, white plum, sweet caramel, salted butter. The spices rise slowly, without being overpowering. Fairly long finish, on sandy and limestone soil. Lemon zest. Very nice balance offered by this 15 year old. Young enough for us to feel the iodine intensity, but old enough to offer a beautiful complexity. https://ilikesky2020.blogspot.com/2020/10/old-pulteney-15-yo-maritime-malt.html",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "MaroFF",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "30 nov 2021 7:00 pm",
+            "content": "A very front, well-balanced whisky with all the qualities of both fruity sweetness through the delicate ash from the fire, ending with sea saltiness. Value for money - high. It is a whisky that should surely appeal to everyone. I recommend.",
+            "nose": "not very pronounced, raisins, apples, vanilla, chocolate, ash, slightly spicy, salty, seaweed",
+            "taste": "caramel, vanilla, crust of fresh portable bread, nutmeg, cherry, again apricot, slightly spicy, chili",
+            "finish": "long, creamy, chocolate-orange, warming tip with a hint of sea salt"
+        },
+        {
+            "user_name": "_Dziki_",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "04 jan 2023 4:57 pm",
+            "content": "Cookies, biscuits, slightly salty taste, nice smooth whisky",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "glen efze",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "04 mar 2022 2:53 pm",
+            "content": "A whisky from high in the north of Scotland. Pulteney Distillery is located in the port town of Wick on Scotland's north coast. Even if it is no longer the northernmost Mainland Distillery - the whiskys of the distillery are considered maritime-strong malts. The original bottlings are named Old Pulteney. This is 15 years old, has 46.0% vol. and should be uncolored and unchill filtered. In any case, the color has a beautiful, natural gold tone. In the WhiskyJason Blind Tasting he achieved a decent third place - with me and with the other participants. www.glen-efze.de",
+            "nose": "The aroma is initially not maritime, but fruity with ripe, juicy fruits, sweetness and concentrated plum juice, which has a sour component in addition to the sticky sweetness. This is a very pleasant aroma, wine gums flash and then there is a maritime note from the background with a touch of bitterness and freshness, which can come from the wood and alcohol. Over time, the fruit also blends into a tart herbal note with the scent of Scottish heather (but no burnt peat, the whisky is not smoky) and a seaweed breeze off the beach.",
+            "taste": "Also in the taste comes the sticky plum juice, then the alcohol pushes and the flavors become drier and woodier. Overall, however, the aromas are not present for long and should be more pronounced and powerful for a maritime malt. There's a distinct bitterness that doesn't come from the wood alone. With further sips, the fruit note becomes stronger again and the bitterness recedes into the background, herbs and wine gums are present, vanilla fills the mouth and some milk chocolate is added. This is actually quite tasty.",
+            "finish": "In the finish, the bitterness is dominant at first, which quickly becomes weaker. Then the aftertaste of red British wine gums and vanilla remains in the mouth. This is a drinkable whisky that strikes a nice balance between the ex-bourbon base with vanilla flavors and the sweet and sour plum fruitiness from the sherry cask. A few more active casks would certainly have given it more incisive aromas, but even so, it holds up well in a northern port city. At least on sunny afternoons. But when the storm comes, other whiskys have to be on the table..."
+        },
+        {
+            "user_name": "Achany",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "26 apr 2019 2:02 pm",
+            "content": "sweet, fruity, mixture of vanilla and grapes, some spices, a bit grassy, malty, sweet cereals, a slight coastal influence, is there some salt? full body, I liked the 46 ABV, the finish is all right, not too long, gets a bit more grassy, some hints of bitterness. A fine dram! But I liked the old range better.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "FritzeKrautman",
+            "user_rank": "Connoisseur",
+            "rating": "88",
+            "review_date": "26 mar 2022 6:58 pm",
+            "content": "This is simply a well-aged, complex, tasty whisky with a reasonable age and a reasonable price at the moment. That's the way it has to be.",
+            "nose": "Sherry aromas at the beginning, pear, malt, lemon balm, nectarine, tea, caramel",
+            "taste": "Honey, sweetness, peach, malt, light salt, bubble gum",
+            "finish": "Medium-length finish, malt, salt, light fruits, herbs, oak, noticeable alcohol"
+        },
+        {
+            "user_name": "gallfux",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "08 jun 2019 7:12 pm",
+            "content": "Very good malt. However, I believe that I do not necessarily need a big bottle.",
+            "nose": "Relatively fresh nose. Flower meadow and a fresh breeze. Orange blossom honey. Malt sweetness. Vanilla semolina pudding. Yellow apple and pear peel. Shortbread. Tree sap.",
+            "taste": "Initially pretty mild and tidy sweet. Sugar candy. Peach ice tea. Roll with butter and quince jelly. But then comes also oak spice, which tingles a bit and reminds me of orange and Zitronenbrausestäbchen.",
+            "finish": "The shower sticks diminish. Some salt maybe. It gets a little drier."
+        },
+        {
+            "user_name": "2ndSip",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "30 jan 2022 7:39 pm",
+            "content": "it takes a while until it has completely opened up, but then it has very nice light fruity aromas that also have a maritime and mineral note. The taste then similar to the nose. [86 - 82 = good whisky -> get (second) bottle? Maybe...] Interesting, if not particularly complex. But what he has, he also shows really well.",
+            "nose": "bright, fruity aromas, maritime and mineral notes. Slightly sour touch - but only in the beginning. Some spice comes from the barrels afterwards. Fresh garden herbs, green tea. Icing sugar sweetness, vanilla, honey.",
+            "taste": "fruity aromas, mineral, earthy, creamy-viscous. Slight spice, more herbs. second sip: even more voluminous than mouthfeel; again fruity, mineral - maritime (salty?).",
+            "finish": "medium length, tannins, notes of oak, spice. A bit of a hazelnut aroma at the back (fresh oak), which also goes in the direction of fresh/still unripe hazelnuts."
+        },
+        {
+            "user_name": "EvilAFI",
+            "user_rank": "Connoisseur",
+            "rating": "88",
+            "review_date": "29 jul 2020 6:47 am",
+            "content": "Honey, brine, light spice, malt, light white pepper, oak. East drinking, and very enjoyable. A great pour to have and not over analyze.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Beaker65",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "10 jun 2019 10:20 am",
+            "content": "",
+            "nose": "Dried fruit, ripe apples, citrus, honey, vanilla. It has a certain freshness, cooling.",
+            "taste": "Taste: notes of spices, mandarin, malty, dark toffee and hints of the salty sea.",
+            "finish": "Medium finish, the fruitiness slowly turns into the spiciness of the oak"
+        },
+        {
+            "user_name": "LordBellamy",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "03 jan 2021 4:46 pm",
+            "content": "with water: the malt becomes salty and the fruity notes become more intense, especially citrus fruits. However, it loses its good balance, so I would leave out the water Conclusion: a very good and delicious standard whisky with a nice balance, for me almost a benchmark when it comes to maritime malts without the influence of peat. However, I can hardly find any references to the Spanish oak barrels, which only have a slight influence here",
+            "nose": "fresh with aromas of the sea breeze, some salt, some hay, a few flowers, plus vanilla and biscuit notes, coconut can also be found, every now and then a few hazelnut aromas drop by, but only very weakly, honey, and the oak scatters a few Clove flavors with it, some fresh mint",
+            "taste": "it starts off rather weakly, but then the maritime aromas break out, plus a few light fruits (pear), honey, malt / grain and, very subtle, oak",
+            "finish": "Medium length, notes of vanilla and biscuit, pear, marzipan, caramel, light oak flavor"
+        },
+        {
+            "user_name": "WhiskyBjorn83",
+            "user_rank": "Expert Senior",
+            "rating": "73",
+            "review_date": "16 mar 2019 1:45 pm",
+            "content": "22-02-2019, 17-05-2019",
+            "nose": "sea salt, vanilla, spices",
+            "taste": "sea salt, vanilla, spices",
+            "finish": "sea salt, vanilla, spices"
+        },
+        {
+            "user_name": "Brunobaer1887",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "03 sep 2021 10:26 pm",
+            "content": "Blind tasted as part of a Highland comparison tasting",
+            "nose": "Madeira plum, lacquer, honey, vanilla, fresh sawdust, warm apple pie",
+            "taste": "Mirabelles, Bitter Almond, Cantuccini",
+            "finish": "Chocolate and salt pretzel, apple pie, spicy but not intrusive. Kind"
+        },
+        {
+            "user_name": "Gloin",
+            "user_rank": "Expert Senior",
+            "rating": "87",
+            "review_date": "27 may 2019 12:21 am",
+            "content": "The smell is fresh and yet not young. That starts well. The taste blends in harmoniously and also the finish fits wunservoll to the overall picture.  A very nice, mild ex-bourbon whisky, which, despite its mildness, is very full of character. I am positively surprised.",
+            "nose": "The whisky smells \"green\", lime, tangerine, woodruff some oak, fresh green herbs",
+            "taste": "light, soft body, but noticeably mild and offensive, the aromas from the smell are repeated, mandarin and lime, a little malt, light oak",
+            "finish": "slightly bitter, the fruits are still in the delicate memory, the oak takes over the direction"
+        },
+        {
+            "user_name": "Highlander65",
+            "user_rank": "Expert Senior",
+            "rating": "80",
+            "review_date": "04 sep 2022 6:42 pm",
+            "content": "Good, he doesn't try to overdo it, but he has his own beautiful personality and character.",
+            "nose": "Raisins in alcohol, sea, pear, plum, dried fruit, a slight hint of mineral peat",
+            "taste": "Spicy, sweet and salty, honey and lemon candy",
+            "finish": "Quite long, salty, marine."
+        },
+        {
+            "user_name": "StefanKatonaXXL",
+            "user_rank": "Expert Senior",
+            "rating": "88",
+            "review_date": "21 apr 2024 3:32 pm",
+            "content": "Old Pulteney 15 is a very pleasant whisky! I really like its seaside style combined with sweetness and creaminess. The smell reveals the smell of a fishing port, salty sea breeze, soaked hemp rope and machine oiliness..... Well done!",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "The_Osprey",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "19 sep 2021 8:47 pm",
+            "content": "Old Pulteney 15 yo, 46%, Sep 2021. Pale golden. Aroma is banoffee, spiritous caramelised notes, caramelised wood char, first fill ex-bourbon cask mixed with refill. The spirit behind all that seems pretty much neutral. There's a faint candy floss vibe. Watery mouthfeel. Taste is easy and soft, really easy-going indeed, no rough edges to this whatsoever - mild with impressions of very milky coffee, bourbon biscuits and Oreos, just the very softest woodiness. The subtle chocolatiness suggests the use of at least some decent sherry casks, but isn't too sherry focused which is my preference. The aroma eventually picks up that sherried chocolatiness over time. Some eggnog. Nutmeg spice. A solid whisky all told – perfectly enjoyable. 3.55/85=========Old Pulteney 15 Year Old, 46%. 30ml sample at home, Aug 2024. Dark dull amber. Aroma has dark apple juice, apple crumble, hints of guava and woodchip, buttery oak. Good. Body is very lightly oily. Taste is rock salt on arrival, vague sweet oak suggesting vanilla or butter, finishes a bit limp and watery but with some burnt char and salt. Pretty good aroma but then quite simple and a bit wishy-washy on the palate. Based on this showing, it’s a decent enough whisky that would not inspire a bottle purchase. 3.45/82",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "the_muskox",
+            "user_rank": "Expert Senior",
+            "rating": "70",
+            "review_date": "29 jul 2020 3:30 pm",
+            "content": "Well put-together, if a little thin and weird. There’s just a little bit of sherry influence, but I think it works. There’s some decent complexity, the development is quite nice, and the age shows. I can’t believe it, but I think it’s a little too salty for me. There are some off notes as well (like that chlorine) that pop in and out, which hurt my experience a little, but weren’t too bad. I thankfully didn’t have anything close to the horrible experience I had with the 12 year thankfully. Still, I was a little salted-out by this one. I’m confident that lots of other people will enjoy this more than I did.Nose: Sweet and salty. Sugary, almost crystallized dried fruit: dates, pineapple, and banana. Light cereals and honey. Nature Valley bars! The kind dipped in the sugary caramel stuff. Just the tiniest hint of smoke. It’s quite salty, with sea breeze and even a bit of chlorine. The fruit fills out a bit more as it sits in the glass.Palate: Light texture, but quite oily. A bit hit of salt up front, followed by manuka honey and dried fruit. A bit of rum-y banana funk here, along with mango and pineapple. Develops into toast and walnuts, followed by oak and a hit of black pepper. There’s a little bit of peat here too, mixed in with that pepper. A bit of a slaty mineral note on the back end, along with sugared raisins. It never loses that salty edge.Finish: Long, and sweet-and-salty again. Lots of honey. Salt and pepper. Dried apple slices, a bit of lychee, and nuts. A bag of trail mix, maybe.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "StyrianSpirit",
+            "user_rank": "Expert Senior",
+            "rating": "90",
+            "review_date": "12 feb 2019 4:48 pm",
+            "content": "A very beautiful nose is continued on the palate with the formidable bourbon and sherry barrel interplay, supplemented by bakery sweetness and delicate maritime seasoning. Is for me on at least one stage with the 17er. The nice thing is: You can enjoy this malt \"just like that\" and you can also \"disassemble it in its entirety\". If you like Glenfarclas without sherry turbo (ie the 25's from the standard range or older 4th-Fill-Casks), you should also like this malt.",
+            "nose": "Clear, maritime, coastal spicy. And still with the shot of sherry and bakery flavors. So to speak the 17er, the direction 25er-Pulteney goes. If the 2006 \"pure Bourbonpulteney pure\", this is now the (also for the 17er) also typical \"crystal clear-maritime Pulteney-Bourbon-and-Sherryfass-Melange\".",
+            "taste": "Very enjoyable! Crystal clear, now with sherry sweets and bakery that goes into vanilla. Everything is beautifully mint fresh primed with the pulteneytypischen 46%. The oak comes too. Then again sherry, cinnamon and a pinch of sea salt. Amazingly full for his 15 years and then again slightly in enjoyment. The balance between sherry and bourbon keg is absolutely successful.",
+            "finish": "In the medium-long finish, then the oak again with some espresso."
+        },
+        {
+            "user_name": "hlz30",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "08 sep 2021 4:14 pm",
+            "content": "",
+            "nose": "Much richer than the 12YO pal. Waxy apple, floral, sweet woody scent, ripen pear, honey, chocolate, salty but not briny. Spicy and milky in the emptied glass.",
+            "taste": "Medium body, Delicately sweet but lasted for a while. vanilla, candle wax, spices. Sour punch before flowing into the throat. Pepper attacks.",
+            "finish": "Almost long, cardboard, pear drop, vanilla, wood spices, sweetness persists."
+        },
+        {
+            "user_name": "P.K.S",
+            "user_rank": "Expert Senior",
+            "rating": "86",
+            "review_date": "23 dec 2019 4:29 pm",
+            "content": "amazing! spises taste and sweet drapes. Love the spisiness on the aftertaste the best of the 12 yr 15yr and 18yr! tryed it at the distillery",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "littlebuzzed",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "30 dec 2023 3:34 am",
+            "content": "Really enjoyed the sample and would definitely buy a bottle.",
+            "nose": "Salty air, butterscotch, peaches and dried fruits, creamy and buttery too",
+            "taste": "Creamy mouthfeel, salty prunes, sweet tobacco",
+            "finish": "tobacco lingers, oak spices, a little pepper"
+        },
+        {
+            "user_name": "Sidney87",
+            "user_rank": "Expert Senior",
+            "rating": "86",
+            "review_date": "17 may 2020 10:23 pm",
+            "content": "A wonderful daily dram with a fair PLV",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "aquataste",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "22 oct 2022 5:28 pm",
+            "content": "",
+            "nose": "Intense, well-balanced, dusty dried dark fruits with a small pinch of Christmas spices, a pinch of white pepper, dark chocolate, aromatic notes of old wood, dried peach and apricot, oranges, lots of honey, raisins, vanilla, slightly grassy, delicate notes of sea breeze",
+            "taste": "Dried dark fruits with Christmas spices (mainly cinnamon and cloves), white pepper, lots of dark chocolate, oranges, raisins, honey, vanilla, a bit grassy, a bit of old walnuts, notes of sea breeze, old oak with a delicate bitterness",
+            "finish": "Long, notes of old wood, dried dark fruits, cinnamon and pepper, dark chocolate, bitterness of oak at the end"
+        },
+        {
+            "user_name": "Peatyjohn",
+            "user_rank": "Expert Senior",
+            "rating": "82",
+            "review_date": "02 nov 2025 4:47 pm",
+            "content": "Fresh , fruity with maritime influences. Sherry finish does not dominate. Salty sea air and chocolate notes with a touch of orange. Quite light and fairly simple. For the high price I don’t think it’s worth the value for what it offers.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Larry411",
+            "user_rank": "Expert Senior",
+            "rating": "88",
+            "review_date": "28 sep 2021 9:53 pm",
+            "content": "This is very pleasant! I'm quite surprised and pleased with this. I could drink this every day. Note: I let this sit for about 40 minutes first.",
+            "nose": "Fresh orchard fruits and light sea air.",
+            "taste": "Warm freshly stewed orchard fruits, a nice sea breeze, lightly toasted then creamed nuts, vanilla ice cream wax, and white pepper.",
+            "finish": "At first, the same lingering notes as the palate only with the orchard fruits becoming fresher and less stewed, then fresh almonds and flowers take over at the very end."
+        },
+        {
+            "user_name": "Louisvandermeer",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "14 jul 2025 11:39 am",
+            "content": "A wonderfully smooth summer whisky that I'd love to drink more often. Simple and delicious.",
+            "nose": "A deliciously sweet and salty aroma, almost like salted caramel. There's sea air, peach, and brown sugar. There's also some chocolate, pineapple, and walnut in the background.",
+            "taste": "Wonderfully smooth and approachable. It opens with flavors of dried fruit, raisins, and seaweed. This is followed by notes of milk chocolate, nutmeg, and orange. In the background, there are hints of walnut and cinnamon.",
+            "finish": "Medium to short, with flavors of tobacco, dark chocolate, and sherry emerging. In the background, there are hints of salted caramel fudge."
+        },
+        {
+            "user_name": "Thatch",
+            "user_rank": "Expert Senior",
+            "rating": "87",
+            "review_date": "06 mar 2022 7:01 pm",
+            "content": "A really great, varied and maritime malt. Is complex enough for me to explore for a while, but not an overly complex board. You can also just drink with friends all evening long. Leave a little time in the glass, after 10 minutes it becomes much more complex.",
+            "nose": "very spicy, then sweet and fruity influence of the sherry cask. Little sea breeze. Sherry influence increases with time in the glass.",
+            "taste": "Spicy again, cinnamon and cardamom \"spiciness\", cocoa / tart dark chocolate and then the sweetness. Dark fruits only very briefly, then more honey sweetness. Once Christmas in a glass. Maritime influence not pronounced here.",
+            "finish": "medium length, maritime, with a slight sweetness in the background."
+        },
+        {
+            "user_name": "Whiskymoravia",
+            "user_rank": "Expert Senior",
+            "rating": "80",
+            "review_date": "22 nov 2025 9:12 pm",
+            "content": "More interesting than 10 and 12 yo. Still the same type. Dryer, vegetative, vanilla. But there is more spice in the taste, more roughness. But in the aftertaste, again quite an unpleasant bitterness for me. It is a drinkable whisky, you can easily do without a bottle.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "thewhiskeyjug",
+            "user_rank": "Expert Senior",
+            "rating": "86",
+            "review_date": "03 nov 2021 5:23 am",
+            "content": "NOSEBanana malted milkshake, honey graham, vanilla frosting, nuts and a light bit of baking spice and lemon peel.Delicate, but not weak, this is a nice, relaxing, and easy aroma I can happily sit and sniff.PALATEBanana malted milkshake, honey graham, waxy vanilla frosting, dried orchard fruit, roasted nuts, baking spice, toffee and touches of leather and hay.Woah. The aroma does NOT give you much insight into the palate of this Old Pulteney 15. It’s so much richer and fuller.FINISHMed-long -> Waxy vanilla+banana, malt, earthy hay and graham fade to honied grahams.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "KEngelaar",
+            "user_rank": "Expert Senior",
+            "rating": "86",
+            "review_date": "15 dec 2023 6:20 pm",
+            "content": "I will definitely buy it again.",
+            "nose": "Dried fruit, dark oak, vanilla, brown sugar, dark caramel, forest honey, seaweed, nutmeg and malt.",
+            "taste": "A bag of dried fruits and dark aromas like a tea shop, followed by vanilla, milk chocolate, forest honey, nutmeg, seaweed and old wood.",
+            "finish": "Very dry, old wood, dark sherry, dried fruits, espresso, nutmeg and dark chocolate."
+        },
+        {
+            "user_name": "diamond2000",
+            "user_rank": "Expert Senior",
+            "rating": "86",
+            "review_date": "23 jun 2021 10:48 am",
+            "content": "Aroma: open, sweet ripe pear, honeycomb, flowering linden, vanilla, apple pie, white raisins. Over time, the fruit component becomes even sweeter, a ripe melon appears. In the background there are a few minerals, wet granite, a burnt piece of wood, a little salt. Taste: spicy ginger with honey, cloves, apple jam, lemonade shades, bitter zest, astringent wood, a hint of cocoa with milk. Finish: warming, tingling ginger, honey, sweet yellow fruits, exotic juice, zest, a little wood and finally minerality, seemed shorter than average. Score: 86 Bottom line: decent Pulteney, sweet, fruity, with a drop of minerality, such a strong average, quite worthy for 15 years.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "ChrisSym",
+            "user_rank": "Expert Senior",
+            "rating": "83",
+            "review_date": "18 jul 2021 9:32 pm",
+            "content": "",
+            "nose": "Starts with nice honey notes combined with a slight saltiness. Looks a bit waxy and heavier. In addition, fine juicy peach aromas and mandarins. At the very back comes a little oak spice. Reminds me of Scapa or Clynelish, even if the 15yo seems lighter and fruity.",
+            "taste": "The first impression is milder than expected. A little later comes the spiciness with oak and beautiful maritime notes. Alternating with peaches and tangerines. A touch of salt and almond chocolate. Great compact mouthfeel.",
+            "finish": "The finish is unfortunately not as strong as desired. Relatively mild and at most medium-long, some spice and warmth remain. No bitterness. Slightly sweet and a little drier."
+        },
+        {
+            "user_name": "RGill",
+            "user_rank": "Expert Senior",
+            "rating": "75",
+            "review_date": "08 nov 2023 5:04 pm",
+            "content": "Salted caramel, brown sugar, hint of cocoa.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "slavo",
+            "user_rank": "Expert Junior",
+            "rating": "85",
+            "review_date": "29 dec 2022 8:02 pm",
+            "content": "Delicious milk chocolate with honey and pineapples, with delicate oak.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "glenwatanabe",
+            "user_rank": "Expert Junior",
+            "rating": "85",
+            "review_date": "29 oct 2023 10:48 am",
+            "content": "It's a good whisky, but I thought it didn't have to be aged in sherry casks. But I thought that if it was only in bourbon casks, there would be less difference from the 12 years, so I thought that sherry cask maturation was adopted.",
+            "nose": "Butter, salty, chocolate, small amounts of red wine.",
+            "taste": "Pulteney-just like, gummy caddy flavour, orange chocolate.",
+            "finish": "Long, just a little complex."
+        },
+        {
+            "user_name": "F_Weinberg",
+            "user_rank": "Member Senior",
+            "rating": "85",
+            "review_date": "19 jan 2023 10:24 pm",
+            "content": "A well-aged and harmoniously composed whisky with a recognisable signature that is just lacking the necessary complexity to move it into the top-tier of affordable, everyday malts.",
+            "nose": "A little shy at first, with mostly honey and sweet baking spices. I left it for around 15 minutes, and then some rich, creamy fruits appear - think strawberries and cream, peach cobbler. Then, buttery biscuits, fresh meringue, stewed apples and pears.",
+            "taste": "The buttery, sweet note continues, with a little brioche, a little fresh white bread, honey, salt, candle wax. Very smooth and in good balance.",
+            "finish": "Smooth, honeyed, no bitterness. Not especially complex, but very pleasant."
+        },
+        {
+            "user_name": "galg33",
+            "user_rank": "Member Senior",
+            "rating": "85",
+            "review_date": "21 sep 2018 9:43 pm",
+            "content": "Nose: quite different with a lot of sherry influence, apple pie, glazed with burnt sugar, dried fruit, cinnamon, clove and a touch of vanilla. deep dark honey, sultana and spice. you can feel some ex-bourbon influence too in addition to the sherry finish which adds a nice depth.Palate: it’s lovely on the palate. with a nice sweetness, ripe orange, earth, salty, sweet, warming spices, Xmas cake , some chocolate, toffee and a hint of salt – lovely.Finish : Oak, chocolate, ripe orange marmalade, very nice wood notes, tea.Yummy stuff indeed. A very nice sherry oriented dram, with depth. Quite different from the 17 year old it ‘replaces’ , but still very good indeed. If I would be pressed I would choose the 17 by a really narrow margin, maybe since old habits are hard to rid o",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "ballunder",
+            "user_rank": "Member Senior",
+            "rating": "86",
+            "review_date": "18 feb 2020 11:52 pm",
+            "content": "A rather musky Oloroso-esque nose with a bit of furniture polish there but not so much on the nuttiness. Some ripe fruits. Some biscuit. Palette is quite well integrated with a nice spicy zing, orange, salt and a bit of peanut brittle. The finish was quick. All in all, quite well balanced and an easy sipper.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "kornelb",
+            "user_rank": "Member Senior",
+            "rating": "83",
+            "review_date": "28 jul 2023 7:03 pm",
+            "content": "Fruit, plum, vanilla, milk chocolate, some vegetation and flowers, sweet with marine/salty notes and a slightly peppery finish. Curious and different.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "atia2",
+            "user_rank": "Member Junior",
+            "rating": "82",
+            "review_date": "04 feb 2021 12:36 am",
+            "content": "A fresh, fairly complex, and eminently quaffable malt.",
+            "nose": "Liquorice, fennel seed, hints of menthol and coconut. Citrus notes develop later. Very good.",
+            "taste": "Tastes younger than it smells. Juicy, briny, new-makey. Some grass, herbs, and mint.",
+            "finish": "Long, light spice ending on oranges."
+        },
+        {
+            "user_name": "jakubpoltoraczyk",
+            "user_rank": "Member Junior",
+            "rating": "85",
+            "review_date": "28 dec 2025 9:00 pm",
+            "content": "Aroma: Dried fruits, plums, honey, raisins, milk chocolate, delicate cereal notes, festive fruitcake, vanillaTaste: Dried plums, chocolate, milk chocolate with plum filling, toffee, vanilla, sweet festive fruitcake, the finish is sweet and lingering, chocolate notes and dried fruitsOverall impression: Positively surprising, a clearly pronounced sherry cask influence, a complex and enjoyable whisky, well priced considering the quality",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "CerarYousif",
+            "user_rank": "Member Junior",
+            "rating": "85",
+            "review_date": "20 sep 2024 9:50 pm",
+            "content": "salty fudge, great finish",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        }
+    ]
+}

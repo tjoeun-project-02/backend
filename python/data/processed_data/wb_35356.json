@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Old Pulteney 12-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Old Pulteney",
+        "ws_age": 12,
+        "ws_abv": 40.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/3/5/356/251191-normal.png",
+        "ws_rating": 80.82,
+        "ws_vote_cnt": 1010,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/35356/old-pulteney-12-year-old",
+        "ws_id": "35356",
+        "collected_count": 56,
+        "flavor_profile": {
+            "fruity": 5.2,
+            "sweet": 5.7,
+            "peaty": 1.4,
+            "spicy": 3.9,
+            "woody": 3.3,
+            "malty": 2.7
+        },
+        "top_keywords": [
+            "fruit",
+            "malt",
+            "mint",
+            "maritime",
+            "sweet"
+        ],
+        "ws_name_kr": "올드 풀트니 12년",
+        "ws_distillery_kr": "올드 풀트니"
+    }
+}

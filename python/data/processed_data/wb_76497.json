@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Aberfeldy 12-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Aberfeldy",
+        "ws_age": 12,
+        "ws_abv": 40.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/7/6/497/120954-normal.png",
+        "ws_rating": 79.36,
+        "ws_vote_cnt": 1480,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/76497/aberfeldy-12-year-old",
+        "ws_id": "76497",
+        "collected_count": 57,
+        "flavor_profile": {
+            "fruity": 4.5,
+            "sweet": 6.0,
+            "peaty": 0.5,
+            "spicy": 3.4,
+            "woody": 3.1,
+            "malty": 2.8
+        },
+        "top_keywords": [
+            "bourbon",
+            "apple",
+            "nutmeg",
+            "iodine",
+            "tropical"
+        ],
+        "ws_name_kr": "아버펠디 12년",
+        "ws_distillery_kr": "아버펠디"
+    }
+}

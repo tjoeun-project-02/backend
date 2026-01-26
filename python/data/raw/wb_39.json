@@ -1,0 +1,516 @@
+{
+    "info": {
+        "ws_name": "Oban 14-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Oban",
+        "ws_age": 14,
+        "ws_abv": 43.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/3/9/114398-normal.png",
+        "ws_rating": 81.92,
+        "ws_vote_cnt": 2782,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/39/oban-14-year-old"
+    },
+    "collected_count": 50,
+    "reviews": [
+        {
+            "user_name": "dram-drinker",
+            "user_rank": "Photo Moderator",
+            "rating": "85",
+            "review_date": "12 aug 2025 9:57 pm",
+            "content": "Tasted again after long time - one point higher than last time",
+            "nose": "Honey, yellow fruits, apple, peach, plums, quince, spices, pepper, cloves, nuts, little citric, lemon peel, hint of oak wood",
+            "taste": "Oily, nutty, cooked fruits, apple, plum, figs, woody, tobacco, dark honey, subtle sweetness, spices, some herbs",
+            "finish": "Medium long, warm, nutty, tobacco, spices, woody, hint of leather"
+        },
+        {
+            "user_name": "dram-drinker",
+            "user_rank": "Photo Moderator",
+            "rating": "85",
+            "review_date": "06 jun 2017 12:50 am",
+            "content": "Fruity and little citric - nice and drinkable",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "lincolnimp",
+            "user_rank": "Connoisseur",
+            "rating": "75",
+            "review_date": "15 dec 2015 10:05 pm",
+            "content": "This is for one of the earlier 14 year bottlings.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "lincolnimp",
+            "user_rank": "Connoisseur",
+            "rating": "75",
+            "review_date": "15 dec 2015 10:04 pm",
+            "content": "Too bitter for me, this is an old bottling, one of the first of the 14 year but the classic Oban profile is there.",
+            "nose": "Light and floral with citrus notes and a little honey.",
+            "taste": "A little bitter on coffee notes mixed in with bitter orange and a little honey.There is a little sweetness coming through but its not enough to compensate as there is also a little saltiness.",
+            "finish": "Long finish and quite smooth with the sweet notes finally overcoming the bitterness on the palate."
+        },
+        {
+            "user_name": "Slàinte Mhath",
+            "user_rank": "Super Administrator",
+            "rating": "82",
+            "review_date": "03 aug 2019 5:02 pm",
+            "content": "Representing the West Highlands in Diageo's Classic Malts of Scotland, Oban 14 features a mineral and slightly salty character. The aroma is both engaging and complex with juicy blood oranges, toffee, fresh tobacco and a lovely coastal touch. After its briny and spicy arrival, the taste develops with intense wood influence, bitter walnuts and a surprising flash of menthol. Astringent dryness and distant hints of spearmint remain of a weak and quickly gone finish, where chill-filtration has taken its toll. Not the greatest malt of the range, but worth a try.RATING: 3.4/5.0 stars ≙ 82 pts → ABOVE AVERAGE [-]",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "KayMeertens",
+            "user_rank": "Connoisseur",
+            "rating": "78",
+            "review_date": "25 mar 2014 12:05 am",
+            "content": "",
+            "nose": "Apple, plum, citrus, mint, pear, honey, malt and strawberry. A little sickly but not all that bad.",
+            "taste": "The meatiness of exhausted sherry casks with some mint (perhaps even peppermint chewing gum) and pepper from the bourbon barrels. Quite bitter as well... almonds? Fortunately still someting fruity like strawberries and some smoke. Pretty sharp for its low ABV. Very hard to pinpoint this one, almost like a blend.",
+            "finish": "Plum, mint, strawberries and smoke. Very dry in the long run."
+        },
+        {
+            "user_name": "Dre73",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "20 jun 2016 12:03 am",
+            "content": "Best pleasant whisky, nice balance between sweetness and pepperiness / character. Not too complex / full of flavor, but fine as 'daily dram'.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Dre73",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "20 jun 2016 12:01 am",
+            "content": "Mainly sweetish whisky with especially fruit in the fragrance. Supplemented with a slight pepperiness and in the distance a little salty and smoky.",
+            "nose": "fruity and sweet. Apples, banana, orange peel, honey, vanilla. Slightly salty and smoky in the background.",
+            "taste": "Slightly peppery. Sweet predominates, honey, toffee and vanilla. And some wood tones.",
+            "finish": "Mid-length. Lightly peppery, vanilla and honey. Afterwards it becomes somewhat dry and bitter, with some cocoa-like influences"
+        },
+        {
+            "user_name": "Erik Elixir",
+            "user_rank": "Connoisseur",
+            "rating": "80",
+            "review_date": "07 jul 2012 12:07 am",
+            "content": "N: briny (like a real coastal highlander), grass, fudge, honey, beeswax and fruity - orangeT: beeswax, grass, spicy and some nutsF: dry and long, citrus, bitter and later pure raisins",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "hs305",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "14 may 2017 10:01 pm",
+            "content": "[May, 2017]   Many years ago I had my last standard edition Oban so today's distillery visit is a good refresh on this.  I expect nothing spectacular and I get ... nothing spectacular.  Just an easy to drink dram with the claimed honey and oranges profile.  Warming entry on the palate but not much coating.  Both the taste and finish are very okayish, yet nothing to remember by tomorrow morning.  But hey, such a whisky is made for drinking and not for \"analysis paralysis\"...",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "maltaholic",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "11 jan 2016 3:41 am",
+            "content": "very nice oak fragrance. It easily comes to the tongue, without any irritation. Very pleasant. Aromatic and round. Very good for the price ...",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "rpvdwel",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "14 apr 2018 9:16 pm",
+            "content": "",
+            "nose": "Karamel, citrus fruit call in vanilla",
+            "taste": "Oil, lots of citrus and vanilla",
+            "finish": "What short but sweet with a small pepper"
+        },
+        {
+            "user_name": "Andytka3",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "23 dec 2016 6:28 pm",
+            "content": "Nose:- Non aggressive, gentle waves of cola, malts and strong coastal note with touch of iron. Sea breeze with obvious kippery character. Whiff of raw vegetables and paper ashes. Palate:- Unlike the aroma, the true color reveal on palate. Thick and full body, wood-oil extract bitterness with light fruit essence fragrant. Pineapple with salt and thick chili soya. This is a salty and spicy chap. Finish:- Short-medium length, chili spicy, charred oak. Eye-watering. Control your breath, dont get choke. — at The Whisky Bar, Kuala Lumpur.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Kantenmechaniker",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "22 jun 2018 10:08 pm",
+            "content": "Nice tasty whisky with a fine spicy touch.",
+            "nose": "Fruity and spicy, yellow fruit, citrus, slightly sweetish, salt and pepper, some oak, a hint of smoke, I am used to other calibres, malty",
+            "taste": "oily, supple, sweet, fruity, slightly tart fruit, grapefruit, orange, some oak, vanilla, in the mouth more in the fruity direction, at the tip of the tongue clearly salt at the second sip",
+            "finish": "in the aftermath then also the spice shown in the nose, salty, still long decaying oranges, slightly creamy, smoke even in the end to guess, from the neck then also some pepper comes up again"
+        },
+        {
+            "user_name": "90ClubWhisky",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "21 apr 2025 11:57 pm",
+            "content": "2020 Rating",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "markjedi1",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "21 mar 2017 5:06 am",
+            "content": "SeaIt had been quite a few years since I last tried the Oban 14 Year Old. Unwarranted neglect, I might add, for every time I try it, I quite like it.The nose has a malty heart with honey and citrus fruit, but also a nice smokiness and loads of pepper. I get some figs and something that reminds me of the sea. This is a nice and aromatic nose.It is quite full of flavor and pretty feisty. Loads of heather, pepper and some maritime elements.In the rather short finish, the saltiness returns, with some toffee.Admittedly, it is not the kind of grand malt that makes you lyrical, but still it delivers what you pay for. Thanks, Pat!",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Totoro",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "02 aug 2023 9:28 pm",
+            "content": "Peatier and spicier than I remembered it. Citric, floral, mineralic, peppery / gingery, salty, fresh. Almost like a deluxe, higher-aged, more spicy, all-malt version of Teacher‘s Blended Scotch. Certainly not a „smooth“ whisky, I wouldn’t recommend this to beginners or casual whisky drinkers because of the peppery heat. Speaking of: At 43 percent, you wouldn’t think so, but it actually gets better with a drop or two of water.",
+            "nose": "Sour-sweet, gains in complexity and creaminess with a bit of water.",
+            "taste": "More peppery and sharp than you‘d expect. White pepper, ginger, chili. Water balances it out. Salty, mustardy, acidic, and softly, but noticeably peaty.",
+            "finish": "Quite oaky, actually, with spiky, zingy tannins and an ashy kind of peat that prolongs the experience. Still a lot of pepper as well."
+        },
+        {
+            "user_name": "LiquidThoughts",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "09 apr 2017 1:55 pm",
+            "content": "Already drinkable, but very reserved, what he is known for.",
+            "nose": "Fruits, berries, salt, hints of smoke, honey, aromatic but also a bit shallow",
+            "taste": "Quite sweet and light, honey with herbs, with salt, light oak and cereals, very delicate, hints of pepper / nutmeg",
+            "finish": "Medium long, almost more intense than before in the middle part, dry, malt, salt"
+        },
+        {
+            "user_name": "Tom na Gruagaich",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "30 jan 2019 5:06 pm",
+            "content": "Fine elegant whisky, a little orange, salt and a little peat. Sometimes comes really good, sometimes rather difficult.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Georges",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "18 aug 2014 2:51 pm",
+            "content": "",
+            "nose": "Smoky, fruity, sweet malt",
+            "taste": "Sweet, fruity (pears), spicy, coffee",
+            "finish": "Long, dry, soft, salty, coffee"
+        },
+        {
+            "user_name": "wisekyofcourse",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "13 dec 2016 2:37 pm",
+            "content": "a 14 years old tasted a long time ago, and who has not moved qq years later!",
+            "nose": "Spices, wood, kernel, then sweet scent",
+            "taste": "Spices, then caramel and candied orange, it piques a little, it's iodized",
+            "finish": "short to medium, little to say if not a wild side (iodized, not smoked) that combines well with a candied fruit caramelized"
+        },
+        {
+            "user_name": "pianoman",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "02 jul 2016 4:01 pm",
+            "content": "",
+            "nose": "sea air, fog. Oranges, Grapefruit, Nuts. A touch of nougat. deciduous forest.",
+            "taste": "Creamy. Apricots, chocolate, a hint of nutmeg. Some peach, walnut and a hint of salted caramel.",
+            "finish": ""
+        },
+        {
+            "user_name": "HammerHead",
+            "user_rank": "Connoisseur",
+            "rating": "73",
+            "review_date": "10 dec 2015 8:30 pm",
+            "content": "Nose: lots of alcohol in the nose, salty, spicy (some cardemom), vegetal and a little sulfury smoke.Taste: medium bodied with some sherry sweetness and bitter herbs.The finish is very one dimensional, I only get a very dry bitter woodsap.The nose is pretty ok but then it really runs downhill. This is actually one of the few whiskies where I'd wish the finish to be shorter. Oban 14 yo clearly does not rock my boat.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Mr.Edradour",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "12 jan 2016 4:49 pm",
+            "content": "Very smooth and creamy whisky. Almost island caracter.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Astrid",
+            "user_rank": "Connoisseur",
+            "rating": "80",
+            "review_date": "27 may 2016 7:27 pm",
+            "content": "Makes a strong impression, the 43% Vol. Are well chosen. For my taste, the bitterness is a touch too dominant. In return, the excellent spice compensates with the thyme influence.",
+            "nose": "Vanilla and vanilla cream, maritime sweetish and very ashy smoke, very many raisins, all in very dry fruit with figs, amarena cherries, caramel, cedar spice with hints of eucalyptus, some oak and spicy hazelnut, grapefruit and immature orange, apple and cinnamon, tobacco, blackberry and pear juice, banana, slightly malty, heather",
+            "taste": "subtle smoke and ash, vanilla, rather sweet and honey-like, toffee, some oak and malt, spicy cedarwood and tobacco, strong mineral notes with thyme, slight bitterness of dried fruit, hay, salt effects",
+            "finish": "Ashtray habit, dry and nutty, cedar, citrus (orange & grapefruit), chocolate bitterness, grass, aromas of prunes, some mild pepper, later vanilla and malt"
+        },
+        {
+            "user_name": "Calmar",
+            "user_rank": "Connoisseur",
+            "rating": "87",
+            "review_date": "04 may 2018 8:18 am",
+            "content": "This Oban was, along with the classics of Ayla (Lagavulin 16, Laf 10 and Ardbeg 10), among the first whisky I tried. Then he did not particularly like me, I remember an excessive amount of oak and one-dimensionality, but, apparently, over time, either got used to the oak, or developed receptors and now it seems to me a very good mole, but it does not shine with a variety of derivatives, but has its own individual character, sufficient complexity and depth, which puts him, IMHO, in a row of the best basic products.",
+            "nose": "Open, calm, processed wood, raw wood dust, light notes of varnish and solvent, salty and mineral shades, leather goods, lemon zest.",
+            "taste": "Thick, oak-lemon, varnish, oily, a little pepper, creamy sweet notes - toffee, boiled condensed milk.",
+            "finish": "Soft, bitter-sweet, toffee, bitter bark, grapefruit and lemon peel, burnt crackers, nuts, lacquer notes, oily."
+        },
+        {
+            "user_name": "Allandale",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "13 nov 2017 1:50 pm",
+            "content": "Body;firm,smooth slightly viscous.",
+            "nose": "Like pebbles on the beach. A whiff of the sea, but also a touch of fresh peat, some maltiness.",
+            "taste": "Deceptively delicate at first. Perfume.Faint hint of fruity seaweed.Then lightly waxy,becoming smoky. Dry.",
+            "finish": "Aromatic,smooth,appetizing ."
+        },
+        {
+            "user_name": "LDB",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "13 nov 2022 7:04 am",
+            "content": "Nice, but relatively unspectacular whisky. Delicious drink, no more, no less.",
+            "nose": "Iodine, honey, heather with some canned fruit cocktail juice.",
+            "taste": "Slightly oily, balanced sweetness, a touch of honey mustard from afar. complacent",
+            "finish": "Gone very quickly, quickly fill the glass again, then it works ;)"
+        },
+        {
+            "user_name": "Stanzeflasche",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "10 mar 2018 1:02 am",
+            "content": "On the nose, the smoky peat gives way to lemon and a sweet smell of nuts. A little menthol touch, herbaceous fragrances, autumn breeze. Light fruits, not too ripe. Quinces, apricots. On the palate, returns of peat and honey. Vanilla. Peach pit. The whole remains velvety and slightly woody. The finish is very sweet and quite long. It gives on dried fruits. Spicy cereals in retro-olfaction. Barley, hops, wheat. It is fragile and gently balanced. It's velvet, as they often say. That said, it's not really to my taste, lacks character. https://ilikesky2020.blogspot.com/2020/06/oban-14-yo.html",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "DistiLesha",
+            "user_rank": "Connoisseur",
+            "rating": "79",
+            "review_date": "06 dec 2022 8:51 pm",
+            "content": "The inspiring aroma crashed against the darkness and fatality of the plinth taste and a very terrible alcoholic aftertaste! 22 20 19 18",
+            "nose": "Fruity and bright, full-bodied, peony petals, floral perfumes, vanilla, fresh oak plank tannins, slight mellowness and slight burnt wood phenolicity. Saturation: 8.5 out of 10",
+            "taste": "Over oak whisky! Sweetish, fruity, very bitter due to the abundance of tannins barrels, plinth, vanilla, citruses, some phenols. Saturation: 7 out of 10 Sweetness: 6.5 out of 10",
+            "finish": "Skirting, bitterness of alcoholism and oak tannins."
+        },
+        {
+            "user_name": "Marko_I",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "12 aug 2016 11:57 pm",
+            "content": "Solid standard for 43 €, just as a beginner, you can imagine a bottle as a slightly smoky alternative as well, it will not get boring quickly.",
+            "nose": "fresh-fruity, apple, lemon, pear, slightly salty freshness, gentle, dry smoke ... after some time it becomes sweeter and fuller, dried fruit, gingerbread spice",
+            "taste": "hard to grasp ... there is something creamy-sweet, caramel, covered by bitter notes, herbs, coffee ... pepper and some salt",
+            "finish": "medium length, slightly bitter, some licorice, pepper and salt"
+        },
+        {
+            "user_name": "Issie",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "23 feb 2023 11:59 am",
+            "content": "25.11.2022",
+            "nose": "Honey, honeydew melon, apple, peach, apricot, slightly maritime, a bit of salt, a few grasses, a bit of old wood, you could also imagine a hint of smoke",
+            "taste": "Apple, apple peel, apricot, peach, dried herbs, some grapefruit, salt, fresh wood",
+            "finish": ""
+        },
+        {
+            "user_name": "_Dziki_",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "04 jan 2023 4:43 pm",
+            "content": "",
+            "nose": "Citrus fruit, apricots, cider, yeast dough",
+            "taste": "Green apples, lime, lemon sorbet, orange peel, a bit of salt, or rather salty herbs, you can feel the alcohol towards the end.",
+            "finish": "No revelations, it heats quite strongly"
+        },
+        {
+            "user_name": "hsmithjr",
+            "user_rank": "Connoisseur",
+            "rating": "80",
+            "review_date": "22 jul 2011 11:39 pm",
+            "content": "",
+            "nose": "Fresh ginger and cucumber.  Fruit gum.  Lemon peels and some vanilla bean.",
+            "taste": "Medium bodied. Sweet and fruity.  Apricots and melon.  Spicy, with traces of oak.",
+            "finish": "Medium.  Fresh and still fruity.  Malt creeps in at the end."
+        },
+        {
+            "user_name": "DramALife",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "30 jul 2024 5:45 pm",
+            "content": "S 7Bottle from the early 90s. A bit disappointed by the nose, but it improves thereafter. Similar quality to modern 14 but a bit richer, I suspect the initial vats has higher ratio of older stock.",
+            "nose": "Rose moisturiser. Vanilla. Honey drizzled barley. Red apple. White pear. Blood orange. Old wooden cupboard. A little dusty, but feeling old & dignified. Then fizzy lemonade and mildly prickling alcohol blows the cover. A whiff of hot copper. A pinch of rock salt.",
+            "taste": "My warm and spiced honey drink, very quaffable. Sugary and oily mouthfeel. Ginger root, crushed peppercorn, cardamom. Manuka honey - intense like having a spoon of it straight. Toasted malt and mildly bitter oak. More juicy orchard fruits. A little metallic towards the finish.",
+            "finish": "Medium, slowly drying finish. The honey malt continues. Red apples. Warm oak spices."
+        },
+        {
+            "user_name": "DramALife",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "16 apr 2022 4:02 pm",
+            "content": "In my pre-historical scoring method, it's an 8.8/10.",
+            "nose": "Rich honey. Pear. Coastal peat. Citrusy.",
+            "taste": "Mildly oily. Honey and spices.",
+            "finish": "Short-Mid, dry finish. Mildly oaky. Lightly smoked at the back"
+        },
+        {
+            "user_name": "Spoerkel",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "03 jan 2022 10:10 am",
+            "content": "Not good, not bad - a malt without qualities.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Moses",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "14 sep 2018 12:31 pm",
+            "content": "It has its place in the classic malt range. Perhaps not optimal in terms of price-performance ratio, but a fair bottle.",
+            "nose": "Smells like buttery cardboard. It's not a nose that impresses. But very pleasant with a little salt in the air. Malty.",
+            "taste": "Malty and salty. Or rather a distillery on the coast? An oily respectable body.",
+            "finish": "Clean and dry finish. What remains is the wonderful nature (flora) directly on the coast. Round and clean."
+        },
+        {
+            "user_name": "drkrylov",
+            "user_rank": "Connoisseur",
+            "rating": "79",
+            "review_date": "23 mar 2012 7:06 pm",
+            "content": "",
+            "nose": "Spicy. Hot sawdust, fresh ginger, citrus zest. Crisp. With water fragrant oak, allspice, shortbread with sugar. Summery.",
+            "taste": "Dried apricot, tingling. Slightly sweet with good balance in the mid-palate. Hint of menthol.",
+            "finish": "Tingling ginger. Short but fresh."
+        },
+        {
+            "user_name": "Damek",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "04 jun 2023 9:39 pm",
+            "content": "Nose: very fresh, light, pleasant! Vanilla, honey, beeswax, toffee, fresh green apples, pears, citrus, lemon peel, grapefruit, ginger, a hint of spice. Taste: Vanilla, toffee, hints of chocolate, pepper, ginger, citrus, honey, orchard fruit, ripe apples, pears, peaches, spices, wood tartness, herbs. Finish: Short and pleasant, vanilla, citrus, salty, very tart, nuts, wood, pepper, unfortunately at the very end it slightly \"burns the pipe\"",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "d1scostu",
+            "user_rank": "Connoisseur",
+            "rating": "78",
+            "review_date": "14 apr 2012 8:06 pm",
+            "content": "Nose: obstler, smoke ?, slightly musty, cherries, potatoes,, spices, oak, alcohol  Taste: strong onset, pepper, spices, oak, quite flat, less light fruit  Finish: spicy, medium long, vanilla at the end,",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "spigray",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "17 feb 2017 1:02 pm",
+            "content": "I like this understatement. surely not a great but a substantial and very honest bottle that I really enjoy now and again.improves with every sip.86/100",
+            "nose": "a little shy at first nosing. slightly smoky and quite malty, coastal with sea breeze, sandy beach and wet pebbles. some apples and a little marzipan.",
+            "taste": "the palate is much stronger. nicely balanced with malt and honey,pastry, smoke and light fruit (apples and lemons). nutmeg.good coastal touch.",
+            "finish": "medium to long, still slightly smoky and quite malty. there´s also a little ginger in the aftertaste"
+        },
+        {
+            "user_name": "kikist",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "12 jun 2023 12:13 am",
+            "content": "Nice, funky whisky for me, I think this isn't for everyone...Nose is nice for me but other segments lacks behind",
+            "nose": "rotten tomato, fresh tomato, fruit basket, basement, hints of costal notes, pretty funky",
+            "taste": "nice mouthfeel, hints of smoke, but too spicy for my taste, alcohol is too pronounced for me",
+            "finish": "spicy, dry, burning, light bitterness, IPA beer"
+        },
+        {
+            "user_name": "domani",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "25 feb 2016 12:44 am",
+            "content": "Nice mix of fruit and sweetness with light spice. With the addition of water, the fruit notes appear clearly. A good single malt for all days - 15.02.2014",
+            "nose": "Nice sweetness, ripe fruits, pear, banana, peach, caramel, malt",
+            "taste": "Nice interplay between fruit and sweetness, slightly spicy, oak",
+            "finish": "medium"
+        },
+        {
+            "user_name": "gallfux",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "19 dec 2019 12:02 am",
+            "content": "So I actually find the nose really good. A beautiful fruitiness that looks almost exotic. Ripe citrus. Plus the mild smoke and oak. In the mouth, unfortunately, then quite boring. There is not much left of the fruit. The oak is already there and the smoke looks more dull.  The nose is quite good. In the mouth it is rather casual and not very exciting.  Not bad for a pub along with a beer. But it is not enough for more.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Feusi",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "28 jul 2011 10:40 am",
+            "content": "As a digestif after a meal, absolut wonderful. Wild herbs and vanilla with a subtle fragrance of a sea brize are merged together. Really pleasant and easy to drink. A forgotten \"classic\" bottling.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Koning",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "30 may 2022 9:12 pm",
+            "content": "This whisky really grew on me. In the first months I wasn't that enthousiastic about its profile and I would give it around 80 points. Almost two years later I emptied the bottle, and it oxidated really well. It's indeed a maritime dram with some flavours you won't encounter that often in other malts.",
+            "nose": "Wet dog, hay, and maybe a hint of mushrooms. Also more conventional notes like honey, citrus fruits, and vanilla. Quite coastal too (sea spay, mussels), black olives, and a hint of smoke. A bit shy at first, but opens up beautifully with a dash of water.",
+            "taste": "Quite mineral with an oily texture. Whipped cream, mussels, fennel, lemon and some mustard.",
+            "finish": "A bit weaker but still quite broad in flavours: Malt sugars, leather, oyster, black olives, aniseed, bitter oranges and apple."
+        },
+        {
+            "user_name": "Sandman",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "29 mar 2015 8:46 pm",
+            "content": "The smells on the nose correspond to the taste. Let this whisky stand for about 15 minutes with a few drops of water, then the fruit notes will come up.",
+            "nose": "Sea salt, little smoke, lemon and with water vanilla, apples, pear, pineapple and melon.",
+            "taste": "Sea salt, smoke flavor, lemon, apples, pear, pineapple and melon",
+            "finish": "Medium, dry citrus notes and tropical fruit."
+        },
+        {
+            "user_name": "DenisLeonov",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "16 apr 2018 8:26 am",
+            "content": "Balance sheet (21)  Cute, the origin of shrimp is not clear but funny (84)",
+            "nose": "Strange aroma of boiled shrimp????♂️ ... salt and fruit ... tree ... grass ... (21)",
+            "taste": "The taste is fruity, slightly smoky, salty (21)",
+            "finish": "Finish sweet, round ... smoke and woody spice (21)"
+        },
+        {
+            "user_name": "Defeatless",
+            "user_rank": "Connoisseur",
+            "rating": "79",
+            "review_date": "31 may 2019 11:14 pm",
+            "content": "A doctored whisky, needs to please everybody and thus doesn't please me. Heavy chill filtered and coloured. Although there is worse out there, I wouldn't buy it again.",
+            "nose": "Sweet, vanilla, little wood, touch of fudge. Smells a bit doctored as this one needs to please everybody. It's not a bad smell, but hasn't got much depth.",
+            "taste": "Soft as silk. Sweet, little sour. Quite some malt notes. Doesn't develop much. I assume every little bit of oilyness has been stripped with the chill filtering.",
+            "finish": "Short-medium length. Some sweetness, wood and toffee. And it fades away as a whisper in the wind."
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Glengoyne 21-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Glengoyne",
+        "ws_age": 21,
+        "ws_abv": 43.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/4/1/501/78074-normal.png",
+        "ws_rating": 88.09,
+        "ws_vote_cnt": 1557,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/41501/glengoyne-21-year-old",
+        "ws_id": "41501",
+        "collected_count": 56,
+        "flavor_profile": {
+            "fruity": 6.4,
+            "sweet": 6.5,
+            "peaty": 0.5,
+            "spicy": 4.9,
+            "woody": 4.9,
+            "malty": 1.9
+        },
+        "top_keywords": [
+            "rum",
+            "hazelnut",
+            "oak",
+            "iodine",
+            "sweet"
+        ],
+        "ws_name_kr": "글렌고인 21년",
+        "ws_distillery_kr": "글렌고인"
+    }
+}

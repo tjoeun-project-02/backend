@@ -1,0 +1,596 @@
+{
+    "info": {
+        "ws_name": "Highland Park 10-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Highland Park",
+        "ws_age": 10,
+        "ws_abv": 40.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/9/6/408/150433-normal.png",
+        "ws_rating": 80.76,
+        "ws_vote_cnt": 895,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/96408/highland-park-10-year-old"
+    },
+    "collected_count": 58,
+    "reviews": [
+        {
+            "user_name": "peatbogger",
+            "user_rank": "Specialist",
+            "rating": "82",
+            "review_date": "16 sep 2024 7:23 pm",
+            "content": "About what you should expect from the entry level of an established distillery these days.",
+            "nose": "Pleasantly sweet honey notes.Light heather smoke.Some vanilla and cinnamon. The sherry wood is rather muted.",
+            "taste": "Apple, citrus, honey.Dry smoke.Light pepper, which with the low 40% ABV make it feel a bit rough.",
+            "finish": "Mainly sweet caramel in a way too short finish."
+        },
+        {
+            "user_name": "Cubey666",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "20 sep 2017 10:38 am",
+            "content": "Tasted at WTF2017 - August 2017, later retasted",
+            "nose": "banana, berries, vanilla, light smoke, meaty edge, easy,",
+            "taste": "light smoke, vanilla, some red fruit, leather, bit thin",
+            "finish": "mini smoke, red fruit, short but yet okay"
+        },
+        {
+            "user_name": "ctu",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "26 feb 2019 8:16 am",
+            "content": "Very light HP, but it would have a potential.",
+            "nose": "Floral and thin. Milk caramel, honey, yellow fruits, citruses and touch of salted peat.",
+            "taste": "Spicy. Honey and caramel, dried fruits, oak and malt. Pleasant, but thin.",
+            "finish": "Short, spicy, bittersweet."
+        },
+        {
+            "user_name": "WhiskyLovingPianist",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "01 dec 2017 4:50 pm",
+            "content": "https://whiskylovingpianist.wordpress.com/2017/12/01/on-location-highland-park/Made predominantly from European oak topped up with US barrels, 40% of which is virgin oak - all sherry seasoned.N: A gentle, well rounded nose with a little peat smoke (the current 12yo is only a mere 3ppm). Nice recipe.T: Soft virgin oak - so a young tempered dram but still with some immaturity.F: Feathery-soft heathery finish, sweet saline. Again, the recipe rings true.C: Another entry level age statement HP destined for international markets. Depending on the price differential however, you may be better off jumping straight to the 12yo. The last HP 12yo i had improved significantly in the bottle over time, so there’s a fair chance this would also.Scores a C[-]",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "90ClubWhisky",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "31 dec 2021 10:14 pm",
+            "content": "Dark straw color. Fine oiliness.",
+            "nose": "Enjoyable. Gentle smoke interspersed with fruit. Peaches. Traces of growth honey. Apples with cinnamon.",
+            "taste": "The fruit is intertwined with smoke. Peaches. Cinnamon. Smoke again. Apples. Spices. Pepper.",
+            "finish": "Smoke. Sweetness. Caramel. A pinch of spices. Fruit. Peaches and apples. Medium-long finish."
+        },
+        {
+            "user_name": "3_243F6",
+            "user_rank": "Photo Moderator",
+            "rating": "80",
+            "review_date": "30 jun 2022 4:47 pm",
+            "content": "Smells and tastes like a lot of virgin oak casks were used, at least in the (unspecified) batch my sample is from.",
+            "nose": "Honey, a hint of glue, wood and spice, fresh apples and pears, earthy smoke, lots of vanilla.",
+            "taste": "Oak, vanilla, apples, pears, some honey, heather. I really think there's a high proportion of virgin oak in the mix.",
+            "finish": "More of the same. A bit bitter.Not bad but not good."
+        },
+        {
+            "user_name": "HammerHead",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "02 apr 2024 6:39 am",
+            "content": "",
+            "nose": "Light, mildly smoky, honey, apple, citrus, a hint of pepper.",
+            "taste": "Mild and sweet smoke, peppery, honey, lemon, apple.",
+            "finish": "Short: honey, citrus, pepper and a little wood char."
+        },
+        {
+            "user_name": "Stanzeflasche",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "21 jun 2018 9:54 pm",
+            "content": "On the nose, the smoky peat envelops you. It is refreshed by vanilla and lemon peel. And from the orange, you feel like you're biting into the fruit. Over time, the smoke becomes stronger and stronger. The vanilla is intense on the palate, and blends voluptuously with the peat. Citrus fruits spice everything up. Behind, we smell some hints of hay, something country. The finish lacks a little length, but it is good, still vanilla, with a zest of lemon, and the malt which takes over. It's interesting, we clearly recognize the markers of the distillery. https://ilikesky2020.blogspot.com/2020/05/highland-park-10-yo-viking-scars-40.html",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "MaroFF",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "23 oct 2022 7:53 am",
+            "content": "",
+            "nose": "softer than 12YO, sweet traces of oak",
+            "taste": "nice, pleasant quite sweet, orange peel through which candied cherries in syrup break through. Someone wrote that he smells smoke and peat ... I do not have such an impression about earthy rot, I do not mention at all",
+            "finish": "not too long, quite flat, which does not mean that the whisky is flat ... At the end of it I can feel a strong 90% dark chocolate."
+        },
+        {
+            "user_name": "Robinzon25",
+            "user_rank": "Connoisseur",
+            "rating": "78",
+            "review_date": "27 dec 2023 9:22 pm",
+            "content": "Absolutely inarticulate, inexpressive, boring whisky. It lacks color and strength. The distinctive features of HP are recognized with great difficulty. This is just a shadow of the brand I once loved. If it weren't for the tempting promotional price in KB, I wouldn't even buy this whisky. The negative dynamics of development of the basic line of HP is extremely clear. Even the previous ten (before the latest Viking rebranding) were much more interesting.",
+            "nose": "It greets you with echoes of beer and a hint of smoke, then you can feel the shades of dusty paper, gray bread, pepper and broken apples.",
+            "taste": "Malt, pepper, lemon peel, caramel, some phenols and dry tannins.",
+            "finish": "Watery, short-lived, with hints of spice, burnt bread, citrus and papery notes."
+        },
+        {
+            "user_name": "Expraesi",
+            "user_rank": "Connoisseur",
+            "rating": "80",
+            "review_date": "22 dec 2018 11:18 pm",
+            "content": "",
+            "nose": "Tender smoke, heather and honey, very little sherry. Very complex.",
+            "taste": "Very mild, malty and sweet. Falls in comparison to the nose.",
+            "finish": "Medium long, easy to drink. Sherry sweet and oak. Something too shallow for me."
+        },
+        {
+            "user_name": "Thermidor",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "30 dec 2020 7:25 am",
+            "content": "This should probably become the new entry level HP, since the current batches of the 12yo are not good at all anymore (based on a current 5cl mini I tried recently). You shouldn't expect much from this one, but it's fairly priced for what it is.",
+            "nose": "Faintly smoky, faintly honeyed, faintly saline, and faintly leathery. I think the 15yo mini from 2007 I nosed a day before had a much nicer bouquet. The leather and salt together make a note like an old leather backpack that's been scavenged from the sea.",
+            "taste": "Somewhat peaty and a bit metallic. The feel of it on the tongue is surprisingly firm and full, with a lot of honey and peat, and some tar candy in the back. The profile is cleaner than that of the current 12yo, and as such better. With a little bit of water I get some Marabou milk chocolate.",
+            "finish": "The finish is just like the taste apart from some touches of menthol. It fades away quickly."
+        },
+        {
+            "user_name": "Damek",
+            "user_rank": "Connoisseur",
+            "rating": "80",
+            "review_date": "25 jan 2024 10:19 am",
+            "content": "",
+            "nose": "Nose: Mild, vanilla, toffee, green apples, baked apples, cinnamon, sweet citrus, wet wood. 82.50",
+            "taste": "Taste: Bitter, astringent, alcoholic, pepper, cocoa, sour citrus. 79.00",
+            "finish": "Finish: Short, burning, pepper, wood, cinnamon, vanilla.78.00"
+        },
+        {
+            "user_name": "robbert88",
+            "user_rank": "Connoisseur",
+            "rating": "80",
+            "review_date": "24 mar 2021 5:02 pm",
+            "content": "",
+            "nose": "immediately that lovely sweet heather peat of a highland park. Nuts, honey, soft smoky, citrus, light sulfur, orange and something that reminds me of new make spirit.",
+            "taste": "the nose is the most beautiful of the whisky because here it falls a bit dead. It is a bit flat. Has light honey, is not as smoky as the nose suggests, the sulfur is flattened even more. A pity actually ... bottling at 46% would probably do a small miracle with the taste.",
+            "finish": "short. Citrus, sweet caramel, a little malt, suddenly a little revival of a trace of smoke. And then the taste slowly dies."
+        },
+        {
+            "user_name": "2ndSip",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "16 jan 2020 10:30 pm",
+            "content": "clearly fruity in the nose than in the taste. A good 10-year-old beginner or EveryDayDram without being overwhelmed. [A banana aroma surprises me in the nose, but still fits harmoniously into the overall picture. Interesting that the taste and the finish differ more].",
+            "nose": "initially fruity (apple and ripe banana) and a certain citrus freshness as well as honey and vanilla. Then very light smoke that slips into the background the longer he breathes. The fruity components are then becoming increasingly clear. Every now and then an alcohol bite comes through, along with a floral note that I would locate in the typical HP heather.  If you leave a dram covered in the glass for longer (e.g. one hour), the heather gets through very well with a fresh floral note. The fruit (banana) is also more evident. [That gives me another upgrade in the aroma of 80 -> 84 points]",
+            "taste": "first a very soft taste, then a light spice comes along. It becomes creamy and oily. Vanilla and honey are clearer, the fruit components are no longer so pronounced, even if they are still recognizable. Very light smoke out the back.  Even softer on the second dip, but still has enough power.",
+            "finish": "medium to long finish. Oak flavors and a slight bitterness of coffee (dark chocolate / strong coffee) remain in the mouth. A spicy smoke is also on the tongue for a very long time - but this depends on the shape of the day. Sometimes you can feel this smoke in the outlet, sometimes it's not so present."
+        },
+        {
+            "user_name": "Sandman",
+            "user_rank": "Connoisseur",
+            "rating": "80",
+            "review_date": "18 aug 2019 11:18 am",
+            "content": "",
+            "nose": "Lemon, smoke, vanilla, pear, apple, tobacco, hint of peat, honey and peach.",
+            "taste": "Peat, earth, lemon zest, stewed apple, pear, peach, cinnamon, hazelnut, honey, hint of grapefruit and a hint of tobacco.",
+            "finish": "Short, peat, tobacco, lemon, earth, vanilla, stewed orchard fruit and a little ginger."
+        },
+        {
+            "user_name": "WhiskyCasual",
+            "user_rank": "Photo Moderator",
+            "rating": "85",
+            "review_date": "25 jun 2020 11:15 am",
+            "content": "Immediately after pouring out honey and orange, hardly any peat. Salty and herbal notes come with a little oxygen.  First sweet in the mouth then strong spicy.  Despite 40% vol. pushes the malt properly and lasts a long time.  Wow, what a pleasant surprise.  + 1 PER point",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "VLG",
+            "user_rank": "Connoisseur",
+            "rating": "73",
+            "review_date": "25 feb 2025 8:19 pm",
+            "content": "Batch: L0209E L04 16/06After being pretty blown away by the regular HP12 (even though I’d tried it before), I decided to grab a few more bottles from the distillery, both IBs and OBs. After sampling some of them, I can confidently say that HP is now one of my favorite distilleries.This unassuming distillery delivers one of the most sophisticated profiles on the market, in my opinion, yet it’s often categorized as lightly peated and recommended for beginners. That said, while I first tried this whisky five years ago when I was just starting to explore the incredible world of Scotch, it wasn’t until much later that I really began to appreciate its delicate and complex character.HP, much like Springbank and Benromach, is a whisky that seems to have everything—ex-bourbon, sherry, and peat—without letting any one element dominate. But what makes it stand out is its unique twist on the balanced mix (Campbeltown funk for Springbank, farmy/artisanal notes for Benromach, and heather honey for HP).Out of the HP bottles I have open, it was obvious this daily sipper would be the first to go. I picked it up because I wanted a cheap OB from them, and among all the chaos of their lineup, this is the only one that isn’t a NAS… and it’s also one of the cheapest. Less than €35. Let’s see what it brings to the table.Nose:Bright citrus, sweet, gently toasted, floral, and slightly peated. The nose, while showing some weakness, is still pretty nice and surprisingly layered: soft citrus notes, sweet toffee, heather honey, buttery pastries, young malt, generic tropical fruits, a subtle but ever-present sweet peat, damp earth, a touch of salt, cinnamon, a little funk, herbs, dates, and flowers.Palate:Citrusy, bitter, sweet, toasted, salty, slightly peated. Right away, there’s a mix of bitter lemon and toffee, with hints of heather and a subtle, almost coastal salinity. Vanilla. Pineapple and a bit of smoky yet sweet mango. Some roasted nuts. A touch of bonfire smoke and gentle, sweet peat that complements the bitterness. The faintest note of marzipan and buttery cake.Finish:Short and unspectacular, but still pleasant. Bitter, citrusy lemon takes the lead, backed by sweet toffee and floral peat. A bit of ash, orange, nuts, and some organic and coastal notes. No off notes, which is always a plus.Surprisingly complex for the price, but underwhelming for a 10-year-old. The nose is nuanced, layered, and honestly quite charming, but the rest of it is just a decent, easygoing whisky, pleasant but a bit boring and middle-of-the-road at best. It’s a Highland Park that wears its youth on its sleeve, with citrus notes that don’t quite mesh with the usual delicate balance of sweet and salty toffee, gentle sherry, and floral peat that HP is known for. Too much ex-bourbon cask influence here.That said, I really enjoy HP’s profile, and even this bottle, one of the least ambitious they offer, is still a decent pour when you’re not looking to overanalyze. That’s pretty much how I finished it: pouring drams while doing other things. But unless you’re a die-hard HP fan curious about how the distillery fares in a lower-quality bottling than the 12-year-old, I wouldn’t really recommend it. The 12-year-old is simply way more enjoyable and does a much better job showcasing what Highland Park is all about.This 10-year-old isn’t the best example of what the distillery is capable of, but it still delivers HP’s signature profile in a reasonably competent way, which I can respect. If you’re interested in the distillery but haven’t tried it yet, I’d definitely recommend starting with the 12-year-old (it’s only €4 or €5 more in my market).If you think HP is overrated and their better offerings are overpriced, I’d suggest looking into IBs, especially refill sherry-matured ones like Whitlaw. Even better if you can find a cask strength version. I’ve yet to try one that wasn’t fantastic. But to be honest, I still can’t quite put my finger on what makes a Highland Park truly great. I’m still figuring this distillery out.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "ZLako",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "03 dec 2022 12:46 am",
+            "content": "Originally I gave it 83 points because I've had it at a friends place from a tumbler and had no time to normally \"analyze\" this whisky. But I did remember to pick one up when the time is right and it might be in a promotion. And that day came, quickly picked up a 10 year old and a 12 year old. Thankfully as all of Edrington Group's Single Malts, this one comes in with natural color. Unfortunately it's bottled at 40% and is chill-filtered. But oh well? If it works this way why not?Using the whisky.de glasses for this that was created by the one and only Horst Luening.N: Now this is very nice. You get that beautiful Highland Park DNA. Heather honey with citrus zest and a soft aromatic peat smoke. Ripe fruits, apples, pears and a touch of spiciness. A hint of vanilla. Great introduction to what Highland Park is all about. (87)P: Citrus thang, ripe fruits again, apples, pears and some slight raisin note. Heather honey with vanilla and aromatic peat smoke with some coastal elements. This is great. (85)F: Medium at best. Here the 40% holds it back a bit as expected. Says goodbye with vanilla and a touch of peat. (84)Overall a nice malt from Orkney. Great introduction to Highland Park and a nice daily dram.87 / 85 / 84 = 85.333 --> 85 pts / 100",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Finn2206",
+            "user_rank": "Expert Senior",
+            "rating": "78",
+            "review_date": "29 mar 2022 9:02 pm",
+            "content": "To flat for my taste, a really minimal version of the 12 year old.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "StefanKatonaXXL",
+            "user_rank": "Expert Senior",
+            "rating": "82",
+            "review_date": "18 may 2024 5:25 pm",
+            "content": "I'm a fan of the HP brand, but this whisky was a real disappointment. Overall watery, indistinct and I could hardly find the characteristic aromas of the brand in it....",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "P.K.S",
+            "user_rank": "Expert Senior",
+            "rating": "68",
+            "review_date": "15 jul 2020 7:27 pm",
+            "content": "A simple ligth highland park, im nor impressed by the 40abv. IMHO",
+            "nose": "Heather and toffe some newmake is in the air.",
+            "taste": "Sweet honney some spisey oak",
+            "finish": "Spiseyness, chilli, honey,heather,pepper some dryness in the end. This is not my kind of wisky you have to take a big moth to get the god flavers with a short finnish. i like my smal sips and a punsh of flavers \"I want my monny back\" IMHO"
+        },
+        {
+            "user_name": "aquataste",
+            "user_rank": "Expert Senior",
+            "rating": "82",
+            "review_date": "19 oct 2022 8:39 pm",
+            "content": "",
+            "nose": "Sweet with accents of the sea, a lot of heather honey, a minimal whiff of peat smoke, green apples, peaches, a bit of orange, vanilla, citrus, notes of old wood, a tiny pinch of cinnamon and herbs, notes of peat bog",
+            "taste": "Sweet and salty, lots of heather honey, ripe and green apples, some orange, a small pinch of dried herbs and cinnamon, delicately citrusy, notes of old oak with a slight bitterness, a bit of ash and the sea in the background",
+            "finish": "Medium length, honey-citrus with delicate notes of peat smoke, light bitterness of oak and ash at the end"
+        },
+        {
+            "user_name": "AdamsB",
+            "user_rank": "Expert Senior",
+            "rating": "81",
+            "review_date": "15 jun 2019 4:45 pm",
+            "content": "Whisky spent 10 years in sherry oloroso barrels before it was poured into bottles. About 10% of the content is distillates, which matured in barrels of the first filling. It is a slightly peat whisky containing about 20 PPM phenols. Interestingly, it comes in two versions with 40% and 43% power.",
+            "nose": "Sweet, slightly peaty, sherry, orange, sea salt, citruses, vanilla, peaches, apples.",
+            "taste": "Sweet, mild, peat, mrksa salt, apples, honey, spices, vanilla, light herb, sherry, nuts",
+            "finish": "Sweet, vanilla, peach, slightly peat, dark chocolate, oak."
+        },
+        {
+            "user_name": "pkomarek",
+            "user_rank": "Expert Senior",
+            "rating": "72",
+            "review_date": "10 dec 2025 10:06 pm",
+            "content": "The aroma is quite indistinct, the damp earthiness of peat, gradually slightly spicy roasted fruit, a little heather honey, flowers appear. But it's all in the background, so in the end it seems indistinct and rather boring. The taste is fruity sweetness, a little honey, spiciness, ripe fruit, a little roasted fruit. The taste is a little more pronounced than in the aroma. In the finish, I can hear green apples and light peat. Overall, it's quite indistinct, it feels like an attempt to make a lighter version, but I can't think of anyone for it. It's so uninteresting that it can't entice anyone to explore further. There's nothing wrong with it, but there's also nothing that makes me want to drink it again. It's a weaker concoction of the 12-year-old Viking Honour, and that one isn't particularly interesting either.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Glennie",
+            "user_rank": "Expert Senior",
+            "rating": "82",
+            "review_date": "02 feb 2018 10:09 pm",
+            "content": "Nose: Light smoke. Hint of new make but in a nice way. Mild toffee and heather honey. Highland Park allright, but a little light.Mouth: Fits the nose. Sweet and honeyed at first. Then a light spicy kick. Even some hint of dried fruits and fresh white fruits like honey melon. Slight smoke and bitterness towards the end.Finish: Rather short. A little spiciness lingers on for a short while.  Then some bitter notes that are neither pleasant nor unpleasant.All in all a rather acceptable entry malt, but nothing you will remember for long. I will properly use this to warm up my taste buds for more challenging and interesting malts.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "dissonance",
+            "user_rank": "Expert Senior",
+            "rating": "80",
+            "review_date": "22 nov 2021 10:33 am",
+            "content": "RATING: 80pts – |80 – 82 (B-) → Okay| — No major flaws, worth tasting.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Louisvandermeer",
+            "user_rank": "Expert Senior",
+            "rating": "79",
+            "review_date": "16 nov 2023 11:31 pm",
+            "content": "Delicious whisky to drink for a good price",
+            "nose": "Pleasant soft scent with sweet notes and hints of smoke and sea air.",
+            "taste": "The taste is wonderfully soft, honey and vanilla mingle in combination with a hint of smoke and sea salt.",
+            "finish": "The aftertaste is very short with vanilla and smoke again."
+        },
+        {
+            "user_name": "smolar231",
+            "user_rank": "Expert Senior",
+            "rating": "78",
+            "review_date": "31 aug 2023 1:29 pm",
+            "content": "",
+            "nose": "sweet, some nuts, some fruit, citrus",
+            "taste": "slightly smoky, a bit spicy, campfire smoke, sweetness",
+            "finish": "not too long, sweet, fruity, slightly smoky"
+        },
+        {
+            "user_name": "M_A_S_K_A",
+            "user_rank": "Expert Senior",
+            "rating": "82",
+            "review_date": "26 mar 2024 5:47 pm",
+            "content": "",
+            "nose": "smoke, malt, then honey, vanilla, flowers, sweet notes, fresh fruit, a little lemon light smoke goes in the background",
+            "taste": "medium density, soft, honey, pepper",
+            "finish": "below average, honey-pepper"
+        },
+        {
+            "user_name": "rdavek",
+            "user_rank": "Expert Senior",
+            "rating": "88",
+            "review_date": "25 may 2021 10:16 pm",
+            "content": "One of my favorite entry level whiskies from any distillery. A close second to the Springbank 10 IMHO. An honest distillate forward dram that works beautifully even at 40%. Great balance of spirit and wood, with Highland Park DNA on full display, heather, honey, some dried fruit, wood spice, and a nice mild dose of peat. The only Scottish malt I buy when in Canada.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Ringstone",
+            "user_rank": "Expert Senior",
+            "rating": "83",
+            "review_date": "15 jun 2022 8:59 pm",
+            "content": "Simple but nice Highland Park with a nice peppery note on the palate and finish.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Pyromann",
+            "user_rank": "Expert Senior",
+            "rating": "75",
+            "review_date": "13 dec 2019 2:20 pm",
+            "content": "This whisky offers both sweetness, sweetness and a little overripe fruit in aroma and taste. Compared to the older 12y version, which offered something from everything, this paradoxically seems like trying to please as many customers as possible. I liked the older 12y bottling more.",
+            "nose": "Sweetness, light chocolate, slightly overripe fruit, caramel",
+            "taste": "Overripe fruit, sweetness",
+            "finish": "Standard, medium length, nothing extraordinary"
+        },
+        {
+            "user_name": "Whiskopij",
+            "user_rank": "Expert Senior",
+            "rating": "82",
+            "review_date": "06 jun 2024 9:07 pm",
+            "content": "Good whisky. It just could use more power. 46 abv would be just right.",
+            "nose": "Fresh. Refreshing. Fruity: apple, pear. Vanilla. Caramel. Heather honey. Sea breeze. Brine. Delicate peat, focal. Skin. Oak.",
+            "taste": "Vanilla. Caramel. Heather honey. Brine. Sea. Seaweed. The fruit is less noticeable than on the nose. Oak. Light smoke. Skin. Pepper.",
+            "finish": "In the foreground, vanilla, caramel, heather honey. At first, the smoke plays a supporting role, but this quickly changes. Campfire. Marine notes. Wood. Pepper. Cinnamon. At the end there is the bitterness of dark chocolate and campfire smoke."
+        },
+        {
+            "user_name": "Collegiate",
+            "user_rank": "Expert Senior",
+            "rating": "83",
+            "review_date": "11 jun 2020 1:06 am",
+            "content": "I went through a few bottles of this six years ago from the old livery and found them a decent budget option. Nose - light peat and honey, but all very light with little jumping out at me. On the palette, you get those trademark HP notes of heather, honey and light peat. It’s all very clear and straight as an arrow, with minimal sherry influence. The finish has some surprising heft of dry smoke and sweet honey. I have to say I am enjoying this more than a recent bottle I had of HP12, which I found very discordant (perhaps a bad batch?) in its sherry/peat mix. It’s a shame this 10yo is only bottled at 40% abv, though it certainly punches above its weight a bit. For a budget single malt, you could do a lot worse than this. Frankly between this bottle and the rather enjoyable Magnus, Highland Park is doing a fine job of putting solid budget options on the market. Well done!",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "CellarToberi",
+            "user_rank": "Expert Senior",
+            "rating": "90",
+            "review_date": "17 jun 2025 8:33 pm",
+            "content": "Spirit oriented with the age just suiting the spirit. Matured in European and American oak sherry seasoned casks. Chill-filtered. Coloured. Mid-size fast, slowly forming primary legs. Mid-size slow secondary legs. Thick trailing droplets.",
+            "nose": "Sweet: heather honey, vanilla, toffee, confectionery, chocolate note. Fruity: citrus: lemon; dried fruit: raisin, date; fresh fruit: apple, pear; stone fruit: peach; berries. Smoky: heather peat, burnt paper. Cereal: malted barley, wholegrain biscuit, hay, dough. Spicy: black pepper, mint, baking spices, tea, cinnamon, basil, coriander, spice seeds. Feints: wax, chalk. Maritime: sea coast, sea breeze, brine, shell, oyster. Herbal: grass. Earthy: mineral, clay, turf. Oily: cream, yoghurt note. Woody: oak. Winey: sherry note. Floral: heather, fragrant. Savoury: tomato sauce. Rich: robust. Full body: balanced. Water brings up fruity notes.",
+            "taste": "Sweet: heather honey, toffee, vanilla, chocolate, confectionery. Fruity: citrus: lemon, orange; fruitcake; fresh fruit: apple; dried fruit; stone fruit: peach. Spicy: black pepper, baking spices, cinnamon, ginger, green tea. Cereal: malt, toasted bread. Smoky: heather peat, roasted seeds. Earthy: mineral, clay. Maritime: brine, sea coast; shell. Feints: chalk. Full body: complex, balanced. Rich. Water brings up sweet and fruity notes.",
+            "finish": "Long. Fruity: citrus; dried fruit; stone fruit. Smoky: heather peat, ash. Sweet: honey, toffee, chocolate, confectionery. Winey: sherry. Spicy: black pepper, mint. Woody: oak, oak tannins. Maritime: salt, sea coast. Herbal. Cereal. Full body: dry, balanced. Rich. Water brings up fruity notes."
+        },
+        {
+            "user_name": "Hsh",
+            "user_rank": "Expert Senior",
+            "rating": "80",
+            "review_date": "24 may 2022 5:37 pm",
+            "content": "It is a little thinner and lighter than Haty 12",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Bomshanka",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "19 oct 2018 12:34 am",
+            "content": "Fresh and bright Highland Park. Good and solid 10 year old, but nothing spectacular. Bottle seems to improve as it sits. Review on the last third of a bottle open for +6 months.",
+            "nose": "Peaty sea breeze, zest of lemon, lime and orange, mild smoke - maybe from burning driftwood. Even some farmy smells in the background. Quite pleasant.",
+            "taste": "Sour and sweet, again citrus fruit, something slightly nutty, green grass, slightly peaty, slighty peppery",
+            "finish": "Quite short on peat, hay, grass and some pepper"
+        },
+        {
+            "user_name": "haubi",
+            "user_rank": "Expert Senior",
+            "rating": "73",
+            "review_date": "29 sep 2023 2:48 pm",
+            "content": "",
+            "nose": "Heather honey, berries, raisins, vanilla",
+            "taste": "Sweet",
+            "finish": "Light peat smoke"
+        },
+        {
+            "user_name": "MitekandGajzin",
+            "user_rank": "Expert Junior",
+            "rating": "78",
+            "review_date": "03 may 2023 3:28 pm",
+            "content": "",
+            "nose": "The whisky is sea, sweet and smoky. You can smell the salt and seaweed washed up on the shore. Intriguing whisky.",
+            "taste": "Definitely sea whisky. You can smell salt, seaweed and wet stones. Slightly sweet. Alcohol imperceptible.",
+            "finish": "The finish is long but not intense. Notes of chocolate and wood. There is salt taste throughout all the finish."
+        },
+        {
+            "user_name": "KacperSo93",
+            "user_rank": "Expert Junior",
+            "rating": "77",
+            "review_date": "27 sep 2024 6:58 pm",
+            "content": "",
+            "nose": "Honey, vanilla, toffee, baked apples with cinnamon, a bit of citrus and swollen wood, women's perfume, noticeable alcohol",
+            "taste": "Bitter, alcoholic, black pepper, slightly citrusy",
+            "finish": "Short, bitter, slightly vanilla and cinnamon, woody, tart, alcohol noticeable"
+        },
+        {
+            "user_name": "KacperSo93",
+            "user_rank": "Expert Junior",
+            "rating": "77",
+            "review_date": "16 aug 2024 4:27 pm",
+            "content": "",
+            "nose": "Vanilla, green apples, wet wood, a bit of plant, citrus, a little touch of caramel and smoke, a bit of sea breeze",
+            "taste": "Sour, bitter, citrus, slightly earthy, slightly herbal, alcoholic, yeast",
+            "finish": "Bitter, short, slightly burnt wood, slightly herbal, cinnamon, alcohol"
+        },
+        {
+            "user_name": "WhiskeyfanRoy",
+            "user_rank": "Expert Junior",
+            "rating": "83",
+            "review_date": "28 dec 2021 8:57 am",
+            "content": "The taste score is 83 points, and the price does not affect the score.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Emperor69",
+            "user_rank": "Expert Junior",
+            "rating": "82",
+            "review_date": "22 dec 2019 3:44 pm",
+            "content": "Color: light gold, not painted. The body is not very dense, rather watery. Nose: quite interesting, impressive for a ten year old and not as emasculated as a 12 year old HP. First of all, sweet motifs stand out very well here, for which dried fruits (raisins, dried apricots, prunes), baked apples and pears, canned peaches, cream, vanilla, caramel and toffee, milk chocolate, heather honey are responsible (here it does not open up so much , as in 12-ke). A smoky medical theme passes through these sweets in a distinct wave: a little peat, sea salt, algae, gauze bandages, iodine, pine resin. After the glass stands and is saturated with oxygen, acidity appears in the following features: cranberry-cowberry juice, cherry juice, orange or tangerine pulp. Finally, bitter-spicy nuances of walnuts and pine nuts, ground black pepper and ginger can be distinguished. Taste: not as substantial as the aroma, but quite mild, even slightly watery. It seems that in its tenderness it even surpasses Speyside's classic Balvenie 12. Initially sweet, citrus-honey, yellow apples, vanilla, cream, a bit of dried fruit; then a bitter wave of pepper, partitions of walnuts, ink and herbal motifs, flavored with a light smoke of burnt trees. Finish: medium length, intense and pleasant. Burnt wood, apple seeds, ginger, overripe plum.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "wbarchive_875995",
+            "user_rank": "Expert Junior",
+            "rating": null,
+            "review_date": "05 mar 2020 3:37 pm",
+            "content": "Extremely simple, pleasant, with the aroma of honey, haze and baked apples, the taste is barely sweet, very soft, with hints of caramel, vanilla and slightly smoked dried fruit, the finish is delicate, short, fruity-malt with a bit of haze.  Some kind of \"girlish\" release, too soft and unprepossessing, although not completely devoid of the HP profile. But I would say no rather than yes.  RATING: 80pts - [n20, t20, f20, b20] → | 80-82: Ordinary |",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "nawarson",
+            "user_rank": "Expert Junior",
+            "rating": "81",
+            "review_date": "16 sep 2022 10:07 pm",
+            "content": "It helped me to choose direction into smoky malts.",
+            "nose": "very pleasant, honey - fruity, sherried, vanilla, salty, hint of smoke, citrus",
+            "taste": "sweet, vanilla, salty, honey",
+            "finish": "not very long, citrus / bit of smoke"
+        },
+        {
+            "user_name": "TeddyKGB",
+            "user_rank": "Expert Junior",
+            "rating": "82",
+            "review_date": "19 apr 2020 2:07 pm",
+            "content": "Highland park 10 Viking Scars,  First, let's talk about trivial things. You don't look like anything with your excessively stylized bottle and your Nordic legends to sleep upright. In addition, I deplore your famine titling which prevents you from expressing yourself completely. For a Viking, you will admit that it does not give a damn.  Now let's talk about those scars that you display. Ok ... ok ... it's not bad. At the price you cost me (30 €), I cannot complain. A light peat, honey, lemon, some fruits ... mouais, a good entry level for the kings of merchandising.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Sajmon",
+            "user_rank": "Member Senior",
+            "rating": "78",
+            "review_date": "06 jun 2022 8:37 pm",
+            "content": "interesting taste!",
+            "nose": "Sea salt, wood, citrus",
+            "taste": "Sea salt, citrus,soft smoke",
+            "finish": "Short, malt, smoke"
+        },
+        {
+            "user_name": "kroy",
+            "user_rank": "Member Senior",
+            "rating": "79",
+            "review_date": "13 mar 2025 7:22 pm",
+            "content": "Lovely, some salt, sweetenes, citrus, fruits, quite harsh and alcoholic, little bit of peat. I like it but it is quite strong.",
+            "nose": "Salty, sweet, smoke, sherry,",
+            "taste": "Pepper, smoke, wood, sherry, alcoholic",
+            "finish": "Tart, wood, pepper, alcohol,"
+        },
+        {
+            "user_name": "pwal",
+            "user_rank": "Member Senior",
+            "rating": "79",
+            "review_date": "07 dec 2023 9:00 pm",
+            "content": "",
+            "nose": "Spicy, milk chocolate, vanilla, dried fruits, a bit of spice, a bit of red fruit marmalade,",
+            "taste": "Wet wood, minerality, a bit of nuts, sweet and a bit salty, dark chocolate.",
+            "finish": "Slightly peppery, medium, apples, vanilla, caramel, nuts, marzipan, salty."
+        },
+        {
+            "user_name": "mrtoxiique",
+            "user_rank": "Member Senior",
+            "rating": "78",
+            "review_date": "02 oct 2024 1:35 pm",
+            "content": "A good standard, shows beginners what \"light, gentle peat\" means. At a comparable price, however, I would go for the 12 year old",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "kevinmrn",
+            "user_rank": "Member Senior",
+            "rating": null,
+            "review_date": "10 nov 2022 11:52 pm",
+            "content": "How did this get a 90/100 on WF? I haven't bought a HP in years, but for a reason. ????. Should I revisit?",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "kornelb",
+            "user_rank": "Member Senior",
+            "rating": "78",
+            "review_date": "12 nov 2023 11:03 pm",
+            "content": "Grain, heather, honey, apples, some minerality and alcohol, oranges, sea breeze. Not too sweet, not too intense, slightly watery.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "proencadias",
+            "user_rank": "Member Senior",
+            "rating": "70",
+            "review_date": "14 nov 2022 6:20 pm",
+            "content": ".",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "fido44",
+            "user_rank": "Member Junior",
+            "rating": "79",
+            "review_date": "03 feb 2022 4:10 pm",
+            "content": "Good daily dram. Quite nice but not unusual. Just ok",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "gostev",
+            "user_rank": "Newbie",
+            "rating": "88",
+            "review_date": "11 mar 2018 9:39 am",
+            "content": "The nose of a peat and a pine, possibly some hay. The taste is complex and charming. Much less expression than in 12, much less cigar, though it doesn't make this drink inferior. The peat is soft and pleasant but not subtle, the citric note goes more to an orange.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Tim1986",
+            "user_rank": "Newbie",
+            "rating": "81",
+            "review_date": "08 mar 2020 9:40 pm",
+            "content": "NoseSweetness, chocolate, slightly fruit, caramelTastefruit, sweetness, caramelFinishStandard",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "_1033",
+            "user_rank": "Newbie",
+            "rating": "70",
+            "review_date": "10 jul 2024 6:13 pm",
+            "content": "Good whisky for the money personally i prefer the 12 more even tho its a bit more expensive",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        }
+    ]
+}

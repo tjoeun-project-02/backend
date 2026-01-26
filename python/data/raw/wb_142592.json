@@ -1,0 +1,546 @@
+{
+    "info": {
+        "ws_name": "Glenlivet 12-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Glenlivet",
+        "ws_age": 12,
+        "ws_abv": 40.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/1/4/2592/353391-normal.png",
+        "ws_rating": 80.52,
+        "ws_vote_cnt": 520,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/142592/glenlivet-12-year-old"
+    },
+    "collected_count": 53,
+    "reviews": [
+        {
+            "user_name": "Slàinte Mhath",
+            "user_rank": "Super Administrator",
+            "rating": "80",
+            "review_date": "25 feb 2024 6:37 pm",
+            "content": "Quick hit review.Tasted side by side with Glenfiddich 12 and Glenmorangie 10 - which is the best benchmark whisky? On the nose, ripe pears, heather honey and vanilla make this malt quite pleasant, it's notably sweeter than the others. Light, tannic and one-dimensional, the taste offers apples, more honey and hints of banana. Exhausted cask bitterness pushes into the underwhelming finish. Still better than its competitors, Glenlivet 12 is clinging to the 80 points mark.RATING: 3.0/5.0 stars ≙ 80 pts → AVERAGE",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "LukasJakubDrabek",
+            "user_rank": "Shoplink Moderator",
+            "rating": null,
+            "review_date": "29 feb 2020 12:45 pm",
+            "content": "Ralfy review 814: https://www.youtube.com/watch?v=TOEpO4rCnZg (85/100).\"The nose on this single malt is just delightful, particularly in the fact there's only bottled at 40%.\"",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "WhiskyLovingPianist",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "14 apr 2020 11:57 pm",
+            "content": "https://whiskylovingpianist.wordpress.com/2020/04/14/old-rare-2020-young-old-old-old/Remember the 12yo disappeared for a while? Founders Reserve proved no match and back came the 12yo.C: Would you believe that? There is indeed a firm family resemblance between this current 12yo and that amazing 1938 cask sample. Other than that, this contemporary bottling would need 20 more years in cask and 40 more in glass for there to be any reasonable further comparisons. This 12yo is very fair whisky in its own right.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "90ClubWhisky",
+            "user_rank": "Connoisseur",
+            "rating": "80",
+            "review_date": "12 oct 2021 11:10 am",
+            "content": "",
+            "nose": "Sweet, lots of honey, vanilla. Lots of fruit. Fresh, but not green. Closest to peach, maybe apricot. Minimal noticeable alcohol.",
+            "taste": "Sweet, honey, but not as sweet as the nose. A little bit of spices and ripe fruit - peach. Slightly spicy, but spicy, reasonably pleasant. There is some oak.",
+            "finish": "Sweetness, honey, ripe fruit - peaches and spices. A little oak comes out, but the bitterness is not too high. Maybe even a little walnut. Medium-long to long finish."
+        },
+        {
+            "user_name": "thijs100",
+            "user_rank": "Connoisseur",
+            "rating": "77",
+            "review_date": "23 jul 2024 1:39 pm",
+            "content": "Double Oak isn't supposed to mean twice the amount of oak influence, right?",
+            "nose": "A mixture of ripe orchard fruits (think pears, apples, etc.) with a touch of honey and some vanilla, but also a whisper of lemon zest. There’s a tinge of sawdust alongside some barley dust. Overall a very friendly, accessible experience.",
+            "taste": "Considering the low strength, the mouthfeel is relatively rich. The oak is pretty loud too. More sawdust, some gentle spices and strong breakfast tea. A honey-esque sweetness, vanilla and gentle leafiness.",
+            "finish": "Short to medium. Oak spices linger for a little while. Ending on apple peel."
+        },
+        {
+            "user_name": "Totoro",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "06 jan 2023 4:42 pm",
+            "content": "Solid, fruity, non-offensive 40-percent sipper for under 30 €.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "ThorstenH",
+            "user_rank": "Connoisseur",
+            "rating": "63",
+            "review_date": "04 jan 2023 7:21 pm",
+            "content": "Simple, good and tasty. apple vanilla. Unfortunately, the finish loses something, becomes bitter. Some must notes on the 2nd dram. hmmm... 61-70 - Okay, but not more than 1 dram",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "DistiLesha",
+            "user_rank": "Connoisseur",
+            "rating": "76",
+            "review_date": "13 may 2025 10:14 pm",
+            "content": "A very good aroma kills the alcoholic taste and aftertaste. It leaves a feeling in your mouth as if you had drunk vodka. Indeed, only in cocktails! Difficulty of note breakdown: 2/10 21 19 18 18",
+            "nose": "Lots of malt, sourdough, traces of vanilla, hints of fruit. Intensity: 6/10",
+            "taste": "Vanilla, oak, apple-pear, sharp ginger alcohol, malt, bread kvass. Sweetness: 7/10 Saturation: 8/10",
+            "finish": "Apple-pear, dry oak, alcohol."
+        },
+        {
+            "user_name": "TomAndIngrid",
+            "user_rank": "Connoisseur",
+            "rating": "79",
+            "review_date": "13 dec 2024 9:26 pm",
+            "content": "Not really a delight. But there are worse things.",
+            "nose": "Yellow fruits, promising",
+            "taste": "Fruity watered down",
+            "finish": "Old pallet wood, becoming bitter."
+        },
+        {
+            "user_name": "_Dziki_",
+            "user_rank": "Connoisseur",
+            "rating": "79",
+            "review_date": "24 dec 2022 7:00 pm",
+            "content": "Floral and dessert, later fruit and vanilla come to the fore, a must-have at the beginning.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Thermidor",
+            "user_rank": "Connoisseur",
+            "rating": "77",
+            "review_date": "14 may 2021 7:55 am",
+            "content": "A simple cask made whisky that is saved by the chocolate in the tail.",
+            "nose": "Bourbon, faint butter, pears, honey melon, echoes of some teen perfume. Pencils. Sadly the double casking wipes out the identity of the spirit.",
+            "taste": "Bland, but not outright bad. Faint milk chocolate rubs shoulders with pears, muscat, faint ethanol, and cucumber. Licorice allsorts (Panda candy licorice) comes to mind, and beneath it, a slightly unpleasant, boozy malty undercurrent. Every time I catch the milk chocolate note, I'm happy, but otherwise this is artificial and uninteresting.",
+            "finish": "Sweet and staying. Corn, pears, and again that milk chocolate."
+        },
+        {
+            "user_name": "minialkoff",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "25 may 2025 9:52 pm",
+            "content": "20,5+21+21+21",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Crushed_ldH",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "10 feb 2023 2:48 pm",
+            "content": "Nice daily dram considering its price, but sadly the taste didn't keep up.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Whisky Hamster",
+            "user_rank": "Expert Senior",
+            "rating": "81",
+            "review_date": "01 sep 2024 1:53 pm",
+            "content": "Forget the name \"double oak\" as if it instils some extra magic. This is a standard 'Livet 12 yo work horse which does as should. Reliable, passable. You pretty much get what generations of maltsters (not necessarly generations of people) got and is in a way an accepted status quo in the Scotch Single Malt Whisky world. No complaints here, get the 12 Illicit Still/Licensed for an upgrade.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "OJK",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "18 jun 2022 3:26 pm",
+            "content": "Nice fruits, toffee and nutty vanilla on the nose. A bit thin on the palate, mainly on vanilla and orange oil, but the finish is longer and has more kick than you expect, with the fruits and toffee coming back along with spices, chocolate and black pepper. Pretty simple but also pretty drinkable and enjoyable for a mass produced whisky.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "StefanKatonaXXL",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "12 nov 2023 2:00 am",
+            "content": "A very simple whisky, which fortunately does not cost a lot of money. The smell is floral, nothing special. The taste is fruity, vanilla, woody, dry to lemony at the end. Under 30 euros, it offers good quality, even if it is a bit boring, and a forgettable whisky with a very short and bland finish.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "HW74",
+            "user_rank": "Expert Senior",
+            "rating": "80",
+            "review_date": "22 feb 2024 7:35 am",
+            "content": "Good standard whisky.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Petitcham",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "15 dec 2023 2:46 pm",
+            "content": "Vanilla, miscellaneous fruit acidity, bittersweet texture, nuts, not bad for the price",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Woodsmoke",
+            "user_rank": "Expert Senior",
+            "rating": "79",
+            "review_date": "01 apr 2022 2:03 am",
+            "content": "",
+            "nose": "Barley sweetness, some bourbon, some fairground.",
+            "taste": "Fruity, slightly sweet, then oak, some bourbon notes... slightly bitter and slightly marzipan.",
+            "finish": "sweet oak."
+        },
+        {
+            "user_name": "g00se",
+            "user_rank": "Expert Senior",
+            "rating": "86",
+            "review_date": "15 apr 2020 10:47 am",
+            "content": "I like the new version. Similar to the old 12yo OB, but the fuselal carbon influence is even less. PGV outstanding at € 25 in April 2020!",
+            "nose": "Sweet and fruity. Honey, vanilla, overripe fruits such as peach and oranges and a light glue note from the bourbon barrel.",
+            "taste": "Light body but viscous. In the mouth, the fruits dominate, the sweetness is less present here, but a spicy oak note moves into the foreground.",
+            "finish": "Short, dry finish. Here you unfortunately notice the youth, because here the whisky lacks perseverance."
+        },
+        {
+            "user_name": "Peatyjohn",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "20 may 2025 4:58 pm",
+            "content": "Another easy sipping summer malt. Up front get orange, lemon, flowery, vanilla, caramel, fruity, malty. Good balance of sweet and sour. Good entry level budget whisky. N Fruity, oak, floralP oily, waxy, toffee, nutty, malt, caramels, honey.oakF sweet and smooth, honey. From blind tasting my favourite budget dram. Fresh fruity oily and full of character.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "WhiskyRanked",
+            "user_rank": "Expert Senior",
+            "rating": null,
+            "review_date": "14 jun 2023 6:03 am",
+            "content": "Apple and pear juice. So smooth.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "KyleRiemen",
+            "user_rank": "Expert Senior",
+            "rating": "82",
+            "review_date": "04 feb 2023 8:01 pm",
+            "content": "Many tasters write about the bourbon smell and taste, which I cannot understand at all.",
+            "nose": "Fruity, vanilla, citrus fruits, pear, apple, quite one-dimensional, doesn't smell after 12 years.",
+            "taste": "Caramel, toffee, vanilla, very pleasant but too thin",
+            "finish": "Quite short and flat, vanilla, nut, alcohol"
+        },
+        {
+            "user_name": "dissonance",
+            "user_rank": "Expert Senior",
+            "rating": "80",
+            "review_date": "17 jun 2021 6:59 pm",
+            "content": "RATING: 80pts – |80 – 82 (B-) → Okay| — No major flaws, worth tasting.",
+            "nose": "The nose has a simple and quite empty profile with domination of fruits and butter with hints of chocolate.",
+            "taste": "The taste is spicy, off-dry, pretty simple but neat with soft notes of peaches followed by licorice and chocolate again.",
+            "finish": "The finish is short and slightly tannic with fruity sweetness and hints of nuts and chocolate."
+        },
+        {
+            "user_name": "Collegiate",
+            "user_rank": "Expert Senior",
+            "rating": "78",
+            "review_date": "07 jul 2020 8:42 pm",
+            "content": "New livery and the first time I’ve had this bottle since I first started drinking whisky with this bottle 10 years ago. Nose is very pleasant fruity and sweet barley, but I really have to stick my nose into the glass to pull anything out of it. On the palette, this starts off super soft and watery. The 40% abv isn’t doing this one any favours. Citrus fruits and honey. On the finish it gets more bite and becomes more salty and savoury.A basic malt in every sense. Based on flavours and aromas, a straight up 80 pointer. However, I really do have to dock it a few points for the weak watery texture.For Cdn $63/£37, there are better values to be had for the money.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Dramrunner",
+            "user_rank": "Expert Senior",
+            "rating": "79",
+            "review_date": "27 dec 2024 1:48 pm",
+            "content": "Neither boo nor bä, quite boozy",
+            "nose": "Some floral, warm, slight smokiness",
+            "taste": "Cereal - wheat crackers, sweet - caramel, oily",
+            "finish": "medium but nice"
+        },
+        {
+            "user_name": "Gweddry",
+            "user_rank": "Expert Senior",
+            "rating": "82",
+            "review_date": "09 jan 2024 9:28 pm",
+            "content": "uncomplicated but not totally flat, surprisingly crisp and full taste and aroma for such a blockbuster malt",
+            "nose": "sour, strong green apple, white raisins, cinnamon, rye bread, apple juice, green pears, eggnog, dried mango, walnuts, pineapple",
+            "taste": "green fruit, cinnamon, rye bread, cocoa, eggnog, pineapple, surprisingly creamy",
+            "finish": "green apple, cruciferous vegetables, malt, vanilla, traces of nuts, chocolate milk"
+        },
+        {
+            "user_name": "macste",
+            "user_rank": "Expert Senior",
+            "rating": "74",
+            "review_date": "11 nov 2024 11:20 am",
+            "content": "18/19/18/19",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Rockwell",
+            "user_rank": "Expert Senior",
+            "rating": "82",
+            "review_date": "02 nov 2023 1:06 pm",
+            "content": "",
+            "nose": "The refreshing sweetness of green apples and Japanese pears like no other.",
+            "taste": "The body is thin.",
+            "finish": ""
+        },
+        {
+            "user_name": "MitekandGajzin",
+            "user_rank": "Expert Junior",
+            "rating": "77",
+            "review_date": "17 dec 2023 4:12 pm",
+            "content": "",
+            "nose": "Fruity and vanilla whisky. It is floral with a noticeable hay scent. Hard pears notes. It creates an association of a meadow and an orchard. There's a bit of spice in it.",
+            "taste": "Fruity and spicy whisky. You can feel wood and flora, fruits like pears and apples and vanilla.",
+            "finish": "Medium-long, fruity and woody finish with dark chocolate."
+        },
+        {
+            "user_name": "KacperSo93",
+            "user_rank": "Expert Junior",
+            "rating": "77",
+            "review_date": "01 nov 2024 9:10 am",
+            "content": "",
+            "nose": "Sweet, pleasant, floral, fresh meadow scent, combination of orchard fruits and flowers, vanilla, apples, peaches, mild scent",
+            "taste": "Sweet, oily, mild, woody, vanilla, intense fruit scent, apples, pineapple, gooseberries, flowers, honey, cinnamon",
+            "finish": "Delicate, peppery, oaky, cinnamon, fruity"
+        },
+        {
+            "user_name": "KacperSo93",
+            "user_rank": "Expert Junior",
+            "rating": "77",
+            "review_date": "22 feb 2024 9:08 pm",
+            "content": "",
+            "nose": "sweet, pleasant, floral, noticeable scent of fresh meadow, combination of fruit and flowers - orchard, apples and peaches, mild scent, no alcohol",
+            "taste": "sweet, vanilla, woody, oily, the fruit is felt more than in the smell, the apples are complemented by gooseberries and pineapple, slightly honey-cinnamon, and all this surrounded by a flower meadow",
+            "finish": "delicate, pleasant, alcohol well hidden, oak aftertaste, apples with cinnamon, slightly peppery, pleasantly tongue-tight at the very end, medium-long finish"
+        },
+        {
+            "user_name": "MonkeChef",
+            "user_rank": "Expert Junior",
+            "rating": "75",
+            "review_date": "27 sep 2021 6:37 pm",
+            "content": "Good quality for the price.",
+            "nose": "Sweet, apples, lemongrass, hard candy, pear, floral note, vanilla, honey, canned pineapple, lime, banana jellies.",
+            "taste": "sweet, apple, pineapple, peach, honey, vanilla, lemongrass,",
+            "finish": "medium, sweet, dark chocolate, vanilla, oak, apple, citrus, honey, pineapple"
+        },
+        {
+            "user_name": "VISION_CHEN",
+            "user_rank": "Expert Junior",
+            "rating": "87",
+            "review_date": "09 oct 2020 12:57 pm",
+            "content": "Smell: In the farm restaurant in the early summer, the blue sky is covered with thin clouds, and the gentle breeze is gentle. I hold the rocking chair and look at the green plants. I smell the pink and crisp green apples, the sweet farm honey, and the warm aroma of malt. Fresh and pleasant, outright cheerful Drink: Shun! Plump and soft! The powdery tannin politely propped up a skeleton in the mouth, and the aroma of malt and apple gently wrapped around the skeleton, like eating a piece of apple, very pleasing Feeling: It’s absolutely right that Glenlivet is called Spey’s benchmark. This is simply a swordsman online game. Hosting your young lady in Xinshou Village, kindly and tenderly tell you everything about Spey, and show you. Look at the flowers, fruits and malt, and then taste the full and smooth taste. This experience is great. If you have friends who want to come to the world of whisky, don't forget to recommend this young lady",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "glenwatanabe",
+            "user_rank": "Expert Junior",
+            "rating": "83",
+            "review_date": "27 aug 2023 12:43 pm",
+            "content": "Glenlivet 12 years is cheap, but tasty.",
+            "nose": "A very floral aroma, just a hint of caramel, cookies.",
+            "taste": "Light body, caramel, oak,vanilla.",
+            "finish": "Short"
+        },
+        {
+            "user_name": "TomyCyber",
+            "user_rank": "Expert Junior",
+            "rating": "75",
+            "review_date": "03 sep 2023 12:22 am",
+            "content": "One of the first SMs I tried in full consciousness. Surprises with unexpected notes of pineapple. An enjoyable and solid whisky to start with. It's a great pity that it's so much neutered of power and chiled filtered.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Peatedpeaty",
+            "user_rank": "Expert Junior",
+            "rating": "83",
+            "review_date": "19 jan 2024 6:38 pm",
+            "content": "Smooth, thick, needs airing, fruity, a nice Dram to sip.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Sajmon",
+            "user_rank": "Member Senior",
+            "rating": "80",
+            "review_date": "06 jun 2022 6:46 pm",
+            "content": "Fruity, oak, vanilla... good whisky for good price!",
+            "nose": "sweet, apple, pear, oak, corn",
+            "taste": "oak, corn, vanilla, hints of apple",
+            "finish": "vanilla, wood, medium long, bitter"
+        },
+        {
+            "user_name": "manieklbk",
+            "user_rank": "Member Senior",
+            "rating": "75",
+            "review_date": "05 mar 2023 3:04 pm",
+            "content": "It's ok.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Vit_213",
+            "user_rank": "Member Senior",
+            "rating": "83",
+            "review_date": "07 feb 2025 10:45 pm",
+            "content": "",
+            "nose": "Nice but weak.",
+            "taste": "Great!",
+            "finish": "Short"
+        },
+        {
+            "user_name": "MrDog",
+            "user_rank": "Member Senior",
+            "rating": "81",
+            "review_date": "07 jun 2025 12:50 pm",
+            "content": "I used to think this one is spicy but was pleasantly surprised when tasted again. I think the one I tasted was 43% EU version. It’s classic Speyside style with floral and fresh fruit notes. On palate it drinks very smoothly, no major bites.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "kornelb",
+            "user_rank": "Member Senior",
+            "rating": "79",
+            "review_date": "09 jul 2023 10:34 pm",
+            "content": "Fresh and dried fruit, vegetation, some vanilla, well hidden alcohol.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "TaiwanROC",
+            "user_rank": "Member Senior",
+            "rating": "80",
+            "review_date": "24 nov 2025 2:04 am",
+            "content": "Drinkable",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "MRadecki",
+            "user_rank": "Member Senior",
+            "rating": "58",
+            "review_date": "13 dec 2021 11:38 am",
+            "content": "X",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "MRadecki",
+            "user_rank": "Member Senior",
+            "rating": "58",
+            "review_date": "11 dec 2021 10:48 pm",
+            "content": "X",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Cupcakke0955",
+            "user_rank": "Member Senior",
+            "rating": "83",
+            "review_date": "13 sep 2024 3:57 pm",
+            "content": "Glenlivet 12 always has a distinct pear note that comes through which I really enjoy. It becomes more subtle as you go higher up the age statement. This 12yo is something I always have a bottle in my bar. It's soft, fruity, light oakiness, sweet, nutty.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "jakubpoltoraczyk",
+            "user_rank": "Member Junior",
+            "rating": "77",
+            "review_date": "30 dec 2025 8:28 pm",
+            "content": "Aroma: Fruity, green fruits, apples and pears, honey, vanilla, lemon peel, gently herbal and floralTaste: In line with the aroma, plenty of honey, green fruits, green apples and pears, citrus notes, a touch of herbal character, the finish is medium-long, honeyed and gently spicyOverall Impression: A decent whisky, not particularly surprising, but worth exploring at the beginning of a single malt whisky journey",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "nathanvc",
+            "user_rank": "Member Junior",
+            "rating": "78",
+            "review_date": "16 nov 2024 4:50 pm",
+            "content": "Gentle fruit-fueled oak whisky. Vanilla but not necessarily simple, if you catch my drift.",
+            "nose": "Citrus, peach, pineapple, vanilla, oak, meadow.",
+            "taste": "Sweetish and soft yellow fruit, peach, pineapple; structural vanilla, almost creamy. Woody but not too firm.",
+            "finish": "Woody finish, still a lot of soothing vanilla, something nutty, very vaguely spicy. Gentle alcohol."
+        },
+        {
+            "user_name": "bubbaq",
+            "user_rank": "Member Junior",
+            "rating": "77",
+            "review_date": "26 nov 2023 1:47 pm",
+            "content": "",
+            "nose": "floral, vanilla oak, hints of dried white fruits",
+            "taste": "light, malty and oaky with hints of caramel and red apples",
+            "finish": "short to medium finish, malty apples and pears with hints of oak wood"
+        },
+        {
+            "user_name": "MartenE",
+            "user_rank": "Newbie",
+            "rating": "75",
+            "review_date": "28 jul 2023 9:11 pm",
+            "content": "Sweet whisky",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Boryslaw",
+            "user_rank": "Newbie",
+            "rating": "75",
+            "review_date": "29 mar 2024 4:36 pm",
+            "content": "Good value",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "BoboFruit",
+            "user_rank": "Newbie",
+            "rating": "72",
+            "review_date": "31 jul 2023 3:05 pm",
+            "content": "bad barells I suppose. barrels drained of everything valuable for a whisky fan. Nasty tannin aftertaste.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "EugeneEkat",
+            "user_rank": "Newbie",
+            "rating": "70",
+            "review_date": "27 dec 2025 7:53 pm",
+            "content": "Drinkable. But. The finish taste is a bit rough, and the alcohol is noticeable in the aroma.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Royal Brackla 18-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Royal Brackla",
+        "ws_age": 18,
+        "ws_abv": 46.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/1/8/5643/374965-normal.png",
+        "ws_rating": 85.22,
+        "ws_vote_cnt": 268,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/185643/royal-brackla-18-year-old",
+        "ws_id": "185643",
+        "collected_count": 35,
+        "flavor_profile": {
+            "fruity": 6.4,
+            "sweet": 6.2,
+            "peaty": 0.5,
+            "spicy": 4.6,
+            "woody": 4.0,
+            "malty": 2.0
+        },
+        "top_keywords": [
+            "citrus",
+            "toffee",
+            "yeast",
+            "malty",
+            "sweet"
+        ],
+        "ws_name_kr": "로열 브라클라 18년",
+        "ws_distillery_kr": "로열 브라클라"
+    }
+}

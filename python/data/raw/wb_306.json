@@ -1,0 +1,516 @@
+{
+    "info": {
+        "ws_name": "Ardbeg Ten",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Ardbeg",
+        "ws_age": 10,
+        "ws_abv": 46.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/3/0/6/408143-normal.png",
+        "ws_rating": 86.1,
+        "ws_vote_cnt": 3173,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/306/ardbeg-ten"
+    },
+    "collected_count": 50,
+    "reviews": [
+        {
+            "user_name": "lincolnimp",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "29 nov 2015 11:28 pm",
+            "content": "I have done a review because it is not as good as I remember.The nose is the bet part.How the hell Jim Murray can score this mundane malt 97 points is beyond words for me.Ordinary.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "lincolnimp",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "29 nov 2015 11:26 pm",
+            "content": "This is worse than I remember it, but there is still half a bottle left.",
+            "nose": "Lemon, brine, slight smokiness, pronounced peat mixed in with smoked cheese.",
+            "taste": "Peat, brine, tar and that's it, so boring and one dimensional.",
+            "finish": "The length is pretty reasonable."
+        },
+        {
+            "user_name": "lincolnimp",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "02 aug 2015 2:13 am",
+            "content": "Still probably the best Ardbeg under the £100 mark but there are much better malts out there for the money.The profile is boring and unrewarding for me, the nose is the best thing about it.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Dre73",
+            "user_rank": "Connoisseur",
+            "rating": "87",
+            "review_date": "07 mar 2016 10:54 pm",
+            "content": "Surprising whisky, already in the nose, betrays more than just peat / smoke, and that fruity undertone is also evident around the corner, and gives this whisky a very pleasant turn. Versatile peated whisky!",
+            "nose": "Light peat, leather-like, but also citrus fruit comes through.",
+            "taste": "Naturally peat / smoke, some dry, pepper, herbs. But also there are fruity notes (citrus). Quite complex taste.",
+            "finish": "Medium, peat."
+        },
+        {
+            "user_name": "hs305",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "23 mar 2017 11:47 pm",
+            "content": "[March, 2017]  Another Ardbeg re-taste:  When the new TEN was released I found it a very good, easy-to-drink dram (that by no means is comparable to the 10-years old guaranteed from the seventies or eighties, but nevertheless very nice in its new profile).  And I scored it with 88 points (significantly better than an average dram).Today I tried a recent bottling of the TEN and - what a disappointment:  It is rather weakish and with a drying-bitter finish.  I guess Ardbeg uses partly virgin oak casks in this recipe and these heavy tannins harm not just the balance but the mouthfeel too.This is most probably due to the problem that LVHM has difficulties in sourcing enough bourbon casks from the US.  The Scotch whisky boom came at a time when the US whisky industry was in deep recession - so the Scotch demand for used bourbon casks was and still is much higher than the US distilleries can supply. As a consequence the Scottish distilleries cut down the maturation times to use the same cask more often (and masked this by introducing NAS whiskies) AND (as this was not sufficient enough) they had to use virgin oak casks in addition.  For sure they market this as an intentional strategy, but it is pure despair in the end.  What can do you if you do not have enough good quality casks at your hands?The outcome is devastating (at least to my taste buds), but hopefully they create a new followership among all the new whisky aficionados that do not know how excellent Ardbeg and all the other great drams once tasted (before the boom)...",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "maltaholic",
+            "user_rank": "Connoisseur",
+            "rating": "87",
+            "review_date": "11 jan 2016 8:51 am",
+            "content": "Ardbeg is currently very much advertised here. I took a sip yesterday evening.  He smells very intense of smoke, but also fruity, spicy. His 46% have it in me, drive the spit in my mouth. Everything is very warm, comforting, creamy, smoky ... Wow!",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "JNuyts",
+            "user_rank": "Connoisseur",
+            "rating": "88",
+            "review_date": "21 sep 2018 10:22 pm",
+            "content": "This is really a BFYB (Bang For Your Buck) ...  Had never tasted an Ardbeg, but now I regret that it took so long. Topper of a whisky!",
+            "nose": "The nose first gives a huge boost of peat, but not in an overwhelming way so that you are blown off your socks. After some time it gives a nice balance between the peat and sweeter keys. Citrus and vanilla are accompanied by peat. We also smell freshly cut wood and the moss in the forest.",
+            "taste": "smoky, peat, vanilla, not really medicinal  citrus, lime",
+            "finish": "dry and reasonably long, peat in balance with sweet notes,  salted caramel  Actually also a good, soft campfire in terms of finish ..."
+        },
+        {
+            "user_name": "ctu",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "30 sep 2017 1:22 am",
+            "content": "A big classic and favorite. But the sherry line is better for the Ardbeg I think.",
+            "nose": "Smoke. Camphor, salt and malt. Herbals, phenol, iodine. Vanilla and fruits.",
+            "taste": "Powerful. Camphor, smoke, cocoa. Herbals, vanilla, Verbena candys.",
+            "finish": "Long, smoky, spicy."
+        },
+        {
+            "user_name": "Andytka3",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "22 dec 2016 9:15 pm",
+            "content": "Nose:- Strong aroma of sugar cane enveloping the gentle iodine smokiness. Profound but delicate.  Palate:- Obvious herbs characters on waves of burnt caramel, savoury popcorn. Excellently balanced.  Finish:- Spicy at first but still mild and gentle on palate. Minty and refreshing. Short-medium length. — at The Whisky Bar, Kuala Lumpur.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Kantenmechaniker",
+            "user_rank": "Connoisseur",
+            "rating": "90",
+            "review_date": "31 dec 2014 11:14 pm",
+            "content": "This whisky originally brought me to whisky and I'm still fond of countless other taste experiences today. The simple combination of great smoke and the classic Ardbegsüße! A dream...",
+            "nose": "Direct heavy smoke with fresh citrus notes in the luggage, malty sweet, vanilla, the second smelling also a bit of bacon in the luggage",
+            "taste": "Sweet smoke, like freshly pulled coal from the campfire, nice oily on the tongue, in the background you can guess vanilla",
+            "finish": "The smoke just stays in the mouth incredibly long, in its purest nature"
+        },
+        {
+            "user_name": "WhiskyLovingPianist",
+            "user_rank": "Connoisseur",
+            "rating": "89",
+            "review_date": "16 sep 2024 4:42 pm",
+            "content": "https://whiskylovingpianist.wordpress.com/2024/09/16/plastic-oh-no-band-battle-of-the-beg/N: By comparison to the contemporary bottling, this is bigger, creamier, fruitier and more rounded with a little ground pepper, though it too could also be described as flinty, floral, sweaty, salty, and citrusy as its newer sibling. Furthermore, whilst the new Ten smells no more than its stated age, this smells older. As a 2007 release, this would have been made up with ‘old’ stock, yes? Serge describes [pre-2008] 2003 Ardbeg as ‘,… some early ‘Allied’ distillate, made by the Laphroaig crew to keep the equipment fit while the distillery was virtually closed’ [WF].T: The plastic ‘oh no’ sample bottle tainting here is less marked but still thoroughly frustrating. We plough on [not so many to go]. Definitely seems like older juice in here than the stated 10 with a narrow yet slick viscosity. I find it a little drier with more oakiness if less intense on the bitter citrus qualities in comparison to the current model. Crystalline saltiness remains a feature. I’m finding it’s the bitter peated ashy-dry oiliness that holds the key to this one’s charm. F: Bitter burnt oak and charcoal-of, ash and embers, more grilled lemon and limes, the intensity kept up for a decent length finish.C: I didn’t expect this older bottling to be better, just different, yet find this more the definitive article. That said, it has had more time [before plastic grrr] in glass to improve its course.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "WhiskyLovingPianist",
+            "user_rank": "Connoisseur",
+            "rating": "89",
+            "review_date": "29 may 2019 8:50 pm",
+            "content": "https://whiskylovingpianist.wordpress.com/2019/05/15/feis-ile-2018-ardbeg-day/I rarely win prizes, but today, Ardbeg Day was also my day.N: Sweeter and saltier than the Kelpie.T: A salty chewy rounded mouthful.F: More bitter on the finish whilst maintaining its vegetal herbal quality throughout.C: As excellent and dependable as always. I’ll have a full review of my bottle win in due course.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "WhiskyLovingPianist",
+            "user_rank": "Connoisseur",
+            "rating": "89",
+            "review_date": "10 jan 2019 1:11 pm",
+            "content": "https://whiskylovingpianist.wordpress.com/2019/01/10/bottle-polishing-random-pairs-part-2/Traditional games proved popular on Ardbeg Day 2018. I won this [the last it turned out], bottle of Ardbeg 10yo by sliding a bung into one of the appropriate circles - left handed! Happy days.N: We start with admiration for the pungent yet tempered, vanilled sweet vegetal peated material aspect. Particulars include stewed courgettes, vanilla sponge & a curious combination of dry gherkins, sweetened swede, carrots > carrot cake >> ginger cake, pickled raisins?, hints of pickled onions, lightly sugared thick yet light smears of miso paste, nori sheets, paper, pineapple husks, dry cucumber and mild rocket,…. all deliciously moorish.T: Salad-like barley juice with a particular dry-peated vegetal development and savoury-vegetal travel all the way through.F: A long long finish directly focused around smokey bitter-vegetal peated barley > sweetcorn cobs and a touch of vanilla [that never encroaches].C: Excellent, and still remarkably affordable.LAST DRAMN: A fabulously simple yet sublime combination of lime relish, [34’s] grilled limes , vegetal-sweet pickle, iodine-heavy welches > muscles and pickled peas & onions - vailed with thart subtly sweet nutty peatiness.T: Delivers drier than expected, pleasingly ashy-dry in fact, yet when diluted, with more salivating vegetal/seaweed and a curious miso < citrus < sooty seasoning. Serge perfectly describes it as “lapsang souchong with lime, smoked almonds, kippers, plasticine, almond oil, whelks, brine, hessian” [WF]. Is it slightly thin? A touch, but it’s not a big issue.F: Charcoaled lime juice, Polytar shampoo, boot polish and something erm,… subtle, sweet & rootsy. Concludes peated barley-faithful.C: Whilst the interstellar hype for vintage Ardbeg continues, the standard 10yo remains the bastion of standards, availability & reason. No doubt many of the [thousands of] stored bottles will improve further in their glass over the coming years/decades.Scores a B+",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "WhiskyLovingPianist",
+            "user_rank": "Connoisseur",
+            "rating": "89",
+            "review_date": "03 jan 2015 10:47 pm",
+            "content": "N: On the nose, the 10yo certainly has all the Ardbeg idiosyncrasies going, medical bandages mixed with mild dairy peat, bath soap products, soft citrus fruits as well as pineapples/bananas combined and icing on the top of carrot cake sweetness. Its very clean but its like theres no layers, nothing to peel back and discover. Having tasted a few older Ardbeg’s of late i’m craving more maturation - 16 years would be smashing, to give it that depth of field. The nose, though delightful could do with some more oak complexity to rival the more simple spirit.T: Opening with prickly ground pepper, theres lots of astringent/youthful spirit>oak accompanied by salt then chilli spice and obviously peat. The result of this youthfulness is a fairly austere one. Its also creamy and nutty [pecans, then pumpkin seeds, then hazelnuts], oily [maybe all those nut oils], and like sewing machine oil mixed with a very light, mass produced olive oil.F: Whilst the salt dies down, what emerges is an ethanol freshness and a green grass oakiness. its a rather juvenile finish in keeping with whats already gone with touches of chocolate, aniseed, burdock, [later dandelion] and ash. Very savoury this one, not much sweetness here. Definitely savoury and drying. Yes, theres smoke but its just smoke, its clean but theres no complexity, no mystery, no inspiration. Quick finishC: The presentation of the 10yo is generally excellent, tasty, glossy and impressive [at least in part], but Im very disappointed by this batch - its extremely lacking and comes across as a wafer thin veneer of its former self. Could this lack of content and astringency be due, not as a result of inactive casks but the result of oak trees and casks that have been rushed in growth, seasoning and/or production? I hope this isn’t a long term trend.Scores a C+",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "WhiskyLovingPianist",
+            "user_rank": "Connoisseur",
+            "rating": "89",
+            "review_date": "27 feb 2014 3:09 am",
+            "content": "Whoo hoo, I'm the one thousandth reviewer of the Ardbeg Ten, what do i win? ………….BahI've always enjoyed Ardbeg whisky but i don't mind admitting that i give Ardbeg a hard time. I naturally support the underdog, maybe its because I'm british, who knows? - I'm not a sociologist, actually thats not true but thats another story. To me Ardbeg, like Macallan is like Manchester United of the Whisky world, with fans all over the globe waving the Ardbeg committee flag with an insatiable appetite for its success, and i reckon its big enough to handle some scrutiny from little me. So its a great testament to the distillery that i find myself trying to be disappointed with Ardbeg and continually failing. Visiting the Ardbeg distillery for example was a highlight of my Islay tour. I arrrived for a standard 'range' tasting at the distillery one afternoon with very little expectation - to be told that they cancelled the tour because i was the only one who turned up.  A combination of guilt on their part and persuasion [or charm as i like to believe] on my part, resulted in me receiving a personalised and bespoke tour which led to trying some 70's specials from the managers desk draw.I was impressed with what i tried. The least i could do was buy an Ardbeg 10 as I hadn't had one in a while.  The week i opened the bottle i'd sampled some superb drams - some Port Ellen's, 70's Bunna's, vintage Glendronach's and some rare bourbons… so i was still not in the mood to entertain the 'Ten'. The bottle had gone down half way before i realised that i was liking, no - loving this whisky. It was performing better every day, opening out and revealing more and more. Below are my ongoing tasting notes for the impressive standard Ardbeg release:N: Creamy, cheesy, salty, oily, fruity, peat. Kumquats, raisins, cherries, honey on light toast. Vanillas, incense, seaweed, wood sap, soap, lemon drizzle cake, dried apricots, peaches, ripe pineapples. The peat comes in and out in waves. Later becoming yeasty and meaty in the glass.T: Smoke, peat, pepper with a hin and oily in body then some dark rich fruits, fermented quince jam with more smoke and peat coming through building up in layers. Tarred beach wood. Later toffee comes through, rosemary, aniseed…. Later, the arrival is much more buttery with a thicker honeyed salivating body. The smoke is ever present.F: Salty and bitter/sweet, peppery and rather drying. A salivating burst of medicinal cherry cough sweets flow through with a touch of iodine freshness and darjeeling tea to compliment the encompassing charcoal smoke.C: Love it or loath it, this is a very fine whisky.  Personally i'm loving it.Scores a B+",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "90ClubWhisky",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "09 nov 2023 6:26 pm",
+            "content": "[Newer Edition] Light, straw color. Oily structure.",
+            "nose": "Flowers. Citrus fruits. Peat. Herbs. Smoke. Spices. White pepper. Ginger. The other nose has changed. More sweets arrived. Lots of vanilla. Caramel. Toffee. Butter cookies.",
+            "taste": "Peat. Smoke. Lots of herbs. Spices. White pepper. Ginger. Then come the citrus fruits. Then some burnt coal. Asphalt. Spices again. Light spiciness. Black pepper. Some oak. There is some oiliness.",
+            "finish": "Peat. Smoke. Herbs. Spices. Ginger. White pepper. Charcoal. Asphalt. Some Tar. Long finish."
+        },
+        {
+            "user_name": "90ClubWhisky",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "31 may 2023 11:05 pm",
+            "content": "Light straw color. Oily whisky.",
+            "nose": "Red fruits. Fresh and slightly sweet. Strawberries. Spices. White pepper. Herbalism.",
+            "taste": "Tar. Asphalt. citrus. Spices. White pepper. Oily strongly.",
+            "finish": "Tar. Asphalt. citrus. Spices. White pepper. Oily strongly. Lots of herbal. Lots of spices. Quite long."
+        },
+        {
+            "user_name": "markjedi1",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "29 jan 2017 11:56 am",
+            "content": "Top TenArdbeg Ten... well, that hardly needs any kind of introduction, of course. It is a standard whisky, but of such good reputation that it belongs in each and every whisky cabinet. I have tried several batches and they are all - in my opinion - very close. So hat's off to the master blender, in casu Dr Bill Lumsden. Today I will try a Ten that was bottled on 17th November 2015.Classic Ardbeg nose with some lime, apples and vanilla that are soon joined by the typical maritime elements such as brine, peat smoke and something that reminds me of gasoline. Some burnt wood and even some smoked ham in the background make this nose a joy for the lovers of this type of Ileach.The peat rears its head from the very first sip. And while this Ardbeg remains sweet and creamy it's that salty edge and those notes of peat that give this it's complexity. Lots of mineral elements as well. It's like having gravel in your mouth, so to speak. I quite like this.That mineral side is extra powerful in the long and warm finish.Yes, Ardbeg Ten remains a top dram. Bull's eye every time. Thanks for the sample, Pat!",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "MaltVader",
+            "user_rank": "Connoisseur",
+            "rating": "87",
+            "review_date": "16 mar 2022 6:58 pm",
+            "content": "",
+            "nose": "fresh wood smoke, orange, vanilla, fresh fruit, sweetness, mildly, a little lemon",
+            "taste": "heavy wood smoke, some sweets and salt, pepper, citrus, vanilla",
+            "finish": "medium, sweet but also very smoky and peppery"
+        },
+        {
+            "user_name": "thijs100",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "08 jun 2015 4:33 pm",
+            "content": "A very, very good entry level whisky. And fairly priced as well. That's a great combination in my book.",
+            "nose": "Peat and fruit, with mostly apple and banana. And a nice added sweetness as well. Some fresh veggies and porridge. Salt and sauerkraut. Nice balance and lots to discover with every sniff. We're off to a great start.",
+            "taste": "Peat and tar with salt. Also burnt barley and bacon. Not much left of the fruit. Rich and watery at the same time, which is weird for something bottled at 46 percent.",
+            "finish": "Tar and smoke with citrus. A bit dry and a touch of chocolate."
+        },
+        {
+            "user_name": "LiquidThoughts",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "09 apr 2017 12:14 pm",
+            "content": "Has something I do not like and can not identify, this Ardbeg-Nebengeschmack is simply not at all",
+            "nose": "Hospital by the sea, peat, moss, some citrus and orange zest, also something tart floral behind",
+            "taste": "Sweet spice, dark malt, peat everywhere, smoke and fog over old moss soil",
+            "finish": "Medium length, peat, some malt and smoke"
+        },
+        {
+            "user_name": "ThorstenH",
+            "user_rank": "Connoisseur",
+            "rating": "79",
+            "review_date": "19 jun 2022 10:04 pm",
+            "content": "71-80 – Fine, like to drink by time",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Tom na Gruagaich",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "30 jan 2019 10:19 pm",
+            "content": "Still a goal reference, albeit a bit easier, in my opinion. Peat, a light sweetness, some citrus, but delicious.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Georges",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "12 aug 2019 10:23 pm",
+            "content": "",
+            "nose": "Peat smoke, citrus, vanilla, seasalt, briny, iodine",
+            "taste": "Peat smoke, fruity (lemons, limes, citrus), vanilla, salty",
+            "finish": "Long, smoky, seasalt, dry, citrus"
+        },
+        {
+            "user_name": "Georges",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "08 mar 2015 11:05 pm",
+            "content": "",
+            "nose": "Peat smoke, vanilla, citrus, salty",
+            "taste": "Peat smoke, vanilla, lime, lemon",
+            "finish": "Long, peat smoke, caramel, seasalt"
+        },
+        {
+            "user_name": "Georges",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "13 aug 2014 10:16 pm",
+            "content": "",
+            "nose": "Complex, fruity, chocolate, peaty, smoky",
+            "taste": "Peaty, salty, smoky, spicy",
+            "finish": "Long, salty"
+        },
+        {
+            "user_name": "wisekyofcourse",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "01 sep 2018 6:46 pm",
+            "content": "oily peat and yellow fruits!",
+            "nose": "the basic common islay",
+            "taste": "spices lighter woody, some burnt meat, lemon again.",
+            "finish": "effective!!"
+        },
+        {
+            "user_name": "wisekyofcourse",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "08 may 2016 7:45 pm",
+            "content": "A basic entry very acceptable, with peat and yellow fruits acid (lemon), plus a side pastry subtle!  The peat \"gives\" the voice in the mouth, in a strong but monolithic way, markedly, and the spices come then.  The retro-olfaction remains medium to long with a spicy peaty return very present!",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Sporx",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "20 sep 2021 10:58 pm",
+            "content": "Aroma Smoke, maritime, a little sweet, vanilla taste Campfire smoke, maritime, sweet, little salt, citrus Medium-length finish, maritime",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Noface83",
+            "user_rank": "Specialist",
+            "rating": "83",
+            "review_date": "14 oct 2017 11:28 am",
+            "content": "Blind Parallel tasting of sample # 1 and sample # 2 in comparison  Nose:  # 1 - spicy smoke, pepper and spice cloves in campfire smoke, some lemongrass and vanilla, an overwhelming lemon sweet sweetened by spicy oak notes and smoky aromas  # 2 - grassy and maritime, both the sweetness and the acidity of lemon, a pinch of salt and aromatic smoke. In addition, menthol fresh from the alcohol and a hint of caramel and vanilla.  Taste:  # 1 - strong spicy onset with plenty of pepper and smoke, the alcohol is now more present than in the nose, to the back then sweeter flavors (caramel, Zironensorbet) paired with warm ash. This ash note combined with some salt water and the now slightly drier sweetness accompanies you through the medium-long finish.  # 2 - smoother and smoother with a hint of aromatic smoke and vanilla pudding with a splash of lemon juice, the finish being longer than # 1 adds a peppery oak and a good dose of wood with the warm smoke and maritime touch now add malty sweetness. Great taste - that's how an Islay Malt must taste.  I liked the # 1 in the nose a little better with the flavor of the # 2 convince more with its power and fullness in the finish. The # 1 does have a bunch of flavors but they are not so interwoven and there was a lack of depth / substance. # 2 looks more mature and deeper, but also a bit simpler in the fullness of the aromas. But sometimes that's exactly what makes a good Islay smoker.  Both are still quite young and without the smoke bonus would probably be a simple highlander for the Blend industry. Therefore, the 80+ pts are already a very good rating.  Blind I give the # 1 good 80 pts . and the # 2 gets 84 pts. Both are good and fun but I would prefer # 2 when buying a bottle.  Resolution (even sealed in the envelope - so just travel ^^)  # 1 = Ardbeg An Oa 46.6%  # 2 = Ardbeg Ten (the current Warehouse Edition) 46%  Ah interesting comparison - the An Oa is definitely delicious and better than the counterparts of Laphroaig (Select) and Talisker (Skye) but also a bit more expensive than this one. Yes, it's different than the TEN (looks more like a mix of Corry and Ugi diluted down to TEN level) but as long as there are the three classics I would not see any reason to buy this whisky. But whoever bought it certainly did not do anything wrong. He is delicious. I have not had the TEN in the glass for a long time and so with a little bit of distance, you realize once again what a great drop that is and is rightly considered a classic!",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "karloff",
+            "user_rank": "Specialist",
+            "rating": "95",
+            "review_date": "21 dec 2015 3:06 pm",
+            "content": "Outstanding, this is almost as good as it gets, and still a great bargain.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "karloff",
+            "user_rank": "Specialist",
+            "rating": "95",
+            "review_date": "27 sep 2010 6:27 pm",
+            "content": "The peatiest malt i have ever tasted, an absolute top draw malt from islay",
+            "nose": "peat layered on with a trowel, pepper and smoke",
+            "taste": "peat, sea salt and pepper",
+            "finish": "very medicinal,long and wonderfull"
+        },
+        {
+            "user_name": "pianoman",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "24 jan 2024 11:17 am",
+            "content": "",
+            "nose": "Smoky fire, wet wood. Smoked trout with lemon. Some peach.",
+            "taste": "Sharp smoke. Lemon. Sand.",
+            "finish": ""
+        },
+        {
+            "user_name": "Calmar",
+            "user_rank": "Connoisseur",
+            "rating": "89",
+            "review_date": "26 may 2017 11:15 am",
+            "content": "A magnificent young smoky mole, coarse and assertive, simple, but bright and full.",
+            "nose": "A powerful, rough wave of smoke and smoked products, wood and coal, the smell of leather, weak notes of engine oil and raw, rinsed grain, heated dusty boulders moistened by summer rain, sometimes something elusively fruity and citrusy slips in the background.",
+            "taste": "Smoky-sweet, a kind of syrup from Lapsang suhong, pine resin, spices, ginger.",
+            "finish": "Sweetish pepper, peat, skins of oranges, medium duration."
+        },
+        {
+            "user_name": "LDB",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "10 apr 2021 1:19 pm",
+            "content": "Yes! If Ardbeg, then this one. You get a darn good rich and peaty Islay whisky plus sweet pine needles as the trademark aroma. All you sometimes need, to be honest. It might have lost its intensity a little over the years, but the TEN is still a no-frills-yet-affordable standard.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Stanzeflasche",
+            "user_rank": "Connoisseur",
+            "rating": "88",
+            "review_date": "25 jul 2018 2:47 pm",
+            "content": "When I inhale a glass of Ardbeg Ten, I always feel like I've been punched in the face. 54 ppm. Yes, it's violent, it's well-smoked peat that explodes in your face, pure peat with very few nuances, but very round. By insisting, all the complexity is revealed, we smell oil, salt, wet grass, earth, spices, caramel, blood oranges, and a hint of ginger. All in perfect balance. Alcohol competes and confuses the cards, it abuses our senses, it is not an easy drink, it is a furious and runaway horse. The rodeo continues on the palate, with all the pepper and spices pouring in, it's earthy, nicely salty, slightly caramelized, intense, with a hint of citrus on the finish, perhaps clementine. What an explosion when swallowing! We are as if immersed in the earth, the caramel and citrus fruits emerge. It's very long and oily in the mouth, the malt clings to the palate and leaves echoes of smoke. We come away feeling stunned. A blast of powerful and vegetal peat accompanied by a hint of citrus. https://ilikesky2020.blogspot.com/2020/04/ardbeg-ten-46-original-bottling-core.html",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "QuarterCentury",
+            "user_rank": "Connoisseur",
+            "rating": "87",
+            "review_date": "31 oct 2011 12:56 am",
+            "content": "For peat-lovers, Ardbeg 10yo is probably the highest-quality `entry-level` single malt on the market, and the distillery many Islay connoisseurs would choose as their favourite.  A whirlwind of peat and complex malty flavours, this is an exuberant, in-your-face whisky to be cherished.Whisky Bible Awards 2012: Best Single Malt Scotch of the Year, 10 Years and Under",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Oldpultnie",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "04 apr 2017 3:32 pm",
+            "content": "A good single malt whisky, never a disappointment. I have to review the points I gave this whisky 7 months ago.",
+            "nose": "Tears coming down slowly in the glass.Looks promising.Green apple is the first that comes up to me. Very soft peat and sweety smell.",
+            "taste": "Soft in the mouth with a bit burning peat after.Vanilla coming trough and gets more intensif. Fresh fruit and citrus. It's a mix of sweet and sour. The water makes it sweeter and fresh.",
+            "finish": "Medium long and smokey."
+        },
+        {
+            "user_name": "Oldpultnie",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "11 sep 2016 5:09 pm",
+            "content": "Review of the points after a few other tastings.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Tangtang_WhiskyYoda",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "23 mar 2020 9:39 am",
+            "content": "A delicious smoky standard.  You should definitely have tried it.  Would say a big bottle is worth it.",
+            "nose": "lots of smoke, maritime, somewhat fruity and sweet",
+            "taste": "Smoky, maritime notes, nutty, light sweetness in the background",
+            "finish": "very tasty, smoke is very dominant but not intrusive."
+        },
+        {
+            "user_name": "Lu Cifer",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "11 dec 2019 7:53 pm",
+            "content": "Aroma:  Smoky, tar, ink, liquorice, oriental spices bazaar  Taste:  full, engaging, strong, intense, warm, malty-sweet, prickles on the tongue  finish:  Very long spicy finish, smoky, potato chips with smoked bacon / ham, sweetish-salty on the palate, cigar smoke.  * slightly fruity and softer with water.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "granella2003",
+            "user_rank": "Connoisseur",
+            "rating": "98",
+            "review_date": "24 jan 2013 2:48 pm",
+            "content": "Aroma: Very peaty malt, cereals, yeast, toffee and chocolate, phenols, smoky, cigar box, tomato plant.Taste: very large, very peaty, rich, medicinal, citrus, bitter orange marmalade, coffee, licorice. Aftertaste: very persistent, smoked malt, ends with taste.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Rosebank88",
+            "user_rank": "Connoisseur",
+            "rating": "88",
+            "review_date": "19 jan 2018 10:34 am",
+            "content": "",
+            "nose": "Wonderfully maritime and salty. More and more iodine, citrus zests and a subliminal sweetness of vanilla and apple. Later also fishing nets and leather.",
+            "taste": "Mid-weight, oily body. Wonderfully smoky, peppery, citrus-toned and peaty with resinous herbal tones of juniper, rosemary and cedar. Gradually, also develop a herbal liqueur-like sweetness.",
+            "finish": "Long, sweet smokiness and pepper."
+        },
+        {
+            "user_name": "Marko_I",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "17 nov 2015 11:13 pm",
+            "content": "a must for peat bites, rightly one of the Islay cornerstones",
+            "nose": "strong smoke (ashtray, soot, old railway sleeper, motorcycle cloths), slight vanilla sweetness, grass, some medicinal freshness",
+            "taste": "Ash, tar, burnt notes, earth ... some lemon and salty freshness, including vanilla sweetness",
+            "finish": "long, bittersweet, nougat, cold coffee, salt & pepper"
+        },
+        {
+            "user_name": "ffmdino",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "22 jan 2019 4:20 pm",
+            "content": "blind tasting  bääää  the smoke dominates  too one-sided",
+            "nose": "Smoke - cold ashes  easy sweetness gets stronger  slightly vanilla  some grass  slightly gum  stings something in the nose",
+            "taste": "strong on the palate  slightly smoke  black rubber - car tires  slightly salt  Sweet - vanilla  Plastic - cheap foil  chemical - chlorine?",
+            "finish": "long  black rubber  cold smoke  slightly phenolic / iodine"
+        },
+        {
+            "user_name": "Issie",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "03 nov 2018 4:12 pm",
+            "content": "",
+            "nose": "Smoke, ashes, citrus fruits, honey",
+            "taste": "slight tingling on the tongue, smoke, ash, citrus, green apple and this Ardbeg sweetness, of which I do not know how to describe it, some pepper",
+            "finish": "medium"
+        },
+        {
+            "user_name": "tribe",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "06 jun 2021 11:10 pm",
+            "content": "It always works, the standard 10 islay representative. With a nice range of spices and lots of smoke in the campfire. Also sweet and tart at the same time. I always have my BBQ sauces with me",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "MrGlenfarclas",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "12 jan 2014 7:49 pm",
+            "content": "For me one of the best young standard malts available.",
+            "nose": "Of course (medicinal) peat at first but underlined by the typical Ardbeg sweetness. Not that fruity, but a beautiful peppery note. Also typical seaside aromas like salt and herbs. Maybe some licorice.",
+            "taste": "Demanding peat and a nice chili-catch. Very intense. When you got used to the peat there is sweet malt and a touch of vanilla. Yet not that complex and missing the oak.",
+            "finish": "Kinda long and aggressive finish. Cold ash and burned coffee beans staying behind."
+        },
+        {
+            "user_name": "Boletus",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "08 dec 2022 5:51 pm",
+            "content": "Opinions are sometimes divided on ''Ardbeg'', but one has to pay tribute to the high-quality art of distillation of the distillery. Despite its 10 years, the malt is not necessarily a complexity grenade, but the interpretation as a bourbon cask whisky with clean and recognizable distillery character and with an aromatic smoky note is already very well done. The development of the peat smoke in the finish is also very nice, which offers many opportunities to experience the beautiful brandy again.",
+            "nose": "Lemony and refreshing, the aromatic smoke rises in the nose, the barley appears very clean and soft, vanilla and toasted oak, lemon pepper, dried ginger, seaweed drying on the beach",
+            "taste": "Sugary entry, lemon, vanilla, very light honey, roasted hazelnuts, the clean barley plays beautifully, peaty malt, dried pineapple, the oak develops with ginger and pepper",
+            "finish": "Definitely long finish, but not complex, pepper, traces of lemon zest, ''Assam'' black tea, smoked paprika powder, a hint of seaweed, peaty, a bit of anise completes the dried ginger, the aromatic note of peat smoke rises again from the throat"
+        },
+        {
+            "user_name": "Robinzon25",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "01 oct 2019 12:36 am",
+            "content": "Reference whisky, despite the fact that this is the initial sample in the line. One of my favorite molts.",
+            "nose": "Railroad, engine oil, smoked fish, greedily sprinkled with ground pepper and salt, more fruit, cinnamon.",
+            "taste": "Smoked, salted, high in pepper.",
+            "finish": "Burnt meat, squeezed lemon, brown bread, sunflower oil."
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Glengoyne 10-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Glengoyne",
+        "ws_age": 10,
+        "ws_abv": 40.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/4/1/660/78173-normal.png",
+        "ws_rating": 80.38,
+        "ws_vote_cnt": 424,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/41660/glengoyne-10-year-old",
+        "ws_id": "41660",
+        "collected_count": 53,
+        "flavor_profile": {
+            "fruity": 4.7,
+            "sweet": 5.4,
+            "peaty": 0.5,
+            "spicy": 3.1,
+            "woody": 3.0,
+            "malty": 2.8
+        },
+        "top_keywords": [
+            "hazelnut",
+            "malty",
+            "tropical",
+            "apple",
+            "finish"
+        ],
+        "ws_name_kr": "글렌고인 10년",
+        "ws_distillery_kr": "글렌고인"
+    }
+}

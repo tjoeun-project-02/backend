@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Deanston 12-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Deanston",
+        "ws_age": 12,
+        "ws_abv": 46.3,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/9/8/349/435224-normal.png",
+        "ws_rating": 84.19,
+        "ws_vote_cnt": 1298,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/98349/deanston-12-year-old",
+        "ws_id": "98349",
+        "collected_count": 52,
+        "flavor_profile": {
+            "fruity": 4.2,
+            "sweet": 5.3,
+            "peaty": 0.6,
+            "spicy": 3.4,
+            "woody": 3.3,
+            "malty": 2.6
+        },
+        "top_keywords": [
+            "bourbon",
+            "spice",
+            "malt",
+            "nutty",
+            "iodine"
+        ],
+        "ws_name_kr": "딘스턴 12년",
+        "ws_distillery_kr": "딘스턴"
+    }
+}

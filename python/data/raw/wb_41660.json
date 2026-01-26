@@ -1,0 +1,546 @@
+{
+    "info": {
+        "ws_name": "Glengoyne 10-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Glengoyne",
+        "ws_age": 10,
+        "ws_abv": 40.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/4/1/660/78173-normal.png",
+        "ws_rating": 80.38,
+        "ws_vote_cnt": 424,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/41660/glengoyne-10-year-old"
+    },
+    "collected_count": 53,
+    "reviews": [
+        {
+            "user_name": "peatbogger",
+            "user_rank": "Specialist",
+            "rating": "77",
+            "review_date": "23 aug 2018 3:59 am",
+            "content": "The last dram from a bottle that has been open for well over a year. Time has done it good. I like it better than at first pour. Muted nose, fair body and a nice but too short nutty finish.",
+            "nose": "Grain, grass, cereal, lemon, pear.All very light. Sweet and a little zesty.Alc has become more integrated with time, hardly noticable now.",
+            "taste": "Neutral mothfeel.Sweet, glazed yellow fruit.A little warmth, but extremely gentle.Traces of nuts.",
+            "finish": "Short of medium lenght.Stays on the yellow fruit theme.Dry walnuts at the very end."
+        },
+        {
+            "user_name": "Archer",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "07 may 2021 4:40 pm",
+            "content": "Doesn't hurt, it's pretty easy to scoop off.",
+            "nose": "Fresh and floral in the first contact with the nose, orange biscuits, malt, toffee, caramel, honey, vanilla. Sliced almonds, hazelnut brittle.",
+            "taste": "Mild and dry, slightly creamy. Almonds, orange peel, lemon, marzipan bread. Goes clearly into the nutty corner. In spite of the only 40% he does not look too thin.",
+            "finish": "Doesn't stay long and leaves a mixture of orange cookies and almond butter."
+        },
+        {
+            "user_name": "KayMeertens",
+            "user_rank": "Connoisseur",
+            "rating": "78",
+            "review_date": "24 apr 2015 5:30 pm",
+            "content": "Made note from a miniature.",
+            "nose": "Orange, caramel, citrus, hazelnut. An oily fruitiness which I find hard to describe: lychee perhaps, or overripe gold kiwi? A little malt.",
+            "taste": "Orange, almond, caramel and green apple. Again that oily fruitiness. Quite some spice, a whiff of smoke and again a little malt.",
+            "finish": "More smoke now. Toffee, barley and hazelnut. Some oaky spice in the end. Not much fruit left."
+        },
+        {
+            "user_name": "Dre73",
+            "user_rank": "Connoisseur",
+            "rating": "79",
+            "review_date": "25 sep 2018 8:00 am",
+            "content": "It's okay, but very average. Just an easy and light step-in whisky.",
+            "nose": "Fruity, some oranges and citrus, sweet as well: vanilla. Very light, flowerish.",
+            "taste": "Very light again, and a little pale. Watery mouthfeel, sweet, honey, vanilla, a little caramel",
+            "finish": "A very little pungent now, vanilla and honey again. Pretty short, a little fruity like peach. Light."
+        },
+        {
+            "user_name": "Erik Elixir",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "14 sep 2014 10:31 pm",
+            "content": "miniature from Maltstock 2014",
+            "nose": "oily, citrus - lemon, malty, some nice sherry influence!, fruity, spices and vanilla",
+            "taste": "malty, citrus, lychees and olive oil",
+            "finish": "vanilla, nutty and some fruits"
+        },
+        {
+            "user_name": "maltaholic",
+            "user_rank": "Connoisseur",
+            "rating": "78",
+            "review_date": "12 jan 2016 1:41 pm",
+            "content": "Very fruity note, supposedly green apple, but I do not smell it, rather grape and raisin compote. The taste reminds me of a Glenmorangie 10 Original, but more fruity, by no means alcoholic, despite the small age. Nice light malt for getting into a tasting.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "WhiskyLovingPianist",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "30 nov 2021 5:34 pm",
+            "content": "https://whiskylovingpianist.wordpress.com/2021/11/27/scottish-drive-by-2021-part-6-6-swaggers-in-campbeltown/Back in Campbeltown, I get to meet up with the rest of the Swaggers at The Feathers. Whilst they tuck into the beer, I stick with the malt. Glengoyne 10yo seems a solid choice given the selection.N&T: Light/easy/hands-off vibes. Pleasant, for sure.F: Dusty honeyed finish.C: Last time I reviewed this, the average Whiskybase score was 80.14 from 205 votes. 132 votes later, the average score remains exactly the same [at time of writing]. That’s some indication of reliability/consistency. A dependable malt.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "WhiskyLovingPianist",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "30 nov 2021 5:24 pm",
+            "content": "https://whiskylovingpianist.wordpress.com/2021/11/27/scottish-drive-by-2021-part-6-6-swaggers-in-campbeltown/Back in Campbeltown, I get to meet up with the rest of the Swaggers at The Feathers. Whilst they tuck into the beer, I stick with the malt. Glengoyne 10yo seems a solid choice given the selection.N&T: Light/easy/hands-off vibes. Pleasant, for sure.F: Dusty honeyed finish.C: Last time I reviewed this, the average Whiskybase score was 80.14 from 205 votes. 132 votes later, the average score remains exactly the same [at time of writing]. That’s some indication of reliability/consistency. A dependable malt.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "WhiskyLovingPianist",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "27 nov 2021 7:56 pm",
+            "content": "https://whiskylovingpianist.wordpress.com/2021/11/27/scottish-drive-by-2021-part-6-6-swaggers-in-campbeltown/N&T: Light/easy/hands-off vibes. Pleasant, for sure.F: Dusty honeyed finish.C: Last time I reviewed this, the average Whiskybase score was 80.14 from 205 votes. 132 votes later, the average score remains exactly the same [at time of writing]. That’s some indication of reliability/consistency. A dependable malt.Scores 83 points",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "WhiskyLovingPianist",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "04 apr 2019 1:35 pm",
+            "content": "https://whiskylovingpianist.wordpress.com/2019/04/03/whiskylive-2019-day-1-part-2/Can’t say I’d had too much exposure to Glengoyne before visiting the distillery in 2017 [blog]. I know the distillery has many loyal fans, so I thought I’d revisit it.C: A very friendly nose with pleasingly cake-y sugars that trickle over the sweet spot.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "thijs100",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "23 sep 2020 4:47 pm",
+            "content": "A good whisky at this price point.",
+            "nose": "Grains and breakfast cereals with a sour-ish veneer, but also some touches of honey and raw sugar. Finally some orchard fruits make an appearance also, mostly ripe red apple.",
+            "taste": "Quite creamy and relatively mouth-coating, especially at such a low abv. Lovely fruits (apple and pear), a hint of powdered sugar and definitely a decent maltiness.",
+            "finish": "Lingering spices and a touch of charred oak. Sultanas and honey also."
+        },
+        {
+            "user_name": "LiquidThoughts",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "25 dec 2018 11:21 pm",
+            "content": "For a 10s really a very stable and pleasant malt that just is not very flat like many, you can play his 20-30 seconds in the mouth with him without boredom.",
+            "nose": "Soft honey, green apple, some lemon, pear, grass, light cereals, shortbread, very light and sweetish, but not too boring, toffee, some foliage",
+            "taste": "Beautifully balanced, fresh red apple, caramelized (yellow) fruits, lychee, pear, some sweet malt, lemon drops, some hazelnut, popcorn, hint of oak, cereals, sweet grasses",
+            "finish": "Short to medium long, apple peel, pear with seeds, sweet malt, a little hay, wild honey"
+        },
+        {
+            "user_name": "Tom na Gruagaich",
+            "user_rank": "Connoisseur",
+            "rating": "75",
+            "review_date": "19 may 2021 5:17 pm",
+            "content": "He won't pick me up today. Too coarse, too inharmonious for a simple malt. The second tasting brought a little improvement, the grades remain, today it looks a bit pleasing, but still quite unimportant.",
+            "nose": "In the nose it looks very young, mashy, out of round. A little vanilla, but nothing more. The nose catches, I just don't like the style that much.",
+            "taste": "In the mouth for 40% quite heavy, almost spicy from the alcohol, little aroma, some corn flakes and malt sweetness.",
+            "finish": "Somewhat sour in the finish, something green and bitter. More malty notes only over time."
+        },
+        {
+            "user_name": "Georges",
+            "user_rank": "Connoisseur",
+            "rating": "80",
+            "review_date": "17 sep 2015 11:07 pm",
+            "content": "",
+            "nose": "Sweet, citrus, salty, fresh, soft, nutty",
+            "taste": "Soft, citrus, apples, oaky, spicy (peppery, cinnamon)",
+            "finish": "Rather short, dry, citrus, apples"
+        },
+        {
+            "user_name": "pianoman",
+            "user_rank": "Connoisseur",
+            "rating": "79",
+            "review_date": "02 jul 2016 3:46 pm",
+            "content": "",
+            "nose": "Light. Honey, flowers, bright fruits, raisins.",
+            "taste": "Light. Pear, malt, some pepper.",
+            "finish": ""
+        },
+        {
+            "user_name": "Stanzeflasche",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "29 sep 2021 6:55 pm",
+            "content": "Honey, hazelnut and wood, this entry in the mouth is soft and pleasant, a little timid, but well constructed. The fruits are welcoming, yellow plums, pineapple, apple, grapefruit. An astonishing mixture, which does not prevent the balance. On the palate, it's spicy, paprika, curry, saffron. Rawhide. Grapes from Italy. Drizzle of vanilla. Light but quite long, mellow finish, on banana, dried coconut. It's very smooth, clean, it's amazing. I believe it's not bad at all. Rather an aperitif whisky, very pleasant, greedy, but quite harmless. https://ilikesky2020.blogspot.com/2021/09/glengoyne-10-yo.html",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Marko_I",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "05 oct 2017 10:00 pm",
+            "content": "Solid standard, beautiful grain character, not too lax, fits for 32 €.",
+            "nose": "first impression already when pouring: beautiful, intensive cereal whisky, the grain then dominates in the glass, fresh hay, then a hint of fruity freshness, more apple than lemon ... later some sweetness (toffee, honey), but the grainy character remains",
+            "taste": "mild, malty, caramel, nut ... if it stays longer in the mouth, it will be a bit \"crisper\", crispbread (with nutella), a touch of dry wood and pepper",
+            "finish": "medium, there is still some crispbread, malt, nut ... and slight bitterness"
+        },
+        {
+            "user_name": "_Dziki_",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "09 jun 2025 6:35 pm",
+            "content": "",
+            "nose": "Sweet, honey, fruity, yellow fruits, pomelo, nectarine, apricots, lemon jelly, vanilla, milk chocolate, multiflower honey, nougat, nuts.",
+            "taste": "Oak, nutty, woody, you can feel caramel, honey, vanilla, it's bittersweet, quite flat, but no one expected fireworks.",
+            "finish": "Short, flat, woody, vanilla, honey, caramel."
+        },
+        {
+            "user_name": "Damek",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "02 oct 2025 11:26 am",
+            "content": "Fresh, floral, honeyed, buttery, yellow fruit, apricots, peaches. Spices, tart wood, slightly artificial. Pleasant aroma, but much less so in taste and finish.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Cask1988",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "25 dec 2019 8:54 pm",
+            "content": "Maybe my batch is little different from the others downhere but I think this is a well deserving dram. It does what it should and in it’s price/quality range (entry level, core range OB) it is, at least for me, one of the better drams out there.",
+            "nose": "A very fresh, fruity nose. A little grassy as well. Sweet and accessible. There are bourbon as well as sherry cask influences. I notice a hint of european oak intensity in the sherry part of this whisky. It’s not a big part, but it’s there which is nice. (The higher the age, the bigger the percentage of European oak casks used, and from 21yo and up it’s 100% EU oak at GlenGoyne). Friendly thanks to the low abv by quite flavorful as well.",
+            "taste": "Thin body. But what can you expect with a 10yo at 40%. It’s sweet and sour. Fruits like pineapple, apple, pears. Slight herbal note.",
+            "finish": "The finish is actually quite impressive for what one can expect! Rather full bodied finish. Medium length. Spicy notes and some sherry cask influences. A little red fruits and a hint of sultana’s. Pleasant finish.It’s neither a complex whisky, nor one to remember for years to come but it is good at what it does. Perfect to share at a family dinner, a night with friends or as a quick&easy dram."
+        },
+        {
+            "user_name": "Kaltduscher",
+            "user_rank": "Connoisseur",
+            "rating": "78",
+            "review_date": "28 jul 2014 10:30 pm",
+            "content": "",
+            "nose": "Ripe green apples, honey, malt, floral notes and vanilla in the background.",
+            "taste": "Sweet and mild. Malt unfolds.",
+            "finish": "Pleasantly light, very malty."
+        },
+        {
+            "user_name": "ASWhisky",
+            "user_rank": "Connoisseur",
+            "rating": "75",
+            "review_date": "28 apr 2021 10:23 pm",
+            "content": "",
+            "nose": "Bitter almond (hydrogen cyanide) lots of nuts in slightly fruity alcohol",
+            "taste": "oily sweet nutty",
+            "finish": "alcohol oily vanilla nutty"
+        },
+        {
+            "user_name": "The Macallan",
+            "user_rank": "Connoisseur",
+            "rating": "78",
+            "review_date": "10 sep 2017 8:02 pm",
+            "content": "Maltstock 2017Sweet, malty, fruity, caramel, lovely flavors and slightly drying",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Goethe",
+            "user_rank": "Connoisseur",
+            "rating": "78",
+            "review_date": "29 sep 2017 9:53 pm",
+            "content": "Easy drinking Glengoyne, nothing special here.Concerning price/performance ratio: 8/10",
+            "nose": "Hay, caramel, citrus, vanilla, green apples.",
+            "taste": "Vanilla, spices, citrus, apples, honey.",
+            "finish": "Short to medium to long. Oak, caramel and some ginger."
+        },
+        {
+            "user_name": "[2stoned] aKu",
+            "user_rank": "Expert Senior",
+            "rating": "80",
+            "review_date": "08 mar 2014 10:40 pm",
+            "content": "The malt is present throughout this Scotch. What is perceived in the nose, extends to the finish evenly and round.",
+            "nose": "clearly malty, sweetish, green juicy apple with a hint of vanilla and a hint of caramel, at the end you can guess something sherry",
+            "taste": "soft, sweetish and the malt is clearly to taste, a little nutty",
+            "finish": "Here, too, the sweet maltiness, which lingers in the mouth for a long time, dominates and then becomes a little drier"
+        },
+        {
+            "user_name": "Martin1965",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "04 feb 2020 3:52 pm",
+            "content": "",
+            "nose": "Apple, pear, oranges",
+            "taste": "Caramel, fine malt, fruit",
+            "finish": "Nutty, very nice"
+        },
+        {
+            "user_name": "Whisky-Connaisseur",
+            "user_rank": "Expert Senior",
+            "rating": null,
+            "review_date": "12 sep 2015 12:15 pm",
+            "content": "This is a pleasant, easy drinking all day dram. Well-balanced and rich, with a decent value for the money. A lovely start into the Glengoyne whisky range. I thank Ian Macleod Distillers Ltd for sample and photo.https://www.facebook.com/Whisky-Connaisseur-550443305109776",
+            "nose": "Fresh and clean. Green apples, honey and a huge amount of malt. A fine note of toffee is coming through, mixed with flowers and a gentle spiciness. A bit of sweetness with sugar, sherry and vanilla. The nose is surprisingly stronger than you would expect from just 40% abv. Improves significantly with air.",
+            "taste": "A powerful start with lots of malt, toffee, and green apples. Ginger spice and almonds, even nuts are coming through. Clean and pleasant taste.",
+            "finish": "Good length. Malty, warm and sweet with pleasant spice (ginger, cinnamon). Gets drier in the end with a touch of citrus. WITH WATER: Lively. Sweeter with prickling spice and malt. A hint of lemon shines through."
+        },
+        {
+            "user_name": "SirToby",
+            "user_rank": "Expert Senior",
+            "rating": "89",
+            "review_date": "29 jul 2023 10:34 pm",
+            "content": "Color - light brandy; Nose - vanilla, sherry, wood, unripe tropical fruits; Taste - very nice and mild and sweet, whole milk, creamy consistency, slightly bitter at the end, almonds, a little hazelnut; Finish - pleasant, medium-long and mild",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Alex Fridays",
+            "user_rank": "Expert Senior",
+            "rating": "80",
+            "review_date": "24 jun 2018 10:56 am",
+            "content": "Sweet fruits, honey, cake, dried fruits, raisin, dates, oak and vanilla notes on nose.Dried fruits, raisin, light roughness, caramel, honey, spices and oak notes on palate.Spices, sweet fruits, raisin, pepper, light dryness on short finish.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Gloin",
+            "user_rank": "Expert Senior",
+            "rating": "81",
+            "review_date": "27 dec 2014 10:47 pm",
+            "content": "simple and uncomplicated, loses by oxidation, tastes best opened fresh",
+            "nose": "very ripe red apples, little sherry, no oak, some vanilla, caramel",
+            "taste": "fresh, a hint of mint, again apples, slightly sweet, little sherry, malt",
+            "finish": "short to medium long, sweet with a hint of bitterness and a bit metallic, again malt"
+        },
+        {
+            "user_name": "Torfding",
+            "user_rank": "Expert Senior",
+            "rating": "79",
+            "review_date": "01 mar 2017 9:24 pm",
+            "content": "good to drink alongside",
+            "nose": "Cherry and lemon",
+            "taste": "Apple, malt, a hint of chocolate",
+            "finish": "mild and sweet, comparatively long"
+        },
+        {
+            "user_name": "kawhi",
+            "user_rank": "Expert Senior",
+            "rating": "81",
+            "review_date": "29 jul 2025 9:46 am",
+            "content": "The deceased is currently in a state of sanity...",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "riegerjonas",
+            "user_rank": "Expert Senior",
+            "rating": "75",
+            "review_date": "10 apr 2021 5:37 pm",
+            "content": "2020-04-14",
+            "nose": "phenolic, very acidic, nectarine, blackberry, musty oak",
+            "taste": "very soft",
+            "finish": "short light oak finish"
+        },
+        {
+            "user_name": "Casketje",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "25 jan 2020 4:23 pm",
+            "content": "This was a nice surprise! The great Glengoyne distillate actually matures nicely in ex-bourbon. I especially liked the long chocolate-y finish, wasn't expecting that from a 10 year old. Definitely worth the money.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "The_Osprey",
+            "user_rank": "Expert Senior",
+            "rating": "74",
+            "review_date": "30 mar 2022 9:13 pm",
+            "content": "Glengoyne Aged 10 Years, 40%. 5cl miniature at home March 2022. Dark golden. Aroma is mango on crispbread. Some green apple flesh. White bread, the sort with a thick salty crust. A touch rusty. Settles on being quite rusty. Hint of cola. After 15 minutes or so all I get is old oak. Very easy on the palate up-front with more of that salt-crusted bread, salty water, the oak comes through as bread crusts. Despite the easy flavour it spikes at the mouth and the oesophagus a little more than it really should at the ABV, particularly on the swallow. The oak is ‘old’ tasting, musty and furry, suggesting refill casks and giving some bitter, charred, chilli-ish vibes to the finish. No bad casks, but no good casks either. Very much a budget age statement whisky, produced to achieve a particular age statement rather than a particular flavour profile. It’s okay. 3.075/74",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "P.K.S",
+            "user_rank": "Expert Senior",
+            "rating": "80",
+            "review_date": "01 apr 2021 3:10 pm",
+            "content": "A good 10yr but wish fore 46%. Good stuff",
+            "nose": "Sweet, lemmond, orange, Nutti, pepper amazing to be 40% imho",
+            "taste": "Sweet Apple, useful, orange, pepper",
+            "finish": "Oak suggar,oak spisyness,peppery,oily,rosted nutts with some pear (not sweet pear)"
+        },
+        {
+            "user_name": "ApricotOne",
+            "user_rank": "Expert Senior",
+            "rating": "81",
+            "review_date": "19 mar 2017 10:13 am",
+            "content": "A Whisy who is young, but round and quite successful. For whisky newbies one should really try. He shows very well the distillery character, since the barrels are still far from escaping to take the upper hand.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "KyleRiemen",
+            "user_rank": "Expert Senior",
+            "rating": "80",
+            "review_date": "04 mar 2024 8:16 pm",
+            "content": "",
+            "nose": "Young and fruity, grassy approach, red apple, orange peel, pear, lemon, some malt and fresh wood, slightly vanilla",
+            "taste": "Vanilla, toffee, but also lemon and apple, a strong aroma for 40%, but I don't particularly like it due to the youth tasted here too",
+            "finish": "The finish is short to medium long, nice warm vanilla and caramel notes remain, the youth disappears"
+        },
+        {
+            "user_name": "zinaf",
+            "user_rank": "Expert Senior",
+            "rating": "80",
+            "review_date": "07 dec 2015 10:00 pm",
+            "content": "honest and enjoyable but nothing to rave about.",
+            "nose": "A bit hot at first but then settles. apple and pears with a light malty/cereal note. Very fresh and youthful nose.",
+            "taste": "Sweet and velvety arrival. Followed by a short burst of pepper on the tongue. Then it is all about fruits and vanilla with some brazil nuts.",
+            "finish": "Short on vanilla, and woody dryness."
+        },
+        {
+            "user_name": "Gearmailteach",
+            "user_rank": "Expert Senior",
+            "rating": "82",
+            "review_date": "05 sep 2015 8:43 pm",
+            "content": "Sueffig, delicious and pleasantly sweet. An easy-drinking summer whisky.",
+            "nose": "Sweet, ripe apples, pear, syrup and honey. Behind it floral accents, strong citrus notes. A touch of sherry and oak.",
+            "taste": "Honey, apple and malt, oak and orange zest. Caramel and vanilla.",
+            "finish": "Medium. Oak and caramel in the interplay."
+        },
+        {
+            "user_name": "M_A_S_K_A",
+            "user_rank": "Expert Senior",
+            "rating": "81",
+            "review_date": "23 dec 2024 7:07 pm",
+            "content": "",
+            "nose": "malt, cooked vegetables, wood, fresh fruit, green apple, citrus notes, dried fruit, sherry",
+            "taste": "dried fruits, toffee, wood, spices watery",
+            "finish": "short, caramel, wood, spices"
+        },
+        {
+            "user_name": "Mephisto",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "23 jul 2016 9:29 pm",
+            "content": "Nicely balanced for a young scotch, but the alcohol appears relatively strong for 40 Vol.%.",
+            "nose": "Vanilla with a hint of cocos, raisins, pear or apple. Sweet malt or roasted sugar.",
+            "taste": "A balanced taste with vanilla again, sweet with nuts, mainly hazelnuts.Some dark fruits and finally apricot.",
+            "finish": "Starting with apricot, nuts and a bit of cork. The finish turns into sweet oak."
+        },
+        {
+            "user_name": "LaphroaigRules",
+            "user_rank": "Expert Senior",
+            "rating": "73",
+            "review_date": "01 apr 2025 1:01 pm",
+            "content": "Not for me personally",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Matt80",
+            "user_rank": "Expert Senior",
+            "rating": "81",
+            "review_date": "13 jan 2015 8:06 pm",
+            "content": "A decent price for a solid entry level malt",
+            "nose": "Strong fudge, light appley note. It becomes slightly medicinal with a touch of water",
+            "taste": "Fudge, woody, light walnut notes. Becomes woodier with a touch of water.Some fruits (apples?)",
+            "finish": "A sweetening fruit finish"
+        },
+        {
+            "user_name": "Svarttt",
+            "user_rank": "Expert Senior",
+            "rating": "80",
+            "review_date": "26 sep 2020 9:31 pm",
+            "content": "",
+            "nose": "First a hint of toffee that quickly gives way to more distinctive grain notes, oat flakes.",
+            "taste": "Creamy, sweet getting a little drier.",
+            "finish": "Short"
+        },
+        {
+            "user_name": "Dalm",
+            "user_rank": "Expert Senior",
+            "rating": null,
+            "review_date": "17 jan 2016 2:31 pm",
+            "content": "Aroma: Coconut, Caramel, Malt, Apple, Floral, Vanilla  Taste: sweet, malt, citrus, spicy  Finish: medium long, sweet, malt, slightly bitter",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Koloman",
+            "user_rank": "Expert Senior",
+            "rating": "71",
+            "review_date": "11 jan 2015 11:42 am",
+            "content": "A classic Lowland whisky - even if it was burned a few meters beyond the Highland Line.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "KeesD",
+            "user_rank": "Expert Senior",
+            "rating": "90",
+            "review_date": "10 apr 2020 11:13 pm",
+            "content": "Very friendly, tastefull whisky.Had it during a blind tasting and when this bottle was showed i was really surprised.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Peat_and_PX",
+            "user_rank": "Expert Senior",
+            "rating": "82",
+            "review_date": "10 mar 2024 6:00 pm",
+            "content": "5cl sample.Subtle and sweet on the nose.Not bad mouthfill for a 40% whisky. Some sweetness, some spicies and some oak influence. A little bit astringency in the finish maybe because of the refill casks.For its budget and being an entry-level whisky it does its job",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "djmaxliving",
+            "user_rank": "Expert Junior",
+            "rating": "83",
+            "review_date": "30 jun 2015 10:23 pm",
+            "content": "Nose - Honey, toffee, sweet, cooking apple, pear, fresh meadow, sugar, wood, vanilla, pine apple and flowers.Taste - Apple, oak, sugar cane, spice, fresh and powerful.Finish - medium long with oak.At 40% abv it feels stronger on the taste, good medium development. If you leave it for over 10 minutes, the nose becomes much sweeter.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Egge",
+            "user_rank": "Expert Junior",
+            "rating": "76",
+            "review_date": "03 oct 2018 11:28 pm",
+            "content": "",
+            "nose": "Wet grass, pear, a little flowery, rather restrained.",
+            "taste": "The first thing you notice is the mouthfeel: like drinking from a water bottle. Very gentle, a restrained sweetness, maybe vanilla? A little nut.",
+            "finish": "In short, barely there ... a little oak and ginger. Sweet, I do not taste any more."
+        },
+        {
+            "user_name": "Glenfarclas-Fan",
+            "user_rank": "Member Senior",
+            "rating": "82",
+            "review_date": "05 feb 2017 9:49 pm",
+            "content": "A light and uncomplicated whisky for \"every day\".",
+            "nose": "light and fresh scent of green apple and citrus fruits",
+            "taste": "soft taste, some peach, again citrus, no pronounced alcohol taste",
+            "finish": "pleasant and medium length"
+        },
+        {
+            "user_name": "MarkOak",
+            "user_rank": "Member Senior",
+            "rating": "73",
+            "review_date": "31 mar 2023 8:37 pm",
+            "content": "So ordinary",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        }
+    ]
+}

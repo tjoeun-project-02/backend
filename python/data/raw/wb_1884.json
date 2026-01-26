@@ -1,0 +1,876 @@
+{
+    "info": {
+        "ws_name": "Auchentoshan Three Wood",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Auchentoshan",
+        "ws_age": null,
+        "ws_abv": 43.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/1/8/84/188714-normal.png",
+        "ws_rating": 81.55,
+        "ws_vote_cnt": 837,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/1884/auchentoshan-three-wood"
+    },
+    "collected_count": 86,
+    "reviews": [
+        {
+            "user_name": "Cubey666",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "31 jul 2017 4:23 pm",
+            "content": "* Tasted it in June 2013 at a masterclass by Gordon Dundas ( Brand Ambassadeur of Bowmore, Auchentoshan and Glen Garioch) found some old notes.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Andytka3",
+            "user_rank": "Connoisseur",
+            "rating": "76",
+            "review_date": "13 dec 2016 2:59 am",
+            "content": "N- This is a mad cousin from a shy family, as opposed to the usual soft and feather weight Auchentoshan. Olorosso rush thru with surge of dried fruits and dusting spices. Sweet custard and brown sugar from PX stream thru with ripe plums.  Rich. P- Charming, playful and full of joy. Delicious fig and cocoa follow by light ginger and sour fruit. Zesty. Lighty flat in the middle with much anticipated spices missing from the DNA. F- Medium length and medium body, smooth and gentle. A return of mouth coating chocolate. — at The Whisky Bar, Kuala Lumpur.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "90ClubWhisky",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "03 mar 2022 8:35 pm",
+            "content": "Very dark. Pretty oily.",
+            "nose": "Very volatile and pleasant. Sweet. Sherry aromas definitely feel. Lots of dark berries. Milk chocolate. Powdered, sweet soluble cocoa.",
+            "taste": "Red and dark fruit. Lots of berries. Chocolate. Milk chocolate with raspberries. Dessert chocolate. Slight bitterness. Cocoa. Oily.",
+            "finish": "Dessert chocolate. Cocoa. Spices. Medium-long finish."
+        },
+        {
+            "user_name": "markjedi1",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "02 nov 2011 9:11 am",
+            "content": "It’s almost as good as the 12 Year Old (although that is an altogether different whisky), much better than the 10 Year Old, the Classic and the Select. According to Jim Murray’s 2010 Whisky Bible, this dram is very unbalanced and thus only deserves a 74. But to me, the roughness was a bonus and came out pretty well. But that’s just me – and I do have a soft spot for my Toshans, I admit.<?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" />",
+            "nose": "The nose is sweet and warm, like most Auchentoshans in my opinion, with raisins, dades and a lot of sherry. After leaving it in the glass to settle down for a minute or two, I also sensed orange peel, toffee, a pinch of tobacco and even brown sugar. This is a very interesting nose, with lots going on at the same time. Eye opener.<?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" />",
+            "taste": "The first sip is somewhat syrupy, but in a positive sense. The soft sherry notes come out first.",
+            "finish": "The finish is very, very long, fresh and fruity, but a bit dry at the death. Even a little bit bourbon-like, which surprised me somewhat. I recommend smelling your empty glass again after a minute or two. Nice! <?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" />"
+        },
+        {
+            "user_name": "KB201",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "21 jan 2022 5:26 pm",
+            "content": "Aging in ex-bourbon casks, followed by further aging in an Oloroso sherry cask and finally in a sweet Pedro Ximenez sherry cask.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "LiquidThoughts",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "09 apr 2017 11:26 am",
+            "content": "Already delicious for a beginner from the lowlands, oak is a bit too bitter and cheap but nice fruit tones.",
+            "nose": "Dark dried fruits, Canadian sugar, bitter oranges, raisins, oak",
+            "taste": "Syrup, oak, warm fruits, hazelnut, pickled mandarins, peaches etc., cinnamon, some darker honey, toffee",
+            "finish": "Oak with fruits remains, a little warm, medium long"
+        },
+        {
+            "user_name": "Sweetspot",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "27 feb 2023 9:25 am",
+            "content": "easy starter, nothing special but nice",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Malthead19",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "05 jan 2022 8:27 am",
+            "content": "- a great NAS whisky - clearly the best of the \"WOOD\" bottlings - very great, mild, soft and aromatic combination - PLV: for about 40 € absolutely ok, definitely worth the price",
+            "nose": "directly a very great fresh, sweetish fruity aroma, toffee, caramel, fruit cocktail",
+            "taste": "lighter mild start, increasingly fruity development on the palate, sweetness, toffee, mild sherry, at the end light oak, leather",
+            "finish": "medium-long, very soft round finish; long finish, fruity"
+        },
+        {
+            "user_name": "pianoman",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "02 jul 2016 4:11 pm",
+            "content": "",
+            "nose": "Plums, vanilla. Thyme, sage. Some wet old wood.",
+            "taste": "Sweet apples, a little peach. Light spice. Campari.",
+            "finish": ""
+        },
+        {
+            "user_name": "magic_slim",
+            "user_rank": "Connoisseur",
+            "rating": "74",
+            "review_date": "29 aug 2009 10:28 pm",
+            "content": "Drinkable but for me it is too much liquorice and coffee.",
+            "nose": "Shoe polish, lemons and lots of liquorice. The distillery character is masked by the three wood.",
+            "taste": "Sweet with rich toffee and maple sirup plus ginger, liquorice, coffee and white pepper. Dominated by oaky notes. Unbalanced.",
+            "finish": "Medium long - sweet caramel pudding, liquorice and coffee. Unbalanced."
+        },
+        {
+            "user_name": "Calmar",
+            "user_rank": "Connoisseur",
+            "rating": "87",
+            "review_date": "05 jun 2017 7:14 am",
+            "content": "Pleasant chocolate confectionery and perfume moth, excellent balance, spicy, light, especially good aroma, but other components are not far behind.  I am a supporter of consumption of whisky in its pure form, but I can not but note the excellent compatibility of this mole with fruit, especially with green grapes.",
+            "nose": "Milk chocolate, bitter chocolate, raisins and dried apricots, bourbon - perfume notes, a little carpenter workshop and furniture varnish; green grass, weak citrus notes - generally dense, balanced, interesting in development, multifaceted.",
+            "taste": "Bitter chocolate, oak, pepper, creamy toffee, boiled sugar.",
+            "finish": "Oak bitterness alternating with chocolate sweetness on the background of pepper and spices, medium duration, warm."
+        },
+        {
+            "user_name": "Allandale",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "27 feb 2017 8:59 am",
+            "content": "As warm as a real Glasgow kiss. MM",
+            "nose": "Rich and complex : Armagnac and cognac,prunes and treacle cake.Stewed fruit,raisins, molasses. roasted red pepper.Complex.",
+            "taste": "Complex and long -lasting,with raisins,cherries and chocolate, European oak to the fore.Sweet ad sour. Lovely.",
+            "finish": "A sophisticated complex of flavour, with maple syrup,dark fruits and apples."
+        },
+        {
+            "user_name": "granella2003",
+            "user_rank": "Connoisseur",
+            "rating": "80",
+            "review_date": "29 sep 2012 6:14 pm",
+            "content": "The reputation is upheld by the Three Wood Edition, a whisky with full flavors and rich aromas. A welcome addition to the series Auchentoshan whisky!",
+            "nose": "Rich and sweet aromas with a fruity character and supplemented with raisins, brown sugar, caramel and toffee",
+            "taste": "Soft, creamy texture with a distinct taste of sherry supported by vanilla, oak and sweet fruity ingredients such as cherries, strawberries and blueberries.",
+            "finish": "A wonderful, heartwarming long finish that is fresh and fruity and sweet taste of wood has"
+        },
+        {
+            "user_name": "Rosebank88",
+            "user_rank": "Connoisseur",
+            "rating": "80",
+            "review_date": "17 jan 2018 5:04 pm",
+            "content": "",
+            "nose": "Sherry tonic, with ripe dark fruits, plum jam, tender oak, clove-like dryness and a peppery spice.",
+            "taste": "Soft and supple in the body. Sherrytönig but surprisingly spicy. Licorice, again cloves, allspice. Gradually fruity, with notes of blood oranges.",
+            "finish": "Medium. Juicy sherry, with fruity notes and oaky-spicy backbone."
+        },
+        {
+            "user_name": "Saftkenner",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "20 feb 2021 5:02 pm",
+            "content": "It could be a little more intense and harmonious, also less sharp. However, I am also enthusiastic about the strong plum aroma. Pickled plums with cinnamon. The barrel-ripened Umeshu from Yamazaki also has a strong fruit note in this direction. That's what I really appreciate about this bottling.",
+            "nose": "Very intense after pickled plums with cinnamon. The alcohol tingles the nose a bit, but still within tolerable limits. In addition, vanilla, cherries (also pickled) and delicate oak spice. With increasing warmth (lukewarm) the fruits shrink and it appears less balanced. Honey and wax are now added.",
+            "taste": "Quite thin body and a little bit alcoholic. Fortunately, the pickled plum can also be found in the mouth, along with a distinct bitterness. Not bad at all, but everything could be a little more harmonious.",
+            "finish": "Medium-long finish. There are the pickled plums, together with vanilla sauce."
+        },
+        {
+            "user_name": "Helgo",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "11 sep 2017 3:08 pm",
+            "content": "Yes, what do you want to say to this bottling. For some, too artificial and in fact, like Bushmills 16yo, I feel a forced and imprinted wine-red mints that can be interesting and tasty if you catch the right day. But that's why it's not a daydram for me, but rather something \"special\" for the cold season. I would almost try this whisky once boiled or hot to taste.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Boletus",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "08 dec 2022 10:16 pm",
+            "content": "If you are looking for fruit here, you have to pick them out of a wooden enclosure with tweezers. Like mushrooms searching in the undergrowth, there are many branches here that can cause painful scratches. In my opinion, an attempt is made here to hide sulfur-treated sherry casks behind the top of wood and sweetness. But the biting, painful feeling in the cheeks betrays its presence. Tannins are also there, but they're not what's causing the glowing mouthfeel. Pity!",
+            "nose": "Heavy sweet woodiness, musty oak, a few dates and figs hiding, leather, 'Zware Shag' tobacco, the gum-tape note can't be hidden, plaster, smells a bit dusty, tire rub, sandalwood, toasted nuts",
+            "taste": "Very sweet at first, then the wooden club hits, glowing sulfur notes complement the hard ride, roasted nuts are present, dark milk chocolate, possibly sloe, tannins, molasses, elderberries, caraway, lots of corners, the rubber notes keep coming to the fore",
+            "finish": "Just about medium length, black tea, deep oak, mineral-salty, relatively unround and biting, musty-earthy, tanned leather, light vanilla, the mucous membranes groan after a break, woody sulphurity remains"
+        },
+        {
+            "user_name": "Bishlouk",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "13 aug 2013 9:30 pm",
+            "content": "It lets drink pleasantly, a good entry level.",
+            "nose": "Wood, cooked fruits, caramel. Fairly standard, but soft and pleasant to breathe.",
+            "taste": "Pretty sweet and woody, a little vinous. Light nutty taste.",
+            "finish": "Quite short and quite woody with a slight drying of the mouth."
+        },
+        {
+            "user_name": "André",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "08 feb 2017 11:19 pm",
+            "content": "Indeed a very nice dark dram in it`s price range. I suppose this one is a splendid dram on a hot summer night with a good sigar.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "MadScientist",
+            "user_rank": "Connoisseur",
+            "rating": "90",
+            "review_date": "20 nov 2015 12:15 am",
+            "content": "Blind tasting.Guessed age: 20 years",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Robinzon25",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "26 oct 2021 12:45 am",
+            "content": "This whisky definitely deserves attention. One of my favorites is Auchentoshan.",
+            "nose": "Multifaceted, honey, with a high content of malt and wine tones. I feel dried fruits (prunes, raisins). After breathing in a snifter, aromas of vanilla, coffee, tobacco leaves and old leather appear.",
+            "taste": "Sweet, full of berry, fruity and chocolate notes, with a moderate oak and spice influence.",
+            "finish": "Long enough, rich. Sherry at first, with a nutty twist. Then sweet, filled with hints of prunes and milk chocolate. A little scorching at the end, with oak bitterness and hot pepper. Smoothly fading away the last in the aftertaste are vanilla and creamy echoes."
+        },
+        {
+            "user_name": "Thermidor",
+            "user_rank": "Connoisseur",
+            "rating": "78",
+            "review_date": "15 nov 2015 7:52 pm",
+            "content": "Three different wood types and they still couldn't drown that clear alcohol note.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Lorion",
+            "user_rank": "Connoisseur",
+            "rating": "78",
+            "review_date": "17 oct 2017 3:34 pm",
+            "content": "Very tasty, especially the dark fruits. 78th",
+            "nose": "Dark and quite heavy. Sherry, seasoning, vanilla, dark fruits, some glue (unfortunately), orange.",
+            "taste": "Similar to the nose, a bit alcoholic. Intense fruity with oak.",
+            "finish": "Pretty long, fruity, oak."
+        },
+        {
+            "user_name": "alectron",
+            "user_rank": "Connoisseur",
+            "rating": "79",
+            "review_date": "09 feb 2010 7:22 am",
+            "content": "Just had a funny re-encounter with this. Back when I opened the bottle about 10 months ago, I didn't like it much & gave it something around 77 I think, then left the bottle opened & 2/3rds empty untouched for +6 months. And recently I had a dram again and it feels like it changed for the better over the last months... so now it's more like a 83/84 suddenly.Shame that all of my favorite islays just seem to turn for the worse instead of better after a few months...",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "drkrylov",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "09 dec 2011 7:22 pm",
+            "content": "A lot of wood-derived flavours and aromas",
+            "nose": "Fruity. Raisins, especially dates, orange peel.",
+            "taste": "Beautiful balance of dark, syrupy, fruity, maturation flavours and cedary, oily, marshmallow, characteristics from the spirit itself.",
+            "finish": "Gentle, long, warming, lemon grass, spice."
+        },
+        {
+            "user_name": "Achany",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "11 nov 2017 2:08 pm",
+            "content": "Nice sherry, dark fruits, dried sultanas, traces of nuts, some spices, oaky, really nice balanced. Finish is all right and full of sherry. Really nice dram!",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Feusi",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "06 jan 2012 4:48 pm",
+            "content": "Three Wood is matured initially in bourbon casks before being finished in Oloroso or Pedro Ximenez casks TWE",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Feusi",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "06 jan 2012 4:42 pm",
+            "content": "Complex aromas with a fruity dominance",
+            "nose": "Fruity notes of black currants, raisins, prunes and oranges, a fruit cocktail, isn't it?",
+            "taste": "A creamy mouthfeel, oily and nutty and many many ripe fruits",
+            "finish": "A long and smooth finish with a hint of spice."
+        },
+        {
+            "user_name": "EvilAFI",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "11 mar 2021 6:35 am",
+            "content": "Sweet and sour, nutty, orange, raisin, oak, berries, light spice. It has a dank ness to it that while brings interest, doesn’t work for me.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "WhiskyBjorn83",
+            "user_rank": "Expert Senior",
+            "rating": "70",
+            "review_date": "03 jun 2018 12:45 pm",
+            "content": "18-02-2017",
+            "nose": "raisins, cinnamon",
+            "taste": "orange, chocolate",
+            "finish": "short"
+        },
+        {
+            "user_name": "Lafroy",
+            "user_rank": "Expert Senior",
+            "rating": "73",
+            "review_date": "04 apr 2011 10:47 am",
+            "content": "",
+            "nose": "Nose gives the sense of light glue, spirits, dried fruits, fingernail polish, oak, flowers, toffee, dark chocolate and some sherry notes, which are quite insignificant in this case.",
+            "taste": "It starts very flat, becomes a little sweet, flowery, with hints of soup, light smoke, spirit and detergent.",
+            "finish": "Medium long with hints of soap, flowers, biscuits, but it´s relatively flat and not very exiting."
+        },
+        {
+            "user_name": "DrunkDude",
+            "user_rank": "Expert Senior",
+            "rating": "82",
+            "review_date": "04 aug 2020 2:40 pm",
+            "content": "",
+            "nose": "Smell: slight flavors of fruits, slight grass, and slight apple, and also spices, lime peels, slight feels of smoke. Also a little wax and asparagus. 81",
+            "taste": "Taste: sour then bolded smoke, cooked bread, and also spicy spices. citrus elements. 84",
+            "finish": "Finish: biscuits, and cooked woods. 82"
+        },
+        {
+            "user_name": "claymore84",
+            "user_rank": "Expert Senior",
+            "rating": "83",
+            "review_date": "06 apr 2020 3:34 pm",
+            "content": "Tasted on a hiking trip on 04-06-2020.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "davidloosli",
+            "user_rank": "Expert Senior",
+            "rating": null,
+            "review_date": "18 mar 2018 7:46 am",
+            "content": "Rather one dimensional and watery, too smooth and light for my taste",
+            "nose": "Vanilla, caramel",
+            "taste": "Caramel, raisins, oranges",
+            "finish": "tad bitter, oaky"
+        },
+        {
+            "user_name": "pilgrim77",
+            "user_rank": "Expert Senior",
+            "rating": "77",
+            "review_date": "30 nov 2012 8:38 pm",
+            "content": "Fruity and sweet nose, with toffee and caramel in the background. A slightly rough edge was tamed with a drop of water. Quite oily, sour and bitter on the palate though, masking any underlying subtlety. Not particularly complex, and all-in-all I am left with the impression of this whisky feeling quite `closed`, even with time and water.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Igor_Gudimov",
+            "user_rank": "Expert Senior",
+            "rating": "86",
+            "review_date": "26 mar 2021 2:32 am",
+            "content": "",
+            "nose": "Sweet, dark raisins and chocolate fudge that transforms in old furniture varnish",
+            "taste": "Slightly sweet dark chocolate with a creamy texture",
+            "finish": "Short, dry, strong bitter oak with some bitter chocolate notes"
+        },
+        {
+            "user_name": "tomy63",
+            "user_rank": "Expert Senior",
+            "rating": "80",
+            "review_date": "14 may 2011 1:54 pm",
+            "content": "10 years under bourbon wood, about 1 year oloroso, about 6 months pedro ximenez.",
+            "nose": "sherry, spices (dates, marshmallow) then fruits (oranges, apricots) and vegetal notes",
+            "taste": "wood then toffee, caramel, orange, candied fruits",
+            "finish": "citron, epices, sherry"
+        },
+        {
+            "user_name": "riegerjonas",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "11 apr 2021 4:40 pm",
+            "content": "2021-01-19: a bit thin",
+            "nose": "sweet malty minimal smoke, brown sugar, orange, plum, fruit compote",
+            "taste": "very light smoke, very subtle chocolate note, tingling cinnamon, a little hazelnut",
+            "finish": "fruity-sweet oak on a short finish"
+        },
+        {
+            "user_name": "Magnus Hillman",
+            "user_rank": "Expert Senior",
+            "rating": "82",
+            "review_date": "30 jul 2014 8:27 pm",
+            "content": "The nose and the flavor was really nice and complex but the finish was a bit disappointing. Only had one dram though, have to try it again. (Rating interval 80-84)",
+            "nose": "Spicy on the nose, and rubber, I am thinking a bicycle tire. A very nice scent of organic solvent, like oil paint, powdered paprika and licorice. After water more caramel notes, burnt sugar and pepperoni.",
+            "taste": "Nice mouth fill, again spicy with herb salt and hints of smoked paprika, sweet notes with vanilla and brown sugar, cocoa and instant coffee. There is a vegetable note after water, I am thinking celery.",
+            "finish": "The finish is relatively short and vapid. There are some weak notes of cocoa and spices in finish but it's suddenly vanished."
+        },
+        {
+            "user_name": "vojt466",
+            "user_rank": "Expert Senior",
+            "rating": "77",
+            "review_date": "31 aug 2016 9:19 pm",
+            "content": "So this is such unattached sherry, certainly nothing extra. A bottle of this kind of goodness I'll let go of ...",
+            "nose": "The sherry dominates, then vanilla, dark fruit and varnished wood, malt and light spice.",
+            "taste": "Sherry in combination with woody bitterness, bitter chocolate and palatability - the taste is quite bitter and lacks aroma.",
+            "finish": "Dozvuk is quite long and, unfortunately, a lot of woody / bitter and sharp - overall medium and not very pleasant."
+        },
+        {
+            "user_name": "nikolajsa@inbox.lv",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "13 dec 2020 6:20 pm",
+            "content": "",
+            "nose": "sherry, vanilla, oak",
+            "taste": "sherry, dark chocolate, pepper, pleasant oak astringency",
+            "finish": "long, viscous, warming"
+        },
+        {
+            "user_name": "dissonance",
+            "user_rank": "Expert Senior",
+            "rating": "82",
+            "review_date": "22 nov 2021 10:13 am",
+            "content": "RATING: 82pts – |80 – 82 (B-) → Okay| — No major flaws, worth tasting.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "The-Man-best-Friend",
+            "user_rank": "Expert Senior",
+            "rating": "87",
+            "review_date": "14 feb 2015 9:26 pm",
+            "content": "After a good year, try again, thank God! Delicious.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Gearmailteach",
+            "user_rank": "Expert Senior",
+            "rating": "82",
+            "review_date": "14 feb 2014 8:50 pm",
+            "content": "A sweet and intense Lowland, well worth the price. Delicious.",
+            "nose": "Sweet strawberry jam, ripe cherries, orange and raisins behind.",
+            "taste": "Can not quite keep up with the nose. Apple, hazelnut, seasoning.",
+            "finish": "A little cinnamon and coffee, short finish."
+        },
+        {
+            "user_name": "MarcelWhiskyPanda",
+            "user_rank": "Expert Senior",
+            "rating": "83",
+            "review_date": "27 apr 2025 10:23 pm",
+            "content": "Would get more points from me if he had more alcohol%",
+            "nose": "I'm not a fan of Auchentoshan but I think this whisky suits my taste Quite watery in the nose But clearly woody / spicy Lacquered raisins Coffee is also clearly Behind it some fruit dates / overripe cherries Some Maggi herb After some time, light marzipan With 46 or 48% I think it would be much better in the nose",
+            "taste": "Mild start due to the 43% Lots of wood spice Raisins and a dark nut Coffee Fruit is readily available Cherries and plums Slightly sour/bitter at the end Finally, the wood becomes more carbonic But the 43% bother me unfortunately Unfortunately, it has little steam and flattens out",
+            "finish": "Woody / Spicy Maggi herb dark chocolate"
+        },
+        {
+            "user_name": "karlsson60",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "22 jun 2013 6:20 pm",
+            "content": "I can only emphasize what alectron said below. I`ve just changed my initial rate of 79 to 85, since now, after I have left the bottle open for about 8 months, it`s so much better - smoother and more balanced - than the first time I tasted it. Now the sherry and oak notes are well integrated, when I opened the bottle the sherry was too strong. Very pleasant dram now. It`s something strange: You never drink the same whisky twice. (Whisky-drinkers variation of Heraclitus` \"No man ever steps into the same river twice\")",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "oppi",
+            "user_rank": "Expert Senior",
+            "rating": "77",
+            "review_date": "25 feb 2018 11:54 am",
+            "content": "",
+            "nose": "Dark fruits",
+            "taste": "raisins  wine cream",
+            "finish": ""
+        },
+        {
+            "user_name": "Svjatogor",
+            "user_rank": "Expert Senior",
+            "rating": "76",
+            "review_date": "11 jan 2021 7:10 pm",
+            "content": "n: sherry, red fruit, cherry, plumbs, oak, sourt: sweet, oaka: oak, sherry",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "BarrelBeast",
+            "user_rank": "Expert Senior",
+            "rating": "81",
+            "review_date": "09 jan 2026 11:44 am",
+            "content": "German Youtube Review: https://youtu.be/qVrW8N9QKjU",
+            "nose": "Sweet, fruity, and warm – like a plate of honey, raisins, plums, and a touch of caramel placed on a warm oak platter. The bourbon adds vanilla and citrus, the oloroso provides nuttiness and dark fruit, and the PX contributes rich sweetness. Everything remains light and smooth, typical of Auchentoshan, but with significantly more depth than the standard bottlings.",
+            "taste": "Round, sweet, fruity, and creamy – like a golden thread of honey trickling over raisin, plum, white grape, and a touch of chocolate. Add to that vanilla, malt, caramel, and a gentle, dry oak spice. The three cask types blend together, but without undue force – harmonious rather than powerful.",
+            "finish": "Medium-long, sweet-woody and slightly dry. Raisin skin, vanilla, caramel and a subtle hint of spice linger – like the final notes of a warm dessert wine in the evening."
+        },
+        {
+            "user_name": "EnjoyLife89",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "04 mar 2019 9:30 pm",
+            "content": "",
+            "nose": "Immediately strong, intense fruity, in the background light cinnamon, citrus (orange), sweet molasses, some oak, malt and nut pretty close to each other",
+            "taste": "Sherry is very present. Very spicy, softens later sweet sweetness, oak light, quite dry, nut is clearly noticeable. It is creamy and has a light touch of cinnamon",
+            "finish": "Medium to long. Drying, there is no bitterness, sherry remains throughout, malt and oak remain longer in the mouth."
+        },
+        {
+            "user_name": "erikz",
+            "user_rank": "Expert Senior",
+            "rating": "58",
+            "review_date": "08 nov 2014 3:31 pm",
+            "content": "Nose is weak to say the least. Taste hits the palate like a nuke, lots of caramel at the start, then an overdose of tanines. Very flat whisky, not complex whatsoever. Used too many casks for maturation, tastes like inferior?¿ stuff to be honest. Tanines killed the spirit. Try to triple mature like Laphroaig did with their Triple Wood. It's way more balanced and complex, spirit seems more alive.Rated this 58/100. Don't need to taste this again, or perhaps a future version in a few years when they [Auchentoshan] learned not to add heaps of caramel.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "keizerjos",
+            "user_rank": "Expert Senior",
+            "rating": "83",
+            "review_date": "28 jan 2016 8:15 pm",
+            "content": "Smell orange (peel), resin, wood. Sherry in scent and in color. Many different flavors described in 4 tastings: currants (2x), citrus (2x), chocolate, black fruit. Vanilla, later creamy on the tongue - with sharp edge. One time vague turpentine air is described. Haagse Hopjes, marmalade. Very tasty, \"fall whisky\".",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "TsiAI",
+            "user_rank": "Expert Senior",
+            "rating": "60",
+            "review_date": "06 may 2020 6:08 am",
+            "content": "Viewing Eyes: Copper-gold smells Nose: Unsatisfactory alcohol adhesion, caramel baking staple, brown sugar,  Taste Palate: sour and bitter, inferior black chocolate, diluted brown sugar water, high alcohol irritation Finish: bitter base, sour green orange peel, no citrus aroma Body: water, loose  Nose: 75/100  Palate: 50/100  Finish: 75/100  Body: 75/100  Overall: 60/100",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "oleg.wx",
+            "user_rank": "Expert Senior",
+            "rating": "81",
+            "review_date": "27 jul 2022 10:51 am",
+            "content": "Simple, straightforward, not interesting, somehow brandylike",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "TDMartijn",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "07 apr 2014 12:00 pm",
+            "content": "Rich flavoured.",
+            "nose": "Blackcurrant, brown sugar, orange, plum and sultanas.",
+            "taste": "Fruit and syrup, hazelnut, cinnamon and lemon. Butterscotch.",
+            "finish": "Fresh and fruity, butterscotch and dark chocolate."
+        },
+        {
+            "user_name": "CrilleVBG",
+            "user_rank": "Expert Senior",
+            "rating": "85",
+            "review_date": "30 jun 2011 4:05 pm",
+            "content": "Very drinkable whisky, lots of wood. I donâ€",
+            "nose": "Wood and some sherry notes, easy on the nose. Not bad..",
+            "taste": "Smooth taste, sweet and maybe some rubber. In the background, there are some bitter flavor.",
+            "finish": "Medium long finish, with a spicy end."
+        },
+        {
+            "user_name": "hefaists",
+            "user_rank": "Expert Senior",
+            "rating": "84",
+            "review_date": "11 aug 2013 5:05 pm",
+            "content": "This is no bad whisky, but there is something slightly... unsettled and unbalanced about the taste. It`s quite complex and nuanced, but I`m not entirely sure this particular combination of casks works well - there`s simply too much obtrusive bitterness coming from (I suspect) the sherry casks, which doesn`t mesh well with the floral and strong tea notes.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Gerko",
+            "user_rank": "Expert Junior",
+            "rating": "82",
+            "review_date": "19 sep 2021 6:37 pm",
+            "content": "One of the better whiskys floral will stick for a while",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "PeterCr",
+            "user_rank": "Expert Junior",
+            "rating": "78",
+            "review_date": "20 feb 2016 7:58 pm",
+            "content": "Medium tears. Wood is there but it tastes a bit designed to me! Also a bit off-balance with some heat from alcohol. (Did it get more after opening the bottle?)78-80 points (after opening)76-78 points (after 3 weeks).",
+            "nose": "Woody nose. Medium impact. Dark fruit and dried fruit. Hints of spice.",
+            "taste": "Smooth (bit oily) soft sweet. Toffee, caramel, dried fruits. Little spice. Needs somewhat else to balance the sweetness.Some typical sherry PX notes are there.",
+            "finish": "Woody finish, finishing with sweet caramel and toffee (lots of toffee). Could have more complexity and gets somewhat boring after a few sips!Medium to short finish."
+        },
+        {
+            "user_name": "mynappa",
+            "user_rank": "Expert Junior",
+            "rating": "83",
+            "review_date": "09 jun 2019 8:45 pm",
+            "content": "Ex-bourbon and finish in Oloroso and Pedro Ximenez sherry casks",
+            "nose": "Dark chocolate, oranges, raisins, cherries, dates and other dark fruits",
+            "taste": "sweet, fruity and spicy, dark fruits such as plums, syrup, hazelnuts, cinnamon, citrus fruits",
+            "finish": "fruity, medium long."
+        },
+        {
+            "user_name": "spatti",
+            "user_rank": "Expert Junior",
+            "rating": null,
+            "review_date": "14 nov 2012 7:55 pm",
+            "content": "",
+            "nose": "Sherry on the nose, cocoa, even slightly pure in coffee, candied walnut, very flattering, rounded off by pleasant notes of wood (seasoned wood)",
+            "taste": "On the palate, wood and sherry are predominant, relatively dry, the mildness of a triple distilled seems only slightly more easily.",
+            "finish": "In the finish purely come the more sweet cocoa notes, but the wood and sherry always remain present.  The finish is quite long, warm, and ends in the wood."
+        },
+        {
+            "user_name": "wbarchive_875995",
+            "user_rank": "Expert Junior",
+            "rating": null,
+            "review_date": "10 mar 2019 8:39 am",
+            "content": "Normal, smooth NASik. Good nose, average taste and decent aftertaste.",
+            "nose": "Saucy, bright, dried orange peel, smoked orange, piece of wood, cucumber pickle.",
+            "taste": "Bread theme, crust of white bread, crackers, orange again, bitterness and astringency of a piece of wood.",
+            "finish": "Unexpectedly complex, repeats one to one taste."
+        },
+        {
+            "user_name": "KOQ24",
+            "user_rank": "Expert Junior",
+            "rating": "80",
+            "review_date": "25 jun 2022 4:49 pm",
+            "content": "A damn good Bang-for-your-Buck Single Malt with a lot of Sherry cask influence.Due to Auchentoshan's light Distillery character the cask shines through even more.",
+            "nose": "sweet,syrupy,PX sherry,vanilla,raisins,caramel,herbal,grassy,cinnamon",
+            "taste": "light acidity,berries,raisins,caramel,spicy,chocolate,leather,oak tannins",
+            "finish": "medium-to-full Bodied.medium-to-strong Alcohol Heatmedium-to-long lasting Finish"
+        },
+        {
+            "user_name": "Lenart",
+            "user_rank": "Expert Junior",
+            "rating": "79",
+            "review_date": "14 oct 2020 12:38 pm",
+            "content": "BLIND PROVENProduct of chemistry.Aroma : off-balancedVarnish, un-refined oil, raisins, plums, slightly molded cheese, hint of orangePalate : sharper than should be for this level of flavour intensityArrival : bourbon-like caramel, nothing moreDevelopment : Char, Plums and very distant dried fruits, burnt branches and earth, chemical varnish note",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "kulideli",
+            "user_rank": "Expert Junior",
+            "rating": "85",
+            "review_date": "30 may 2014 12:22 pm",
+            "content": "Aroma: wood, sweetness, fruits, strawberries, sherry, slivovitz, oak, strong, roasted aromas, chocolates, chocolate, liquorice;  Taste: pleasant sweet, soft, chocolate, bitter choco;  Finish: longer with sherry, chocolate and berries, warming;  Conclusion: wood and fruits in a strong mixture, yummy! The three types of keg have done a great job. It has emerged a tasty, complex whisky.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "mikkellund42",
+            "user_rank": "Expert Junior",
+            "rating": "85",
+            "review_date": "04 nov 2012 10:23 pm",
+            "content": "Very good balanceTasted at www.romfestival.dk 2012-11-04",
+            "nose": "Clean ethanol, light spicy, sawdust from hard oily wood",
+            "taste": "Warm honey, nuts, dried fruits",
+            "finish": "Faint sulphur, light salty, nice and round"
+        },
+        {
+            "user_name": "Mictian",
+            "user_rank": "Expert Junior",
+            "rating": "81",
+            "review_date": "04 may 2021 2:19 am",
+            "content": "Ball purely for the nose. There is nothing to drink here",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Philippe Verlinden",
+            "user_rank": "Expert Junior",
+            "rating": "84",
+            "review_date": "14 jul 2015 10:37 am",
+            "content": "good value  really good whisky",
+            "nose": "soft and sweet",
+            "taste": "oily texture, deep sweet-sweet flavors with a bit of citrus in the background",
+            "finish": "long and oily"
+        },
+        {
+            "user_name": "Stenface",
+            "user_rank": "Expert Junior",
+            "rating": "83",
+            "review_date": "18 jan 2014 6:42 pm",
+            "content": "Woody and flowery on the nose, woody and smooth taste, medium long finish. A good everyday dram.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "rinuskrijnen",
+            "user_rank": "Expert Junior",
+            "rating": "84",
+            "review_date": "05 aug 2013 11:37 pm",
+            "content": "The whisky is very accessible, yet powerful and although soft, yet complex.  Personally, I think it is a very nice whisky, which would do well even after a sweet dessert as a digestive.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "King_of_Grill",
+            "user_rank": "Member Senior",
+            "rating": "78",
+            "review_date": "13 dec 2018 8:06 pm",
+            "content": "Blindtasting, rather too easy nosing for its rather dark color, vmtl. Red wine finish, weak finish, not more than 43%, mediocre",
+            "nose": "Dark fruits, apple, chewing gum, light red wine, no smoke",
+            "taste": "Powerful fruits, complex, sweet",
+            "finish": "Very short, soft, little wood"
+        },
+        {
+            "user_name": "Junior",
+            "user_rank": "Member Senior",
+            "rating": "76",
+            "review_date": "07 jan 2012 11:07 pm",
+            "content": "Place: Hulshout Water Supply",
+            "nose": "apricot, dades, some \"thickness\", dried fruit",
+            "taste": "cashew, farmy hints, ripe fruit",
+            "finish": "rather short, grassy, oaky tannine"
+        },
+        {
+            "user_name": "Whisky-ettenleur",
+            "user_rank": "Member Senior",
+            "rating": "88",
+            "review_date": "27 jan 2016 9:20 am",
+            "content": "Fragrance-86, Taste-90, Finish-87. Average: 88 tops!",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Whisky-ettenleur",
+            "user_rank": "Member Senior",
+            "rating": "88",
+            "review_date": "27 jan 2016 9:19 am",
+            "content": "Points: Fragrance-86, taste-90, finish-87.  Average: 88 topper!",
+            "nose": "Delicious fresh and fruity, floral scent.",
+            "taste": "Sweet, the fruity also comes up again.",
+            "finish": "Fresh and fruity and a bit of woody taste, and quite long."
+        },
+        {
+            "user_name": "ralfh",
+            "user_rank": "Member Senior",
+            "rating": "80",
+            "review_date": "11 apr 2014 11:46 pm",
+            "content": "",
+            "nose": "Zitronenschale, schwarze Johannisbeere, Holz,",
+            "taste": "Rote Früchte, Holz, Schokolade, Kakao, Süße, weicher Alkohol",
+            "finish": "Kurz und bündig"
+        },
+        {
+            "user_name": "Reve64",
+            "user_rank": "Member Senior",
+            "rating": "80",
+            "review_date": "15 mar 2014 8:34 pm",
+            "content": "A lot of flavers",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "whisky_sven",
+            "user_rank": "Member Senior",
+            "rating": "78",
+            "review_date": "14 jul 2025 8:28 pm",
+            "content": "Unspectacular. Very woody.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Ain",
+            "user_rank": "Member Senior",
+            "rating": "84",
+            "review_date": "15 mar 2020 1:28 pm",
+            "content": "Not too complicated. Refined base allows you to feel the influence of barrels. Whisky leaves a good impression. Well suited for a drink.",
+            "nose": "New glossy magazine, sherry, dark chocolate, ripe red apples, oak. Saturated and dense.",
+            "taste": "Dark chocolate, oak, hazelnuts.",
+            "finish": "Characteristic pleasant bitterness, red apple, chocolate. Long."
+        },
+        {
+            "user_name": "xFabe",
+            "user_rank": "Member Senior",
+            "rating": null,
+            "review_date": "28 jun 2016 11:56 pm",
+            "content": "Triple distilled Lowlander, who can score with massive oak charging. Nose and taste form nice counterpoints. A little more sweetness on the finish would have been pleasant. For that you get full oak power.",
+            "nose": "Fresh sherry in combination with slightly oak spice, vanilla ice cream with raspberries, with some time comes caramel sweetness, wonderfully round and sweet, nothing of the alcohol, syrupy berry wine, cinnamon, cloves",
+            "taste": "Significantly spicy and stronger on the tongue than expected, accompanied by fruity sherry, rhubarb compote, raspberry again, all accompanied by a persistent oak flavor",
+            "finish": "Consistent oak-red, not too strong but persistent, slightly nutty, dry fruit component, which is literally crushed by wood, then it is always dry in the mouth"
+        },
+        {
+            "user_name": "Raymon_psv",
+            "user_rank": "Member Senior",
+            "rating": "90",
+            "review_date": "17 may 2016 7:40 am",
+            "content": "Delicious whisky in the price range! Recommended!",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Danksy",
+            "user_rank": "Member Senior",
+            "rating": "80",
+            "review_date": "01 dec 2021 3:49 am",
+            "content": "I've heard a lot of good things about the old bottling, but had to settle for one from 11.2020 instead. I've heard this was aged for 12 years in ex-bourbon, plus 2 years in 2 different sherry casks. However, as with any NAS whisky, it's virtually impossible to verify the real age.",
+            "nose": "I love a good sherried whisky, but this isn't what I was expecting at all. This is like cognac, pure cognac. Seemingly something close to XO class. Raisins, berries, a touch of vanilla and spice, some tobacco and leather. Quite heavy on oak, but not overpowering. But where's the malt? I can't find any distinct whisky notes in this, no matter how hard I try. It's still a very nice nose, but it's not exactly a whisky nose per se.",
+            "taste": "A bit less cognac, more like a good brandy, but still not quite the sherried whisky I was looking for. I guess this is what happens when you run a triple distilled malt without much character of its own through heavily seasoned sherry casks. The sherry has taken over the palate completely. At the same time, it's not exactly what I would call a sherry bomb either. A sherry bomb whisky is a fine fusion of malt and brandy notes, but I'm simply not getting the malt here. It's also bit thinner than I expected. Watering down to 43 ABV and chill filtering this release was not the best idea.",
+            "finish": "Medium, sweet and dry. Moderately heavy on oak. I'm also getting some leather, tobacco and black tea notes, plus a light touch of pepper. It's a classic sherried finish, minus the malt, which is nowhere to be found.Final thoughts: I really find it hard to recommend this release, although I don't dislike it myself. It's certainly unusual and even somewhat pleasant, but it simply doesn't smell or taste like whisky at all. That would be more forgivable if only this was a proper sherry bomb, with a thicker body and more actual distillery character. I would love to try an unfiltered release at 46 ABV."
+        },
+        {
+            "user_name": "AristoMoggie",
+            "user_rank": "Member Senior",
+            "rating": "89",
+            "review_date": "22 nov 2010 10:29 pm",
+            "content": "You need to nip this whisky a couple of times to start realizing it's actually a damn nice dram! Well worth a try.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "noeinwhisky",
+            "user_rank": "Member Senior",
+            "rating": "82",
+            "review_date": "01 sep 2020 7:30 pm",
+            "content": "Nose: lots and lots of raisins, dried exotic fruits, strong varnish notes with metallic overtonesPalate: dry and bitter (cocoa beans) with a smidgen of what we Scots call foostienessFinish: surprisingly long with a nice balance between sweet and sour I was anticipating a more sanitized drinking experience from a Beam Suntory but this expression ticked more boxes than I had expected.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "jsa.jsa",
+            "user_rank": "Member Junior",
+            "rating": "84",
+            "review_date": "29 jun 2015 10:47 am",
+            "content": "It is a little harsh on the start. Tried with ice ball instead and it has a nice finish. Definitely my type of drink for social hangout.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Scotscloggie",
+            "user_rank": "Member Junior",
+            "rating": "70",
+            "review_date": "14 sep 2009 9:46 pm",
+            "content": "I couldnt help being dissapointed by the Three Wood of Auchentoshan.Nose: Dry fruits. Thick sweet sherry.Mouthfeel: Very woody,overpowering oak over thesherry and fruits.Aftertaste: Sherry makes a come back and rich pudding with dried raisins come into the equation",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Dave287",
+            "user_rank": "Newbie",
+            "rating": "70",
+            "review_date": "01 sep 2024 10:26 pm",
+            "content": "Tastes oddly of coffee",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        }
+    ]
+}

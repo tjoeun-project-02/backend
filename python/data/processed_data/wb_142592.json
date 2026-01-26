@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Glenlivet 12-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Glenlivet",
+        "ws_age": 12,
+        "ws_abv": 40.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/1/4/2592/353391-normal.png",
+        "ws_rating": 80.52,
+        "ws_vote_cnt": 520,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/142592/glenlivet-12-year-old",
+        "ws_id": "142592",
+        "collected_count": 53,
+        "flavor_profile": {
+            "fruity": 4.8,
+            "sweet": 4.9,
+            "peaty": 0.0,
+            "spicy": 2.1,
+            "woody": 2.5,
+            "malty": 1.3
+        },
+        "top_keywords": [
+            "cinnamon",
+            "malty",
+            "cask",
+            "apple",
+            "sweet"
+        ],
+        "ws_name_kr": "글렌리벳 12년",
+        "ws_distillery_kr": "글렌리벳"
+    }
+}

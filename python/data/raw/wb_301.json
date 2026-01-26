@@ -1,0 +1,516 @@
+{
+    "info": {
+        "ws_name": "Dalwhinnie 15-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Dalwhinnie",
+        "ws_age": 15,
+        "ws_abv": 43.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/3/0/1/326694-normal.png",
+        "ws_rating": 81.12,
+        "ws_vote_cnt": 2585,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/301/dalwhinnie-15-year-old"
+    },
+    "collected_count": 50,
+    "reviews": [
+        {
+            "user_name": "dram-drinker",
+            "user_rank": "Photo Moderator",
+            "rating": "83",
+            "review_date": "05 jun 2017 12:17 am",
+            "content": "Soft, smooth, very convenient - some spices like cardamom or coriander - anyhow not too challenging",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Slàinte Mhath",
+            "user_rank": "Super Administrator",
+            "rating": "84",
+            "review_date": "12 oct 2019 10:20 am",
+            "content": "We do not want to become a malt snob, do we? Never lose appreciation of a simple but honest classic! Known as 'the honey malt', Dalwhinnie 15 is a great choice for beginners to set out on their whisky journey. Notes of heather, green pears and barley sugar complement the honeyed aroma. After a sweet, rich and full-bodied arrival, spices build up quickly with a mildly dry and bitter edge, but well-measured. The aftertaste is gentle, citric and wood-driven with hints of cinnamon and apple juice. A characterful Highlander which should not be overlooked!RATING: 3.5/5.0 stars ≙ 84 pts → ABOVE AVERAGE",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "KayMeertens",
+            "user_rank": "Connoisseur",
+            "rating": "80",
+            "review_date": "09 dec 2013 10:27 pm",
+            "content": "Honey, citrus, almond, apple and tangerine. Hints of malt, vanilla, subtle spice and a slight floral character. In the finish also some caramel and milk chocolate. A prototype Highlander, pretty straight-forward. Pretty boring perhaps, but very well drinkable.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Dre73",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "21 may 2016 12:55 pm",
+            "content": "Tasty, sweet and accessible whisky with character: Has more body than many other 'entry-level whiskys' in this price range.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Dre73",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "21 may 2016 12:52 pm",
+            "content": "Accessible sweet whisky with body.",
+            "nose": "sweet and fruity, citrus, orange peel, honey, vanilla. Lightly grassy. also hues of white chocolate",
+            "taste": "Sweet, honey. Slightly peppery and spicy. Citrus.",
+            "finish": "Medium, slightly dry, slightly peppery. Sweet, honey."
+        },
+        {
+            "user_name": "Cubey666",
+            "user_rank": "Connoisseur",
+            "rating": "75",
+            "review_date": "12 jan 2019 2:17 pm",
+            "content": "Rather easy enjoyable and gentle. Delicate flower honey with sugar and vanilla. Bit too easy on the mouth and silky finish",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Erik Elixir",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "10 feb 2013 9:03 pm",
+            "content": "N: heath, honey, floral, citrus, ginger and bananaT: oily, perfume, floral, vanilla, liquorice, spices - herbs, honey, malty and citrusF: long, malty, sweet, later some earthy peat and spices -white pepper",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Andytka3",
+            "user_rank": "Connoisseur",
+            "rating": "79",
+            "review_date": "28 dec 2016 2:39 am",
+            "content": "Nose:- Thick honey aroma filled up the glass, soothing on nose, layers of chocolate with nut oiliness. Aromatic. Palate:- Clean and laid back. Taste like smoked thin honey water infused with shaved wood and a touch of spice, Finish:- Medium length and warming. Sticky mouthfeel. Easy and muted. — at The Whisky Bar, Kuala Lumpur.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Kantenmechaniker",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "18 apr 2015 9:52 pm",
+            "content": "For a long time in the glass again, not spectacular, but without junk notes for the uncomplicated enjoyment in between not wrong.",
+            "nose": "Very floral, flower meadow, hay, honey, behind a little spicy oak, as a whole herbal tea with honey",
+            "taste": "also very sweet in the mouth, herb meadow, very spicy and here also clear oak",
+            "finish": "the sweetness disappears quite fast, it leaves herbs and a hint of smokiness"
+        },
+        {
+            "user_name": "WhiskyLovingPianist",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "27 mar 2020 10:41 pm",
+            "content": "https://whiskylovingpianist.wordpress.com/2020/03/27/malt-n-copper-so-were-back/N: We’ve lot’s on the nose. Light-fresh, light green fruits with a complex mix of subtle yet tight oily/garage/farmy tones. I also pick out a light yeasty meatiness, various fusty honey and sweaty men’s clothes.T: Thin, and at first oily [and sulphury?], before becoming nutty then stretching out with manuka honey.F: A light humming on barley sugar.C: I’ve reviewed and enjoyed this classic malt again [and again] since this tasting [WLP84]. It’s finally time to admit I like Dalwhinnie 15yo.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "WhiskyLovingPianist",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "25 dec 2019 2:54 pm",
+            "content": "https://whiskylovingpianist.wordpress.com/2019/12/25/blind-challenge-christmas-2019/Colour: Also gold, slightly richer and murkier than #3 [C]N: More murky than the previous three. Hard to see what that indicates initially.N take 2: After 10 minutes it’s starting to wake up a little so maybe it’s got more age than I’d first anticipated. There certainly appears to be a patient oaky underbelly. It’s all a touch quirky but that dissipates, leading to a more mineral quality. My radar is back to Scotch single malt, Speyside or Highlands, maybe sherry and bourbon cask maturation?T: Ok, we are around the 12-16 age bracket [maybe even 18 if the casks say, are 2nd or 3rd fill]. It speaks of age though it’s the barley spirit that steers, the oak a fine navigator.F: Becomes more murky malty/oaky with only a touch of dunnage action to the tail.C: I’m lost as to what it is. Highland Park perhaps? I think this one will haunt me. Provisionally scores around 85 tops.ROUND 2I piece together a summary of my guess-work:We are in the 12-16 age bracket [maybe even 18 if the casks are 3rd fill]. My guesses ranged from old Highland Park to Springbank with hints of Balvenie in-between. Frankly I’m puzzled by this one. I’m going to kick myself. [85]ROUND 3There’s a 25yo in this bunch and this is certainly displaying plenty of maturity. Again, the nose is quiet yet with a soft whispering leathery story to tell certainly. The palate [if short] tells of age as does the dusty [if not that dunnage-y] finish. Then there are those unmistakable oaky sugars at the tail which tell of age more than the previous signs. Given I’ve mistaken the Glenalba as a NAS and #5 as a 10yo, I’m committed to calling this a soft 25yo. Wrong again! Then this must be a 15yo then. I did say between 12-16 in the beginning!REVEALED: What can I say? I never used to like the Dalwhinnie, yet the last 3 times I’ve had it [the last 2 blind], I’ve enjoyed it.C: I’m pleased i initially had this down at 12-16 years but frustrated I failed to spot the main [and, I want to say recognisable, but in the circumstances] character trait – soft-aged bitter/sour lemon-y malt. Forget the Winter’s Gold that is/was often priced higher than the 15yo.Final score: 84 points",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "WhiskyLovingPianist",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "23 jan 2018 11:55 pm",
+            "content": "https://whiskylovingpianist.wordpress.com/2018/01/23/rogues-to-riches-part-1/Due to my indecisiveness, I asked the bartender for a dram, blind.N: Similar honeyed nose to the Glenfiddich 21yo WB [coming up], though more bready/porridge-y and a tad more youthful. Less fruits but swizzles more honey.T: Honeyed porridge and a dry aspirin tinge [which thankfully is only a minor distraction].F: Similar finish to the Glenfiddich on honeyed cocoa barley.C: In the same ball park as the Glenfiddich and some Glenmorangie too. This Dalwhinnie has a better consistency and preferred mouthfeel but a far more basic nose and palate. Though I’m no great fan, it is however the best batch of Dalwhinnie 15 I’ve had to date.Scores a B-",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "WhiskyLovingPianist",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "26 sep 2016 11:19 pm",
+            "content": "N: Almost nothing from the nose as its so cold in the warehouse, even in the height of summer! Warming up to sweet lemon barley spirit, as ever.T: Well, it's Dalwhinnie. You have to give it to them for consistency. It's always the same - neutral, calm cereal notes, with a spirit of fine quality. The casks element always appears tame, safe.F: Clean spirit, spirity.C: I've never understood what the fuss is about with the Dalwhinnie 15, and even today's dram in the distillery isn't going to change my mind eitherScores a D+",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "WhiskyLovingPianist",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "21 jul 2015 2:53 pm",
+            "content": "N: Sweet, stewed apples, unripe plums, dried papaya<mango, caramel & melting toffee, pear=prune juice and pokey=yeasty, honeyed malt with an old style oak influence. Its sweet and overall rounded, but yet a little wayward, ‘pokey’ being the word.T: Another rugged one [a la Black bottle WB] - starting out with tannic, stewed fruits and a muddled nutty, poly-tar centre leading into a malty dry, oil-slick oak smokiness. A longer journey than expected with the subtle, indiscriminate notes towards the finish offering the most fascination. Adding water can’t get rid of the overall sharpness as it really struggles with itself in the main, only settling in the latter stages.F: Rather a longer finish too with chocolate, jammy notes moving to a nutty, malty conclusion with the malty/waxy/Ovaltine/chicory notes emerging as successors. Theres rather a sublime tequila/G&T conclusion at the death for those willing to wait for the credits, aside from metallic/oily, crisp like industrialness that is.C: The point in-between the palate and finish appears to be this malt’s sweet spot. Otherwise, and despite its qualities its a bit of a struggle - although this 15yo has grown on me somewhat, especially because of its general contentiousness. Batch consistency remains an issue - see Whisky-monitor scores for the Dalwhinne 15yo which span from 1980 up to 2013 [at time of writing, July 2015].Scores a C",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "WhiskyLovingPianist",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "07 may 2014 3:29 am",
+            "content": "N: Highland/Ancnoc like with some Speyside notes. Very fruity, citrus, woody, yeasty - familiar regional nose with some potency. Damp nose but not musty, this is a fresh clean mouldT: Woody, yeasty, sugary, honey arrival becoming more and more malty, citrusy and woody. Some nutmeg/fennel freshness coming out over time and some noticeable salt and vibrancy overall and an Interesting interplay between the sweet and sour but a tad ambiguous.F: Citrus and honey wood lingers. Some bourbon sugars struggling to come throughC: Highland/speysider and not too shabby. A clean, balanced rather safe whisky which whilst having lots going for it, lacks that spark to catch a fire.Scores a C+",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "90ClubWhisky",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "24 apr 2025 11:43 pm",
+            "content": "2020 Rating",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "robain",
+            "user_rank": "Specialist",
+            "rating": "83",
+            "review_date": "14 jul 2020 11:07 am",
+            "content": "",
+            "nose": "pear, grass, green fruits",
+            "taste": "wood, grass,",
+            "finish": "oak"
+        },
+        {
+            "user_name": "dRambo",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "14 may 2017 6:20 pm",
+            "content": "One of my favorite basics especially in the summer, good and cheap, benefits from some air after opening so I decant it always right after opening",
+            "nose": "Honey, Apples, Lemon peel, Oak tannins, Tree sap, Acetic acid, Vanilla, Wood dust, Floral herbs",
+            "taste": "mild, slightly sweet, with beautiful oak acidity and fine spicy oak notes, slightly tingling, delicate bitterness, hint of chocolate, caramel, lemon zest",
+            "finish": "medium long, warming, tingling, spicy but not spicy"
+        },
+        {
+            "user_name": "thijs100",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "22 dec 2015 1:36 pm",
+            "content": "If you're a beginner than this is a perfect whisky.",
+            "nose": "Sweet, fresh and fruity. Honey, toffee and vanilla with heather, peaches and green apple.",
+            "taste": "Malty and creamy with red apple and oranges. Lightly spiced. The honey and the vanilla make an encore.",
+            "finish": "Lingering spices and subtle notes of caramel glazed apple."
+        },
+        {
+            "user_name": "ThorstenH",
+            "user_rank": "Connoisseur",
+            "rating": "67",
+            "review_date": "29 mar 2025 6:17 pm",
+            "content": "Tasted directly at the distillery in 2025. Pleasant to drink, but not outstanding. 61-70 – Okay, but not more than 1 dram",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Tom na Gruagaich",
+            "user_rank": "Connoisseur",
+            "rating": "75",
+            "review_date": "30 jan 2019 10:14 pm",
+            "content": "Sweet fruity bourbon barrel nose, then a lot of wood but not quite mine.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Georges",
+            "user_rank": "Connoisseur",
+            "rating": "80",
+            "review_date": "08 aug 2014 9:51 pm",
+            "content": "The honey malt. Gentle, ideal for a first single malt",
+            "nose": "Honey,citrus, vanilla",
+            "taste": "Creamy,honey, rounded sweetness, bit salty and spicy",
+            "finish": "Softbitterness, tea"
+        },
+        {
+            "user_name": "wisekyofcourse",
+            "user_rank": "Connoisseur",
+            "rating": "80",
+            "review_date": "31 oct 2016 2:42 pm",
+            "content": "On the nose, almonds, a little wax, cottony side, honeyed, lemony after the deluge of green fruits (apple, undifferentiated pear)  In the mouth, it stings, directly, then the green side spring, fruit and grass!  In the final, strong smell of alcohol, but it's short!  A very good dram that recalls the first tasting experiences, not changed, simple, at its price level!",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "LeChiffre",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "15 sep 2020 5:14 pm",
+            "content": "Solid standard at an attractive price, but for me there are better alternatives, even if I have to pay a slight extra charge for them.",
+            "nose": "fruity and sweet; light fruits; apples; pears; delicate citrus notes (orange); Honey; herbal notes; some fresh wood",
+            "taste": "soft; delicately sweet; Honey; Caramel; orange oil; light chocolate; slightly tingling spiciness appears; delicately tart",
+            "finish": "peppery-spicy; Honey; delicate fruit notes; fresh wood"
+        },
+        {
+            "user_name": "Sporx",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "20 aug 2020 10:11 pm",
+            "content": "On 15.05.21 from 81 to 83/84. A good basic especially in summer, good and cheap, benefits from some air after opening Aroma Honey sweetness, apple, citrus notes, acidity The taste Sweet, sparkling, spicy, herbs Resonance Medium length, sweet, spicy",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "karloff",
+            "user_rank": "Specialist",
+            "rating": "90",
+            "review_date": "21 dec 2015 4:15 pm",
+            "content": "Quite simply a classic.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "karloff",
+            "user_rank": "Specialist",
+            "rating": "90",
+            "review_date": "28 aug 2010 4:23 pm",
+            "content": "Christmass presant off the wife",
+            "nose": "Honey and fruit with a hint of fresh hay",
+            "taste": "A lot of combinations and a delight on the tounge",
+            "finish": "Light and sweet"
+        },
+        {
+            "user_name": "Malthead19",
+            "user_rank": "Connoisseur",
+            "rating": "78",
+            "review_date": "06 oct 2022 9:24 am",
+            "content": "Color gold - great standard single malt that every guest gets can offer easily - pleasantly light, strong and unproblematic - for beginners as well as for advanced whisky enthusiasts Lovers always suitable for a good dram - around 35€ always a good investment - can certainly be considered a good, pleasant permanent fixture Whisky selection can be seen at home",
+            "nose": "mild, fresh, malty, sweet, caramel, vanilla",
+            "taste": "pleasant strong attack, round taste, vanilla, fudge, toffee, combination of oak and sweetness",
+            "finish": "medium-long finish; medium-long malty aftertaste, spice lingers"
+        },
+        {
+            "user_name": "pianoman",
+            "user_rank": "Connoisseur",
+            "rating": "84",
+            "review_date": "02 jul 2016 3:31 pm",
+            "content": "",
+            "nose": "White wine. Some apple and citrus. Flowers.",
+            "taste": "Bright grapes. Damp earth, grass, flowers. Nutty with a slight bitterness.",
+            "finish": ""
+        },
+        {
+            "user_name": "LDB",
+            "user_rank": "Connoisseur",
+            "rating": "86",
+            "review_date": "02 apr 2021 6:38 am",
+            "content": "(Blind tasting 2018) So I like it very much, my guess: Alk ~ max. 46%, about 2/3 bourbon barrel, 1/3 sherry barrel, age around 17 years?",
+            "nose": "Earthy, spicy, salty apricot, somehow springbankesk",
+            "taste": "Soft mouthfeel, totally balanced with honey and nutty aromas as well as a hint of lilacberries (i.e. elderberry). Sweet and strong, very interesting!",
+            "finish": "Creamy cream with lightly roasted almond slivers, long and noble."
+        },
+        {
+            "user_name": "Stanzeflasche",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "31 oct 2024 7:00 pm",
+            "content": "Nose oozing fir honey, heather and roots. Wheat ears rocked by the wind, tall grass, curly lettuce, with woody reflections, bark, acorns, yellow apples, even mirabelle plums. Chasselas grapes. On the palate, vanilla and pastry cream, some farmhouse touches, hay, smoked straw. Rustic cereals, dry spices, cloves, nutmeg. The finish is short but pleasant, whipped cream, cider, malted barley, millet grains, all sprinkled with lemon pulp, grated ginger, dry earth, pistachio, chestnut. I discovered him when I was a teenager, and I have to say that I never liked him. Today, I have to admit that he has qualities, and even a personality. https://ilikesky2020.blogspot.com/2024/10/dalwhinnie-15-yo.html",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "granella2003",
+            "user_rank": "Connoisseur",
+            "rating": "75",
+            "review_date": "10 jan 2013 12:05 pm",
+            "content": "Rich, full, characterized by two very different sections: intensely sweet honey that surrounds a center of malt and fruit, all resting on a bed of earth and peat. And `the combination earthiness - sweetness that distinguishes the great whiskys of the Highlands",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "granella2003",
+            "user_rank": "Connoisseur",
+            "rating": "75",
+            "review_date": "10 jan 2013 12:03 pm",
+            "content": "",
+            "nose": "Aromas of lemon, orange and pomegranate with hints of pear, smoke and honey",
+            "taste": "A soft sweet taste of honey, peat, cocoa, chocolate and malt followed by hints of fruit, cinnamon, coffee and oak",
+            "finish": "A soft, smoky aftertaste with a hint of peat and the continuing warm taste of honey with a peppery edge"
+        },
+        {
+            "user_name": "Rosebank88",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "17 oct 2023 1:57 pm",
+            "content": "",
+            "nose": "Fresh, very finely structured and aromatic. Starts quite floral with blooming heather and slightly waxy and earthy notes accompanied by mandarin, honey and salty accents. Wonderful Highland style",
+            "taste": "Full attack with heavy maltiness, wax, earth of flowering heather, honey and mandarin. In the background there is some peat and bitter oak which provides the framework.",
+            "finish": "Long, tart oak and nutty elements"
+        },
+        {
+            "user_name": "Marko_I",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "05 apr 2018 10:09 pm",
+            "content": "I find it really delicious now. After a break of about 8 years I was looking forward to such a boring Lala-Classic-Malt, and suddenly it tastes. Maybe he's gotten better, maybe a good batch, maybe I appreciate him now - no idea. 33 € - check. And a bargain for 15 years. Nice that I still have 15cl.",
+            "nose": "Funny, right after pouring a fresh Gummibären note, honey melon, I never had with the ... But only for a breath, hallucination? No, let glass calm down for a minute, there it is again, again only briefly, but clearly. Fascinating. Then kräutrig-fresh, for mint's not quite enough, not hay, not dry herbs, somewhere in between. Tea goes well with a mixture of herbal and peppermint teabags. Little sweetness, very pleasant.",
+            "taste": "clearly heavier and sweeter than I would have expected from the nose and color (and memory), it has a syrupy component, slightly of maple syrup and dark honey, herbs are also there (towards sweet hay), a touch of honeydew melon / overripe Pear in the \"pass by\", behind the tongue then chocolate-> wood-> white pepper",
+            "finish": "medium to long, first creamy, white chocolate, then dry, warm, mild white pepper"
+        },
+        {
+            "user_name": "didi1893",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "24 feb 2019 9:32 pm",
+            "content": "Although I consider this malt to be relatively thin and watery at first, it gains in volume and balance over time. The interplay between sweetness, fruit and harsh wood tones in combination with smoke and citrus fruits I find very successful, even after many years I can understand again why this Dalwhinnie has paved the way to the whisky connoisseur. A great standard and a tasty malt in between ...  21/22/22/21 (86P)",
+            "nose": "Bright and clear amber glitters in the glass, on the glass wall sticks a syrupy streak from which to solve a variety of long and oily \"legs\". Creamy roasted flavors and hazelnuts rise, caramel and honey merge together, apples and mandarins are in the air. Minimal hints of smoke dissolve from the sweet and creamy blend of fruit and honey, in addition to the mandarins and oranges are now increasingly pears and creamy toffee. The alcohol is mild and gently integrated, the nose is getting creamier and sweeter ...",
+            "taste": "Relatively gentle and mild, the first sip flows over the tongue. Spicy woody tones are immediately mixed with creamy caramel and toffee, forest honey and hints of milk chocolate sparkle briefly before an increasingly bitter aroma sets in the palate. Old whale and hazelnuts stick to the palate, subtle sharpness envelops the tongue while slightly charred logs dissolve smoke and tart wood elements. Still stick the oily streaks and thick \"legs\" on the glass wall, I get an appetite for the second sip. Slightly watery and thin, the Dalwhinnie drips off the tongue after the second sip, while salty and peppery wood marks burn on the tip of the tongue. Once again, burned wood and toasted cereals, meadow herbs and citrus fruits dissolve from the bitter woody note, tart grapefruit massively stimulates my salivation.",
+            "finish": "Peppery and wooden sharpness still sticks between tongue and palate, lightly smoky, roasted hazelnuts and pieces of wood come to mind again. Abrasion of orange peel and grapefruit exude her tart aroma, honey and a subtle hint of smoke create a nice interplay between sweetness and bitter wood aromas. The creamy and slightly smoky nut flavors stay relatively long on the palate, again discreetly tart and spicy wood tones appear in the finish."
+        },
+        {
+            "user_name": "Helgo",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "25 jan 2016 1:20 pm",
+            "content": "The Dalwhinnie stands for heather, honey, vanilla and sweetness.  Very good PLV for a 15yo!",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "tribe",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "06 jun 2021 10:53 pm",
+            "content": "Easily drinkable, he paints with a decent age, round and nothing to complain about",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Boletus",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "13 dec 2022 7:42 pm",
+            "content": "Rightly part of the ''Classic Malts Selection''. Extremely gentle, unobtrusive and a pleasure to drink, the 15 ''Dalwhinnie'' is a prime example for me of a well-matured and relaxed single malt with distinct honey aromas, which can be drunk with relish. Simply structured and simply delicious.",
+            "nose": "Sugary-sweet white grapes in very light wildflower honey, ripe \"Royal Gala\" apples and juicy white-fleshed peaches, a few ripe gooseberries and mirabelle plums and even less pear, very flowery and floral, apple blossoms, becomes even sweeter with air, candied oranges and Turkish Honey with almonds, hints of marzipan and vanilla, the clean barley distillate has matured nicely and has a very delicate and delicate texture, some heather in the background combined with a negligible peaty reminder of smoke",
+            "taste": "Thin, mild honey, ripe Mirabelle plums and gooseberries bring a nice light fruitiness into play, ripe apples with a mealy, crystalline structure, juicy ''Abate Fetel'' pears, orange marmalade without pieces of peel, the fragile barley that has come to rest through the ripening period is now a little more malty , the light grapes are sucked out and the tannins of the skin let it tingle a little to slow it down, blanched almonds, little marzipan, the mild, bitter-free and somewhat used-looking oak finally has a light note of milk chocolate and vanilla to offer, the minimal peatiness floats together with the floral undertones and a hint of heather in the background",
+            "finish": "Very gently ending with a medium length, lots of honey, very light milky coffee with a lightly roasted interlude, turning into black tea with milk and lots of sugar, slightly toasty, unobtrusive oak aromas and vanilla, a hint of hay and heather, some marzipan and blanched almonds, the The sweetness of the Turkish honey along with the floury sugary apple note slowly fades from the scene, leaving a very delicate peaty shadow with a slight aftertaste of Mirabelle plums and overripe gooseberries and yellow kiwis"
+        },
+        {
+            "user_name": "thomasjx",
+            "user_rank": "Connoisseur",
+            "rating": "82",
+            "review_date": "01 dec 2024 12:56 am",
+            "content": "Honest malt, absolutely average - almost \"neutral\" - and beginner-friendly. You can't go wrong with the Dalwhinnie 15.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Thermidor",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "22 aug 2016 8:19 pm",
+            "content": "A good basic all-around malt. Nothing grand but no off-notes either. I once tried a comparison between this one and Johnnie Walker Blue Label just to see how that upmarket blend does next to a competently vatted entry level single malt. There was no real competition there as the Dalwhinnie walked all over the Blue Label which is funny considering their price difference.",
+            "nose": "Light peat and tangerine. Salinity, malts, vague fruitiness.",
+            "taste": "Surprisingly full taste. Some peaty roughness tickling the tongue and burning the throat. Very turfy, not at all marine. Tangerines, especially the scent of the skin between the segments of the fruit. Not particularly sweet like canned tangerines, but more subdued instead. Pears.",
+            "finish": "A bit of a letdown. Should be heavier, woodier. Now it's a bit flat and watery."
+        },
+        {
+            "user_name": "Max70",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "28 feb 2020 11:42 pm",
+            "content": "Seems a \"simple\" one. But it has a discrete complexity and balance. Fresh and pleasant dram, light and sweet with spices and malt. Appreciable for a relaxing moment.",
+            "nose": "Vanilla, citric, some tobacco, hioney",
+            "taste": "Balanced, spices, cinnamon, malt, honey, all mixed without any flavor that prevales. The 43 adv is not aggressive not too low, nice.",
+            "finish": "Surprisingly persistent, spices and honey"
+        },
+        {
+            "user_name": "Punktar",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "20 oct 2018 3:33 am",
+            "content": "Good and yet quite complex whisky for the summer evening on the veranda. I like it.",
+            "nose": "Fruity, orange. Summer meadow. Actually, rather fresh hay. I was promised honey, it may even be something, but I have a lot more hay and orange.",
+            "taste": "There is the honey! And the meadow is not mowed here, so rather summer meadow than hay. Orange is still there and something bittersweet in the background, but not disturbing.",
+            "finish": "Relatively short, it remains the appeal of honey. And is there some smoke now? Strange, that was not there before. But as I said - rather short."
+        },
+        {
+            "user_name": "Lorion",
+            "user_rank": "Connoisseur",
+            "rating": "78",
+            "review_date": "17 oct 2017 4:14 pm",
+            "content": "Herbs, honey. That gets stuck.",
+            "nose": "Honey, herbs, malt, citrus.",
+            "taste": "Herbs, citrus, malt, honey.",
+            "finish": "Herbs, honey (medium)"
+        },
+        {
+            "user_name": "alectron",
+            "user_rank": "Connoisseur",
+            "rating": "81",
+            "review_date": "17 jan 2014 8:24 am",
+            "content": "Single dram note.Transferring previous Note (2011.11.30) content into a Tasting Note.",
+            "nose": "Pleasant malt/vanilla/honey notes",
+            "taste": "some wood bitterness in beginning,",
+            "finish": "malt/vanilla/honey sweetness & light milk chocolate in the back."
+        },
+        {
+            "user_name": "Xaver",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "23 jul 2016 3:31 pm",
+            "content": "Are my notes blinded? What surprises me is that I have recently tried the same with my \"Vadder\". His has a clear smoky note and the colleague from the blind tasting nothing. Also not when trying for the solution.",
+            "nose": "Slight adhesive note, marzipan, sweetish-fruity, caramel, little oak flavor, wood shavings. With some time in the glass, lemon and pear are added.",
+            "taste": "Oak spice, light biting on the tongue. Slightly sour, nutty, dry. Where is the sweet-fruity flavor?",
+            "finish": "Medium long, a bit bitter"
+        },
+        {
+            "user_name": "spigray",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "17 sep 2017 1:19 pm",
+            "content": "remembered it a little better. still worth 81/100",
+            "nose": "very light nose with a a lot of barley and yeast. very grassy. cannot get much out of this nose. I´m tasting a miniature which has been resting on my shelves for a few years, maybe it´s not that fresh any more?!after a few minutes there´s a faint smokiness.I´m very sorry to say it does not smell like a 15 yo as it´s quite metallic, too.",
+            "taste": "starts ultra light, the attack becoming stronger after a few seconds. very malty, much barley, bread. hints of honey. becoming quite sweet on toffee and vanilla. croissants.",
+            "finish": "rather short becoming a bit dull"
+        },
+        {
+            "user_name": "domani",
+            "user_rank": "Connoisseur",
+            "rating": "85",
+            "review_date": "23 feb 2016 4:13 pm",
+            "content": "Good single malt; light and fresh with a long and intense finish - 06.12.2015",
+            "nose": "Fruity to lemon, floral scent, clover, malt sweetness, white chocolate",
+            "taste": "Light, sweet, floral, gentle, honey, herbs",
+            "finish": "Lang"
+        },
+        {
+            "user_name": "LukeFive",
+            "user_rank": "Connoisseur",
+            "rating": "80",
+            "review_date": "14 nov 2013 4:35 am",
+            "content": "One of the Classic Malt range.Bit boring but worth trying",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "LukeFive",
+            "user_rank": "Connoisseur",
+            "rating": "80",
+            "review_date": "14 nov 2013 4:32 am",
+            "content": "",
+            "nose": "honey, fresh fruits, oak, hint of smoke",
+            "taste": "mellow, sweet and spicy develops into honey like, woody, smoke",
+            "finish": "medium long, Sweet salty with hints of honey, wood and touch of smoke"
+        }
+    ]
+}

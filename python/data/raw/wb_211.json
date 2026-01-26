@@ -1,0 +1,546 @@
+{
+    "info": {
+        "ws_name": "Cardhu 12-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Cardhu",
+        "ws_age": 12,
+        "ws_abv": 40.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/2/1/1/340555-normal.png",
+        "ws_rating": 76.6,
+        "ws_vote_cnt": 426,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/211/cardhu-12-year-old"
+    },
+    "collected_count": 53,
+    "reviews": [
+        {
+            "user_name": "peatbogger",
+            "user_rank": "Specialist",
+            "rating": "78",
+            "review_date": "31 jan 2017 1:09 am",
+            "content": "Notes are for the H. Cummings edition.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "peatbogger",
+            "user_rank": "Specialist",
+            "rating": "78",
+            "review_date": "31 jan 2017 1:05 am",
+            "content": "A bit simple, but if you're not out to overload the senses it's very drinkable.I like the bottle shape which sits well in the hand when pouring, as well as the flared opening with the oversized wood topper.",
+            "nose": "Light, fruity and surpricingly fresh.Lots of juicy apples and a few peaches.Mild fudge, very faint vanilla and oak.",
+            "taste": "Very light,almost watery, sweet malt, some hazelnutts arriving midway. Burnt honey turning spicy.",
+            "finish": "Spice lingers a little, turning slightly bitter, dry and woody."
+        },
+        {
+            "user_name": "Erik Elixir",
+            "user_rank": "Connoisseur",
+            "rating": "70",
+            "review_date": "25 jun 2012 11:32 pm",
+            "content": "N: spicy - some nutmeg, apple, butter and some syrupT: spicy, coconut, apple, honey, leather and bitterF: iron, marmalade and oilynot my cup of tea",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "WhiskyLovingPianist",
+            "user_rank": "Connoisseur",
+            "rating": "83",
+            "review_date": "25 sep 2016 8:39 pm",
+            "content": "I find myself at the Cardhu distillery having only had one Cardhu before WB. Let’s make up for that and try six [starting with the NAS WB]C: The 12yo is rather like the Glenmorangie 10yo, where the 'original' 10yo is often considered the best [or just as good] as any in their core range. Even the most balanced Cardhu, the 15yo [in hindsight] was arguably still a bit 'over cooked'. The 12yo sits about right with regards to balance between spirit and cask. Let’s move to the 15yo now WB.Scores a C[+]",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Georges",
+            "user_rank": "Connoisseur",
+            "rating": "75",
+            "review_date": "19 aug 2014 11:22 pm",
+            "content": "",
+            "nose": "Soft, some smoke, honey, vanilla, fruity",
+            "taste": "Malty sweet, honey, fruity",
+            "finish": "Long, some peat, sweet"
+        },
+        {
+            "user_name": "granella2003",
+            "user_rank": "Connoisseur",
+            "rating": "75",
+            "review_date": "02 jan 2013 11:01 pm",
+            "content": "",
+            "nose": "Sweet aromas of delicatefruits, especially ripe pear clearly perceive, and  oak",
+            "taste": "A beautiful palette of  grain, sugar, vanilla and peaches with honey and spices and pleasant hints of  peat",
+            "finish": "A pure finish with clear  tones of oak, malt, vanilla and warm with peaches in the background a persistent  taste of smoke gently wiping"
+        },
+        {
+            "user_name": "granella2003",
+            "user_rank": "Connoisseur",
+            "rating": "75",
+            "review_date": "02 jan 2013 11:00 pm",
+            "content": "An acclaimed single malt whisky, the Cardhu 12 Year is a charming Speyside whisky with a pleasant sweet character. Loved by many, but the competition for its superior quality and delicious flavors and aromas.  Intense and fragrant whisky is a fruity and floral, with notes of vanilla, honey and licorice. Medium-bodied, soft, light and delicate, silky character. The palate is well balanced, with traces of wood, earth and citrus. Persistent, do you remember the combination of sweet and smoky with just a pleasant aftertaste.A whisky that proudly called Cardhu with it may carry with it, great! Intense and fragrant whisky is a fruity and floral, with notes of vanilla, honey and licorice. Medium-bodied, soft, light and delicate, silky character. The palate is well balanced, with traces of wood, earth and citrus. Persistent, do you remember the combination of sweet and smoky with just a pleasant aftertaste.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "_Dziki_",
+            "user_rank": "Connoisseur",
+            "rating": "75",
+            "review_date": "23 nov 2023 7:50 pm",
+            "content": "",
+            "nose": "Delicate, sweet, floral, perfume, apples, jelly, grapes.",
+            "taste": "Nutty, caramel, toffee, but you can smell the alcohol.",
+            "finish": "Alcoholic, even warming, nothing worth mentioning"
+        },
+        {
+            "user_name": "Boletus",
+            "user_rank": "Connoisseur",
+            "rating": null,
+            "review_date": "13 dec 2022 3:24 pm",
+            "content": "A quite pleasant, silky-soft brandy, which unfortunately has little to offer in terms of sustainability due to the very weak barrels and the rather low alcohol content. Instead, the slightly furry mouthfeel shows that one or the other barrel that is no longer usable has also found its way into the bottling. Nonetheless, it's drinkable and enjoyable, although it could be better.",
+            "nose": "A quite pleasant, silky-soft brandy, which unfortunately has little to offer in terms of sustainability due to the very weak barrels and the rather low alcohol content. Instead, the slightly furry mouthfeel shows that one or the other barrel that is no longer usable has also found its way into the bottling. Nonetheless, it's drinkable and enjoyable, although it could be better.",
+            "taste": "Light honey, apple chips, candied orange peel, delicate barley, sweetish aromas that appear perfumed, toasted Italian white bread, roasted almonds, unobtrusive oak, quite herbaceous, watery cocoa drink",
+            "finish": "In short, sweet vanilla, latte macchiato, the oak wakes up but quickly falls asleep again, a perfumed, furry mouthfeel arises, sprayed once too much with the deodorant with the mouth open, slightly peppery, one or the other smoke molecule shows up"
+        },
+        {
+            "user_name": "Albaron",
+            "user_rank": "Specialist",
+            "rating": "68",
+            "review_date": "18 sep 2023 10:57 pm",
+            "content": "It's not bad, but it's also a bit boring. I think I've moved away from that now.",
+            "nose": "Fresh, fruity, sweet, floral",
+            "taste": "Fruity, peach, floral, slightly malty, a hint of smoke, oak",
+            "finish": "pleasantly sweet and melty, quite short"
+        },
+        {
+            "user_name": "Falnor",
+            "user_rank": "Connoisseur",
+            "rating": "61",
+            "review_date": "03 mar 2015 10:40 am",
+            "content": "Very easyand drinkable, although nothing special. Great one for a switch fromblends to single malt",
+            "nose": "Color is probably fake, on the nose some very basic apple,straw and burned toast",
+            "taste": "Very light,very close to a modern blended whisky. Lot's of grain and maltysweetness",
+            "finish": "Almost none"
+        },
+        {
+            "user_name": "drkrylov",
+            "user_rank": "Connoisseur",
+            "rating": "72",
+            "review_date": "27 dec 2014 10:07 am",
+            "content": "Balanced.",
+            "nose": "Light, appetizing, hints of greengage, and the gentlest touch of smoke.",
+            "taste": "Light to medium in flavour, with the emphasis on malty sweetness and vanilla.",
+            "finish": "A lingering, syrupy sweetness, but also a rounder dryness with late hints of peat."
+        },
+        {
+            "user_name": "domani",
+            "user_rank": "Connoisseur",
+            "rating": "74",
+            "review_date": "23 feb 2016 2:35 pm",
+            "content": "A simple knitted single malt for every occasion - 06.03.2014",
+            "nose": "Fruity, sour, green apple, fresh, floral, malt sweet, pear, hazelnut,",
+            "taste": "Malt sweetness, flower meadow, apple, honeydew melon, a bit tart",
+            "finish": "medium"
+        },
+        {
+            "user_name": "Feusi",
+            "user_rank": "Connoisseur",
+            "rating": "76",
+            "review_date": "13 jul 2011 10:43 am",
+            "content": "The price / performance ratio is very good.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Malt Hans",
+            "user_rank": "Connoisseur",
+            "rating": "80",
+            "review_date": "23 mar 2014 8:51 pm",
+            "content": "Fruity and malty aroma, vanilla, green apples, oranges, ripe melon, mint and mango. Vanilla sweet taste, mint, nutmeg, orange marmalade, toffee and malt. Medium long, sweet and malty end.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "boy_genius_ck",
+            "user_rank": "Connoisseur",
+            "rating": "74",
+            "review_date": "13 sep 2016 2:15 am",
+            "content": "",
+            "nose": "sugarcane,pear, cream, bread, toffee, vanilla",
+            "taste": "malty, sweet, syrup, red apples, vanilla,honey, bitter spice, grain",
+            "finish": "short, woodsy honey, grain, pears,slightly bitter sharp alcohol at the back"
+        },
+        {
+            "user_name": "Ivynor",
+            "user_rank": "Expert Senior",
+            "rating": "70",
+            "review_date": "23 feb 2014 10:29 pm",
+            "content": "Excellent for flaming pancakes.",
+            "nose": "Alcohol for macerating fruits, young wood, malted barley, very green fruits ...",
+            "taste": "Sugar, green fruits, wood. Fairly acrid and untied.",
+            "finish": "Average. Wood, vanilla, unripe quince, very green apple."
+        },
+        {
+            "user_name": "BeatF",
+            "user_rank": "Photo Moderator",
+            "rating": "79",
+            "review_date": "30 may 2011 11:44 pm",
+            "content": "This drop has a concept / program in development. Do not skin it, but this whisky has no flaws, which is worth a lot for such a cheap mass product.",
+            "nose": "very elegant: smells infinitely deep of slightly sour malt, surrounded by sweet fruits (apple?)",
+            "taste": "Heather and honey",
+            "finish": "spicy, the fruitiness turns into pear, light vanilla, with a slight - not unpleasant - pungency"
+        },
+        {
+            "user_name": "[2stoned] aKu",
+            "user_rank": "Expert Senior",
+            "rating": "73",
+            "review_date": "25 mar 2014 3:59 pm",
+            "content": "by and large, everything behave fairly; There are other 12s where there is more to experience",
+            "nose": "sweetish, a little sherry, a little pear, heather, light smoke and resin",
+            "taste": "semi-dry sherry, soft, mild (there is not really much)",
+            "finish": "rather short, tockner, very slightly bitter but no chocolate or the like"
+        },
+        {
+            "user_name": "Shane_IL",
+            "user_rank": "Expert Senior",
+            "rating": null,
+            "review_date": "27 mar 2015 2:51 pm",
+            "content": "",
+            "nose": "Sultanas, barley sugar, toffee, apple cider, vanilla and woodspice, these last two come through stronger with water",
+            "taste": "A bit of rushed spirit bite, apples, vanilla, honey, nuts, bit of wood spice.",
+            "finish": "Medium, rich honey and light fruits like pears and a bit of peach."
+        },
+        {
+            "user_name": "tomy63",
+            "user_rank": "Expert Senior",
+            "rating": "72",
+            "review_date": "14 may 2011 3:13 pm",
+            "content": "Really nothing extraordinary, not bad but simple, too simple!",
+            "nose": "round and fruity, pear notes",
+            "taste": "malty, slightly boiled, on vanilla, fruits and spices",
+            "finish": "honey and oak"
+        },
+        {
+            "user_name": "Myst111",
+            "user_rank": "Expert Senior",
+            "rating": "82",
+            "review_date": "12 feb 2014 8:52 pm",
+            "content": "a very good enjoyable whisky.  Find the whisky really well, especially the flavors are very recognizable.",
+            "nose": "honey, aromatic, nutty, some wood notes, sweet",
+            "taste": "sweet, enjoyable",
+            "finish": "dray, not so long (middle),"
+        },
+        {
+            "user_name": "Heemhoeve",
+            "user_rank": "Expert Senior",
+            "rating": "70",
+            "review_date": "31 oct 2015 11:06 pm",
+            "content": "Sorry, Sorry, I'm disappointed.  What a heavy, \"bready\" whisky. Just like you're having breakfast with half-baked balls.  Flour, milk, yeast and sometimes a refreshing touch of fruit .  Unfortunately no stayer in my bar.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "The_Osprey",
+            "user_rank": "Expert Senior",
+            "rating": "78",
+            "review_date": "26 jun 2025 10:27 pm",
+            "content": "Cardhu Aged 12 Years, 40%, SMSW. 50ml miniature at home, June 2025. Dark golden yellow and stated to be ‘mit farbstoff’. Aroma is pineapple cube sweets, apple flavoured bonbons (or just a mix of green apple and icing sugar), slight menthol, a soft buttery oakiness. Pretty nice aroma. Body is watery+. Taste is very flat and soft. Watery with the slightest sting in the tail. A vibe of vodka and soda maybe, but with some bitter oak tannins in the finish – white pepper and a light astringency. I’m not convinced I understand who this might be aimed at – leaning too bitter to be an introduction to whisky, but lacking anything that would make it particularly appealing to anyone else. Not unpleasant but has a very flat profile with a focus on the bitter oak tannins. Okay stuff - not bad but below average. 3.25/78",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "MacMenM",
+            "user_rank": "Expert Senior",
+            "rating": "74",
+            "review_date": "07 aug 2011 7:35 am",
+            "content": "Not my favorite whisky.",
+            "nose": "very light, like could be expected with Cardhu.Very little cask influences, light barley sweetness, caramelaroma's blendlikely",
+            "taste": "Sweet, malty, waiting for some development, but no...only bitterness comes on the palate",
+            "finish": "Not very pleasant, bitter finish"
+        },
+        {
+            "user_name": "ThS",
+            "user_rank": "Expert Senior",
+            "rating": "79",
+            "review_date": "02 mar 2014 6:00 pm",
+            "content": "A nice dram.",
+            "nose": "Apples and pears slightly caramelized. Malt. Light elegant woody.",
+            "taste": "Always the fruits of the orchard. Net, oily and full mouth despite 40%",
+            "finish": "Warm and quite short."
+        },
+        {
+            "user_name": "Peatyjohn",
+            "user_rank": "Expert Senior",
+            "rating": "75",
+            "review_date": "04 may 2025 6:09 pm",
+            "content": "Low complexity, barley sugar malt cereals, slight bitterness and spices. You can make out Johnnie Walker red character and almost taste the artificial color flavours and influence of chill filtering. Budget, easy sipping and entry level.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "vojt466",
+            "user_rank": "Expert Senior",
+            "rating": "83",
+            "review_date": "25 mar 2017 10:02 pm",
+            "content": "Not too complex, but definitely not bad + the price is more than pleasant",
+            "nose": "Sushi, vanilla, chocolate, oranges, raisins, mint",
+            "taste": "Sweet, creamy, background citrus, lime, gooseberry and gently spicy",
+            "finish": "Cream, chocolate, some grain, matolin, latte macchiatto"
+        },
+        {
+            "user_name": "wbarchive_149037",
+            "user_rank": "Expert Senior",
+            "rating": "78",
+            "review_date": "13 sep 2015 7:01 pm",
+            "content": "This one is ok. It lacks body and power, it's not complex, but I trend to prefer this one to the 15 since the oaky side is less noticable.",
+            "nose": "Shy, on apple and malt. A bit suggary and not extremely expressive.",
+            "taste": "Light, on apple. Less suggary than the nose. Not bad, but not unforgetable.",
+            "finish": "Short"
+        },
+        {
+            "user_name": "Edwin de Lange",
+            "user_rank": "Expert Senior",
+            "rating": "83",
+            "review_date": "05 jun 2012 5:43 pm",
+            "content": "A lovely, fruity dram, perfect for starters and always pleasant.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "KrolikMorski",
+            "user_rank": "Expert Senior",
+            "rating": "73",
+            "review_date": "22 sep 2021 3:58 pm",
+            "content": "The first Single Malt i have rated that low.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "HP79",
+            "user_rank": "Expert Senior",
+            "rating": "69",
+            "review_date": "02 oct 2023 8:48 pm",
+            "content": "See pm",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "D3US",
+            "user_rank": "Expert Senior",
+            "rating": "76",
+            "review_date": "18 sep 2012 8:01 pm",
+            "content": "An easy to drink malt. Nothing very special, this would be a good beginner's whisky I think. Not one to stay up for though. Drink as an aperitif.",
+            "nose": "Honey and tingly. Quite fruity on the nose, with a slight oaky, spicy note. Oranges, light fruits and malt.",
+            "taste": "Surprisingly bitter at first. The tongue needs to warm up here. Tingly again, after which it gets softer and sweeter. Again honey, but the bitter note lingers in the background. Very malty towards the end. Fruit is harder to find now.",
+            "finish": "Short to medium length. Sweet from the honey/vanilla and malt. A spicy note is still here. Watery at the end, so make that a short finish."
+        },
+        {
+            "user_name": "Svarttt",
+            "user_rank": "Expert Senior",
+            "rating": "75",
+            "review_date": "20 jul 2020 5:22 pm",
+            "content": "",
+            "nose": "Sweet, slightly fermented fruits / a little alcoholic.",
+            "taste": "Watery, a hint of honey sweetness",
+            "finish": "Very short"
+        },
+        {
+            "user_name": "thatcher2000",
+            "user_rank": "Expert Senior",
+            "rating": "69",
+            "review_date": "04 jan 2014 9:47 pm",
+            "content": "",
+            "nose": "pears, apple, grapes",
+            "taste": "heavy oak, malt, light sweetness, spices",
+            "finish": "short fruity finish, long taste of oak and grain"
+        },
+        {
+            "user_name": "VegaPL",
+            "user_rank": "Expert Senior",
+            "rating": "79",
+            "review_date": "12 may 2024 2:36 am",
+            "content": "One of the poorest single malts with age declaration I had. The nose is a little deceiving, but the rest fails to deliver completely. Alcoholic, unbalanced and honestly, lacking distinct taste. Would not recommend for any purpose, apart from the actual bottle (containter)",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "SEN68",
+            "user_rank": "Expert Senior",
+            "rating": "70",
+            "review_date": "16 jan 2023 11:50 am",
+            "content": "Nose: AcidicTaste: Mild and neutralFinish: Dry, saltA bit boring and characterless, lacks complexity",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "haubi",
+            "user_rank": "Expert Senior",
+            "rating": "72",
+            "review_date": "23 sep 2022 8:33 pm",
+            "content": "",
+            "nose": "Vanilla, malt, roasted walnuts, apple, subtle smoke, mead",
+            "taste": "Sweet, watery, vanilla, honey",
+            "finish": "roasted nuts, honey sweetness"
+        },
+        {
+            "user_name": "hconosciuto",
+            "user_rank": "Expert Junior",
+            "rating": "75",
+            "review_date": "09 dec 2023 4:41 pm",
+            "content": ".",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "djmaxliving",
+            "user_rank": "Expert Junior",
+            "rating": "81",
+            "review_date": "18 jul 2014 11:17 pm",
+            "content": "The nose is fresh with apple, lime, lemon and green fresh notes with a hint of peat smoke. Nice sweet taste, smooth on the tongue and no burning.   Only a drop of water needed.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Z28Pete",
+            "user_rank": "Expert Junior",
+            "rating": "80",
+            "review_date": "04 apr 2018 11:26 am",
+            "content": "Your basic malty Speyside, nothing off putting and nothing outstanding.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Kim4fan",
+            "user_rank": "Expert Junior",
+            "rating": "74",
+            "review_date": "01 apr 2014 7:59 pm",
+            "content": "",
+            "nose": "Dry grass, chocolate and a hint of smoke",
+            "taste": "Smooth malt, milkchocolate and fruit",
+            "finish": "Sweet but still dry."
+        },
+        {
+            "user_name": "matseb",
+            "user_rank": "Expert Junior",
+            "rating": "75",
+            "review_date": "21 apr 2023 10:15 am",
+            "content": "Fairly light, fruity whisky without much depth that has been coloured. Beginner's paint at a low price that doesn't leave a lasting impression.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Travelller",
+            "user_rank": "Member Senior",
+            "rating": "74",
+            "review_date": "23 sep 2021 8:21 pm",
+            "content": "74/100",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Danny1968",
+            "user_rank": "Member Senior",
+            "rating": "90",
+            "review_date": "05 feb 2018 5:20 pm",
+            "content": "A delicious malt whisky with a nice full flavor with honey and nuts in a beautiful carafe with a beech wood stopper.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "MarkOak",
+            "user_rank": "Member Senior",
+            "rating": "73",
+            "review_date": "16 mar 2023 3:08 pm",
+            "content": "basic whisky",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Quaker",
+            "user_rank": "Member Senior",
+            "rating": "80",
+            "review_date": "22 mar 2011 1:53 pm",
+            "content": "Very well structured, it is an easy access whisky.",
+            "nose": "Dominated by the pear, it is reminiscent of a pear sorbet (like a Norman hole). You can also detect honey spikes.",
+            "taste": "Very soft and slightly oily, in the continuity of the nose.",
+            "finish": "Medium length, a woody taste comes out in addition to the previous flavors."
+        },
+        {
+            "user_name": "Grutslurp",
+            "user_rank": "Member Senior",
+            "rating": "65",
+            "review_date": "29 apr 2017 7:54 pm",
+            "content": "I am not a fan. Maybe the most boring and insipid whisky I have ever tasted. Also it swims like a rock.",
+            "nose": "Almost not there. Some astringent alcohol, a little bit of toasted cereal, and hint of oak.",
+            "taste": "Very thin and weak. Bitterness from the oak, again with the not-so-pleasant alcohol note. An afterthought of apples or pears.",
+            "finish": "Shorty McShorts. The unpleasant alcohol is gone though. Akvavity."
+        },
+        {
+            "user_name": "Lurkinglen",
+            "user_rank": "Member Senior",
+            "rating": "68",
+            "review_date": "26 apr 2023 12:20 pm",
+            "content": "Very little flavor, too inoffensive, it tastes like neutral spirit with a tiny bit of wood fragrance added. I won't ever buy a bottle for myself.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Buldos",
+            "user_rank": "Member Junior",
+            "rating": "73",
+            "review_date": "31 jan 2023 10:19 pm",
+            "content": "A simple whisky, good basis of cereal and wood notes with a light citrus freshness. Nothing extraordinary but decent for the price.",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Hotspur000",
+            "user_rank": "Member Junior",
+            "rating": "79",
+            "review_date": "07 jul 2015 1:20 pm",
+            "content": "I was a little disappointed with this. I had tried it at a whisky bar once and quite enjoyed it, so when I saw a bottle on the shelf for sale a few years later I jumped at it. But unfortunately, for whatever reason, it didn't live up to the good memory.I found it to be a bit too light, too thin ... not enough of a strong finish for my liking. And the nose is always a bit odd – I always got a strong sensation of chlorine, or turpentine, something like that (though that's nowhere in the taste).",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "lucbertrand",
+            "user_rank": "Member Junior",
+            "rating": "26",
+            "review_date": "22 jun 2015 11:05 pm",
+            "content": "The 12 year old Cardhu was tasted at Mélanie and Eric's. Open bottle for a long time.  Very weak nose, which does not tell me anything that is worth it.  To taste, it reminds me of low standard whiskys such as chivas 12 or dalwhinnie ... I find nothing special except caramel, vanilla. Everything is too sweet, a little sweet.  No finish ...  Disappointing...",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        },
+        {
+            "user_name": "Yonacoscas",
+            "user_rank": "Newbie",
+            "rating": "70",
+            "review_date": "13 oct 2021 7:59 pm",
+            "content": "Not very flavourful, not to say at all",
+            "nose": "",
+            "taste": "",
+            "finish": ""
+        }
+    ]
+}

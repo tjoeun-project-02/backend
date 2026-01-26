@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Glenfarclas 105",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Glenfarclas",
+        "ws_age": null,
+        "ws_abv": 60.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/3/2/091/80868-normal.png",
+        "ws_rating": 83.5,
+        "ws_vote_cnt": 2453,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/32091/glenfarclas-105",
+        "ws_id": "32091",
+        "collected_count": 51,
+        "flavor_profile": {
+            "fruity": 4.6,
+            "sweet": 5.3,
+            "peaty": 0.7,
+            "spicy": 4.2,
+            "woody": 3.6,
+            "malty": 2.0
+        },
+        "top_keywords": [
+            "malt",
+            "mint",
+            "fruity",
+            "smoky",
+            "iodine"
+        ],
+        "ws_name_kr": "글렌파클라스 105",
+        "ws_distillery_kr": "글렌파클라스"
+    }
+}

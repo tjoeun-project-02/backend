@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Highland Park 10-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Highland Park",
+        "ws_age": 10,
+        "ws_abv": 40.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/9/6/408/150433-normal.png",
+        "ws_rating": 80.76,
+        "ws_vote_cnt": 895,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/96408/highland-park-10-year-old",
+        "ws_id": "96408",
+        "collected_count": 58,
+        "flavor_profile": {
+            "fruity": 3.9,
+            "sweet": 4.6,
+            "peaty": 2.4,
+            "spicy": 3.4,
+            "woody": 2.9,
+            "malty": 2.1
+        },
+        "top_keywords": [
+            "bourbon",
+            "spice",
+            "pear",
+            "sweet",
+            "iodine"
+        ],
+        "ws_name_kr": "하이랜드 파크 10년",
+        "ws_distillery_kr": "하이랜드 파크"
+    }
+}

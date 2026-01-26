@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Glenallachie 08-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Glenallachie",
+        "ws_age": 8,
+        "ws_abv": 46.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/2/0/8069/368890-normal.png",
+        "ws_rating": 83.87,
+        "ws_vote_cnt": 362,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/208069/glenallachie-08-year-old",
+        "ws_id": "208069",
+        "collected_count": 50,
+        "flavor_profile": {
+            "fruity": 5.2,
+            "sweet": 5.7,
+            "peaty": 0.2,
+            "spicy": 4.3,
+            "woody": 4.2,
+            "malty": 1.7
+        },
+        "top_keywords": [
+            "spice",
+            "rum",
+            "nutmeg",
+            "oak",
+            "sweet"
+        ],
+        "ws_name_kr": "글렌알라키 08년",
+        "ws_distillery_kr": "글렌알라키"
+    }
+}
