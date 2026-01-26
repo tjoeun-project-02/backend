@@ -1,12 +1,10 @@
 import cv2
 import numpy as np
 import os
-import platform
 import logging
 import re
 from paddleocr import PaddleOCR
 from ultralytics import YOLO
-from PIL import Image, ImageDraw, ImageFont
 
 # -----------------------------------------------------------
 # [설정] 환경 변수 및 로그 제어
@@ -14,35 +12,27 @@ from PIL import Image, ImageDraw, ImageFont
 os.environ["DISABLE_MODEL_SOURCE_CHECK"] = "True"
 logging.getLogger("ppocr").setLevel(logging.ERROR)
 
-def get_optimal_font(size=20):
-    system_os = platform.system()
-    if system_os == "Darwin": font_path = "/System/Library/Fonts/Supplemental/Arial.ttf"
-    elif system_os == "Windows": font_path = "C:/Windows/Fonts/arial.ttf"
-    else: font_path = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
-    try:
-        return ImageFont.truetype(font_path, size) if os.path.exists(font_path) else ImageFont.load_default()
-    except:
-        return ImageFont.load_default()
-
 def clean_text(text):
-    """중복 체크를 위한 정규화"""
+    """중복 체크 및 검색 엔진 최적화를 위한 텍스트 정규화"""
     return re.sub(r'[^a-zA-Z0-9]', '', str(text)).lower()
 
 def run_whisky_ocr(image_path):
-    print(">>> 모델 로딩 중...")
+    """
+    이미지에서 위스키 라벨 텍스트를 추출하여 데이터 리스트로 반환합니다.
+    """
+    # 1. 모델 로드
     yolo_path = "/Users/ljw/Desktop/whisky_assistant/yolov8n.pt"
     yolo_model = YOLO(yolo_path if os.path.exists(yolo_path) else 'yolov8n.pt')
     
-    # PaddleOCR 초기화 (기존 성공 코드 설정 반영)
+    # PaddleOCR 초기화 (백엔드용이므로 시각화 옵션 등은 기본값 유지)
     ocr = PaddleOCR(use_textline_orientation=True, lang='en', ocr_version='PP-OCRv4')
 
     original_cv = cv2.imread(image_path)
     if original_cv is None: 
         print(f"❌ 이미지를 로드할 수 없습니다: {image_path}")
-        return
+        return []
 
-    # 1. YOLOv8로 Bottle 탐색
-    print(">>> YOLOv8: 병(Bottle) 영역 탐색 시작...")
+    # 2. YOLOv8로 Bottle 탐색
     yolo_results = yolo_model(original_cv, verbose=False)
     bottles = []
     h_img, w_img = original_cv.shape[:2]
@@ -58,65 +48,48 @@ def run_whisky_ocr(image_path):
                 bottles.append([x1, y1, x2, y2])
 
     if not bottles:
-        print("⚠️ 병이 감지되지 않았습니다. 전체 영역을 분석합니다.")
         bottles = [[0, 0, w_img, h_img]]
 
     raw_results = []
 
-    # 2. 각 병 영역(ROI)별로 OCR 수행 (기존 성공 로직 적용)
+    # 3. 각 병 영역(ROI)별로 OCR 수행
     for idx, (bx1, by1, bx2, by2) in enumerate(bottles):
         roi = original_cv[by1:by2, bx1:bx2]
         gray = cv2.cvtColor(roi, cv2.COLOR_BGR2GRAY)
         inv = cv2.cvtColor(cv2.bitwise_not(gray), cv2.COLOR_GRAY2BGR)
         
-        print(f">>> ROI {idx+1} 분석 중...")
         for label, img_check in [("Original", roi), ("Inverted", inv)]:
-            # 에러 발생했던 cls=True 제거
             result = ocr.ocr(img_check)
+            if result is None or len(result) == 0: continue
             
-            if result is None or len(result) == 0:
-                continue
-            
-            # [기존 성공 코드의 핵심] 딕셔너리 구조 파싱
             ocr_data = result[0]
             
-            # 데이터 형식이 딕셔너리인 경우 (사용자 환경)
+            # 딕셔너리 구조 대응 (사용자 환경 PaddleX 등)
             if isinstance(ocr_data, dict) and 'rec_texts' in ocr_data:
-                texts = ocr_data['rec_texts']
-                scores = ocr_data['rec_scores']
-                boxes = ocr_data['dt_polys']
-                
+                texts, scores, boxes = ocr_data['rec_texts'], ocr_data['rec_scores'], ocr_data['dt_polys']
                 for i in range(len(texts)):
-                    text = texts[i]
-                    conf = scores[i]
-                    coords = boxes[i]
-                    
-                    if conf > 0.5:
-                        y_coords = [p[1] for p in coords]
+                    if scores[i] > 0.5:
+                        y_coords = [p[1] for p in boxes[i]]
                         height = max(y_coords) - min(y_coords)
-                        # 원본 이미지 좌표로 보정
-                        abs_coords = [[p[0] + bx1, p[1] + by1] for p in coords]
-                        
                         raw_results.append({
-                            'text': text, 'conf': conf, 'coords': abs_coords,
-                            'source': label, 'size': height, 'norm_key': clean_text(text)
+                            'text': texts[i], 'conf': scores[i], 'size': height, 
+                            'norm_key': clean_text(texts[i])
                         })
             
-            # 데이터 형식이 리스트인 경우 (일반적인 PaddleOCR 환경)
+            # 리스트 구조 대응 (일반 PaddleOCR)
             elif isinstance(ocr_data, list):
                 for line in ocr_data:
-                    coords = line[0]
-                    text, conf = line[1]
+                    coords, (text, conf) = line[0], line[1]
                     if conf > 0.5:
                         y_coords = [p[1] for p in coords]
                         height = max(y_coords) - min(y_coords)
-                        abs_coords = [[p[0] + bx1, p[1] + by1] for p in coords]
                         raw_results.append({
-                            'text': text, 'conf': conf, 'coords': abs_coords,
-                            'source': label, 'size': height, 'norm_key': clean_text(text)
+                            'text': text, 'conf': conf, 'size': height, 
+                            'norm_key': clean_text(text)
                         })
 
-    # 3. 중복 제거 및 정렬
+    # 4. 데이터 정제 (중복 제거 및 정렬)
+    # 신뢰도 높은 순 정렬 -> 중복 제거 -> 글자 크기(중요도) 순 최종 정렬
     raw_results.sort(key=lambda x: x['conf'], reverse=True)
     unique_dict = {}
     for item in raw_results:
@@ -125,33 +98,16 @@ def run_whisky_ocr(image_path):
         if key not in unique_dict:
             unique_dict[key] = item
     
+    # 최종 결과: 글자 크기가 큰 것이 보통 브랜드명/숙성년수이므로 크기순 정렬
     final_results = sorted(unique_dict.values(), key=lambda x: x['size'], reverse=True)
 
-    # 4. 결과 출력
-    print("\n" + "="*80)
-    print(f" [라벨 분석 결과 (글자 크기순)]")
-    print("-" * 80)
-    if not final_results:
-        print(" ❌ 인식된 텍스트가 없습니다.")
-    else:
-        print(f" {'Text':<25} | {'Size':<6} | {'Conf':<6} | {'Source'}")
-        print("-" * 80)
-        for item in final_results:
-            print(f" {item['text']:<25} | {int(item['size']):<6} | {item['conf']:.2f}   | {item['source']}")
-    print("="*80)
-
-    # 시각화
-    img_pil = Image.fromarray(cv2.cvtColor(original_cv, cv2.COLOR_BGR2RGB))
-    draw = ImageDraw.Draw(img_pil)
-    font = get_optimal_font(24)
-
-    for item in final_results:
-        poly = [tuple(p) for p in item['coords']]
-        draw.polygon(poly, outline="red", width=3)
-        draw.text((poly[0][0], poly[0][1]-30), item['text'], font=font, fill=(0, 255, 0))
-
-    img_pil.show()
+    return final_results
 
 if __name__ == "__main__":
-    target_img = "/Users/ljw/Desktop/whisky_assistant/cb996de6be6a6656843139bf6d1ecd9b.jpg.webp"
-    run_whisky_ocr(target_img)
+    target_img = "/Users/ljw/Desktop/whisky_assistant/Glenlivet-18_f12edbfc-f968-40de-9448-55a3a2a30240.jpg.webp"
+    results = run_whisky_ocr(target_img)
+    
+    # 백엔드 로그 출력용
+    print(f"\n>>> 추출된 위스키 키워드 ({len(results)}건):")
+    for r in results:
+        print(f"[{r['text']}] - 크기: {int(r['size'])}, 신뢰도: {r['conf']:.2f}")
