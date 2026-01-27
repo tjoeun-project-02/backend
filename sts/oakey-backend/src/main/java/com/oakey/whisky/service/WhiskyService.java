@@ -260,4 +260,86 @@ public class WhiskyService {
 
         return "a";
     }
+
+    @Transactional(readOnly = true)
+    public List<WhiskyResponse> findTop3ByOcrText(String ocrText, List<String> candidates) {
+
+    String qName = normalizeOcr(ocrText, candidates);
+
+    if (qName.isBlank()) {
+        return List.of();
+    }
+
+    String prefix = makePrefix(qName, "", "");
+
+    // prefix가 숫자/너무짧으면 fallback (후보군 과소필터 방지)
+    if (prefix.matches("^\\d+$") || prefix.length() < 1) {
+    prefix = "a";
+    }
+
+
+    List<WhiskySimilarityRow> rows =
+            whiskyRepository.findTop3ByJaroWinkler(qName, "", "", null, prefix);
+
+    if (rows == null || rows.isEmpty()) {
+        return List.of();
+    }
+
+    List<Integer> ids = rows.stream()
+            .map(WhiskySimilarityRow::getWsId)
+            .toList();
+
+    List<Whisky> found = whiskyRepository.findAllById(ids);
+
+    Map<Integer, Whisky> map = new HashMap<>();
+    for (Whisky w : found) {
+        map.put(w.getWsId(), w);
+    }
+
+    List<WhiskyResponse> result = new ArrayList<>();
+    for (Integer id : ids) {
+        Whisky w = map.get(id);
+        if (w != null) result.add(toResponse(w));
+    }
+
+    return result;
+    }
+
+    private String normalizeOcr(String ocrText, List<String> candidates) {
+
+    // 1) candidates가 있으면: "의미있는 문자열"을 찾아서 우선 사용
+    if (candidates != null && !candidates.isEmpty()) {
+        for (String c : candidates) {
+            if (c == null) continue;
+
+            String x = c.trim().toLowerCase().replaceAll("\\s+", " ");
+            if (x.isBlank()) continue;
+
+            // 숫자만(예: "10", "700")이면 스킵
+            if (x.matches("^\\d+$")) continue;
+
+            // 너무 짧으면 스킵 (OCR 노이즈/단일 문자 방지)
+            if (x.length() < 3) continue;
+
+            // 여기 통과한 애가 가장 쓸만한 후보
+            return x;
+        }
+
+        // candidates가 다 숫자/짧은 문자뿐이면 1번 후보라도 사용 (최후의 수단)
+        String first = candidates.get(0);
+        if (first != null) {
+            String x = first.trim().toLowerCase().replaceAll("\\s+", " ");
+            if (!x.isBlank()) return x;
+        }
+    }
+
+    // 2) candidates가 없으면: 전체 OCR 텍스트를 정리해서 사용
+    if (ocrText == null) return "";
+    String x = ocrText.trim().toLowerCase();
+    x = x.replaceAll("\\s+", " "); // 줄바꿈 포함 전부 공백 처리
+
+    return x;
+}
+
+
 }

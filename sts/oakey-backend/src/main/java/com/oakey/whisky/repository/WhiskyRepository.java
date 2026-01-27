@@ -15,28 +15,28 @@ public interface WhiskyRepository extends JpaRepository<Whisky, Integer> {
     boolean existsByWsName(String wsName);
 
     @Query(value = """
-        SELECT *
+        SELECT t.wsId AS wsId, t.score AS score
         FROM (
             SELECT w.WS_ID AS wsId,
-                   (
-                       GREATEST(
-                           UTL_MATCH.JARO_WINKLER_SIMILARITY(LOWER(w.WS_NAME), LOWER(:qName)),
-                           UTL_MATCH.JARO_WINKLER_SIMILARITY(LOWER(NVL(w.WS_DISTILLERY, '')), LOWER(NVL(:qDist, ''))),
-                           UTL_MATCH.JARO_WINKLER_SIMILARITY(LOWER(NVL(w.WS_NAME_KO, '')), LOWER(NVL(:qNameKo, '')))
-                       )
-                       + CASE
-                           WHEN :qAge IS NOT NULL AND w.WS_AGE = :qAge THEN 5
-                           ELSE 0
-                         END
-                   ) AS score
+                    (
+                        GREATEST(
+                            UTL_MATCH.JARO_WINKLER_SIMILARITY(LOWER(w.WS_NAME), LOWER(:qName)),
+                            UTL_MATCH.JARO_WINKLER_SIMILARITY(LOWER(NVL(w.WS_DISTILLERY, '')), LOWER(NVL(:qDist, ''))),
+                            UTL_MATCH.JARO_WINKLER_SIMILARITY(LOWER(NVL(w.WS_NAME_KO, '')), LOWER(NVL(:qNameKo, '')))
+                        )
+                        + CASE
+                            WHEN :qAge IS NOT NULL AND w.WS_AGE = :qAge THEN 5
+                            ELSE 0
+                            END
+                    ) AS score
             FROM TB_WHISKY w
             WHERE (
                 LOWER(w.WS_NAME) LIKE LOWER(:prefix) || '%'
                 OR LOWER(NVL(w.WS_DISTILLERY, '')) LIKE LOWER(:prefix) || '%'
                 OR LOWER(NVL(w.WS_NAME_KO, '')) LIKE LOWER(:prefix) || '%'
             )
-        )
-        ORDER BY score DESC
+        ) t
+        ORDER BY t.score DESC
         FETCH FIRST 3 ROWS ONLY
         """, nativeQuery = true)
     List<WhiskySimilarityRow> findTop3ByJaroWinkler(
