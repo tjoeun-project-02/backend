@@ -1,18 +1,38 @@
-py -V:3.10 -m venv .venv
-#.\.venv\Scripts\activate      #가상환경 켜는 명령어
-python -m pip install --upgrade pip
-python -m pip install python-multipart
+# ===============================
+# Python version
+# ===============================
+# Python == 3.10.x (필수)
+# -------------------------------
 
-pip install "numpy<2"
-pip install paddlepaddle==2.6.2
-pip install paddleocr==2.7.0.3
-pip install opencv-python==4.6.0.66
-pip install ultralytics
-pip install fastapi
-pip install uvicorn[standard]
+# ===============================
+# Core numeric (ABI 안정)
+# ===============================
+numpy<2.0
 
+# ===============================
+# Paddle OCR stack
+# ===============================
+paddlepaddle==2.6.2
+paddleocr==2.7.0.3
 
+# ===============================
+# Image processing
+# ===============================
+opencv-python==4.6.0.66
 
-#deactivate # 가상환경 끄기
-#꼭 python 폴더로 이동해서 main.py 있는공간에서 실행
-#pyhton main.py # 서버실행
+# ===============================
+# YOLO (선택적, 실패해도 서비스 동작)
+# ===============================
+ultralytics
+
+# ===============================
+# Web API (FastAPI)
+# ===============================
+fastapi
+uvicorn[standard]
+python-multipart
+
+# ===============================
+# HTTP client (Spring 연동)
+# ===============================
+requests
