@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Talisker 18-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Talisker",
+        "ws_age": 18,
+        "ws_abv": 45.8,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/5/7/772/357318-normal.png",
+        "ws_rating": 87.94,
+        "ws_vote_cnt": 2133,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/57772/talisker-18-year-old",
+        "ws_id": "57772",
+        "collected_count": 52,
+        "flavor_profile": {
+            "fruity": 4.7,
+            "sweet": 5.0,
+            "peaty": 2.4,
+            "spicy": 4.6,
+            "woody": 3.2,
+            "malty": 2.2
+        },
+        "top_keywords": [
+            "smoky",
+            "dry",
+            "mint",
+            "nutmeg",
+            "iodine"
+        ],
+        "ws_name_kr": "탈리스커 18년",
+        "ws_distillery_kr": "탈리스커"
+    }
+}

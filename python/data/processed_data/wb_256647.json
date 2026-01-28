@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Bowmore 21-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Bowmore",
+        "ws_age": 21,
+        "ws_abv": 51.4,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/2/5/6647/469850-normal.png",
+        "ws_rating": 87.46,
+        "ws_vote_cnt": 63,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/256647/bowmore-21-year-old",
+        "ws_id": "256647",
+        "collected_count": 13,
+        "flavor_profile": {
+            "fruity": 4.1,
+            "sweet": 4.7,
+            "peaty": 1.1,
+            "spicy": 3.6,
+            "woody": 3.4,
+            "malty": 1.3
+        },
+        "top_keywords": [
+            "spice",
+            "nutty",
+            "oak",
+            "port",
+            "sweet"
+        ],
+        "ws_name_kr": "보모어 21년",
+        "ws_distillery_kr": "보모어"
+    }
+}

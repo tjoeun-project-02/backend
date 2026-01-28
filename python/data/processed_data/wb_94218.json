@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Bowmore 18-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Bowmore",
+        "ws_age": 18,
+        "ws_abv": 43.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/9/4/218/467182-normal.png",
+        "ws_rating": 86.73,
+        "ws_vote_cnt": 896,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/94218/bowmore-18-year-old",
+        "ws_id": "94218",
+        "collected_count": 48,
+        "flavor_profile": {
+            "fruity": 4.5,
+            "sweet": 5.1,
+            "peaty": 2.0,
+            "spicy": 4.1,
+            "woody": 4.1,
+            "malty": 2.2
+        },
+        "top_keywords": [
+            "pine",
+            "sweet",
+            "malty",
+            "iodine",
+            "maritime"
+        ],
+        "ws_name_kr": "보모어 18년",
+        "ws_distillery_kr": "보모어"
+    }
+}

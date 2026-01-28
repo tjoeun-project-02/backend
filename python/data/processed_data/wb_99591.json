@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Highland Park 18-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Highland Park",
+        "ws_age": 18,
+        "ws_abv": 43.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/9/9/591/217479-normal.png",
+        "ws_rating": 86.19,
+        "ws_vote_cnt": 885,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/99591/highland-park-18-year-old",
+        "ws_id": "99591",
+        "collected_count": 52,
+        "flavor_profile": {
+            "fruity": 4.4,
+            "sweet": 5.0,
+            "peaty": 1.7,
+            "spicy": 3.4,
+            "woody": 3.4,
+            "malty": 1.9
+        },
+        "top_keywords": [
+            "pine",
+            "heather",
+            "apple",
+            "sweet",
+            "butterscotch"
+        ],
+        "ws_name_kr": "하이랜드 파크 18년",
+        "ws_distillery_kr": "하이랜드 파크"
+    }
+}

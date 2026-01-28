@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Maker&#x27;s Mark Red Wax",
+        "ws_category": "Bourbon",
+        "ws_distillery": "Maker's Mark",
+        "ws_age": null,
+        "ws_abv": 45.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/1/5/797/253121-normal.png",
+        "ws_rating": 77.84,
+        "ws_vote_cnt": 934,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/15797/makers-mark-red-wax",
+        "ws_id": "15797",
+        "collected_count": 54,
+        "flavor_profile": {
+            "fruity": 3.1,
+            "sweet": 5.8,
+            "peaty": 0.3,
+            "spicy": 3.4,
+            "woody": 3.4,
+            "malty": 1.6
+        },
+        "top_keywords": [
+            "bourbon",
+            "floral",
+            "sweet",
+            "nutmeg",
+            "apple"
+        ],
+        "ws_name_kr": "메이커스 마크 레드 왁스",
+        "ws_distillery_kr": "메이커스 마크"
+    }
+}

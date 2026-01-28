@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Ardbeg Uigeadail",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Ardbeg",
+        "ws_age": null,
+        "ws_abv": 54.2,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/3/3/1/400901-normal.png",
+        "ws_rating": 88.76,
+        "ws_vote_cnt": 5019,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/331/ardbeg-uigeadail",
+        "ws_id": "331",
+        "collected_count": 51,
+        "flavor_profile": {
+            "fruity": 4.1,
+            "sweet": 4.5,
+            "peaty": 2.7,
+            "spicy": 4.3,
+            "woody": 3.7,
+            "malty": 2.3
+        },
+        "top_keywords": [
+            "sherry",
+            "iodine",
+            "smoke",
+            "mint",
+            "maritime"
+        ],
+        "ws_name_kr": "아드벡 우geadail",
+        "ws_distillery_kr": "아드벡"
+    }
+}

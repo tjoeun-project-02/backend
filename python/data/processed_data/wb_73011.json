@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Yoichi Single Malt",
+        "ws_category": "Japanese",
+        "ws_distillery": "Yoichi",
+        "ws_age": null,
+        "ws_abv": 45.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/7/3/011/251187-normal.png",
+        "ws_rating": 83.9,
+        "ws_vote_cnt": 650,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/73011/yoichi-single-malt",
+        "ws_id": "73011",
+        "collected_count": 58,
+        "flavor_profile": {
+            "fruity": 5.2,
+            "sweet": 5.1,
+            "peaty": 1.6,
+            "spicy": 3.6,
+            "woody": 3.2,
+            "malty": 2.1
+        },
+        "top_keywords": [
+            "cinnamon",
+            "iodine",
+            "plum",
+            "complex",
+            "maritime"
+        ],
+        "ws_name_kr": "요이치 싱글 몰트",
+        "ws_distillery_kr": "요이치"
+    }
+}

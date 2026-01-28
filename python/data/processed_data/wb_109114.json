@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Johnnie Walker Green Label",
+        "ws_category": "Blended",
+        "ws_distillery": "Johnnie Walker",
+        "ws_age": 15,
+        "ws_abv": 43.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/1/0/9114/179859-normal.png",
+        "ws_rating": 83.25,
+        "ws_vote_cnt": 202,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/109114/johnnie-walker-green-label",
+        "ws_id": "109114",
+        "collected_count": 30,
+        "flavor_profile": {
+            "fruity": 4.6,
+            "sweet": 5.0,
+            "peaty": 1.2,
+            "spicy": 3.2,
+            "woody": 3.2,
+            "malty": 2.2
+        },
+        "top_keywords": [
+            "fruit",
+            "smoky",
+            "licorice",
+            "toffee",
+            "sweet"
+        ],
+        "ws_name_kr": "조니 워커 그린 라벨",
+        "ws_distillery_kr": "조니 워커"
+    }
+}

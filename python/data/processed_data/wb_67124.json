@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Knob Creek Small Batch",
+        "ws_category": "Bourbon",
+        "ws_distillery": "Knob Creek",
+        "ws_age": null,
+        "ws_abv": 50.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/6/7/124/120947-normal.png",
+        "ws_rating": 81.56,
+        "ws_vote_cnt": 143,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/67124/knob-creek-small-batch",
+        "ws_id": "67124",
+        "collected_count": 20,
+        "flavor_profile": {
+            "fruity": 3.2,
+            "sweet": 5.9,
+            "peaty": 0.5,
+            "spicy": 4.6,
+            "woody": 4.7,
+            "malty": 1.7
+        },
+        "top_keywords": [
+            "bourbon",
+            "spice",
+            "pine",
+            "sweet",
+            "nutmeg"
+        ],
+        "ws_name_kr": "놉 크릭 스몰 배치",
+        "ws_distillery_kr": "놉 크릭"
+    }
+}

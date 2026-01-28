@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Lagavulin 16-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Lagavulin",
+        "ws_age": 16,
+        "ws_abv": 43.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/5/1/469/171407-normal.png",
+        "ws_rating": 86.92,
+        "ws_vote_cnt": 5599,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/51469/lagavulin-16-year-old",
+        "ws_id": "51469",
+        "collected_count": 52,
+        "flavor_profile": {
+            "fruity": 3.6,
+            "sweet": 4.2,
+            "peaty": 3.0,
+            "spicy": 3.8,
+            "woody": 3.1,
+            "malty": 2.1
+        },
+        "top_keywords": [
+            "peaty",
+            "mint",
+            "maritime",
+            "nutmeg",
+            "iodine"
+        ],
+        "ws_name_kr": "라가불린 16년",
+        "ws_distillery_kr": "라가불린"
+    }
+}

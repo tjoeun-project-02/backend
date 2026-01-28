@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Arran Amarone Cask Finish",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Arran",
+        "ws_age": null,
+        "ws_abv": 50.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/2/1/2436/372421-normal.png",
+        "ws_rating": 83.97,
+        "ws_vote_cnt": 644,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/212436/arran-amarone-cask-finish",
+        "ws_id": "212436",
+        "collected_count": 28,
+        "flavor_profile": {
+            "fruity": 5.1,
+            "sweet": 5.2,
+            "peaty": 0.5,
+            "spicy": 3.3,
+            "woody": 3.4,
+            "malty": 2.2
+        },
+        "top_keywords": [
+            "fruit",
+            "yeast",
+            "bourbon",
+            "malt",
+            "sweet"
+        ],
+        "ws_name_kr": "아란 아마로네 캐스크 피니쉬",
+        "ws_distillery_kr": "아란"
+    }
+}

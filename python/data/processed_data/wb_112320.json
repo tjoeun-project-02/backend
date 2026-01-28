@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Port Charlotte 10-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Port Charlotte",
+        "ws_age": 10,
+        "ws_abv": 50.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/1/1/2320/201819-normal.png",
+        "ws_rating": 86.35,
+        "ws_vote_cnt": 2620,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/112320/port-charlotte-10-year-old",
+        "ws_id": "112320",
+        "collected_count": 51,
+        "flavor_profile": {
+            "fruity": 4.2,
+            "sweet": 4.7,
+            "peaty": 3.2,
+            "spicy": 4.3,
+            "woody": 2.8,
+            "malty": 2.4
+        },
+        "top_keywords": [
+            "peaty",
+            "lemon",
+            "iodine",
+            "cocoa",
+            "sweet"
+        ],
+        "ws_name_kr": "포트 샬롯 10년",
+        "ws_distillery_kr": "포트 샬롯"
+    }
+}

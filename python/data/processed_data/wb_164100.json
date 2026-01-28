@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Yamazaki 12-year-old",
+        "ws_category": "Japanese",
+        "ws_distillery": "Yamazaki",
+        "ws_age": 12,
+        "ws_abv": 43.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/1/6/4100/278213-normal.png",
+        "ws_rating": 85.96,
+        "ws_vote_cnt": 514,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/164100/yamazaki-12-year-old",
+        "ws_id": "164100",
+        "collected_count": 32,
+        "flavor_profile": {
+            "fruity": 5.0,
+            "sweet": 5.5,
+            "peaty": 0.6,
+            "spicy": 3.4,
+            "woody": 3.2,
+            "malty": 2.3
+        },
+        "top_keywords": [
+            "cinnamon",
+            "walnut",
+            "leather",
+            "plum",
+            "sweet"
+        ],
+        "ws_name_kr": "야마자키 12년",
+        "ws_distillery_kr": "야마자키"
+    }
+}

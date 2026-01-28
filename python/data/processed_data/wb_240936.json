@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Bruichladdich Black Art 11.1",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Bruichladdich",
+        "ws_age": 24,
+        "ws_abv": 44.2,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/2/4/0936/437846-normal.png",
+        "ws_rating": 88.56,
+        "ws_vote_cnt": 202,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/240936/bruichladdich-black-art-111",
+        "ws_id": "240936",
+        "collected_count": 23,
+        "flavor_profile": {
+            "fruity": 4.2,
+            "sweet": 4.2,
+            "peaty": 0.4,
+            "spicy": 2.9,
+            "woody": 2.8,
+            "malty": 1.3
+        },
+        "top_keywords": [
+            "fruit",
+            "toffee",
+            "bourbon",
+            "malt",
+            "sweet"
+        ],
+        "ws_name_kr": "브룩라디 블랙 아트 11.1",
+        "ws_distillery_kr": "브룩라디"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Booker&#x27;s 07 + 1 month + 12 days",
+        "ws_category": "Bourbon",
+        "ws_distillery": "Booker's",
+        "ws_age": 7,
+        "ws_abv": 62.2,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/2/5/6090/494845-normal.png",
+        "ws_rating": 87.37,
+        "ws_vote_cnt": 31,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/256090/bookers-07-1-month-12-days",
+        "ws_id": "256090",
+        "collected_count": 9,
+        "flavor_profile": {
+            "fruity": 4.4,
+            "sweet": 6.6,
+            "peaty": 0.9,
+            "spicy": 4.9,
+            "woody": 4.6,
+            "malty": 2.4
+        },
+        "top_keywords": [
+            "bourbon",
+            "spice",
+            "cask",
+            "pear",
+            "sweet"
+        ],
+        "ws_name_kr": "부커스 07 + 1개월 + 12일",
+        "ws_distillery_kr": "부커스"
+    }
+}

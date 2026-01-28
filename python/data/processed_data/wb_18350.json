@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Wild Turkey 08-year-old",
+        "ws_category": "Bourbon",
+        "ws_distillery": "Wild Turkey",
+        "ws_age": 8,
+        "ws_abv": 50.5,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/1/8/350/67552-normal.png",
+        "ws_rating": 82.54,
+        "ws_vote_cnt": 90,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/18350/wild-turkey-08-year-old",
+        "ws_id": "18350",
+        "collected_count": 21,
+        "flavor_profile": {
+            "fruity": 3.7,
+            "sweet": 6.3,
+            "peaty": 0.6,
+            "spicy": 4.5,
+            "woody": 4.7,
+            "malty": 2.2
+        },
+        "top_keywords": [
+            "bourbon",
+            "sawdust",
+            "floral",
+            "custard",
+            "sweet"
+        ],
+        "ws_name_kr": "와일드 터키 8년",
+        "ws_distillery_kr": "와일드 터키"
+    }
+}

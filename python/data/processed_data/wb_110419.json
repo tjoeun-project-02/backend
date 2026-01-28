@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Bunnahabhain 18-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Bunnahabhain",
+        "ws_age": 18,
+        "ws_abv": 46.3,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/1/1/0419/239244-normal.png",
+        "ws_rating": 87.98,
+        "ws_vote_cnt": 936,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/110419/bunnahabhain-18-year-old",
+        "ws_id": "110419",
+        "collected_count": 57,
+        "flavor_profile": {
+            "fruity": 5.0,
+            "sweet": 5.4,
+            "peaty": 1.0,
+            "spicy": 4.3,
+            "woody": 4.0,
+            "malty": 2.0
+        },
+        "top_keywords": [
+            "sugar",
+            "sweet",
+            "iodine",
+            "oak",
+            "maritime"
+        ],
+        "ws_name_kr": "부나하벤 18년",
+        "ws_distillery_kr": "부나하벤"
+    }
+}

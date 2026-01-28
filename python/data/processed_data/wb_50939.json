@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Johnnie Walker Black Label",
+        "ws_category": "Blended",
+        "ws_distillery": "Johnnie Walker",
+        "ws_age": 12,
+        "ws_abv": 40.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/5/0/939/273605-normal.png",
+        "ws_rating": 75.87,
+        "ws_vote_cnt": 947,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/50939/johnnie-walker-black-label",
+        "ws_id": "50939",
+        "collected_count": 51,
+        "flavor_profile": {
+            "fruity": 3.6,
+            "sweet": 4.8,
+            "peaty": 1.3,
+            "spicy": 3.2,
+            "woody": 2.3,
+            "malty": 1.9
+        },
+        "top_keywords": [
+            "smoky",
+            "toffee",
+            "cocoa",
+            "nutmeg",
+            "iodine"
+        ],
+        "ws_name_kr": "조니 워커 블랙 라벨",
+        "ws_distillery_kr": "조니 워커"
+    }
+}

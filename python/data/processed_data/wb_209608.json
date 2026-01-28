@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Arran Sherry Cask",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Arran",
+        "ws_age": null,
+        "ws_abv": 55.8,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/2/0/9608/368892-normal.png",
+        "ws_rating": 85.16,
+        "ws_vote_cnt": 1553,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/209608/arran-sherry-cask",
+        "ws_id": "209608",
+        "collected_count": 37,
+        "flavor_profile": {
+            "fruity": 4.9,
+            "sweet": 5.1,
+            "peaty": 0.4,
+            "spicy": 4.0,
+            "woody": 3.4,
+            "malty": 1.3
+        },
+        "top_keywords": [
+            "bourbon",
+            "spice",
+            "tropical",
+            "nutty",
+            "apple"
+        ],
+        "ws_name_kr": "아란 셰리 캐스크",
+        "ws_distillery_kr": "아란"
+    }
+}

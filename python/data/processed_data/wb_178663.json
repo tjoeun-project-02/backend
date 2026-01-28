@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Laphroaig 10-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Laphroaig",
+        "ws_age": 10,
+        "ws_abv": 48.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/1/7/8663/309078-normal.png",
+        "ws_rating": 86.48,
+        "ws_vote_cnt": 1337,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/178663/laphroaig-10-year-old",
+        "ws_id": "178663",
+        "collected_count": 54,
+        "flavor_profile": {
+            "fruity": 4.9,
+            "sweet": 5.0,
+            "peaty": 2.4,
+            "spicy": 5.1,
+            "woody": 4.4,
+            "malty": 2.1
+        },
+        "top_keywords": [
+            "smoky",
+            "toffee",
+            "clove",
+            "iodine",
+            "date"
+        ],
+        "ws_name_kr": "라프로익 10년",
+        "ws_distillery_kr": "라프로익"
+    }
+}

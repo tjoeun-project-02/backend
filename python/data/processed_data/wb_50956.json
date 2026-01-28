@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Johnnie Walker Gold Label - Reserve",
+        "ws_category": "Blended",
+        "ws_distillery": "Johnnie Walker",
+        "ws_age": null,
+        "ws_abv": 40.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/5/0/956/81373-normal.png",
+        "ws_rating": 78.2,
+        "ws_vote_cnt": 342,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/50956/johnnie-walker-gold-label-reserve",
+        "ws_id": "50956",
+        "collected_count": 55,
+        "flavor_profile": {
+            "fruity": 3.1,
+            "sweet": 4.8,
+            "peaty": 0.7,
+            "spicy": 2.5,
+            "woody": 2.5,
+            "malty": 1.6
+        },
+        "top_keywords": [
+            "cinnamon",
+            "plum",
+            "sweet",
+            "dry",
+            "iodine"
+        ],
+        "ws_name_kr": "조니 워커 골드 라벨 - 리저브",
+        "ws_distillery_kr": "조니 워커"
+    }
+}

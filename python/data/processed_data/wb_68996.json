@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Talisker 25-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Talisker",
+        "ws_age": 25,
+        "ws_abv": 45.8,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/6/8/996/84380-normal.png",
+        "ws_rating": 88.69,
+        "ws_vote_cnt": 1221,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/68996/talisker-25-year-old",
+        "ws_id": "68996",
+        "collected_count": 9,
+        "flavor_profile": {
+            "fruity": 3.3,
+            "sweet": 4.1,
+            "peaty": 2.3,
+            "spicy": 3.9,
+            "woody": 2.3,
+            "malty": 1.6
+        },
+        "top_keywords": [
+            "smoky",
+            "seaweed",
+            "malt",
+            "dry",
+            "sweet"
+        ],
+        "ws_name_kr": "탈리스커 25년",
+        "ws_distillery_kr": "탈리스커"
+    }
+}

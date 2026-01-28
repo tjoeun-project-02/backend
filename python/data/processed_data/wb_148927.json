@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Royal Salute 21-year-old",
+        "ws_category": "Blended",
+        "ws_distillery": "Royal Salute",
+        "ws_age": 21,
+        "ws_abv": 40.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/1/4/8927/251988-normal.png",
+        "ws_rating": 84.88,
+        "ws_vote_cnt": 130,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/148927/royal-salute-21-year-old",
+        "ws_id": "148927",
+        "collected_count": 9,
+        "flavor_profile": {
+            "fruity": 4.3,
+            "sweet": 5.1,
+            "peaty": 0.3,
+            "spicy": 2.6,
+            "woody": 3.0,
+            "malty": 2.1
+        },
+        "top_keywords": [
+            "cinnamon",
+            "smoky",
+            "smooth",
+            "oak",
+            "nutty"
+        ],
+        "ws_name_kr": "로얄 살루트 21년",
+        "ws_distillery_kr": "로얄 살루트"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Arran 18-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Arran",
+        "ws_age": 18,
+        "ws_abv": 46.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/1/4/3180/241151-normal.png",
+        "ws_rating": 87.69,
+        "ws_vote_cnt": 1229,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/143180/arran-18-year-old",
+        "ws_id": "143180",
+        "collected_count": 50,
+        "flavor_profile": {
+            "fruity": 5.9,
+            "sweet": 6.2,
+            "peaty": 0.4,
+            "spicy": 4.5,
+            "woody": 4.5,
+            "malty": 1.8
+        },
+        "top_keywords": [
+            "bourbon",
+            "anise",
+            "sweet",
+            "butterscotch",
+            "fig"
+        ],
+        "ws_name_kr": "아란 18년",
+        "ws_distillery_kr": "아란"
+    }
+}

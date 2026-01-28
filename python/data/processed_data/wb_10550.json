@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Ardbeg Corryvreckan",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Ardbeg",
+        "ws_age": null,
+        "ws_abv": 57.1,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/1/0/550/401534-normal.png",
+        "ws_rating": 88.07,
+        "ws_vote_cnt": 2897,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/10550/ardbeg-corryvreckan",
+        "ws_id": "10550",
+        "collected_count": 52,
+        "flavor_profile": {
+            "fruity": 3.6,
+            "sweet": 4.2,
+            "peaty": 2.7,
+            "spicy": 4.1,
+            "woody": 3.3,
+            "malty": 2.3
+        },
+        "top_keywords": [
+            "peat",
+            "cask",
+            "mint",
+            "fruity",
+            "iodine"
+        ],
+        "ws_name_kr": "아드벡 코리브레칸",
+        "ws_distillery_kr": "아드벡"
+    }
+}

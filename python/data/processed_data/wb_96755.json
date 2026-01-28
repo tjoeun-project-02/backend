@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Highland Park 12-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Highland Park",
+        "ws_age": 12,
+        "ws_abv": 40.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/9/6/755/193977-normal.png",
+        "ws_rating": 81.42,
+        "ws_vote_cnt": 1603,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/96755/highland-park-12-year-old",
+        "ws_id": "96755",
+        "collected_count": 50,
+        "flavor_profile": {
+            "fruity": 3.8,
+            "sweet": 4.6,
+            "peaty": 1.7,
+            "spicy": 3.6,
+            "woody": 2.6,
+            "malty": 1.8
+        },
+        "top_keywords": [
+            "wine",
+            "cinnamon",
+            "sweet",
+            "nutmeg",
+            "heather"
+        ],
+        "ws_name_kr": "하이랜드 파크 12년",
+        "ws_distillery_kr": "하이랜드 파크"
+    }
+}

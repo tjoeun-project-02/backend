@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Johnnie Walker Blue Label",
+        "ws_category": "Blended",
+        "ws_distillery": "Johnnie Walker",
+        "ws_age": null,
+        "ws_abv": 40.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/5/1/152/81379-normal.png",
+        "ws_rating": 83.6,
+        "ws_vote_cnt": 660,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/51152/johnnie-walker-blue-label",
+        "ws_id": "51152",
+        "collected_count": 54,
+        "flavor_profile": {
+            "fruity": 4.1,
+            "sweet": 5.2,
+            "peaty": 1.3,
+            "spicy": 4.0,
+            "woody": 3.5,
+            "malty": 2.2
+        },
+        "top_keywords": [
+            "citrus",
+            "peat",
+            "balanced",
+            "malty",
+            "sweet"
+        ],
+        "ws_name_kr": "조니 워커 블루 라벨",
+        "ws_distillery_kr": "조니 워커"
+    }
+}

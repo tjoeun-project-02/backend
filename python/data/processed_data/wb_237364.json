@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Octomore 15.3 &#x2F; 307.2 PPM",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Octomore",
+        "ws_age": 5,
+        "ws_abv": 61.3,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/2/3/7364/468720-normal.png",
+        "ws_rating": 88.91,
+        "ws_vote_cnt": 474,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/237364/octomore-153-3072-ppm",
+        "ws_id": "237364",
+        "collected_count": 50,
+        "flavor_profile": {
+            "fruity": 3.7,
+            "sweet": 4.4,
+            "peaty": 1.7,
+            "spicy": 3.4,
+            "woody": 2.8,
+            "malty": 1.9
+        },
+        "top_keywords": [
+            "peaty",
+            "cocoa",
+            "sweet",
+            "maritime",
+            "iodine"
+        ],
+        "ws_name_kr": "옥토모어 15.3 / 307.2 PPM",
+        "ws_distillery_kr": "옥토모어"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Chivas Regal 18-year-old",
+        "ws_category": "Blended",
+        "ws_distillery": "Chivas Regal",
+        "ws_age": 18,
+        "ws_abv": 40.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/6/6/347/189520-normal.png",
+        "ws_rating": 78.81,
+        "ws_vote_cnt": 282,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/66347/chivas-regal-18-year-old",
+        "ws_id": "66347",
+        "collected_count": 39,
+        "flavor_profile": {
+            "fruity": 4.3,
+            "sweet": 5.5,
+            "peaty": 0.5,
+            "spicy": 3.5,
+            "woody": 2.8,
+            "malty": 1.8
+        },
+        "top_keywords": [
+            "rum",
+            "floral",
+            "oak",
+            "butterscotch",
+            "sweet"
+        ],
+        "ws_name_kr": "시바스 리갈 18년",
+        "ws_distillery_kr": "시바스 리갈"
+    }
+}

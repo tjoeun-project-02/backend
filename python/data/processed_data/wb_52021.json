@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Ballantine&#x27;s 21-year-old",
+        "ws_category": "Blended",
+        "ws_distillery": "Ballantine's",
+        "ws_age": 21,
+        "ws_abv": 43.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/5/2/021/82471-normal.png",
+        "ws_rating": 83.45,
+        "ws_vote_cnt": 71,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/52021/ballantines-21-year-old",
+        "ws_id": "52021",
+        "collected_count": 14,
+        "flavor_profile": {
+            "fruity": 4.2,
+            "sweet": 5.2,
+            "peaty": 0.5,
+            "spicy": 3.1,
+            "woody": 3.0,
+            "malty": 1.7
+        },
+        "top_keywords": [
+            "citrus",
+            "toffee",
+            "licorice",
+            "malt",
+            "earthy"
+        ],
+        "ws_name_kr": "발렌타인스 21년",
+        "ws_distillery_kr": "발렌타인스"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Bowmore 12-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Bowmore",
+        "ws_age": 12,
+        "ws_abv": 40.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/3/5/533/75404-normal.png",
+        "ws_rating": 80.2,
+        "ws_vote_cnt": 1298,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/35533/bowmore-12-year-old",
+        "ws_id": "35533",
+        "collected_count": 57,
+        "flavor_profile": {
+            "fruity": 4.1,
+            "sweet": 4.3,
+            "peaty": 2.9,
+            "spicy": 3.6,
+            "woody": 3.2,
+            "malty": 1.9
+        },
+        "top_keywords": [
+            "peaty",
+            "cocoa",
+            "iodine",
+            "maritime",
+            "nutmeg"
+        ],
+        "ws_name_kr": "보모어 12년",
+        "ws_distillery_kr": "보모어"
+    }
+}

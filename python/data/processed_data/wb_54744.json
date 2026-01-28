@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Chivas Regal 12-year-old",
+        "ws_category": "Blended",
+        "ws_distillery": "Chivas Regal",
+        "ws_age": 12,
+        "ws_abv": 40.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/5/4/744/90821-normal.png",
+        "ws_rating": 73.14,
+        "ws_vote_cnt": 605,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/54744/chivas-regal-12-year-old",
+        "ws_id": "54744",
+        "collected_count": 52,
+        "flavor_profile": {
+            "fruity": 3.5,
+            "sweet": 5.1,
+            "peaty": 0.2,
+            "spicy": 2.2,
+            "woody": 2.4,
+            "malty": 2.1
+        },
+        "top_keywords": [
+            "spice",
+            "sugar",
+            "malt",
+            "walnut",
+            "sweet"
+        ],
+        "ws_name_kr": "시바스 리갈 12년",
+        "ws_distillery_kr": "시바스 리갈"
+    }
+}

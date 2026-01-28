@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Wild Turkey 101",
+        "ws_category": "Bourbon",
+        "ws_distillery": "Wild Turkey",
+        "ws_age": null,
+        "ws_abv": 50.5,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/2/0/3226/362694-normal.png",
+        "ws_rating": 82.69,
+        "ws_vote_cnt": 143,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/203226/wild-turkey-101",
+        "ws_id": "203226",
+        "collected_count": 19,
+        "flavor_profile": {
+            "fruity": 3.1,
+            "sweet": 6.4,
+            "peaty": -0.0,
+            "spicy": 3.2,
+            "woody": 2.8,
+            "malty": 1.7
+        },
+        "top_keywords": [
+            "vanilla",
+            "charcoal",
+            "lemon",
+            "butterscotch",
+            "nutty"
+        ],
+        "ws_name_kr": "와일드 터키 101",
+        "ws_distillery_kr": "와일드 터키"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "info": {
+        "ws_name": "Lagavulin 08-year-old",
+        "ws_category": "Single Malt",
+        "ws_distillery": "Lagavulin",
+        "ws_age": 8,
+        "ws_abv": 48.0,
+        "ws_image": "https://static.whiskybase.com/storage/whiskies/7/8/627/352625-normal.png",
+        "ws_rating": 85.58,
+        "ws_vote_cnt": 1784,
+        "original_url": "https://www.whiskybase.com/whiskies/whisky/78627/lagavulin-08-year-old",
+        "ws_id": "78627",
+        "collected_count": 51,
+        "flavor_profile": {
+            "fruity": 4.3,
+            "sweet": 4.5,
+            "peaty": 3.1,
+            "spicy": 4.0,
+            "woody": 3.2,
+            "malty": 2.4
+        },
+        "top_keywords": [
+            "smoky",
+            "mint",
+            "yeast",
+            "pear",
+            "iodine"
+        ],
+        "ws_name_kr": "라가불린 8년",
+        "ws_distillery_kr": "라가불린"
+    }
+}
